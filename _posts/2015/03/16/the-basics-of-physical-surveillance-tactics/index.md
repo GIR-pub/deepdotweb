@@ -1,12 +1,13 @@
 ---
-The Basics of Physical Surveillance Tactics"
+title: "The Basics of Physical Surveillance Tactics"
 ---
-<article class="post-listing post-8621 post type-post status-publish format-standard has-post-thumbnail hentry  tag-basics tag-physical tag-surveillance tag-tactics">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+
+8621  tag-basics tag-physical tag-surveillance tag-tactics
+Posted by: Allen Hoffmann, JD
+
 <span>March 16, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/16/the-basics-of-physical-surveillance-tactics/#respond">Leave a comment</a></span>
+<span><a href="/2015/03/16/the-basics-of-physical-surveillance-tactics/#respond">Leave a comment</a></span>
 
 
 <p>As discussed previously, much of the technological advancement in the LE world has helped to intensify bang for the buck in terms of resources. It used to be that observation and audio surveillance literally had to be conducted in person – cops would get access, for example, to an apartment across the wall, crack the door, and monitor comings and goings whilst trying to grab snippets of the dialogue going on. None of this was court admissible, naturally, it was intended to try to give the cops the upper hand through what is, in hindsight, a very crude and inefficient form of intelligence gathering. But technology is an amazing thing.</p>
@@ -18,5 +19,6 @@ The Basics of Physical Surveillance Tactics"
 <p>You mess with this for a few hours a day and take them on a scenic tour of places where people often conceal things, such as cemeteries, large sporting fields or lightly wooded land next to park areas, without any apparent purpose (take a book with you, perhaps, and just have a seat and relax), and the people who are often around you for not obvious reason are going to become apparent.</p>
 <p>I can go on for hours on this topic, but the key things to remember are, vary your movements, don’t carry your phone and don’t use your car, and alter your time of day of movement if at all possible – teams may be working in shifts, and it may be the case that if you usually move during the day, a crew is not allocated at night, and viceversa. Draining your opponent’s stamina and resources can be as fun for you as it is annoying for them.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/basics/" rel="tag">basics</a> <a href="https://www.deepdotweb.com/tag/physical/" rel="tag">physical</a> <a href="https://www.deepdotweb.com/tag/surveillance/" rel="tag">surveillance</a> <a href="https://www.deepdotweb.com/tag/tactics/" rel="tag">tactics</a></span> <span style="display:none" class="updated">2015-03-16<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+<a href="/tag/basics/" rel="tag">basics</a> <a href="/tag/physical/" rel="tag">physical</a> <a href="/tag/surveillance/" rel="tag">surveillance</a> <a href="/tag/tactics/" rel="tag">tactics</a></span> 
+Updated: 2015-03-16
 

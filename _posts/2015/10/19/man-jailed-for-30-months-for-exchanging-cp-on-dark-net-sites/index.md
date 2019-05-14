@@ -1,12 +1,14 @@
 ---
-Man Jailed For 30 Months For Exchanging CP On Dark Net Sites"
+title: "Man Jailed For 30 Months For Exchanging CP On Dark Net Sites"
 ---
-<article class="post-listing post-11814 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1778 tag-child tag-dark tag-exchanging tag-exminster tag-jailed tag-man tag-months tag-net tag-porn tag-sites">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11814  tag-1778 tag-child tag-dark tag-exchanging tag-exminster tag-jailed tag-man tag-months tag-net tag-porn tag-sites
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>October 19, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/19/man-jailed-for-30-months-for-exchanging-cp-on-dark-net-sites/#comments">15 Comments</a></span>
+
+
+<span><a href="/2015/10/19/man-jailed-for-30-months-for-exchanging-cp-on-dark-net-sites/#comments">15 Comments</a></span>
 
 
 <p><a href="http://www.middevongazette.co.uk/Dark-web-user-jailed-luring-girls-online/story-27998173-detail/story.html">Joel Morter (25) has been jailed for using dark web CP (child porn) websites for exchanging under-aged sex media and for making under-aged girls strip off naked in front of a webcam.</a></p>
@@ -23,5 +25,6 @@ Man Jailed For 30 Months For Exchanging CP On Dark Net Sites"
 <p>Philip Brunt from defending stated Morter had suffered sexual abuse in the past, which caused him depression and led him to drink and engage in disinhibited behavior with children.</p>
 <p>He is now tackling his problems and is working with the Lucy Faithfull Foundation, which helps users of internet pornography change their behavior.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/child/" rel="tag">child</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/exchanging/" rel="tag">exchanging</a> <a href="https://www.deepdotweb.com/tag/exminster/" rel="tag">exminster</a> <a href="https://www.deepdotweb.com/tag/jailed/" rel="tag">jailed</a> <a href="https://www.deepdotweb.com/tag/man/" rel="tag">man</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/porn/" rel="tag">porn</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-10-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="/tag/30/" rel="tag">30</a> <a href="/tag/child/" rel="tag">child</a>  <a href="/tag/exchanging/" rel="tag">exchanging</a> <a href="/tag/exminster/" rel="tag">exminster</a> <a href="/tag/jailed/" rel="tag">jailed</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/months/" rel="tag">months</a> <a href="/tag/net/" rel="tag">net</a> <a href="/tag/porn/" rel="tag">porn</a> <a href="/tag/sites/" rel="tag">sites</a></span> 
+Updated: 2015-10-19<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

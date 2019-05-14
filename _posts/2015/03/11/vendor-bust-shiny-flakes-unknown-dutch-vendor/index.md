@@ -1,12 +1,14 @@
 ---
-Vendor Bust: Shiny Flakes With 320kg Of Drugs"
+title: "Vendor Bust: Shiny Flakes With 320kg Of Drugs"
 ---
-<article class="post-listing post-9406 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bust tag-dutch tag-flakes tag-shiny tag-unknown tag-vendor">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9406  tag-bust tag-dutch tag-flakes tag-shiny tag-unknown tag-vendor
+Posted by: DeepDotWeb 
+
 <span>March 11, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/#comments">5 Comments</a></span>
+
+
+<span><a href="/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/#comments">5 Comments</a></span>
 
 
 <p class="post-box-title"><span style="text-decoration: underline;"><strong>Update 12.3.15</strong></span>: <a title="Permalink to Shiny Flakes Bust:  38 Houses Raided" href="http://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/" rel="bookmark">Shiny Flakes Bust: 38 Houses Raided</a></p>
@@ -19,4 +21,5 @@ Vendor Bust: Shiny Flakes With 320kg Of Drugs"
 <p>The former site:</p>
 <p><a href="/imgs/2015/03/shiny.jpg"><img class="aligncenter size-full wp-image-9416" src="/imgs/2015/03/shiny.jpg" alt="shiny" width="620" height="412" srcset="/imgs/2015/03/shiny.jpg 620w, /imgs/2015/03/shiny-300x199.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/dutch/" rel="tag">dutch</a> <a href="https://www.deepdotweb.com/tag/flakes/" rel="tag">flakes</a> <a href="https://www.deepdotweb.com/tag/shiny/" rel="tag">shiny</a> <a href="https://www.deepdotweb.com/tag/unknown/" rel="tag">unknown</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-03-11
+ <a href="/tag/dutch/" rel="tag">dutch</a> <a href="/tag/flakes/" rel="tag">flakes</a> <a href="/tag/shiny/" rel="tag">shiny</a> <a href="/tag/unknown/" rel="tag">unknown</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+Updated: 2015-03-11

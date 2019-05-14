@@ -1,12 +1,14 @@
 ---
-2 Federal Agents Arrested For Stealing BTC While Investigating Silk Road"
+title: "2 Federal Agents Arrested For Stealing BTC While Investigating Silk Road"
 ---
-<article class="post-listing post-9783 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agents tag-federal tag-investigating tag-stealing">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9783  tag-agents tag-federal tag-investigating tag-stealing
+Posted by: DeepDotWeb 
+
 <span>March 30, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/30/2-federal-agents-arrested-for-stealing-btc-while-investigating-silk-road/#comments">6 Comments</a></span>
+
+
+<span><a href="/2015/03/30/2-federal-agents-arrested-for-stealing-btc-while-investigating-silk-road/#comments">6 Comments</a></span>
 
 
 <p><strong>Karma is a bitch</strong>. From <a href="http://www.justice.gov/opa/pr/former-federal-agents-charged-bitcoin-money-laundering-and-wire-fraudhttp://" target="_blank">Justice.gov press release</a>:</p>
@@ -24,4 +26,5 @@
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/260401879/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_54847" frameborder="0"></iframe></p>
 <p>Source: http://www.justice.gov/opa/pr/former-federal-agents-charged-bitcoin-money-laundering-and-wire-fraud</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agents/" rel="tag">agents</a> <a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/btc/" rel="tag">btc</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a> <a href="https://www.deepdotweb.com/tag/investigating/" rel="tag">investigating</a>  <a href="https://www.deepdotweb.com/tag/stealing/" rel="tag">stealing</a></span> <span style="display:none" class="updated">2015-03-30
+<a href="/tag/agents/" rel="tag">agents</a> <a href="/tag/arrested/" rel="tag">arrested</a> <a href="/tag/btc/" rel="tag">btc</a> <a href="/tag/federal/" rel="tag">federal</a> <a href="/tag/investigating/" rel="tag">investigating</a>  <a href="/tag/stealing/" rel="tag">stealing</a></span> 
+Updated: 2015-03-30

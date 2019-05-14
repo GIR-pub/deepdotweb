@@ -1,12 +1,13 @@
 ---
-Evolution Market Background: Carding Forums, Ponzi Schemes &#038; Le"
+title: "Evolution Market Background: Carding Forums, Ponzi Schemes &#038; Le"
 ---
-<article class="post-listing post-9540 post type-post status-publish format-standard has-post-thumbnail hentry tag-evoscam">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9540 tag-evoscam
+Posted by: DeepDotWeb 
+
 <span>March 18, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/18/evolution-market-background-carding-forums-ponzi-schemes-le/#comments">8 Comments</a></span>
+<span>in <a href="/category/articles/" rel="category tag">Articles</a></span>
+<span><a href="/2015/03/18/evolution-market-background-carding-forums-ponzi-schemes-le/#comments">8 Comments</a></span>
 
 
 <div class="usertext-body may-blank-within md-container">
@@ -122,4 +123,5 @@ Evolution Market Background: Carding Forums, Ponzi Schemes &#038; Le"
 </div>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-18
+<a href="/tag/evoscam/" rel="tag">Evoscam</a></span> 
+Updated: 2015-03-18

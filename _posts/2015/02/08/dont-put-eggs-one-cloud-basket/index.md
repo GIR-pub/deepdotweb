@@ -1,12 +1,10 @@
 ---
-Don’t Put All Your Eggs In One Cloud Basket
+title: "Don’t Put All Your Eggs In One Cloud Basket"
 ---
-<article class="post-listing post-8992 post type-post status-publish format-standard has-post-thumbnail hentry tag-basket tag-cloud tag-eggs tag-put">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+Posted by: DeepDotWeb 
+
 <span>February 8, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/articles/" rel="category tag">Articles</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/08/dont-put-eggs-one-cloud-basket/#comments">1 Comment</a></span>
 
 
 <p>In 2013, the worldwide public cloud service market hit about $131 billion and is expected to grow by 62% to more than $160 billion by 2015, according to Gartner. Of those companies already using the cloud, between 80 and 87 percent are working in a multi-cloud environment. Private cloud-only deployments will soon be passé as the inevitable hybrid and/or multi-cloud strategies take root.</p>
@@ -28,5 +26,5 @@ Don’t Put All Your Eggs In One Cloud Basket
 <p>Considerations must be taken into account such as the overhead in adjusting your system to more than one cloud provider and the actual set-up of interconnecting multiple cloud providers to optimize deployment configurations.</p>
 <p>Cloud-based security demands ongoing rigor and is never going to be a walk in the park. Yet, businesses cannot be paralyzed by the fear of the unknown. Fortunately a new wave of security vendors is surfacing with different methods to geo-fence data in multi-cloud provider environments addressing security needs ranging from simple to very complex. Leveraging the cloud is inevitable for the majority of businesses. By following sound best practices in security protection both on premise and in the cloud, companies can forge ahead with business as usual.</p>
 <p><em>Article was contributed by <a href="http://fortycloud.com">FortyCloud</a>&#8211; <span class="st"><span dir="ltr">Security as a Service. secures your AWS/Rackspace/Google public clouds by managing security end to end: firewall, VPN, servers and networking.</span></span></em></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/basket/" rel="tag">basket</a> <a href="https://www.deepdotweb.com/tag/cloud/" rel="tag">cloud</a> <a href="https://www.deepdotweb.com/tag/eggs/" rel="tag">eggs</a> <a href="https://www.deepdotweb.com/tag/put/" rel="tag">put</a></span> <span style="display:none" class="updated">2015-02-08
+
+Updated: 2015-02-08

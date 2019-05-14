@@ -1,9 +1,10 @@
 ---
-PSA: The DNMAvengers Harm Reduction and Drug Testing Forum"
+title: "PSA: The DNMAvengers Harm Reduction and Drug Testing Forum"
 ---
-<article class="post-listing post-12304 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dnmavengers tag-forum tag-harm tag-psa tag-reduction tag-testing">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12304  tag-dnmavengers tag-forum tag-harm tag-psa tag-reduction tag-testing
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>November 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/21/psa-the-dnmavengers-harm-reduction-and-drug-testing-forum/#comments">3 Comments</a></span>
@@ -16,4 +17,5 @@ PSA: The DNMAvengers Harm Reduction and Drug Testing Forum"
 <p>The DNMAvengers forum is available at this url: <strong>http://avengerfxkkmt2a6.onion/</strong></p>
 <p>If you would like to help us out, we have a BTC community wallet for donations: 12wWGGS74QpKdigWY4GWVxPivJ8pKN<wbr/>EgU2</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dnmavengers/" rel="tag">dnmavengers</a>  <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/harm/" rel="tag">harm</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/reduction/" rel="tag">reduction</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2015-11-21
+<a href="https://www.deepdotweb.com/tag/dnmavengers/" rel="tag">dnmavengers</a>  <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/harm/" rel="tag">harm</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/reduction/" rel="tag">reduction</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> 
+Updated: 2015-11-21

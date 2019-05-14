@@ -1,12 +1,13 @@
 ---
-Cryptanalytic Breakthrough: What Are Diffie-Hellman and the Logjam Attack?"
+title: "Cryptanalytic Breakthrough: What Are Diffie-Hellman and the Logjam Attack?"
 ---
-<article class="post-listing post-10616 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attack tag-breakthrough tag-cryptanalytic tag-diffiehellman tag-logjam">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/politech/" title="">Politech </a></span>
+
+10616  tag-attack tag-breakthrough tag-cryptanalytic tag-diffiehellman tag-logjam
+Posted by: <a href="/author/politech/" title="">Politech 
+
 <span>August 20, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/08/20/cryptanalytic-breakthrough-what-are-diffie-hellman-and-the-logjam-attack/#comments">3 Comments</a></span>
+<span><a href="/2015/08/20/cryptanalytic-breakthrough-what-are-diffie-hellman-and-the-logjam-attack/#comments">3 Comments</a></span>
 
 
 <p><strong>Public key cryptography: What is Diffie-Hellman?</strong></p>
@@ -24,5 +25,6 @@ Cryptanalytic Breakthrough: What Are Diffie-Hellman and the Logjam Attack?"
 <p>Therefore, server administrators are advised to make sure export grade cipher suits are disabled and that, at an absolute minimum, Diffie-Hellman keys are set to 1024-bits, though 2048- or 4096-bit keys are preferable by far. The thirteen authors also recommend admins generate their own parameters to frustrate attackers who have precomputed the outcomes of commonly used primes. More information about securely configuring a Diffie-Hellman server can be found <a href="https://weakdh.org/sysadmin.html">here</a>.</p>
 <p>An alternative is to use Elliptic Curve Diffie-Hellman (ECDH). In elliptic curve cryptography, smaller keys can offer a high standard of security, with a 256-bit ECDH key being roughly equivalent to a 3072-bit RSA key. This also mitigates the Logjam attack by making precomputation infeasible. However, some cryptologists like Bruce Schneier <a href="https://www.schneier.com/blog/archives/2013/09/the_nsa_is_brea.html#c1675929">fear</a> that elliptic curves recommended by NIST may be backdoored by the NSA and therefore favour standard Diffie-Hellman keys of a larger size. Modern web browsers have also taken steps to mitigate the attack from the client side, so make sure to visit <a href="https://weakdh.org/">https://weakdh.org</a> to see if you&#8217;re safe. If you&#8217;d like to read more about Logjam without the heavy mathematics of the source paper, co-author Matthew Green has posted such a write up <a href="http://blog.cryptographyengineering.com/2015/05/attack-of-week-logjam.html">here</a>.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/breakthrough/" rel="tag">breakthrough</a> <a href="https://www.deepdotweb.com/tag/cryptanalytic/" rel="tag">cryptanalytic</a> <a href="https://www.deepdotweb.com/tag/diffiehellman/" rel="tag">diffiehellman</a> <a href="https://www.deepdotweb.com/tag/logjam/" rel="tag">logjam</a></span> <span style="display:none" class="updated">2015-08-20<a href="https://www.deepdotweb.com/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
+<a href="/tag/attack/" rel="tag">attack</a> <a href="/tag/breakthrough/" rel="tag">breakthrough</a> <a href="/tag/cryptanalytic/" rel="tag">cryptanalytic</a> <a href="/tag/diffiehellman/" rel="tag">diffiehellman</a> <a href="/tag/logjam/" rel="tag">logjam</a></span> 
+Updated: 2015-08-20<a href="/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
 

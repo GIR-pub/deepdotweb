@@ -1,12 +1,13 @@
 ---
-Bitcoin Price Analysis 10th September"
+title: "Bitcoin Price Analysis 10th September"
 ---
-<article class="post-listing post-11491 post type-post status-publish format-standard has-post-thumbnail hentry  tag-9th tag-analysis tag-bitcoin tag-price tag-september">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11491  tag-9th tag-analysis tag-price tag-september
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>September 10, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/10/bitcoin-price-analysis-10th-september/#respond">Leave a comment</a></span>
+<span>in 
+<span><a href="/2015/09/10/bitcoin-price-analysis-10th-september/#respond">Leave a comment</a></span>
 
 
 <p><strong>THIS WEEK ON BITCOIN</strong></p>
@@ -40,5 +41,6 @@ Bitcoin Price Analysis 10th September"
 <p><a href="/imgs/2015/09/7.jpg"><img class="aligncenter size-full wp-image-11498" src="/imgs/2015/09/7.jpg" alt="7" width="1023" height="474" srcset="/imgs/2015/09/7.jpg 1023w, /imgs/2015/09/7-300x139.jpg 300w, /imgs/2015/09/7-272x125.jpg 272w" sizes="(max-width: 1023px) 100vw, 1023px"/></a></p>
 <p>I recommend caution as these are short term targets for the next 2 weeks. Breaking below $220 invalidates this bullish forecast. Medium to long term, I am bearish, and still expect sub &#8211; 200 prices. This long term trend channel chart points to a possible retest of lower trend line support. It is worth a keen look, as overall, price remains in limbo &#8211; whether we truly are past the bottom and long term bear trend, or just a temporary reprieve from a 22 month old bear market.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/9th/" rel="tag">9th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-10<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/9th/" rel="tag">9th</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+Updated: 2015-09-10
 

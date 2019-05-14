@@ -1,12 +1,14 @@
 ---
-Evolution Market Staff Member: 130,000BTC Were Stolen"
+title: "Evolution Market Staff Member: 130,000BTC Were Stolen"
 ---
-<article class="post-listing post-9548 post type-post status-publish format-standard has-post-thumbnail hentry  tag-evoscam">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9548  tag-evoscam
+Posted by: DeepDotWeb 
+
 <span>March 18, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/18/interview-with-nswgreat-evolution-staff-member/#comments">31 Comments</a></span>
+
+
+<span><a href="/2015/03/18/interview-with-nswgreat-evolution-staff-member/#comments">31 Comments</a></span>
 
 
 <p>Another article in the <a href="http://www.deepdotweb.com/tag/evoscam/">#Evoscam</a> series:</p>
@@ -49,4 +51,5 @@ Evolution Market Staff Member: 130,000BTC Were Stolen"
 <p><b>Anything else you want to add – warn people / some advice to minimize their losses in future market scams?</b></p>
 <p>Fund decentralized market projects such as <a href="http://www.deepdotweb.com/2014/07/17/cloakcoin-promises-holy-grail-cryptocurrency-anonymity/">CloakCoin</a> and their market, they are the only way for this to work.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a></span> <span style="display:none" class="updated">2015-03-18
+<a href="/tag/evoscam/" rel="tag">Evoscam</a></span> 
+Updated: 2015-03-18

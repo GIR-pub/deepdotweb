@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 15 Mar.2015
+title: "Bitcoin News Roundup – 15 Mar.2015"
 ---
-<article class="post-listing post-9479 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1886 tag-bitcoin tag-mar2015 tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9479  tag-1886 tag-mar2015 
+Posted by: DeepDotWeb 
+
 <span>March 15, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/15/bitcoin-news-roundup-15-mar-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/03/15/bitcoin-news-roundup-15-mar-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -23,4 +25,5 @@ Bitcoin News Roundup – 15 Mar.2015
 <p>T-Mobile in Poland accepts bitcoin. According to <a href="http://bitcoinexaminer.org/tmobile-clients-top-up-phones-bitcoin-poland/">Bitcoin Examiner</a>, Polska Telefonia Cyfrowa joined forces with InPay, a Polish bitcoin platform to accept the digital currency as a legal form of payment. The partnership will expand the use of bitcoin in the Polish market, and especially among prepaid telephone users.</p>
 <p>RedditMarket accepts bitcoin. As Yessi Bello Perez of <a href="http://www.coindesk.com/reddit-adds-bitcoin-payments-to-merchandise-store/">Coin Desk</a> reports, Reddit entered into a partnership with Coinbase to enable the processing of payments in its merchandise store with the use of bitcoin. Generally, the partnership is well-received and some users asked RedditMarket to include other virtual currencies as well such as the dogecoin.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/15/" rel="tag">15</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mar2015/" rel="tag">mar2015</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-03-15
+<a href="/tag/15/" rel="tag">15</a> <a href="/tag/mar2015/" rel="tag">mar2015</a>  </span> 
+Updated: 2015-03-15

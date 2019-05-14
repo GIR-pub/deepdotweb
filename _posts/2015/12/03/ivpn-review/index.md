@@ -1,9 +1,10 @@
 ---
-IVPN Review
+title: "IVPN Review"
 ---
-<article class="post-listing post-12229 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ivpn tag-review">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12229  tag-ivpn tag-review
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 3, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/12/03/ivpn-review/#comments">2 Comments</a></span>
@@ -129,4 +130,5 @@ IVPN Review
 <p>IVPN is among the few VPN solutions that are true to their word in regards to privacy. They do respect their affirmation, and no logs that could lead to personal identification are kept. Also, the payment methods are created to help maintain users’ anonymity and safety. IVPN is indeed a solution that can be used to surf the Deep web anonymously.</p>
 <p><a href="https://www.ivpn.net/aff.php?aff=1412" target="_blank"><strong>&gt;&gt; Click HERE to Visit the IVPN Official Site</strong></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/ivpn/" rel="tag">ivpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> <span style="display:none" class="updated">2015-12-03
+<a href="https://www.deepdotweb.com/tag/ivpn/" rel="tag">ivpn</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a></span> 
+Updated: 2015-12-03

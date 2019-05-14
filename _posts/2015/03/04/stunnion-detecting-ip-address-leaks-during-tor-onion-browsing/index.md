@@ -1,12 +1,15 @@
 ---
-STUNnion &#8211; Detecting IP Address Leaks During Tor .Onion Browsing"
+title: "STUNnion &#8211; Detecting IP Address Leaks During Tor .Onion Browsing"
 ---
-<article class="post-listing post-9383 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-browsing tag-detecting tag-ip tag-leaks tag-onion tag-stunnion 
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9383  tag-address tag-browsing tag-detecting tag-ip tag-leaks tag-onion tag-stunnion 
+
+Posted by: DeepDotWeb 
+
 <span>March 4, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/04/stunnion-detecting-ip-address-leaks-during-tor-onion-browsing/#comments">3 Comments</a></span>
+
+
+<span><a href="/2015/03/04/stunnion-detecting-ip-address-leaks-during-tor-onion-browsing/#comments">3 Comments</a></span>
 
 
 <p>The guys from <a href="https://cryptostorm.is">Cryptostorm.is</a> just released a new research regarding a security vulnerability that may affect and cause De-anonymization of Tor users browsing .onion sites <strong>without using the Tor Browser Bundle</strong> &#8211;  that includes the &#8220;expert&#8221; browser bundle via SOCKS proxy. The summary was shared with us and is brought to you here:</p>
@@ -28,4 +31,5 @@ STUNnion &#8211; Detecting IP Address Leaks During Tor .Onion Browsing"
     Thanks to everyone in the community and on our team who pitched in to help get this test ready for deployment. Here&#8217;s to the memory of Aaron Schwartz, who inspired so many of us to think creatively about big challenges. We miss you, Aaron.</p>
 <p>~ <a href="https://cryptostorm.is">ˣˣcstørm_teamˣˣ</a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/browsing/" rel="tag">browsing</a> <a href="https://www.deepdotweb.com/tag/detecting/" rel="tag">detecting</a> <a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/leaks/" rel="tag">leaks</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/stunnion/" rel="tag">stunnion</a> </span> <span style="display:none" class="updated">2015-03-04
+<a href="/tag/address/" rel="tag">address</a> <a href="/tag/browsing/" rel="tag">browsing</a> <a href="/tag/detecting/" rel="tag">detecting</a> <a href="/tag/ip/" rel="tag">ip</a> <a href="/tag/leaks/" rel="tag">leaks</a> <a href="/tag/onion/" rel="tag">onion</a> <a href="/tag/stunnion/" rel="tag">stunnion</a> </span> 
+Updated: 2015-03-04

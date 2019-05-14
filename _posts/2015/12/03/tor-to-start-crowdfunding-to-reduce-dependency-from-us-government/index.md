@@ -1,20 +1,22 @@
 ---
-Did Tor Start Crowdfunding To Reduce US Government Funding?"
+title: "Did Tor Start Crowdfunding To Reduce US Government Funding?"
 ---
-<article class="post-listing post-12422 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crowdfunding tag-dependency tag-government tag-reduce tag-start 
+
+12422  tag-crowdfunding tag-dependency tag-government tag-reduce tag-start 
     
-<div class="post-inner">
+
     
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     
 <span>December 3, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
-<span><a href="https://www.deepdotweb.com/2015/12/03/tor-to-start-crowdfunding-to-reduce-dependency-from-us-government/#comments">1 Comment</a></span>
-</p>        
+<span><a href="https://www.deepdotweb.com/2015/12/03/tor-to-start-crowdfunding-to-reduce-dependency-from-us-government/#comments">1 
+        
 <p><a href="https://nakedsecurity.sophos.com/2015/11/30/tor-looks-to-reduce-dependency-on-us-government-money/">In order to raise money for the browser, the Tor Project started a crowdfunding campaign.</a> This could raise even more funds to the project, and if Tor will have enough of that, it could mean they could reduce their dependence from the US Government. This is important for them since 80-90% of the funding is from the United States governmental institutes.</p>
 <p>Since the Tor browser is one of the pillars of the dark web, it is essential for it to keep funded. The software is used to stay (somewhat) anonymous on the dark net and access websites that you can’t on the clearnet. Most people think that the browser is only used by criminals, however, it is not true. Important governmental agencies all across the world are using Tor to cover their secret work, even journalist use the software to remain anonymous while doing their work. A great example for a “legal” Tor user is Laura Poitras, the Oscar-winning director (best documentary) of Citizenfour, the Edward Snowden documentary and the face of Tor’s new fundraising effort. She made this statement about the Tor Project and the browser’s use for her:</p>
 <p>“Before Snowden, as a journalist, I knew that I had to be careful, but didn’t quite know how to protect myself &#8230; I knew I needed anonymity, but didn’t know what tools to use&#8230;</p>
@@ -26,10 +28,10 @@ Did Tor Start Crowdfunding To Reduce US Government Funding?"
 <p>If you would like to support the Tor Project. you can do so via their <a href="https://www.torproject.org/donate/donate">donations page</a>. They accept donations in the form of Bitcoins, PayPal, paper cheques and bank transfers.</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/dependency/" rel="tag">dependency</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/reduce/" rel="tag">reduce</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> </span>				<span style="display:none" class="updated">2015-12-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+<a href="https://www.deepdotweb.com/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="https://www.deepdotweb.com/tag/dependency/" rel="tag">dependency</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/reduce/" rel="tag">reduce</a> <a href="https://www.deepdotweb.com/tag/start/" rel="tag">start</a> </span>				
+Updated: 2015-12-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

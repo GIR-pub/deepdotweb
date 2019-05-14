@@ -1,12 +1,12 @@
 ---
-5 Ways To Send Secret Messages"
+title: "5 Ways To Send Secret Messages"
 ---
-<article class="post-listing post-9052 post type-post status-publish format-standard has-post-thumbnail hentry  tag-messages tag-secret tag-send tag-ways">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+
+Posted by: DeepDotWeb 
+
 <span>February 13, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/02/13/5-ways-to-send-secret-messages/#comments">2 Comments</a></span>
 
 
 <p>From time to time every one of us is faced with a situation where we have to tell someone something very important and intimate that no one else should know. In our age of total surveillance (remember Prism project?), transferring information without the presence of third parties has become a very difficult task. In this article I summarize all I know about privacy protection and secure information transfer and give a short description of 5 apps and programs that I use every day to send messages.</p>
@@ -40,5 +40,5 @@
 <p>To use all these features the user should download DarkNote GUI wallet from the official currency website and synchronize it with the network.</p>
 <p>All applications and programs are easy and convenient to use, and you should try all of them before choosing the one that suits you most and don&#8217;t forget to <a href="http://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" target="_blank">use PGP</a>. If you know other ways to keep your information and personal messages protected, please let me know by leaving a comment on this article!</p>
 <p><span style="text-decoration: underline;">Article contributed to DeepDotWeb by its author: <strong><span class="gI">Li Taurus</span></strong></span></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/messages/" rel="tag">messages</a> <a href="https://www.deepdotweb.com/tag/secret/" rel="tag">secret</a> <a href="https://www.deepdotweb.com/tag/send/" rel="tag">send</a> <a href="https://www.deepdotweb.com/tag/ways/" rel="tag">ways</a></span> <span style="display:none" class="updated">2015-02-13
+
+Updated: 2015-02-13

@@ -1,12 +1,13 @@
 ---
-Onionshop Guide: How To Set Up a Hidden Service?"
+title: "Onionshop Guide: How To Set Up a Hidden Service?"
 ---
-<article class="post-listing post-9683 post type-post status-publish format-standard has-post-thumbnail hentry  tag-guide tag-onionshop tag-set">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9683  tag-guide tag-onionshop tag-set
+Posted by: DeepDotWeb 
+
 <span>March 27, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/27/onionshop-guide-how-to-set-up-a-hidden-service/#comments">9 Comments</a></span>
+<span><a href="/2015/03/27/onionshop-guide-how-to-set-up-a-hidden-service/#comments">9 Comments</a></span>
 
 
 <p>From the owners of the former Onion shop services &#8211; a guide for setting up hidden services:</p>
@@ -22,4 +23,5 @@ Onionshop Guide: How To Set Up a Hidden Service?"
 <p><span style="text-decoration: underline;"><strong>The Guide: </strong></span><br/>
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/260099551/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_28533" frameborder="0"></iframe></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a>  <a href="https://www.deepdotweb.com/tag/onionshop/" rel="tag">onionshop</a> <a href="https://www.deepdotweb.com/tag/set/" rel="tag">set</a></span> <span style="display:none" class="updated">2015-03-27
+<a href="/tag/guide/" rel="tag">guide</a>  <a href="/tag/onionshop/" rel="tag">onionshop</a> <a href="/tag/set/" rel="tag">set</a></span> 
+Updated: 2015-03-27

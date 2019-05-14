@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 28 Mar.2015
+title: "Bitcoin News Roundup – 28 Mar.2015"
 ---
-<article class="post-listing post-9738 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2518 tag-bitcoin tag-mar2015 tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9738  tag-2518 tag-mar2015 
+Posted by: DeepDotWeb 
+
 <span>March 28, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/28/bitcoin-news-roundup-28-mar-2015/#comments">1 Comment</a></span>
+
+
+<span><a href="/2015/03/28/bitcoin-news-roundup-28-mar-2015/#comments">1 Comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -22,4 +24,5 @@ Bitcoin News Roundup – 28 Mar.2015
 <p>Neteller adds bitcoin option to its platform. According to the <a href="http://bitcoinschannel.com/payment-processor-neteller-changes-company-policy-to-add-bitcoin-option/">Bitcoins Channel</a>, the global payment solutions provider has integrated the bitcoin deposit option to its system through a partnership of mother company Optimal Payments with BitPay. Neteller already allows merchants and customers to use the digital currency for their transactions. The move was the result of a fundamental adjustment in the company policy as until this announcement, the use of bitcoin at Neteller’s platform was prohibited.</p>
 <p>CardinalCommerce is accepting bitcoins. As Pete Rizzo of <a href="http://www.coindesk.com/cardinalcommerce-adds-bitcoin-to-merchant-payments-solution/">Coin Desk</a> writes, the Ohio-based payment authentication provider has entered a partnership with Bitnet to enable merchants to use CardinalCommerce’s platform for their transactions. Currently, the company proceeds to all necessary adjustments in its platform to accept the digital currency and facilitate refunds through Bitnet.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mar2015/" rel="tag">mar2015</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-03-28
+<a href="/tag/28/" rel="tag">28</a> <a href="/tag/mar2015/" rel="tag">mar2015</a>  </span> 
+Updated: 2015-03-28

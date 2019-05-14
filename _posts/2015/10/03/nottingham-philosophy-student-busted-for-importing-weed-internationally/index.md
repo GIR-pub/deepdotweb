@@ -1,12 +1,13 @@
 ---
-Nottingham Philosophy Student Busted For Importing Weed Internationally
+title: "Nottingham Philosophy Student Busted For Importing Weed Internationally"
 ---
-<article class="post-listing post-11660 post type-post status-publish format-standard hentry category-news tag-busted tag-importing tag-internationally tag-nottingham tag-philosophy tag-student tag-weed">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11660 tag-busted tag-importing tag-internationally tag-nottingham tag-philosophy tag-student tag-weed
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>October 3, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/03/nottingham-philosophy-student-busted-for-importing-weed-internationally/#comments">4 Comments</a></span>
+
+<span><a href="/2015/10/03/nottingham-philosophy-student-busted-for-importing-weed-internationally/#comments">4 Comments</a></span>
 
 
 <p><a href="http://www.nottinghampost.com/Nottingham-philosophy-student-caught-importing/story-27890513-detail/story.html">Benjamin Koops, a student studying philosophy at the University of Nottingham, has been busted for importing weed from the US.</a> The student has ordered the cannabis from DNMs, however, two of the packages have been intercepted by the National Crime Agency (NCA). According to the LE, the packages have been caught and been traced back to Koops. This could mean that the NCA or the local police has performed a controlled delivery on the philosophy student, this information is not confirmed, though.</p>
@@ -23,5 +24,6 @@ Nottingham Philosophy Student Busted For Importing Weed Internationally
 <p>&#8220;He did not appreciate he was importing the drug or the extent of his criminality. He did not see himself as a dealer.&#8221;</p>
 <p>&#8220;His family are exceptionally concerned about him today,&#8221; he stated.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/importing/" rel="tag">importing</a> <a href="https://www.deepdotweb.com/tag/internationally/" rel="tag">internationally</a> <a href="https://www.deepdotweb.com/tag/nottingham/" rel="tag">nottingham</a> <a href="https://www.deepdotweb.com/tag/philosophy/" rel="tag">philosophy</a> <a href="https://www.deepdotweb.com/tag/student/" rel="tag">student</a> <a href="https://www.deepdotweb.com/tag/weed/" rel="tag">weed</a></span> <span style="display:none" class="updated">2015-10-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+ <a href="/tag/importing/" rel="tag">importing</a> <a href="/tag/internationally/" rel="tag">internationally</a> <a href="/tag/nottingham/" rel="tag">nottingham</a> <a href="/tag/philosophy/" rel="tag">philosophy</a> <a href="/tag/student/" rel="tag">student</a> <a href="/tag/weed/" rel="tag">weed</a></span> 
+Updated: 2015-10-03<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

@@ -1,12 +1,13 @@
 ---
-Tutorial: Multi-signature Transactions with Electrum 2.0
+title: "Tutorial: Multi-signature Transactions with Electrum 2.0"
 ---
-<article class="post-listing post-9566 post type-post status-publish format-standard has-post-thumbnail hentry tag-electrum tag-multisignature tag-transactions tag-tutorial">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9566 tag-electrum tag-multisignature tag-transactions tag-tutorial
+Posted by: DeepDotWeb 
+
 <span>March 21, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/21/multi-signature-transactions-electrum-2-0/#comments">12 Comments</a></span>
+<span><a href="/2015/03/21/multi-signature-transactions-electrum-2-0/#comments">12 Comments</a></span>
 
 
 <p><strong><em>A great tutorial posted originally <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2znvmi/guide_multisignature_transactions_with_electrum_20/">on Reddit</a> by /r/darknetmarkets mod <a href="http://www.reddit.com/user/galaxyandspace">galaxyandspace</a>, Edited with the images for your convenience:</em></strong></p>
@@ -71,4 +72,5 @@ Tutorial: Multi-signature Transactions with Electrum 2.0
 <p><strong>Disputing</strong></p>
 <p>Weather it&#8217;s the vendor or buyer disputing, they are responsible for providing a return address. The market is responsible for generating the transaction text. The winner of the dispute is responsible for signing/finalizing the transactions and making sure the the coins are going to the right address.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/electrum/" rel="tag">electrum</a> <a href="https://www.deepdotweb.com/tag/multisignature/" rel="tag">multisignature</a> <a href="https://www.deepdotweb.com/tag/transactions/" rel="tag">transactions</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-03-21
+ <a href="/tag/electrum/" rel="tag">electrum</a> <a href="/tag/multisignature/" rel="tag">multisignature</a> <a href="/tag/transactions/" rel="tag">transactions</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+Updated: 2015-03-21

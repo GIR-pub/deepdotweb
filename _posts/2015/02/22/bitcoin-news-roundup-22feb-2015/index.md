@@ -1,12 +1,11 @@
 ---
-Bitcoin News Roundup – 22Feb. 2015
+title: "Bitcoin News Roundup – 22Feb. 2015"
 ---
-<article class="post-listing post-9230 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-22feb tag-bitcoin tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+Posted by: DeepDotWeb 
+
 <span>February 22, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/22/bitcoin-news-roundup-22feb-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -20,5 +19,5 @@ Bitcoin News Roundup – 22Feb. 2015
 <p>PokerStars may adopt the bitcoin. As Chris Pomoni of <a href="http://newsbtc.com/2015/02/17/pokerstars-accept-bitcoin/">NewsBtc</a> writes, PokerStars will increase the reliability of the bitcoin given the established reputation of the online poker website. However, the adoption of the cryptocurrency by PokerStars is practically denied by the company for the moment.</p>
 <p>Parkt, the parking reqward startup that rewards customers with parking fees from multiple businesses, integrates bitcoins. According to <a href="http://bitcoinschannel.com/parkt-opens-its-parking-rewards-system-to-bitcoin-users/">Bitcoins Channel</a>, customers who go out to shop or eat are rewarded with reward points earned directly to a bitcoin wallet for the amount of parking fees. Parkt CEO Tim Karunaratne stated that <em>“Americans spend on average $1,300 annually for parking and this is annoying.”</em></p>
 <p>Marijuana can be bought atvending machines in Seattle using bitcoins. As Evander Smart of <a href="https://www.cryptocoinsnews.com/buy-marijuana-bitcoin-via-vending-machines-seattle/">CryptoCoins News</a> writes, the ZaZZZ machines will be placed in registered medical pot dispensaries in select areas in Seattle and verified cannabis users will be able to buy marijuana for medical purposes paying in cash or bitcoin. It looks like there are two sides of the story: according to Hal M. Bundrick of <a href="http://insidebitcoins.com/news/cannabis-industry-experts-say-bitcoin-is-not-the-answer-for-un-banked-marijuana-businesses/30081">Inside Bitcoins</a>, Gavin Andresen of the Bitcoin Foundation believes that <em>“legal marijuana industries could possibly be one of the biggest industries for bitcoin.” </em>Yet, there are opposing views. Patrick Rea, co-founder of CanopyBoulder stated <em>“You’ve got a gray market industry in cannabis and you combine it with another gray market industry in bitcoin.”</em></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/22feb/" rel="tag">22feb</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-02-22
+
+Updated: 2015-02-22

@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis 27th August
+title: "Bitcoin Price Analysis 27th August"
 ---
-<article class="post-listing post-11372 post type-post status-publish format-standard has-post-thumbnail hentry  tag-27th tag-analysis tag-august tag-bitcoin tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11372  tag-27th tag-analysis tag-august tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>August 27, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/27/bitcoin-price-analysis-27th-august/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/27/bitcoin-price-analysis-27th-august/#respond">Leave a comment</a></span>
 
 
 <p><a href="/imgs/2015/08/14.jpg"><img class="aligncenter size-full wp-image-11374" src="/imgs/2015/08/14.jpg" alt="1" width="877" height="592" srcset="/imgs/2015/08/14.jpg 877w, /imgs/2015/08/14-300x203.jpg 300w, /imgs/2015/08/14-290x195.jpg 290w" sizes="(max-width: 877px) 100vw, 877px" /></a></p>
@@ -24,7 +26,7 @@ Bitcoin Price Analysis 27th August
 <p>BTC China this week announced it was in the process of applying for the BitLicense with New York Department of Financial Services. The regulation, has been on the receiving end of criticism from start ups in this space and the community at large, even putting off exchanges such as Kraken and BitFinex from serving customers from the Island. Making the announcement via a <a href="https://twitter.com/BTCChina/status/635802298724122625">twitter stream</a>, BTC China said of itself</p>
 <p><em>“We are the 1st bitcoin company in Asia to apply for the BitLicense”</em></p>
 <p><strong>Outage at BitFinex Fuels Suspicion over its Operations</strong></p>
-<p>After last week’s BitFinex flash crash disaster, analysed on <a href="https://www.deepdotweb.com/2015/08/24/bitfinex-flashcrash-post-mortem-analysis/">BitFinex Flash Crash &#8211; Post Mortem Analysis</a>, prices slumped again on Monday, this time due to BFX closing its order book and claiming trouble with their post-trade processing, <a href="http://www.coindesk.com/bitcoin-price-slumps-following-bitfinex-outage/">Coindesk reported</a>. Trading was disabled from 5.27 UTC to 12.31 UTC when trading resumed. As per BitFinex spokesperson, Zane Tackett,</p>
+<p>After last week’s BitFinex flash crash disaster, analysed on <a href="/2015/08/24/bitfinex-flashcrash-post-mortem-analysis/">BitFinex Flash Crash &#8211; Post Mortem Analysis</a>, prices slumped again on Monday, this time due to BFX closing its order book and claiming trouble with their post-trade processing, <a href="http://www.coindesk.com/bitcoin-price-slumps-following-bitfinex-outage/">Coindesk reported</a>. Trading was disabled from 5.27 UTC to 12.31 UTC when trading resumed. As per BitFinex spokesperson, Zane Tackett,</p>
 <p><em>“we encountered an issue with post-trade processing, upon which we decided to halt trading to ensure consistency in the order book.”</em></p>
 <p>On a whale club audio recording last week, Phil Potter, CSO, attributed some of their technical glitches to transitional software by AlphaPoint. The exchange’s reputation is on the line as users’ vocal impression cast doubt over its credibility.</p>
 <p><strong>Bitcoin Block size debate takes a turn </strong></p>
@@ -34,5 +36,6 @@ Bitcoin Price Analysis 27th August
 <p><a href="/imgs/2015/08/55.jpg"><img class="aligncenter size-full wp-image-11378" src="/imgs/2015/08/55.jpg" alt="5" width="1023" height="357" srcset="/imgs/2015/08/55.jpg 1023w, /imgs/2015/08/55-300x105.jpg 300w" sizes="(max-width: 1023px) 100vw, 1023px" /></a></p>
 <p>This week I am bullish to sideways. From the $316 top, we are in a sloping trend that has held well so far. After looking at EMA’s, $240 looks a reasonable target for a top. I expect prices to continue going up on this move and possibly pushed down at the $240 level back to range within the rectangle. Because of time estimates, this week might see both up and a return to within the rectangular trend. Huge moves such as Mondays take time to consolidate, thus, a sideways trend similar to 2 other indicate seems likely.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/27th/" rel="tag">27th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-27<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/27th/" rel="tag">27th</a>  
+Updated: 2015-08-27
 

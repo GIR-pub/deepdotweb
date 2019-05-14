@@ -1,9 +1,10 @@
 ---
-Police Raid After Bitcoin &#8216;Creator&#8217; Revealed"
+title: "Police Raid After Bitcoin &#8216;Creator&#8217; Revealed"
 ---
-<article class="post-listing post-12517 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-creator tag-police tag-raid tag-revealed">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12517  tag-creator tag-police tag-raid tag-revealed
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/09/police-raid-after-bitcoin-creator-revealed/#comments">8 Comments</a></span>
@@ -36,4 +37,5 @@ Police Raid After Bitcoin &#8216;Creator&#8217; Revealed"
 <p>He eventually said he would consider a request for a meeting, before ending all contact.</p>
 <p><strong>Article source</strong>: <a href="http://news.sky.com/story/1602546/police-raid-after-bitcoin-creator-revealed" target="_blank">http://news.sky.com/story/1602546/police-raid-after-bitcoin-creator-revealed</a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/creator/" rel="tag">creator</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/revealed/" rel="tag">revealed</a></span> <span style="display:none" class="updated">2015-12-09
+<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/creator/" rel="tag">creator</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/revealed/" rel="tag">revealed</a></span> 
+Updated: 2015-12-09

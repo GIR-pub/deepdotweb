@@ -1,42 +1,44 @@
 ---
-Patriot Act extension Dies; Senate ready to vote on USA Freedom Act
+title: "Patriot Act extension Dies; Senate ready to vote on USA Freedom Act"
 ---
-<article class="post-listing post-10350 post type-post status-publish format-standard has-post-thumbnail hentry  tag-act tag-dies tag-extension tag-freedom tag-mcconnells tag-patriot tag-ready tag-senate tag-usa tag-vote">
-    <div class="post-inner">
-        <span>Posted by: <a href="https://www.deepdotweb.com/author/timothyjones/" title="">Timothy Jones </a></span>
-    <span>May 22, 2015</span>
-    <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-    <span><a href="https://www.deepdotweb.com/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/#comments">1 Comment</a></span>
-    </p>
-    <div class="clear"></div>
-    <div class="entry">
-    <p>As Section 215 of the Patriot Act&#8217;s <span class="aBn" tabindex="0" data-term="goog_997457443"><span class="aQJ">June 1st</span></span> deadline approaches the Senate will vote this week on the USA Freedom Act which tightens up some key NSA powers.</p>
-    <p>This will be the first time the US government has scaled back government surveillance in quite some time.</p>
-    <p>In <a href="http://www.theguardian.com/us-news/2015/may/19/senate-nsa-reform-usa-freedom-patriot-act" target="_blank">The Guardian&#8217;s coverage the bill</a>, a simple explanation of both the pros and cons of the Freedom Act can be found.</p>
-    <p>“<em><strong>The USA Freedom Act only bars the use of section 215 for collecting US phone data in bulk. Other domestic surveillance authorities, including the DEA’s recently disclosed bulk phone records collection, would remain untouched, as would the <a href="http://www.theguardian.com/us-news/nsa" target="_blank">NSA</a> and FBI’s ability to search without a warrant through its bulk of internet content and metadata for Americans’ communications.”</strong></em></p>
-    <p>And of course, there are some who would like to see the NSA cut down further.</p>
-    <p>“No matter how high and thick the wall we build,” said Jameel Jaffer of the American Civil Liberties Union, “NSA is going to spend enormous resources trying to get over the wall, under the wall, around the wall or through the wall.”</p>
-    <p>On the other end of the spectrum Senate majority leader Mitch McConnell has come out and warned against the USA Freedom Act.</p>
-    <p>McConnell appeared on ABC <span class="aBn" tabindex="0" data-term="goog_997457444"><span class="aQJ">on Sunday</span></span> to criticize the Freedom Act and encouraged an extension of the Patriot Act.</p>
-    <p>“<em><strong>The bill that passed the House does not require the telephone companies to keep the records,” he said. “I figure the House-passed bill will basically end the program, and I want to reassure everybody, there are plenty of safeguards in this program, and nobody at the <a href="http://www.theguardian.com/us-news/nsa" target="_blank">NSA</a> is routinely listening in to your telephone conversations in order to intercept any actual discussion on a telephone. They have to go to a court, get a court order.”</strong></em></p>
-    <p>McConnell, who had previously introduced a bill that would extend section 215, warned the Freedom Act could cause the US to “go dark.”</p>
-    <p>“<em><strong>I don’t want us to go dark, in effect, and I’m afraid that the House-passed bill will basically be the end of the program, and we’ll not be able to have yet another tool that we need to combat this terrorist threat from overseas.”</strong></em></p>
-    <p>McConnell&#8217;s wishes died in the house <span class="aBn" tabindex="0" data-term="goog_997457445"><span class="aQJ">on Monday</span></span> when House majority leader Kevin McCarthy refused to help get McConnell&#8217;s Patriot Act extension off the ground, thus, paving the way for a vote in the Senate on the USA Freedom Act.</p>
-    <p>But he wasn&#8217;t alone in his support of extending section 215. New Jersey Governor Chris Christie, who&#8217;s a potential 2016 presidential candidate, <a href="http://www.nbcnews.com/politics/2016-election/chris-christie-fears-over-nsa-spying-powers-ridiculous-n360786" target="_blank">voiced his support</a> for the existing NSA programs and criticized whistle-blower Edward Snowden as well.</p>
-    <p><em><strong>&#8220;When Edward Snowden revealed our intelligence secrets to the world in 2013, civil liberties extremists seized that moment to advance their own narrow agenda,&#8221; Christie said. &#8220;Right now that debate is dominated by intellectual purists worried about theoretical abuses that have not occurred.” </strong></em></p>
-    <p>Florida Senator Marco Rubio, another 2016 presidential contender, offered his own thoughts last week in a column he penned for USA Today titled, “<a href="http://www.usatoday.com/story/opinion/2015/05/10/nsa-patriot-act-sen-marco-rubio-editorials-debates/27097131/" target="_blank">Sen. Rubio: Now&#8217;s no time to end the NSA program.</a>”</p>
-    <p>“<em><strong>Given these threats, now is not the time to end this program, which remains essential to our security. Congress has until the end of May to act before the current authorities expire.” Rubio said. “We must renew these authorities and provide those we charge with protecting us every tool they need to do so.”</strong></em></p>
-    <p>And then there&#8217;s Kentucky Senator, and another presidential hopeful, who evidently appears ready to battle the Freedom Act the way it stands. Though Paul has <a href="http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/18/rand-paul-vows-to-do-everything-possible-to-block-patriot-act-renewal/" target="_blank">abandoned the filibuster he once threatened</a>, he is now seeking a public debate on the issue.</p>
-    <p>One this is for sure, it&#8217;s shaping up to be an monumental two weeks for the National Security Administration.</p>
-    <p><span style="text-decoration: underline;">This was added later:</span></p>
-    <blockquote class="twitter-tweet" lang="en">
-    <p dir="ltr" lang="en">I&#8217;ve just taken the senate floor to begin a filibuster of the Patriot Act renewal. It&#8217;s time to end the NSA spying!</p>
-    <p>— Dr. Rand Paul (@RandPaul) <a href="https://twitter.com/RandPaul/status/601079082676318208">May 20, 2015</a></p></blockquote>
-    <p><script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script></p>
-    <p>We&#8217;ll be posting more about this story as it unfolds.</p>
-    <p><em>The Candidate is a weekly columnist at DeepDotWeb</em><br />
-    <em>Reach him by email at <a href="/cdn-cgi/l/email-protection#91e5f9f4f2f0fff5f8f5f0e5f4d1fee1f4fffcf0f8fdf3fee9bffee3f6" target="_blank"><span class="__cf_email__" data-cfemail="8bffe3eee8eae5efe2efeaffeecbe4fbeee5e6eae2e7e9e4f3a5e4f9ec">[email&#160;protected]</span></a></em></p>
-    </div>
-    <a href="https://www.deepdotweb.com/tag/act/" rel="tag">act</a> <a href="https://www.deepdotweb.com/tag/dies/" rel="tag">dies</a> <a href="https://www.deepdotweb.com/tag/extension/" rel="tag">extension</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/mcconnells/" rel="tag">mcconnells</a> <a href="https://www.deepdotweb.com/tag/patriot/" rel="tag">patriot</a> <a href="https://www.deepdotweb.com/tag/ready/" rel="tag">ready</a> <a href="https://www.deepdotweb.com/tag/senate/" rel="tag">senate</a> <a href="https://www.deepdotweb.com/tag/usa/" rel="tag">usa</a> <a href="https://www.deepdotweb.com/tag/vote/" rel="tag">vote</a></span> <span style="display:none" class="updated">2015-05-22</span>
-    <div style="display:none" class="vcard author" itemprop="author" itemscope itemtype="http://schema.org/Person"><strong class="fn" itemprop="name"><a href="https://www.deepdotweb.com/author/timothyjones/" title="Posts by Timothy Jones" rel="author">Timothy Jones</a></strong></div>
+
+10350  tag-act tag-dies tag-extension tag-freedom tag-mcconnells tag-patriot tag-ready tag-senate tag-usa tag-vote
+Posted by: <a href="/author/timothyjones/" title="">Timothy Jones 
+
+<span>May 22, 2015</span>
+
+
+<span><a href="/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/#comments">1 Comment</a></span>
+</p>
+
+<p>As Section 215 of the Patriot Act&#8217;s <span class="aBn" tabindex="0" data-term="goog_997457443"><span class="aQJ">June 1st</span></span> deadline approaches the Senate will vote this week on the USA Freedom Act which tightens up some key NSA powers.</p>
+<p>This will be the first time the US government has scaled back government surveillance in quite some time.</p>
+<p>In <a href="http://www.theguardian.com/us-news/2015/may/19/senate-nsa-reform-usa-freedom-patriot-act" target="_blank">The Guardian&#8217;s coverage the bill</a>, a simple explanation of both the pros and cons of the Freedom Act can be found.</p>
+<p>“<em><strong>The USA Freedom Act only bars the use of section 215 for collecting US phone data in bulk. Other domestic surveillance authorities, including the DEA’s recently disclosed bulk phone records collection, would remain untouched, as would the <a href="http://www.theguardian.com/us-news/nsa" target="_blank">NSA</a> and FBI’s ability to search without a warrant through its bulk of internet content and metadata for Americans’ communications.”</strong></em></p>
+<p>And of course, there are some who would like to see the NSA cut down further.</p>
+<p>“No matter how high and thick the wall we build,” said Jameel Jaffer of the American Civil Liberties Union, “NSA is going to spend enormous resources trying to get over the wall, under the wall, around the wall or through the wall.”</p>
+<p>On the other end of the spectrum Senate majority leader Mitch McConnell has come out and warned against the USA Freedom Act.</p>
+<p>McConnell appeared on ABC <span class="aBn" tabindex="0" data-term="goog_997457444"><span class="aQJ">on Sunday</span></span> to criticize the Freedom Act and encouraged an extension of the Patriot Act.</p>
+<p>“<em><strong>The bill that passed the House does not require the telephone companies to keep the records,” he said. “I figure the House-passed bill will basically end the program, and I want to reassure everybody, there are plenty of safeguards in this program, and nobody at the <a href="http://www.theguardian.com/us-news/nsa" target="_blank">NSA</a> is routinely listening in to your telephone conversations in order to intercept any actual discussion on a telephone. They have to go to a court, get a court order.”</strong></em></p>
+<p>McConnell, who had previously introduced a bill that would extend section 215, warned the Freedom Act could cause the US to “go dark.”</p>
+<p>“<em><strong>I don’t want us to go dark, in effect, and I’m afraid that the House-passed bill will basically be the end of the program, and we’ll not be able to have yet another tool that we need to combat this terrorist threat from overseas.”</strong></em></p>
+<p>McConnell&#8217;s wishes died in the house <span class="aBn" tabindex="0" data-term="goog_997457445"><span class="aQJ">on Monday</span></span> when House majority leader Kevin McCarthy refused to help get McConnell&#8217;s Patriot Act extension off the ground, thus, paving the way for a vote in the Senate on the USA Freedom Act.</p>
+<p>But he wasn&#8217;t alone in his support of extending section 215. New Jersey Governor Chris Christie, who&#8217;s a potential 2016 presidential candidate, <a href="http://www.nbcnews.com/politics/2016-election/chris-christie-fears-over-nsa-spying-powers-ridiculous-n360786" target="_blank">voiced his support</a> for the existing NSA programs and criticized whistle-blower Edward Snowden as well.</p>
+<p><em><strong>&#8220;When Edward Snowden revealed our intelligence secrets to the world in 2013, civil liberties extremists seized that moment to advance their own narrow agenda,&#8221; Christie said. &#8220;Right now that debate is dominated by intellectual purists worried about theoretical abuses that have not occurred.” </strong></em></p>
+<p>Florida Senator Marco Rubio, another 2016 presidential contender, offered his own thoughts last week in a column he penned for USA Today titled, “<a href="http://www.usatoday.com/story/opinion/2015/05/10/nsa-patriot-act-sen-marco-rubio-editorials-debates/27097131/" target="_blank">Sen. Rubio: Now&#8217;s no time to end the NSA program.</a>”</p>
+<p>“<em><strong>Given these threats, now is not the time to end this program, which remains essential to our security. Congress has until the end of May to act before the current authorities expire.” Rubio said. “We must renew these authorities and provide those we charge with protecting us every tool they need to do so.”</strong></em></p>
+<p>And then there&#8217;s Kentucky Senator, and another presidential hopeful, who evidently appears ready to battle the Freedom Act the way it stands. Though Paul has <a href="http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/18/rand-paul-vows-to-do-everything-possible-to-block-patriot-act-renewal/" target="_blank">abandoned the filibuster he once threatened</a>, he is now seeking a public debate on the issue.</p>
+<p>One this is for sure, it&#8217;s shaping up to be an monumental two weeks for the National Security Administration.</p>
+<p><span style="text-decoration: underline;">This was added later:</span></p>
+<blockquote class="twitter-tweet" lang="en">
+<p dir="ltr" lang="en">I&#8217;ve just taken the senate floor to begin a filibuster of the Patriot Act renewal. It&#8217;s time to end the NSA spying!</p>
+<p>— Dr. Rand Paul (@RandPaul) <a href="https://twitter.com/RandPaul/status/601079082676318208">May 20, 2015</a></p></blockquote>
+<p><script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script></p>
+<p>We&#8217;ll be posting more about this story as it unfolds.</p>
+<p><em>The Candidate is a weekly columnist at DeepDotWeb</em><br />
+<em>Reach him by email at <a href="/cdn-cgi/l/email-protection#91e5f9f4f2f0fff5f8f5f0e5f4d1fee1f4fffcf0f8fdf3fee9bffee3f6" target="_blank"><span class="__cf_email__" data-cfemail="8bffe3eee8eae5efe2efeaffeecbe4fbeee5e6eae2e7e9e4f3a5e4f9ec">[email&#160;protected]</span></a></em></p>
+</div>
+<a href="/tag/act/" rel="tag">act</a> <a href="/tag/dies/" rel="tag">dies</a> <a href="/tag/extension/" rel="tag">extension</a> <a href="/tag/freedom/" rel="tag">freedom</a> <a href="/tag/mcconnells/" rel="tag">mcconnells</a> <a href="/tag/patriot/" rel="tag">patriot</a> <a href="/tag/ready/" rel="tag">ready</a> <a href="/tag/senate/" rel="tag">senate</a> <a href="/tag/usa/" rel="tag">usa</a> <a href="/tag/vote/" rel="tag">vote</a></span> 
+Updated: 2015-05-22
+<a href="/author/timothyjones/" title="Posts by Timothy Jones" rel="author">Timothy Jones</a></strong></div>
     

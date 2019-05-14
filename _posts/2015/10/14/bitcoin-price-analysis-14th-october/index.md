@@ -1,12 +1,14 @@
 ---
-Bitcoin price analysis 14th October"
+title: "Bitcoin price analysis 14th October"
 ---
-<article class="post-listing post-11762 post type-post status-publish format-standard has-post-thumbnail hentry  tag-14th tag-analysis tag-bitcoin tag-october tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11762  tag-14th tag-analysis tag-october tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>October 14, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/14/bitcoin-price-analysis-14th-october/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/10/14/bitcoin-price-analysis-14th-october/#respond">Leave a comment</a></span>
 
 
 <p><strong>BITCOIN MARKETS THIS WEEK</strong></p>
@@ -47,5 +49,6 @@ Bitcoin price analysis 14th October"
 </em><em><br/>
 </em>Bitcoin regulation seems certain at this point, it’s more of a question of when rather than if.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/14th/" rel="tag">14th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-14<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/14th/" rel="tag">14th</a>  
+Updated: 2015-10-14
 

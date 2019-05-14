@@ -1,12 +1,14 @@
 ---
-Breaking: Sheep Marketplace Owner Arrested"
+title: "Breaking: Sheep Marketplace Owner Arrested"
 ---
-<article class="post-listing post-9698 post type-post status-publish format-standard has-post-thumbnail hentry  tag-breaking tag-owner tag-sheep">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9698  tag-breaking tag-owner tag-sheep
+Posted by: DeepDotWeb 
+
 <span>March 27, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/27/breaking-sheep-marketplace-owner-arrested/#comments">54 Comments</a></span>
+
+
+<span><a href="/2015/03/27/breaking-sheep-marketplace-owner-arrested/#comments">54 Comments</a></span>
 
 
 <p>Better late than never, but justice has been served &#8211; According to a report in <a href="http://archiv.ihned.cz/c1-63752430-jak-se-praly-bitcoiny-miliony-z-ciziny-vila-napsana-na-dedecka">archiv.ihned.cz</a>,  The owner of Sheep Marketplace <span class="notranslate">Thomas</span> <span class="notranslate">Jiřikovský </span>&#8211; who was responsible to one the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">biggest exit scam in Dark net history</a> of around $40M at the time (when the Bitcoin value was extremely high)  was arrest for money laundering after purchasing a luxury house and trying to launder the stolen money, after converting it from BTC, using fake companies and transferring it to his girlfriend account.</p>
@@ -57,4 +59,5 @@ Breaking: Sheep Marketplace Owner Arrested"
 <p>Some more pictures of the house he bought using the stolen BTC:</p>
 <p><a href="/imgs/2015/03/house1.jpeg"><img class="aligncenter size-full wp-image-9709" src="/imgs/2015/03/house1.jpeg" alt="house1" width="1000" height="750" srcset="/imgs/2015/03/house1.jpeg 1000w, /imgs/2015/03/house1-300x225.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="/imgs/2015/03/house2.jpeg"><img class="aligncenter size-full wp-image-9710" src="/imgs/2015/03/house2.jpeg" alt="house2" width="1000" height="750" srcset="/imgs/2015/03/house2.jpeg 1000w, /imgs/2015/03/house2-300x225.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="/imgs/2015/03/house3.jpeg"><img class="aligncenter size-full wp-image-9711" src="/imgs/2015/03/house3.jpeg" alt="house3" width="1000" height="750" srcset="/imgs/2015/03/house3.jpeg 1000w, /imgs/2015/03/house3-300x225.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/breaking/" rel="tag">breaking</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a></span> <span style="display:none" class="updated">2015-03-27
+<a href="/tag/arrested/" rel="tag">arrested</a> <a href="/tag/breaking/" rel="tag">breaking</a> <a href="/tag/marketplace/" rel="tag">marketplace</a> <a href="/tag/owner/" rel="tag">owner</a> <a href="/tag/sheep/" rel="tag">sheep</a></span> 
+Updated: 2015-03-27

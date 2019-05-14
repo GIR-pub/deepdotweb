@@ -1,9 +1,10 @@
 ---
-Second Former Government Agent Sentenced to 71 Months"
+title: "Second Former Government Agent Sentenced to 71 Months"
 ---
-<article class="post-listing post-12539 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3297 tag-agent tag-government tag-months tag-sentenced">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12539  tag-3297 tag-agent tag-government tag-months tag-sentenced
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/12/second-former-government-agent-and-bitcoin-pirate-sentenced/#respond">Leave a comment</a></span>
@@ -23,4 +24,5 @@ Second Former Government Agent Sentenced to 71 Months"
 <p>In securing all this money, Bridges had contaminated numerous cases under investigation by the US government. Bridges even tried to hide his tracks when he knew it was too late for him. He ordered a civil seizure warrant against Mt. Gox founder Mark Karpeles to overshadow his own money laundering. He quickly moved his own funds from his account to a shell company, Quantum International Investments LCC, but was caught in the end.</p>
 <p>Bridges’ sentence is one of many in the spiral fallout of the Silk Road case. This past week, one of Ulbricht’s top advisers was <a href="https://www.deepdotweb.com/2015/12/05/silk-road-1-roger-clark-suspected-silk-road-architect-variety-jones-arrested-in-koh-chang/">arrested in Thailand</a>, and is awaiting extradition to the United States. And while these criminals are served their justice it is still unclear how many more will come to light in the months ahead.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/71/" rel="tag">71</a> <a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> <span style="display:none" class="updated">2015-12-12
+<a href="https://www.deepdotweb.com/tag/71/" rel="tag">71</a> <a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/government/" rel="tag">government</a> <a href="https://www.deepdotweb.com/tag/months/" rel="tag">months</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a></span> 
+Updated: 2015-12-12

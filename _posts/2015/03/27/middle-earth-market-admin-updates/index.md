@@ -1,12 +1,13 @@
 ---
-Middle Earth Downtime Update: MAJOR Attack Happening"
+title: "Middle Earth Downtime Update: MAJOR Attack Happening"
 ---
-<article class="post-listing post-9694 post type-post status-publish format-standard hentry category-news tag-attack tag-downtime tag-earth tag-happening tag-major tag-middle tag-update">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9694 tag-attack tag-downtime tag-earth tag-happening tag-major tag-middle tag-update
+Posted by: DeepDotWeb 
+
 <span>March 27, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/27/middle-earth-market-admin-updates/#comments">15 Comments</a></span>
+
+<span><a href="/2015/03/27/middle-earth-market-admin-updates/#comments">15 Comments</a></span>
 
 
 <p>Middle Earth market admin updates regarding the Recent Downtime:</p>
@@ -28,4 +29,5 @@ Middle Earth Downtime Update: MAJOR Attack Happening"
     =BJtJ<br/>
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p></blockquote>
 </div>
-<a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/downtime/" rel="tag">downtime</a> <a href="https://www.deepdotweb.com/tag/earth/" rel="tag">earth</a> <a href="https://www.deepdotweb.com/tag/happening/" rel="tag">happening</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/middle/" rel="tag">middle</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-03-27
+<a href="/tag/attack/" rel="tag">attack</a> <a href="/tag/downtime/" rel="tag">downtime</a> <a href="/tag/earth/" rel="tag">earth</a> <a href="/tag/happening/" rel="tag">happening</a> <a href="/tag/major/" rel="tag">major</a> <a href="/tag/middle/" rel="tag">middle</a> <a href="/tag/update/" rel="tag">update</a></span> 
+Updated: 2015-03-27

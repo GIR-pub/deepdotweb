@@ -1,9 +1,10 @@
 ---
-Freedom Hosting: High Court grants extradition of Irishman to Us"
+title: "Freedom Hosting: High Court grants extradition of Irishman to Us"
 ---
-<article class="post-listing post-12661 post type-post status-publish format-standard has-post-thumbnail hentry  tag-extradited tag-freedom tag-hosting">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12661  tag-extradited tag-freedom tag-hosting
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>December 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/19/irish-man-behind-freedom-hosting-to-appeal-extradition-to-the-us/#comments">16 Comments</a></span>
@@ -16,5 +17,6 @@ Freedom Hosting: High Court grants extradition of Irishman to Us"
 <p>Marques has been arrested on August 2013 and remained in custody until then. He was back in court today where Justice Aileen Donnelly told the man her decision in the case: she ordered Marques’ extradition to the United States</p>
 <p>Justice Aileen Donnelly decided it did not ”infringe on his human or constitutional rights”, and also ruled a decision by the Director of Public Prosecutions (DPP) not to prosecute Marques in Ireland is not reviewable.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a></span> <span style="display:none" class="updated">2015-12-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/extradited/" rel="tag">extradited</a> <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a></span> 
+Updated: 2015-12-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

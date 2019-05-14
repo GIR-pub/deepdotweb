@@ -1,20 +1,21 @@
 ---
-Bitcoin News Roundup – 11 Oct. 2015
+title: "Bitcoin News Roundup – 11 Oct. 2015"
 ---
-<article class="post-listing post-11741 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1879 tag-2524 tag-bitcoin tag-news tag-oct tag-roundup">
-    
-<div class="post-inner">
-    
+
+11741  tag-1879 tag-2524  tag-oct
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    
+
+Posted by: DeepDotWeb
     
     
 <span>October 11, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
+
     
-<span><a href="https://www.deepdotweb.com/2015/10/11/bitcoin-news-roundup-11-oct-2015/#respond">Leave a comment</a></span>
-</p>        
+<span><a href="/2015/10/11/bitcoin-news-roundup-11-oct-2015/
+        
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Gemini bitcoin exchange is live. As P.H Madore of <a href="https://www.cryptocoinsnews.com/gemini-bitcoin-exchange-launches-needs-no-bitlicense-fincen/">CryptoCoins News</a> writes, the Winklevoss Twins have announced in the company’s blog that their long-waited bitcoin exchange has officially opened its doors to institutional and retail investors on October 8<sup>th</sup>. Gemini offers the four pillars of business, product, security, licensing and compliance. Through the Gemini Trust Company, LLC, Gemini becomes a fiduciary, accepting customers under New York Banking Law, and it is exempted from registering with FinCEN for anti-money laundering.</p>
 <p>The U.S. government rosters final bitcoin auction from the Silk Road. As Nate Raymond of <a href="http://www.reuters.com/article/2015/10/05/us-usa-bitcoin-auction-idUSKCN0RZ1SP20151005">Reuters</a> writes, the U.S. Marshals Service (USMS) plans to sell 44,341 BTC (approximately $10.6mιn current exchange rates) seized during the arrest of Ross Ulbricht, the creator of Silk Road online black market. The online action is scheduled for November 5<sup>th</sup>.</p>
@@ -28,10 +29,10 @@ Bitcoin News Roundup – 11 Oct. 2015
 <p>Unbanked people in Tunisia are using the blockchain technology through Monetas. As Sarah Jenn of <a href="http://www.newsbtc.com/2015/10/09/tunisia-taps-into-blockchain-payments-system-thru-monetas/">NewsBtc</a> writes, the Swiss software startup Monetas supports blockchain payments on its mobile payments platform, addressing the lack of convertibility of mobile money issued by a telecom company to another. Furthermore, Monetas joins forces with DigitUs for the development of eDinar-Plus, a mobile money payments system that will introduce a card-based system allowing the Central Bank of Tunisia, La Poste Tunisienne and DigitUsto act as intermediaries.</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/11/" rel="tag">11</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/oct/" rel="tag">oct</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span>				<span style="display:none" class="updated">2015-10-11
+
+<a href="/tag/11/" rel="tag">11</a>   <a href="/tag/oct/" rel="tag">oct</a> </span>				
+Updated: 2015-10-11
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

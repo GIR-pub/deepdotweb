@@ -1,12 +1,13 @@
 ---
-Liquid Sidechains and the Price of Bitcoin"
+title: "Liquid Sidechains and the Price of Bitcoin"
 ---
-<article class="post-listing post-11818 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-liquid tag-price tag-sidechains">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11818  tag-liquid tag-price tag-sidechains
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>October 20, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/10/20/liquid-sidechains-and-the-price-of-bitcoin/#respond">Leave a comment</a></span>
+<span><a href="/2015/10/20/liquid-sidechains-and-the-price-of-bitcoin/#respond">Leave a comment</a></span>
 
 
 <p>Blockstream, a bitcoin startup with a team comprising of renowned architects of Bitcoin, cryptographers, and cypherpunk heavyweights, announced a product code named Liquid, set for release in Q1 2016. Liquid, a commercial sidechain, builds upon proposals set out in the original sidechains white paper.</p>
@@ -30,5 +31,6 @@ Liquid Sidechains and the Price of Bitcoin"
 <p>Connecting exchanges order books will improve capital adequacy and market liquidity. Because accounts held at different brokerages and exchanges can cross settle securely within seconds, access to competitors’ order books opens up a global order book. Institutional capital, traders, family offices and traders can trade bitcoin on deeper markets, as exchanges move closer to resembling traditional derivatives and stock markets. Bitcoins exchanges could soon become mere ATMs.</p>
 <p>This is certainly the type of infrastructure that is much needed for bitcoin as an alternative asset class to affirm itself mainstream. I am excited to see how this develops over the next year. More capital coming into bitcoin, speculators, trading platforms, rapid settlements, brokerages &#8211; all ultimately add value to the price of bitcoin. It is only a matter of time before bitcoin, will be as valid as any other asset class, in the eyes of the mainstream average investor. This means a higher bitcoin price than we have today.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/liquid/" rel="tag">liquid</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sidechains/" rel="tag">sidechains</a></span> <span style="display:none" class="updated">2015-10-20<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/liquid/" rel="tag">liquid</a> <a href="/tag/price/" rel="tag">price</a> <a href="/tag/sidechains/" rel="tag">sidechains</a></span> 
+Updated: 2015-10-20
 

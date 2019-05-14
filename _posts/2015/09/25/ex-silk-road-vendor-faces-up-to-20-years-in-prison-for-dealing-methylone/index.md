@@ -1,12 +1,14 @@
 ---
-Ex-Silk Road Vendor Faces Up To 20 Years in Prison for Dealing Methylone"
+title: "Ex-Silk Road Vendor Faces Up To 20 Years in Prison for Dealing Methylone"
 ---
-<article class="post-listing post-11605 post type-post status-publish format-standard has-post-thumbnail hentry tag-dealing tag-exsilk tag-faces tag-methylone tag-prison tag-vendor tag-years">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11605 tag-dealing tag-exsilk tag-faces tag-methylone tag-prison tag-vendor tag-years
+Posted by: DeepDotWeb 
+
 <span>September 25, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/25/ex-silk-road-vendor-faces-up-to-20-years-in-prison-for-dealing-methylone/#comments">1 Comment</a></span>
+
+
+<span><a href="/2015/09/25/ex-silk-road-vendor-faces-up-to-20-years-in-prison-for-dealing-methylone/#comments">1 Comment</a></span>
 
 
 <p>A 30-year-old Orlando man faces 20 years in federal prison for selling designer drugs which were being shipped from China through an online black market for illegal narcotics, according to the U.S. Attorney&#8217;s Office.</p>
@@ -22,4 +24,5 @@ Ex-Silk Road Vendor Faces Up To 20 Years in Prison for Dealing Methylone"
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/282689406/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_13403" frameborder="0"></iframe></p>
 <p><strong>Article Source</strong>: http://www.orlandosentinel.com/news/breaking-news/os-andrew-pieters-molly-dealer-prison-20150924-story.html</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/exsilk/" rel="tag">exsilk</a> <a href="https://www.deepdotweb.com/tag/faces/" rel="tag">faces</a> <a href="https://www.deepdotweb.com/tag/methylone/" rel="tag">methylone</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a>  <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-09-25
+ <a href="/tag/dealing/" rel="tag">dealing</a> <a href="/tag/exsilk/" rel="tag">exsilk</a> <a href="/tag/faces/" rel="tag">faces</a> <a href="/tag/methylone/" rel="tag">methylone</a> <a href="/tag/prison/" rel="tag">prison</a>  <a href="/tag/vendor/" rel="tag">vendor</a> <a href="/tag/years/" rel="tag">years</a></span> 
+Updated: 2015-09-25

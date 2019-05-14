@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 13 Sep. 2015
+title: "Bitcoin News Roundup – 13 Sep. 2015"
 ---
-<article class="post-listing post-11523 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1826 tag-2524 tag-bitcoin tag-news tag-roundup tag-sep">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11523  tag-1826 tag-2524  tag-sep
+Posted by: DeepDotWeb 
+
 <span>September 13, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/13/bitcoin-news-roundup-13-sep-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/09/13/bitcoin-news-roundup-13-sep-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -21,4 +23,5 @@ Bitcoin News Roundup – 13 Sep. 2015
 <p>UPS seeks to implement the blockchain technology in its operations. As Sarah Jenn of <a href="http://www.newsbtc.com/2015/09/11/will-ups-use-blockchain-technology-for-shipment-tracking/">NewsBtc</a> writes, the top package delivery and logistics company, is exploring the benefits of the blockchain and the bitcoin via its private equity strategic investment arm UPS Strategic Enterprise Fund (SEF). Rimas Kapeskas, SEF Managing Director, emphasizing the limitless advantages of the blockchain, thinks that <em>“it has enhanced the global exchange of goods and information and it gives more people access to virtual marketplaces.”</em></p>
 <p>E-coin launches virtual currency debit card. As John Weru Maina of <a href="https://www.cryptocoinsnews.com/e-coin-launches-visa-branded-bitcoin-debit-card/">CryptoCoins News</a> writes, the bitcoin startup launches a Visa-branded virtual prepaid card to enable unlimited spending and ATM withdrawals to bitcoin users worldwide. Cardholders will be able to perform all the transactions Visa cardholders do, whereas the card is expected to trigger the cryptocurrency developers as it allows spending on websites that do not accept the bitcoin yet.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/13/" rel="tag">13</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/sep/" rel="tag">sep</a></span> <span style="display:none" class="updated">2015-09-13
+<a href="/tag/13/" rel="tag">13</a>    <a href="/tag/sep/" rel="tag">sep</a></span> 
+Updated: 2015-09-13

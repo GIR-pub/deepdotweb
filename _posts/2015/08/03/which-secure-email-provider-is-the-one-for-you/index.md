@@ -1,22 +1,22 @@
 ---
-Which Secure Email Provider Is the One For You?"
+title: "Which Secure Email Provider Is the One For You?"
 ---
-<article class="post-listing post-10325 post type-post status-publish format-standard has-post-thumbnail hentry  tag-email tag-provider tag-secure">
-    
-<div class="post-inner">
-    
+
+10325  tag-email tag-provider tag-secure
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    
+
+Posted by: DeepDotWeb
     
     
 <span>August 3, 2015</span>
 
     
-<span><a href="https://www.deepdotweb.com/2015/08/03/which-secure-email-provider-is-the-one-for-you/#comments">37 Comments</a></span>
+<span><a href="/2015/08/03/which-secure-email-provider-is-the-one-for-you/#comments">37 Comments</a></span>
 </p>        
 <p>As privacy consciousness has increased, phrases like “zero knowledge” and “end-to-end encryption” have become buzzwords of sorts. Many businesses, products, and online services have sprung up in the wake of Edward Snowden hoping to get a slice of the rapidly expanding market for privacy-enhancing technology. But which ones are all talk and which deliver? Let&#8217;s take a look at a few email providers who might fit the bill.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;Hide Your Tor usage from your ISP &#8211; Click here for the best VPN&#8217;s&lt;&lt; </a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;Hide Your Tor usage from your ISP &#8211; Click here for the best VPN&#8217;s&lt;&lt; </a></p>
 <p><strong>ProtonMail</strong></p>
 <p>Started in 2013, <a href="https://protonmail.ch/">ProtonMail</a> specifically cites Edward Snowden as an inspiration for their service. They make a big deal out of two things: the fact that they are based in Switzerland, and their two password system. The gist is that ProtonMail is marketing themselves as the “Swiss bank account” of email providers. Indeed, they say just that on <a href="https://protonmail.ch/pages/security-details">the page</a> detailing their security measures: their servers “are colocated in some of the same secured and guarded datacenters used by Switzerland&#8217;s famed private banks”. Elsewhere they boast of a “secure datacenter facility hidden inside a Swiss granite mountain” and that this is a “former military command center deep inside the Swiss Alps”.</p>
 <p>This all sounds very impressive, but what&#8217;s the nitty gritty? The touted two password system works as follows: the first password logs the user into their account. This leads to a page titled “Decrypt mailbox” prompting them to enter a second password. This password unlocks the user&#8217;s symmetrically encrypted 2048 bit private RSA key which in turn decrypts their mailbox. The decryption process happens entirely locally in the client&#8217;s browser using JavaScript so that there is no room for ProtonMail to intercept the passphrase protecting the secret key. The private key and mailbox are both encrypted using AES-256. It is an implementation of OpenPGP.js.</p>
@@ -39,10 +39,10 @@ Which Secure Email Provider Is the One For You?"
 <p>While it may be a nuisance, the best security is always offered by being in control of your own private key. Services that simplify key management often sacrifice a large amount of that control, but for the purpose of emailing people without knowledge of cryptography, the increase in security and privacy is significant when compared to providers like Hotmail or Gmail. Therefore, if all you are looking for is to go about your daily activities with greater privacy, providers like ProtonMail, TutaNota and Lavaboom offer you just that. For extraordinary protection, never trust your key management to a third party.</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/email/" rel="tag">email</a> <a href="https://www.deepdotweb.com/tag/provider/" rel="tag">provider</a> <a href="https://www.deepdotweb.com/tag/secure/" rel="tag">secure</a></span>				<span style="display:none" class="updated">2015-08-03
+
+<a href="/tag/email/" rel="tag">email</a> <a href="/tag/provider/" rel="tag">provider</a> <a href="/tag/secure/" rel="tag">secure</a></span>				
+Updated: 2015-08-03
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

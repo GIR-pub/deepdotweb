@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis 22nd October"
+title: "Bitcoin Price Analysis 22nd October"
 ---
-<article class="post-listing post-11827 post type-post status-publish format-standard has-post-thumbnail hentry  tag-22nd tag-analysis tag-bitcoin tag-october tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11827  tag-22nd tag-analysis tag-october tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>October 22, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/22/bitcoin-price-analysis-22nd-october/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/10/22/bitcoin-price-analysis-22nd-october/#respond">Leave a comment</a></span>
 
 
 <p><a href="/imgs/2015/10/13.jpg"><img class="aligncenter size-full wp-image-11828" src="/imgs/2015/10/13.jpg" alt="1" width="1134" height="664" srcset="/imgs/2015/10/13.jpg 1134w, /imgs/2015/10/13-300x176.jpg 300w, /imgs/2015/10/13-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
@@ -41,5 +43,6 @@ Bitcoin Price Analysis 22nd October"
 <p><a href="/imgs/2015/10/91.png"><img class="aligncenter size-full wp-image-11836" src="/imgs/2015/10/91.png" alt="9" width="1256" height="539" srcset="/imgs/2015/10/91.png 1256w, /imgs/2015/10/91-300x129.png 300w, /imgs/2015/10/91-1024x439.png 1024w" sizes="(max-width: 1256px) 100vw, 1256px"/></a></p>
 <p>This year has been interesting to watch, as $200 support has formed a base for a repeating pattern. Soon or later, a decision will have to be made on whether the bear trend continues or a trend reversal marking $152 as the final bottom.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/22nd/" rel="tag">22nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-22<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/22nd/" rel="tag">22nd</a>  
+Updated: 2015-10-22
 

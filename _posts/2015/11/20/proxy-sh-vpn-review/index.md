@@ -1,9 +1,10 @@
 ---
-Proxy.sh VPN Review
+title: "Proxy.sh VPN Review"
 ---
-<article class="post-listing post-12141 post type-post status-publish format-standard has-post-thumbnail hentry  tag-proxysh tag-vpn">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12141  tag-proxysh tag-vpn
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>November 20, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/11/20/proxy-sh-vpn-review/#comments">11 Comments</a></span>
@@ -231,4 +232,5 @@ Proxy.sh VPN Review
 <p>Overall, we highly recommend Proxy.sh for those who prioritize their privacy and security while using the clear and dark net. We also recommended it to those who engage in heavy P2P activities.</p>
 <p><a href="https://proxy.sh/panel/aff.php?aff=995" target="_blank"><strong>&gt;&gt; Click HERE to Visit the Proxy.sh VPN Official Site</strong></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/proxysh/" rel="tag">proxysh</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-11-20
+<a href="https://www.deepdotweb.com/tag/proxysh/" rel="tag">proxysh</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> 
+Updated: 2015-11-20

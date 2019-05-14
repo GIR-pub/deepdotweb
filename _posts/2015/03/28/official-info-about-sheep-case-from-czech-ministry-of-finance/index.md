@@ -1,12 +1,13 @@
 ---
-Official Info About Sheep Case From Czech Ministry of Finance"
+title: "Official Info About Sheep Case From Czech Ministry of Finance"
 ---
-<article class="post-listing post-9724 post type-post status-publish format-standard hentry category-news tag-case tag-czech tag-finance tag-ministry tag-official tag-sheep">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9724 tag-case tag-czech tag-finance tag-ministry tag-official tag-sheep
+Posted by: DeepDotWeb 
+
 <span>March 28, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/28/official-info-about-sheep-case-from-czech-ministry-of-finance/#respond">Leave a comment</a></span>
+
+<span><a href="/2015/03/28/official-info-about-sheep-case-from-czech-ministry-of-finance/#respond">Leave a comment</a></span>
 
 
 <div class="usertext-body may-blank-within md-container">
@@ -24,4 +25,5 @@ Official Info About Sheep Case From Czech Ministry of Finance"
 </div>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/czech/" rel="tag">czech</a> <a href="https://www.deepdotweb.com/tag/finance/" rel="tag">finance</a> <a href="https://www.deepdotweb.com/tag/info/" rel="tag">info</a> <a href="https://www.deepdotweb.com/tag/ministry/" rel="tag">ministry</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a></span> <span style="display:none" class="updated">2015-03-28
+<a href="/tag/case/" rel="tag">case</a> <a href="/tag/czech/" rel="tag">czech</a> <a href="/tag/finance/" rel="tag">finance</a> <a href="/tag/info/" rel="tag">info</a> <a href="/tag/ministry/" rel="tag">ministry</a> <a href="/tag/official/" rel="tag">official</a> <a href="/tag/sheep/" rel="tag">sheep</a></span> 
+Updated: 2015-03-28

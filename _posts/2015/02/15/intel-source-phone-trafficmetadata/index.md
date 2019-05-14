@@ -1,13 +1,10 @@
 ---
-Intel Source – Phone Traffic/Metadata Analysis #4
+title: "Intel Source – Phone Traffic/Metadata Analysis #4"
 ---
-<article class="post-listing post-8431 post type-post status-publish format-standard has-post-thumbnail hentry  tag-intelphone">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+
+Posted by: Allen Hoffmann, JD
+
 <span>February 15, 2015</span>
-
-<span><a href="https://www.deepdotweb.com/2015/02/15/intel-source-phone-trafficmetadata/#comments">1 Comment</a></span>
-
 
 <p><strong>Read the other parts once published in the <a href="http://www.deepdotweb.com/tag/IntelPhone/">IntelPhone</a> Tag</strong><br />
     Last time we talked about the methods via which your SIM and IMEI are veritable data gold mine. By cross referencing all the other network records and traffic which that IMEI and/or SIM has ever generated, on that network or others, the telecommunications company and/or your adversary can now check the history of the individual SIM, IMEI, and network of that SIM/IMEI user’s history, and then do the same thing when chasing the same links from any number used, in or out (SIM and IMEI combination – then chase all the phones that SIM has been plugged into, and all the SIMs which have been plugged into that IMEI). Thus the network spreads and spreads like watching a fire burn through a forest – the same shit gets done over and over again, SIMs and IMEIs, in the blink of an eye. Any and every lapse in OPSEC on the phones of your network/s forever accessible, today, tomorrow and for years to come, to a keen investigative eye, or metadata scraping program, and will be highlighted across a network map in some dark squad room somewhere, tacked to a wall for a taskforce or squad to work on.</p>
@@ -17,6 +14,6 @@ Intel Source – Phone Traffic/Metadata Analysis #4
 <p>Imagine for a moment that I am your adversary. If I know you make a call to an unknown party (maybe someone from whom I suspect you buy vast quantities of talcum powder) at a certain time of day from a certain area, but that you change both your SIM and IMEI, guess what I’m going to analyze in terms of traffic? How about I, as an analyst, notice that a number always calls at a particular time of day to a particular store’s landline number which I am watching as a potential stash house for talcum powder, but that number never actually connects and never makes any other calls? I’m going to start paying a whole lot more attention to that IMEI and SIM, and any other investigative links I can make happen from it as well.<br />
     Thus we see security is not something that can be entrusted as an order to be followed by rank and file foot soldiers – if your people don’t understand why the fuck they can’t call their homie cross country when they have free minutes on their burner (“It ain’t costin’ you shit, nigga!”), they are doomed to make the mistake of doing so; it’s the catch 22 of having your talk group know enough that they get things right, and not know so much/too much that they don’t understand it or fuck it up. That old knowledge gap between security and user-friendliness rears its head from Silicon Valley to the Bronx. There is a solid reason why lots of people get caught (and why it very seldom makes it into court documents) – reliable and intelligent help is hard to find, and regardless, the longer you play the game, the more likely it is that you’ll breach an exceedingly important OPSEC rule because it becomes mundane or someone on your team decides that breaking or even bending the rules ‘just once’ couldn’t possibly hurt. On a long enough timeline, the survival rate for everything, from a May Fly to a human to a tortoise to a skyscraper, falls to zero – and an enterprise is no different. People who don’t slip up and make the cost/benefit consideration of investigation vs. ongoing results an impossible equation stay out of the court system. The rest become statistics which permit the ongoing and ever increasing intensity of new investigations and the methodologies attendant.</p>
 <p>Is there really a good reason to invest time or money in PGP text messaging or a proprietary crypto phone, or even encryption software for your computer if you don’t trust it fully? For reasons other than why you would conventionally think so, probably. Find out more next time.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/intelphone/" rel="tag">IntelPhone</a></span> <span style="display:none" class="updated">2015-02-15<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+
+Updated: 2015-02-15
 

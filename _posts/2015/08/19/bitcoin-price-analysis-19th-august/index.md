@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis 19th August
+title: "Bitcoin Price Analysis 19th August"
 ---
-<article class="post-listing post-11303 post type-post status-publish format-standard has-post-thumbnail hentry  tag-19th tag-analysis tag-august tag-bitcoin tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11303  tag-19th tag-analysis tag-august tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>August 19, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/19/bitcoin-price-analysis-19th-august/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/19/bitcoin-price-analysis-19th-august/#respond">Leave a comment</a></span>
 
 
 <p><strong><u>Bitcoin Market Fundamentals</u></strong></p>
@@ -36,5 +38,6 @@ Bitcoin Price Analysis 19th August
 <p><a href="/imgs/2015/08/7.png"><img class="aligncenter size-full wp-image-11310" src="/imgs/2015/08/7.png" alt="7" width="1026" height="550" srcset="/imgs/2015/08/7.png 1026w, /imgs/2015/08/7-300x161.png 300w, /imgs/2015/08/7-1024x549.png 1024w" sizes="(max-width: 1026px) 100vw, 1026px"/></a></p>
 <p>Despite breaking out from the 18 month long bear trend dating back to December 2013, it doesn’t seem to have been convincing as can be seen above. The upper trend line sits squarely between current prices and heading back into the bear channel. Back into the channel would mean the last 2 months were a sharp projection out of the channel and not really a break out. The implications of a resumed bear trend would mean possible targets of $100 (bottom channel support). For now, we wait.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/19th/" rel="tag">19th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-19<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/19th/" rel="tag">19th</a>  
+Updated: 2015-08-19
 

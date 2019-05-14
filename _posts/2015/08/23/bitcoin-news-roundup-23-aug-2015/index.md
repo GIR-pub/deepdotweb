@@ -1,20 +1,21 @@
 ---
-Bitcoin News Roundup – 23 Aug. 2015
+title: "Bitcoin News Roundup – 23 Aug. 2015"
 ---
-<article class="post-listing post-11321 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-2706 tag-aug tag-bitcoin tag-news tag-roundup">
-    
-<div class="post-inner">
-    
+
+11321  tag-2524 tag-2706 tag-aug 
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    
+
+Posted by: DeepDotWeb
     
     
 <span>August 23, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
+
     
-<span><a href="https://www.deepdotweb.com/2015/08/23/bitcoin-news-roundup-23-aug-2015/#respond">Leave a comment</a></span>
-</p>        
+<span><a href="/2015/08/23/bitcoin-news-roundup-23-aug-2015/
+        
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>An American startup unifies Internet of Things with the blockchain technology. As Stacey Higginbotham of <a href="http://fortune.com/2015/08/18/filament-blockchain-iot/">Fortune</a> reports, Filament has raised $5million in a Series A funding round led by Bullpen Capital to leverage blockchain for IoT. Filament has built Tap, a rugged sensor package and technology network that allows its sensors to conduct business even when they aren’t actually connected to the internet. Other investors that participated in the round included Haystack, Verizon Ventures, Samsung Ventures, Crosslink Capital, Working Lab Capital, Digital Currency Group and Techstars, among others.</p>
 <p>On the same page, Intel aims to combine Internet of Things with bitcoin Transactions. Jp Buntinx of <a href="http://bitcoinist.net/intel-unify-internet-things-bitcoin-transactions/">Bitcoinist</a> reports that Intel aims to make IoT mainstream by using blockchain technology to create a seamless environment that can secure bitcoin transactions. According to Intel’s statement “<em>We missed mobility, we’re not going to miss the Internet of Things.”</em></p>
@@ -28,10 +29,10 @@ Bitcoin News Roundup – 23 Aug. 2015
 <p>CoinWallet plans a stress test in September. Ian Allison of <a href="http://www.ibtimes.co.uk/coinwallet-plans-bitcoin-dust-attack-september-create-30-day-transaction-backlog-1515981">International Business Times</a> reports that the UK-based bitcoin mining company will carry out a stress test of its bitcoin network, which is expected to prove most standard bitcoin wallet “worthless” and create “a 30-day backlog.” The test will be conducted in early September.</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/aug/" rel="tag">aug</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span>				<span style="display:none" class="updated">2015-08-23
+
+ <a href="/tag/23/" rel="tag">23</a> <a href="/tag/aug/" rel="tag">aug</a>  </span>				
+Updated: 2015-08-23
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis 16 sept 2015
+title: "Bitcoin Price Analysis 16 sept 2015"
 ---
-<article class="post-listing post-11553 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-2524 tag-analysis tag-bitcoin tag-price tag-sept">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11553  tag-1887 tag-2524 tag-analysis tag-price tag-sept
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>September 16, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/16/bitcoin-price-analysis-16-sept-2015/#comments">2 Comments</a></span>
+
+
+<span><a href="/2015/09/16/bitcoin-price-analysis-16-sept-2015/#comments">2 Comments</a></span>
 
 
 <p><strong>BITCOIN PRICE THIS WEEK</strong></p>
@@ -35,5 +37,6 @@ Bitcoin Price Analysis 16 sept 2015
 <p><a href="/imgs/2015/09/52.jpg"><img class="aligncenter size-full wp-image-11558" src="/imgs/2015/09/52.jpg" alt="5" width="1020" height="422" srcset="/imgs/2015/09/52.jpg 1020w, /imgs/2015/09/52-300x124.jpg 300w" sizes="(max-width: 1020px) 100vw, 1020px"/></a></p>
 <p>At this point, looking at price projections in the mid -term is best, as the market is at a critical level. Look out for an analysis report on the midterm to long term price outlook, and the real possibility of $ 100 coins!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/sept/" rel="tag">sept</a></span> <span style="display:none" class="updated">2015-09-16<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/16/" rel="tag">16</a>  <a href="/tag/price/" rel="tag">price</a> <a href="/tag/sept/" rel="tag">sept</a></span> 
+Updated: 2015-09-16
 

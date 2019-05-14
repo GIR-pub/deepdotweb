@@ -1,9 +1,10 @@
 ---
-&#8220;NCA Wannabe&#8221; Sentenced For Importing Guns And Ammo"
+title: "&#8220;NCA Wannabe&#8221; Sentenced For Importing Guns And Ammo"
 ---
-<article class="post-listing post-12390 post type-post status-publish format-standard hentry category-news tag-ammo tag-guns tag-importing tag-nca tag-sentenced tag-wannabe">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12390 tag-ammo tag-guns tag-importing tag-nca tag-sentenced tag-wannabe
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>December 3, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/03/nca-wannabe-sentenced-for-importing-guns-and-ammo/#respond">Leave a comment</a></span>
@@ -18,5 +19,6 @@
 <p>Peter Vernon, senior investigating officer of the NCA made this statement regarding the case:</p>
 <p>&#8220;Hillyer appeared to be using the dark web to play out a fantasy, his sentencing has hopefully provided a dose of reality for those looking to illegally purchase firearms online under the supposed anonymity of dark web forums. It is another reminder to criminals, you can be tracked and brought to justice. Ensuring that illegal firearms cannot be sourced in this way is a national security priority and we will continue to work tirelessly to prevent and disrupt those involved in the buying and selling of firearms on the dark web.”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/ammo/" rel="tag">ammo</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/importing/" rel="tag">importing</a> <a href="https://www.deepdotweb.com/tag/nca/" rel="tag">nca</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/wannabe/" rel="tag">wannabe</a></span> <span style="display:none" class="updated">2015-12-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/ammo/" rel="tag">ammo</a> <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/importing/" rel="tag">importing</a> <a href="https://www.deepdotweb.com/tag/nca/" rel="tag">nca</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/wannabe/" rel="tag">wannabe</a></span> 
+Updated: 2015-12-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

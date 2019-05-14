@@ -1,12 +1,14 @@
 ---
-BitFinex FlashCrash &#8211; Post-Mortem Analysis"
+title: "BitFinex FlashCrash &#8211; Post-Mortem Analysis"
 ---
-<article class="post-listing post-11326 post type-post status-publish format-standard has-post-thumbnail hentry  tag-analysis tag-bitfinex tag-flashcrash tag-postmortem">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11326  tag-analysis tag-bitfinex tag-flashcrash tag-postmortem
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>August 24, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/24/bitfinex-flashcrash-post-mortem-analysis/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/24/bitfinex-flashcrash-post-mortem-analysis/#respond">Leave a comment</a></span>
 
 
 <p>On August 16th, just before midnight (UTC), Bitcoin markets were in a moment of temporary panic, about 30 minutes after a flash crash incidence on one of the world’s largest exchange (by liquidity) BitFinex. Wikipedia describes it as</p>
@@ -47,5 +49,6 @@ BitFinex FlashCrash &#8211; Post-Mortem Analysis"
 <p>Trader’s Block conducted their own <a href="https://tradeblock.com/blog/bitfinex-flash-crash-analysis">post-event analysis</a>, which seemed to back up Potter assertions.</p>
 <p><em>“Over the one-hour trading period highlighted above, ~70k bitcoin changed hands at Bitfinex; this compares with an average daily volume of 20k bitcoin at Bitfinex over the past month. Bitfinex was not only trading in excess of 10% away from the rest of the market, but also with a multi-point bid/ask spread, leading to significant jumps between ticks”</em> &#8211; Trader’s Block</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitfinex/" rel="tag">bitfinex</a> <a href="https://www.deepdotweb.com/tag/flashcrash/" rel="tag">flashcrash</a> <a href="https://www.deepdotweb.com/tag/postmortem/" rel="tag">postmortem</a></span> <span style="display:none" class="updated">2015-08-24<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/bitfinex/" rel="tag">bitfinex</a> <a href="/tag/flashcrash/" rel="tag">flashcrash</a> <a href="/tag/postmortem/" rel="tag">postmortem</a></span> 
+Updated: 2015-08-24
 

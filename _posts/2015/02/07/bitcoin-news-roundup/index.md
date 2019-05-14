@@ -1,13 +1,11 @@
 ---
-Bitcoin News Roundup – 07Feb. 2015
+title: "Bitcoin News Roundup – 07Feb. 2015"
 ---
-<article class="post-listing post-8979 post type-post status-publish format-standard has-post-thumbnail hentry 
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>February 7, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/07/bitcoin-news-roundup/#respond">Leave a comment</a></span>
 
+
+Posted by: DeepDotWeb 
+
+<span>February 7, 2015</span>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Following a four week trial, Ross Ulbricht is sentenced to a lifetime in prison for all charges. According to prosecutors, Ulbricht is Dread Pirate Roberts and charged with <em>“drug trafficking, money laundering, conspiracy to sell hacking tools, running a criminal venture and orchestrating a conspiracy to sell fake IDs.”</em>Ulbricht’s defense states that Ulbricht has been potentially framed. Aaron van Wirdum of <a href="http://cointelegraph.com/news/113433/ross-ulbricht-found-guilty-on-all-charges">Coin Telegraph</a> reports that“Dread Pirate Roberts” is another person who ran the Silk Road for several years and then planted evidence on Ulbricht’s computer.</p>
@@ -25,4 +23,5 @@ Bitcoin News Roundup – 07Feb. 2015
 <p>Vogogo, the California-based bitcoin payment processor set up a strategic partnership with the UK-based-eMerchantPay, a leading company for international online payment processing services. According to <a href="http://finance.yahoo.com/news/vogogo-enters-european-market-strategic-123100057.html">Yahoo Finance</a>, the new partnership opens up the European market to Vogogo as its European based customers are expected to integrate with Vogogo’s platform to accept credit and debit payments in bitcoins and facilitate the seamless trade of bitcoin with fiat money.</p>
 <p>Ripple Labs and Stellar are fierce competitors in the cryptocurrency ecosystem. As Michael Craig of <a href="http://observer.com/2015/02/the-race-to-replace-bitcoin/">The Observer</a> reports, Jeb McCaleb, the founder of both companies, was maintaining a long-standing and intimate relationship with Joyce Kim, Stellar’s executive director. According to the report, the personal relationship not only jeopardized McCaleb’s relations with senior executives and board members at Ripple Labs, but it had also a major impact on the other companies involved with Stellar such as Stripe and Wells Fargo, among others.</p>
 </div>
-<span style="display:none" class="updated">2015-02-07
+
+Updated: 2015-02-07

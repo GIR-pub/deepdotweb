@@ -1,9 +1,10 @@
 ---
-Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations"
+title: "Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations"
 ---
-<article class="post-listing post-12504 post type-post status-publish format-standard has-post-thumbnail hentry  tag-attacks tag-french tag-paris tag-police tag-regulations  tag-wifi">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12504  tag-attacks tag-french tag-paris tag-police tag-regulations  tag-wifi
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/09/following-paris-attacks-french-police-want-say-on-tor-and-wi-fi-regulations/#comments">2 Comments</a></span>
@@ -20,4 +21,5 @@ Following Paris Attacks; French Police want say on Tor and Wi-Fi Regulations"
 <p>This move to regulate could also have pushback from the public because it may be seen as a violation of basic human rights including the freedom of speech. The network is maintained by volunteers today, who route a user’s traffic through several different points, to conceal the original IP address. It was a project established by the United States but now is attempting to stand alone with <a href="http://techcrunch.com/2015/11/24/tor-turns-to-crowdfunding-to-lessen-its-dependence-on-government-money/">volunteer funding</a>. Blocking such a project could potentially be regarded as unconstitutional, according to the French Directorate of Civil Liberties and Legal Affairs (DLPAJ).</p>
 <p>If the French government is able to pass these bills, including legislation blocking or even monitoring Tor networks, then <a href="https://www.whonix.org/wiki/Hide_Tor_and_Whonix_from_your_ISP">it may be possible</a> that the internet service provider will be able to alert authorities when a user is on an anonymous network, even though, the websites will not be known. However, nothing is in the legislation and it is not clear what the next step will be. With tensions still high and the terror alerts in place, the conversation will continue to be the hot topic in Europe.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/paris/" rel="tag">paris</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/regulations/" rel="tag">regulations</a>  <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span> <span style="display:none" class="updated">2015-12-09
+<a href="https://www.deepdotweb.com/tag/attacks/" rel="tag">attacks</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/paris/" rel="tag">paris</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/regulations/" rel="tag">regulations</a>  <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span> 
+Updated: 2015-12-09

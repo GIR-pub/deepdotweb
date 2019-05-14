@@ -1,12 +1,13 @@
 ---
-Pharma Agent Buying Drugs From Darknet Markets For Testing"
+title: "Pharma Agent Buying Drugs From Darknet Markets For Testing"
 ---
-<article class="post-listing post-11857 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-buying tag-pharma tag-testing">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11857  tag-agent tag-buying tag-pharma tag-testing
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>October 26, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/10/26/pharma-agent-buying-drugs-from-darknet-markets-for-testing/#comments">7 Comments</a></span>
+<span><a href="/2015/10/26/pharma-agent-buying-drugs-from-darknet-markets-for-testing/#comments">7 Comments</a></span>
 
 
 <p><a href="http://www.msn.com/en-us/money/markets/why-big-pharma-is-doing-drug-deals-on-the-dark-net/ar-BBmgSTN">Tim Ramsey, a 59 years old ex-policeman is hired by pharmaceutical companies to buy prescription drugs from DNMs (darknet markets) for test purposes.</a> He is mostly looking for pharmaceutical drugs that are either fake or made in untested labs and sold as counterfeit pills or tabs.</p>
@@ -22,5 +23,6 @@ Pharma Agent Buying Drugs From Darknet Markets For Testing"
 <p>There was a case in Germany, which the media has called the “Pill Gang” who were a group of seven people selling prescription drugs internationally. The band netted 21.5 million euros over several years processing about 17.000 orders a month for erectile dysfunction and diet pills, according to court documents. The drugs were made in India or China, stored in Spain and the Czech Republic, and shipped to customers from addresses in other European countries, with the proceeds deposited in Cyprus.</p>
 <p>“At the end of the day, the person who ordered the pills receives a letter from the U.K. or Germany and it doesn’t come from a questionable country,’’ stated Sorge. “These are not shirts or handbags, but medicine and people taking medicine expect it will help, not hurt them.’’</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/buying/" rel="tag">buying</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a>  <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/pharma/" rel="tag">pharma</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> <span style="display:none" class="updated">2015-10-26<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="/tag/agent/" rel="tag">agent</a> <a href="/tag/buying/" rel="tag">buying</a> <a href="/tag/darknet/" rel="tag">darknet</a>  <a href="/tag/markets/" rel="tag">markets</a> <a href="/tag/pharma/" rel="tag">pharma</a> <a href="/tag/testing/" rel="tag">testing</a></span> 
+Updated: 2015-10-26<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

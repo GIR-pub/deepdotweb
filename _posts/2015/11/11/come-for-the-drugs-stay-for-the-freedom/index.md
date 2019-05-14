@@ -1,9 +1,10 @@
 ---
-Come For the Drugs. Stay For the Freedom"
+title: "Come For the Drugs. Stay For the Freedom"
 ---
-<article class="post-listing post-12059 post type-post status-publish format-standard has-post-thumbnail hentry  tag-freedom tag-stay">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/zeekdanube/" title="">Zeek Danube </a></span>
+
+12059  tag-freedom tag-stay
+Posted by: <a href="https://www.deepdotweb.com/author/zeekdanube/" title="">Zeek Danube 
+
 <span>November 11, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/11/11/come-for-the-drugs-stay-for-the-freedom/#comments">2 Comments</a></span>
@@ -24,5 +25,6 @@ Come For the Drugs. Stay For the Freedom"
 <p>Fact is, both groups, activists and the market vendors alike, have a few things in common: They are both labeled as criminals by most international governments. Corporations see them as a threat. And their actions are slowly saving both governments and corporations from their own stupidity.</p>
 <p>Zeek does not use drugs or OPP. Zeek does, however, like to write. He also likes to buy cool stuff for his kids. Every .5 bitcoin that’s generously donated means he can afford to take a day off from work and do a little bit of both!</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/stay/" rel="tag">stay</a></span> <span style="display:none" class="updated">2015-11-11<a href="https://www.deepdotweb.com/author/zeekdanube/" title="Posts by Zeek Danube" rel="author">Zeek Danube</a></strong></div>
+ <a href="https://www.deepdotweb.com/tag/freedom/" rel="tag">freedom</a> <a href="https://www.deepdotweb.com/tag/stay/" rel="tag">stay</a></span> 
+Updated: 2015-11-11<a href="https://www.deepdotweb.com/author/zeekdanube/" title="Posts by Zeek Danube" rel="author">Zeek Danube</a></strong></div>
 

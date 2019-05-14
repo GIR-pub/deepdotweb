@@ -1,12 +1,13 @@
 ---
-Interview With Valhalla (Silkkitie) Admin"
+title: "Interview With Valhalla (Silkkitie) Admin"
 ---
-<article class="post-listing post-11783 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-silkkitie tag-valhalla">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11783  tag-admin tag-interview tag-silkkitie tag-valhalla
+Posted by: DeepDotWeb 
+
 <span>October 16, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/10/16/interview-with-valhalla-silkkitie-admin/#comments">9 Comments</a></span>
+<span><a href="/2015/10/16/interview-with-valhalla-silkkitie-admin/#comments">9 Comments</a></span>
 
 
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Silkkitie Market</a> &#8211; One of the smaller markets which started as a local market for Finland and later turned international just celebrated two years of operation and was rebranded as &#8220;<a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Valhalla</a>&#8220;, we have conducted an interview with &#8220;Kapteeni&#8221;, the market admin, which you can find below.</p>
@@ -79,4 +80,5 @@ Interview With Valhalla (Silkkitie) Admin"
 <p><strong>Anything else interesting you want to share with the readers?</strong></p>
 <p>Stay tuned in, Valhalla will be along with all the progress, there will be interesting times ahead as we continue on the road to success and evolve with the new technology.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/silkkitie/" rel="tag">silkkitie</a> <a href="https://www.deepdotweb.com/tag/valhalla/" rel="tag">valhalla</a></span> <span style="display:none" class="updated">2015-10-16
+<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/interview/" rel="tag">interview</a> <a href="/tag/silkkitie/" rel="tag">silkkitie</a> <a href="/tag/valhalla/" rel="tag">valhalla</a></span> 
+Updated: 2015-10-16

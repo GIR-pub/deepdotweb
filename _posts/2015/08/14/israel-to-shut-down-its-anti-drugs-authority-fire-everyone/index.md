@@ -1,12 +1,14 @@
 ---
-Israel To Shut Down Its &#8220;Anti Drugs Authority&#8221; &#038; Fire Everyone"
+title: "Israel To Shut Down Its &#8220;Anti Drugs Authority&#8221; &#038; Fire Everyone"
 ---
-<article class="post-listing post-11273 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anti tag-authority tag-fire tag-israel tag-shut">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11273  tag-anti tag-authority tag-fire tag-israel tag-shut
+Posted by: DeepDotWeb 
+
 <span>August 14, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/14/israel-to-shut-down-its-anti-drugs-authority-fire-everyone/#comments">8 Comments</a></span>
+
+
+<span><a href="/2015/08/14/israel-to-shut-down-its-anti-drugs-authority-fire-everyone/#comments">8 Comments</a></span>
 
 
 <p>In a surprising turn of event and after 27 years of operation &#8211; The Israeli government has decided to shut down its &#8220;<a href="http://www.antidrugs.org.il/english/default.aspx">Anti Drugs Authority</a>&#8221; (The somewhat parallel of USA&#8217;s <a href="http://www.drugabuse.gov/">NIDA</a> and of the DEA in some minor aspects) &#8211; Its leading organization for the &#8220;war against drugs &#8221; and fire everyone who worked there according to the Israeli &#8220;<a href="http://www.קנאביס.com/2015/08/%D7%9B%D7%9C-%D7%A2%D7%95%D7%91%D7%93%D7%99-%D7%94%D7%A8%D7%A9%D7%95%D7%AA-%D7%9C%D7%9E%D7%9C%D7%97%D7%9E%D7%94-%D7%91%D7%A1%D7%9E%D7%99%D7%9D-%D7%99%D7%A4%D7%95%D7%98%D7%A8%D7%95-%D7%9E%D7%AA%D7%A4/">Cannabis magazine</a>&#8221; who published the official documents released by the government which announced the decision.</p>
@@ -22,4 +24,5 @@ Israel To Shut Down Its &#8220;Anti Drugs Authority&#8221; &#038; Fire Everyone"
 <p><span style="text-decoration: underline;"><em>Thanks to Anonymous for the translation and reddit user FFDP101 for bringing this to our attention!</em></span></p>
 <p>Another source &#8211; <a href="http://www.haaretz.com/news/israel/.premium-1.670402">Haaretz news site in the English language</a>.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/anti/" rel="tag">anti</a> <a href="https://www.deepdotweb.com/tag/authority/" rel="tag">authority</a>  <a href="https://www.deepdotweb.com/tag/fire/" rel="tag">fire</a> <a href="https://www.deepdotweb.com/tag/israel/" rel="tag">israel</a> <a href="https://www.deepdotweb.com/tag/shut/" rel="tag">shut</a></span> <span style="display:none" class="updated">2015-08-14
+<a href="/tag/anti/" rel="tag">anti</a> <a href="/tag/authority/" rel="tag">authority</a>  <a href="/tag/fire/" rel="tag">fire</a> <a href="/tag/israel/" rel="tag">israel</a> <a href="/tag/shut/" rel="tag">shut</a></span> 
+Updated: 2015-08-14

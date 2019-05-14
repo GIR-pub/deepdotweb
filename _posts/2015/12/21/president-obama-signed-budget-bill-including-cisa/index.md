@@ -1,9 +1,10 @@
 ---
-President Obama Signed Budget Bill Including CISa"
+title: "President Obama Signed Budget Bill Including CISa"
 ---
-<article class="post-listing post-12720 post type-post status-publish format-standard hentry category-news tag-bill tag-budget tag-cisa tag-including tag-obama tag-president tag-signed">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12720 tag-bill tag-budget tag-cisa tag-including tag-obama tag-president tag-signed
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>December 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/21/president-obama-signed-budget-bill-including-cisa/#respond">Leave a comment</a></span>
@@ -15,5 +16,6 @@ President Obama Signed Budget Bill Including CISa"
 <p>According to experts in the topic, the point of including CISA into such a huge omnibus bill is to make a law of it for sure. Another important point is that the current version of the CISA bill ”plays with privacy even faster and looser” than the original. A previously held prohibition against sharing information with the NSA has been removed, which means that the USA&#8217;s most infamous surveillance agency can receive pertinent data without it being handled by Homeland Security first. More importantly, the provision that required personal information to be removed from cybersecurity reports also seems to have gone missing, leaving that task up to the discretion of the specific agency that handles the data. The best conclusion for this article would be quoting Engadget’s Chris Velazco on the CISA bill:</p>
 <p>”While the federal government has been trying to toughen its stance on cybersecurity in the wake of massive hacks on the Office of Personnel Management and Sony, we wound up with an, even more, effete version of a questionable plan that will soon become law.”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/budget/" rel="tag">budget</a> <a href="https://www.deepdotweb.com/tag/cisa/" rel="tag">cisa</a> <a href="https://www.deepdotweb.com/tag/including/" rel="tag">including</a> <a href="https://www.deepdotweb.com/tag/obama/" rel="tag">obama</a> <a href="https://www.deepdotweb.com/tag/president/" rel="tag">president</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a></span> <span style="display:none" class="updated">2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/bill/" rel="tag">bill</a> <a href="https://www.deepdotweb.com/tag/budget/" rel="tag">budget</a> <a href="https://www.deepdotweb.com/tag/cisa/" rel="tag">cisa</a> <a href="https://www.deepdotweb.com/tag/including/" rel="tag">including</a> <a href="https://www.deepdotweb.com/tag/obama/" rel="tag">obama</a> <a href="https://www.deepdotweb.com/tag/president/" rel="tag">president</a> <a href="https://www.deepdotweb.com/tag/signed/" rel="tag">signed</a></span> 
+Updated: 2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

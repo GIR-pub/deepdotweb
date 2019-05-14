@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 28 Sep. 2015
+title: "Bitcoin News Roundup – 28 Sep. 2015"
 ---
-<article class="post-listing post-11615 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-1384 tag-bitcoin tag-news tag-roundup tag-sep">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11615  tag-2524 tag-1384  tag-sep
+Posted by: DeepDotWeb 
+
 <span>September 28, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/28/bitcoin-news-roundup-28-sep-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/09/28/bitcoin-news-roundup-28-sep-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -22,4 +24,5 @@ Bitcoin News Roundup – 28 Sep. 2015
 <p>Circle Internet Financial gets BitLicense approved. AsKatherine Fletcher of <a href="https://coinreport.net/nydfs-issues-first-bitlicense-circle/">Coin Report</a> writes, the Boston-based bitcoin startup is the first company to receive aNew York State BitLicense, the most demanding bitcoin regulation that has caused several bitcoin companies to discontinue their services in the Big Apple. The license will allow Circle to offer digital-currency services to its customers, while protecting them with anti-money laundering compliance and cybersecurity policies.</p>
 <p>BitPay’s“free and unlimited” bitcoin service to new merchants ceases. As Pete Rizzo of <a href="http://www.coindesk.com/bitpay-cut-free-unlimited-processing-merchants/">Coin Desk</a> reports, the service aimed to help Bitpay reach 1 million merchants by 2017. Although the idea of unlimited was perceived as “forever” to allure merchants to the platform, the bitcoin payment processor has decided to stop this service. The small businesses that are using the new Starter Plan, up to 30 monthly transactions and up to $1,000 daily, will not be affected by this shift.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/27/" rel="tag">27</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/sep/" rel="tag">sep</a></span> <span style="display:none" class="updated">2015-09-28
+ <a href="/tag/27/" rel="tag">27</a>   <a href="/tag/sep/" rel="tag">sep</a></span> 
+Updated: 2015-09-28

@@ -1,12 +1,14 @@
 ---
-Bitcoin price analysis 30 September 2015
+title: "Bitcoin price analysis 30 September 2015"
 ---
-<article class="post-listing post-11639 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-1778 tag-analysis tag-bitcoin tag-price tag-september">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11639  tag-2524 tag-1778 tag-analysis tag-price tag-september
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>September 30, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/30/bitcoin-price-analysis-30-september-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/09/30/bitcoin-price-analysis-30-september-2015/#respond">Leave a comment</a></span>
 
 
 <p><a href="/imgs/2015/09/14.jpg"><img class="aligncenter size-full wp-image-11640" src="/imgs/2015/09/14.jpg" alt="1" width="989" height="660" srcset="/imgs/2015/09/14.jpg 989w, /imgs/2015/09/14-300x200.jpg 300w, /imgs/2015/09/14-290x195.jpg 290w" sizes="(max-width: 989px) 100vw, 989px" /></a></p>
@@ -36,5 +38,6 @@ Bitcoin price analysis 30 September 2015
 <p><strong>SIDENOTE</strong></p>
 <p>2 articles i recommend reading. The Dollar Vigilante &#8211; Jeff Berwick’s <a href="https://www.dollarvigilante.com/blog/2015/09/26/if-you-havent-gotten-into-bitcoin-yet-now-is-your-chance.html">‘If You Haven’t Gotten Into Bitcoin Yet… Now Is Your Chance’ </a> and George Sammans <a href="https://ihb.io/2015-09-22/news/currency-wars-and-bitcoin-24342">‘Currency wars &#8211; Race to the Bottom’</a>. Both play up bitcoin as an alternative investment asset class in an increasingly debt fueled global economy. George looks at emerging markets currencies devaluing as the dollar strengthens. Jeff recommends bitcoin as a hedge against Central Banks fueled debt. The threat of financial crisis is real, and could unfold within the next 5 years according to gold bugs and bitcoin speculators.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/30/" rel="tag">30</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-30<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+ <a href="/tag/30/" rel="tag">30</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+Updated: 2015-09-30
 

@@ -1,9 +1,10 @@
 ---
-Dark Web And Bitcoin On Focus At Global Investigators Meeting In New Delhi"
+title: "Dark Web And Bitcoin On Focus At Global Investigators Meeting In New Delhi"
 ---
-<article class="post-listing post-12271 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-dark tag-delhi tag-focus tag-global tag-investigators tag-main tag-meeting tag-web">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12271  tag-dark tag-delhi tag-focus tag-global tag-investigators tag-main tag-meeting tag-web
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>November 20, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/20/dark-web-and-bitcoin-on-focus-at-global-investigators-meeting-in-new-delhi/#respond">Leave a comment</a></span>
@@ -19,5 +20,6 @@ Dark Web And Bitcoin On Focus At Global Investigators Meeting In New Delhi"
 <p>&#8220;StAR is a partnership between UNODC and World Bank. &#8216;Focal Points&#8217; are anti-corruption practitioners registered with the project who form an international network of experts.&#8221;</p>
 <p>The Interpol conference will be introduced by Prime Minister Narendra Modi, so as the ”21st Conference of CBI, state Anti-Corruption Bureaux and Vigilance Bureaux”. The CBI meeting will cover the topics of ”Evolving common approach to combat corruption across multiple jurisdictions”; ”Addressing challenges in the existing Anti-Corruption legal framework” and ”Best practices in Anti-Corruption Efforts”.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/delhi/" rel="tag">delhi</a> <a href="https://www.deepdotweb.com/tag/focus/" rel="tag">focus</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/investigators/" rel="tag">investigators</a> <a href="https://www.deepdotweb.com/tag/main/" rel="tag">main</a> <a href="https://www.deepdotweb.com/tag/meeting/" rel="tag">meeting</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-11-20<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/delhi/" rel="tag">delhi</a> <a href="https://www.deepdotweb.com/tag/focus/" rel="tag">focus</a> <a href="https://www.deepdotweb.com/tag/global/" rel="tag">global</a> <a href="https://www.deepdotweb.com/tag/investigators/" rel="tag">investigators</a> <a href="https://www.deepdotweb.com/tag/main/" rel="tag">main</a> <a href="https://www.deepdotweb.com/tag/meeting/" rel="tag">meeting</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> 
+Updated: 2015-11-20<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

@@ -1,12 +1,13 @@
 ---
-Warning: Evolution Market Withdrawal Issues"
+title: "Warning: Evolution Market Withdrawal Issues"
 ---
-<article class="post-listing post-9495 post type-post status-publish format-standard hentry category-news tag-evolution tag-evoscam s  tag-withdrawal">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9495 tag-evolution tag-evoscam s  tag-withdrawal
+Posted by: DeepDotWeb 
+
 <span>March 17, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/17/warning-evolution-market-withdrawal-issues/#comments">4 Comments</a></span>
+
+<span><a href="/2015/03/17/warning-evolution-market-withdrawal-issues/#comments">4 Comments</a></span>
 
 
 <p>Updates will be added to this tag: <a href="http://www.deepdotweb.com/tag/evoscam/">#Evoscam</a></p>
@@ -23,4 +24,5 @@ Warning: Evolution Market Withdrawal Issues"
 <p>http://www.reddit.com/r/DarkNetMarkets/comments/2zbpad/complaintwarning_has_evolution_begun_an_exit_scam/</p>
 <p>&nbsp;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/evoscam/" rel="tag">Evoscam</a> <a href="https://www.deepdotweb.com/tag/issues/" rel="tag">issues</a> <a href="https://www.deepdotweb.com/tag/warning/" rel="tag">warning</a> <a href="https://www.deepdotweb.com/tag/withdrawal/" rel="tag">withdrawal</a></span> <span style="display:none" class="updated">2015-03-17
+<a href="/tag/evolution/" rel="tag">evolution</a> <a href="/tag/evoscam/" rel="tag">Evoscam</a> <a href="/tag/issues/" rel="tag">issues</a> <a href="/tag/warning/" rel="tag">warning</a> <a href="/tag/withdrawal/" rel="tag">withdrawal</a></span> 
+Updated: 2015-03-17

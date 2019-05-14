@@ -1,12 +1,11 @@
 ---
-PGP Tutorial For Windows (Kleopatra &#8211; Gpg4Win)
+title: "PGP Tutorial For Windows (Kleopatra &#8211; Gpg4Win)"
 ---
-<article class="post-listing post-9185 post type-post status-publish format-standard has-post-thumbnail hentry  tag-gpg4win tag-kleopatra tag-pgp tag-tutorial tag-windows">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>February 21, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/#comments">81 Comments</a></span>
+
+Posted by: DeepDotWeb 
+
+<span>February 21, 2015</span>
 
 
 <div class="usertext-body may-blank-within md-container">
@@ -15,7 +14,7 @@ PGP Tutorial For Windows (Kleopatra &#8211; Gpg4Win)
     Tutorial for </em>Gpg4Win using GPA can <a href="http://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" target="_blank">be found here</a>.</p>
 <h3>Part 0 – Introduction</h3>
 <p>Here&#8217;s the final guide in my PGP basics series, this time focusing on Windows. The OS in question will be Windows 7, but it should work for Win8 and Win8.1 as well. Obviously it&#8217;s not recommended to be using Windows to access the DNM, but I wont go into the reasons here. The tool we&#8217;ll be using is GPG4Win.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
 <h3>Part 1 – Installing the software</h3>
 <p>Just like I said above, we&#8217;ll be using GPG4Win. If you&#8217;re curious, you can view the source code for it <a href="https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=summary">here</a>.</p>
 <ol>
@@ -101,6 +100,5 @@ PGP Tutorial For Windows (Kleopatra &#8211; Gpg4Win)
 <h3>Part 9 – Conclusion</h3>
 <p>I&#8217;m hoping this was in depth enough for you Windows users out there. PGP can seem complicated at first, but with an hour or two of your time you can see it&#8217;s actually pretty simple. There&#8217;s obviously more behind it, and different tools that can be used, but we might save that for another time. Stay safe everyone! Encrypt all messages!</p>
 </div>
-</div>
-</div>
-<a href="https://www.deepdotweb.com/tag/gpg4win/" rel="tag">gpg4win</a> <a href="https://www.deepdotweb.com/tag/kleopatra/" rel="tag">kleopatra</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/windows/" rel="tag">windows</a></span> <span style="display:none" class="updated">2015-02-21
+
+Updated: 2015-02-21

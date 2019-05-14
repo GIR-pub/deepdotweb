@@ -1,12 +1,10 @@
 ---
-Basic Guide to PGP On Linux
+title: "Basic Guide to PGP On Linux"
 ---
-<article class="post-listing post-9094 post type-post status-publish format-standard has-post-thumbnail hentry  tag-basic tag-guide tag-linux tag-pgp">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>February 17, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/#comments">68 Comments</a></span>
+Posted by: DeepDotWeb 
+
+<span>February 17, 2015</span>
 
 
 <div class="usertext-body may-blank-within md-container">
@@ -14,7 +12,7 @@ Basic Guide to PGP On Linux
 <p><em>Full credit goes to <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> for writing this tutorial &#8211; Thanks for publishing  and giving us your permission to post it!</em></p>
 <h3>Part 0 &#8211; Introduction</h3>
 <p>I promised it, and here it is! The PGP guide for Linux! Great timing too for Moronic Monday. For this guide we&#8217;ll be using GnuPG with Gnu Privacy Assistant as a graphical front-end. We will be using CLI to install these two pieces of software, and creating the keypair. The example OS in question is Linux Mint, so the commands for install may differ from your current OS. Don&#8217;t fret though! That&#8217;s the only part that may not be relevant to your OS, the rest of the guide will be the same across distros.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
 <h3>Part 1 – Installing the software</h3>
 <p>Like I said in the intro, we&#8217;ll be using GnuPG with Gnu Privacy Assistant. I like GPA as a graphical front-end because its layout is really easy to understand and follow.</p>
 <ol>
@@ -101,5 +99,5 @@ Basic Guide to PGP On Linux
 <p>There we have it, an easy to follow PGP guide for Linux with pictures! PGP can be overwhelming at first, but with persistence and the willingness to learn anyone can do it. Hopefully this guide will keep you guys safe on the DNM! I&#8217;ll have an OS X guide coming soon, and possibly a Windows guide following that. Any and all constructive feedback is appreciated, as well as suggestions for other guides!</p>
 </div>
 </div>
-</div>
-<a href="https://www.deepdotweb.com/tag/basic/" rel="tag">basic</a> <a href="https://www.deepdotweb.com/tag/guide/" rel="tag">guide</a> <a href="https://www.deepdotweb.com/tag/linux/" rel="tag">linux</a> <a href="https://www.deepdotweb.com/tag/pgp/" rel="tag">pgp</a></span> <span style="display:none" class="updated">2015-02-17
+
+Updated: 2015-02-17

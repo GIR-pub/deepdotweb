@@ -1,12 +1,13 @@
 ---
-Wi-Fi and OPSec"
+title: "Wi-Fi and OPSec"
 ---
-<article class="post-listing post-11107 post type-post status-publish format-standard has-post-thumbnail hentry  tag-opsec tag-wifi">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
+
+11107  tag-opsec tag-wifi
+Posted by: <a href="/author/c3lt1c/" title="">c3lt1c 
+
 <span>September 1, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/09/01/wi-fi-and-opsec/#comments">2 Comments</a></span>
+<span><a href="/2015/09/01/wi-fi-and-opsec/#comments">2 Comments</a></span>
 
 
 <p>It would be reasonable to assume that a vast majority of home internet users have some kind of wireless accessibility for their network of computers, tablets, printers, TVs, etc. In the past, wireless was seen as a convenient, yet risky solution for larger corporations and government entities – When weighing accessibility against security, the former would most definitely win any given battle. As network technologies bring advancement to the common workplace it appears that accessibility may have won the war. That’s not true – instead we could say that a ceasefire has been drafted. It’s becoming more and more possible to provide accessibility AND security.</p>
@@ -40,5 +41,6 @@ Wi-Fi and OPSec"
 <p>These days everyone wants to use wireless everywhere and as mentioned before it’s a matter of convenience. A study released by PEW Research says that as of May 2013 63% of adult cell phone owners use that phone online and 34% of cell phone internet users go online almost exclusively <a href="http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/">with their phones</a>.<a href="#_ftn3" name="_ftnref3"></a> PCs are obviously not the only risk associated with wireless. I see more and more questions on the Reddit Agora subweb asking about performing DarkNet Market related tasks on a smartphone. Even though many VPN providers support iPhone &amp; Android clients now, I would advise against DNM activity on your smart phone. Your smart phone will have GPS; your smartphone has a distinct SIM card linked to only you; and finally smart phones run highly customized operating systems which are quite often proprietary, locked down and tough to manage privacy (yes even Android). For DNM activity its best to stick with a VM like Qubes or a live distro like Tails. If your VM doesn’t support your VPN provider’s custom client then use the generic VPN setup in your operating system to run OpenVPN or a similar flavor (yes all of the major OSes have this option).</p>
 <p>Thought your home’s wireless was safe? Now you know better. This is not meant to be a scare tactic or deterrent from using wireless, but simply an attempt to educate. To drive home the key points one more time: avoid wireless if you can – plug in. If you have to use wireless, make sure you’re using strong authentication and encryption: WPA2-AES or WPA2-Enterprise. Use a strong diverse pre-shared key (if you have to use a pre-shared) key and last but not least always use VPN on wireless. It doesn’t matter if you’re at home or in public – a WLAN is possibly the most important connection to use VPN. But that doesn’t matter because you always use VPN right? Just remember the more you (and others) use VPN, the safer it becomes. Don’t just use VPN when you want to hide what you’re doing – use it all the time. The same rule should be applied to TOR. I hope that I haven’t scared you all into selling your wireless routers. Be smart and be safe!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/opsec/" rel="tag">opsec</a> <a href="https://www.deepdotweb.com/tag/wifi/" rel="tag">wifi</a></span> <span style="display:none" class="updated">2015-09-01<a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
+<a href="/tag/opsec/" rel="tag">opsec</a> <a href="/tag/wifi/" rel="tag">wifi</a></span> 
+Updated: 2015-09-01<a href="/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
 

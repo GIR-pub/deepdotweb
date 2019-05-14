@@ -1,9 +1,10 @@
 ---
-Bitcoin News Roundup – 8 Nov. 2015
+title: "Bitcoin News Roundup – 8 Nov. 2015"
 ---
-<article class="post-listing post-12043 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-bitcoin tag-news tag-nov tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12043  tag-2524  tag-nov
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>November 8, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/08/bitcoin-news-roundup-8-nov-2015/#respond">Leave a comment</a></span>
@@ -21,4 +22,5 @@ Bitcoin News Roundup – 8 Nov. 2015
 <p>Bitwala enables bitcoin transfer to PayPal accounts. According to a <a href="http://about.bitwa.la/send-bitcoin-to-paypal-account/">blog post</a> on the Bitwala website, the Germany-based bitcoin payment platform launches a feature that will enable users to directly transfer bitcoins to their PayPal account by simply using their email address. Transaction fees are at 0.5% of the transacted amount. Currently, the platform is guaranteeing transfers to PayPal accounts in Euros, but it’s working towards topping up PayPal accounts in any currency.</p>
 <p>ChangeTip launches mobile app to facilitate bitcoin tipping. According to <a href="http://www.pymnts.com/news/2015/changetips-new-app-enables-bitcoin-tips/">PYMNTS</a>, the new iOS app will enable users to tip anyone around the world in bitcoin or USD via the Change Tip social tipping and micropayments platform. In fact, any user with a phone number, email address, or a Facebook or Twitter account will be able to send or receive online payments internationally by using the newly-launched mobile app. The funds are sent in real-time to top off the users’ accounts in a seamless way.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-11-08
+<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+Updated: 2015-11-08

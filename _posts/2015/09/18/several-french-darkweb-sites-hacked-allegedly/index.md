@@ -1,12 +1,13 @@
 ---
-Several French DarkWeb Sites Hacked, Allegedly."
+title: "Several French DarkWeb Sites Hacked, Allegedly."
 ---
-<article class="post-listing post-11566 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-allegedly tag-darkweb tag-french tag-hacked tag-sites">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11566 tag-allegedly tag-darkweb tag-french tag-hacked tag-sites
+Posted by: DeepDotWeb 
+
 <span>September 18, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/18/several-french-darkweb-sites-hacked-allegedly/#comments">8 Comments</a></span>
+
+<span><a href="/2015/09/18/several-french-darkweb-sites-hacked-allegedly/#comments">8 Comments</a></span>
 
 
 <p>According to a report translated from <a href="http://www.zataz.com/infiltration-dans-le-blackmarket-francophone/">Zataz.com</a> magazine (Thanks to <a href="https://twitter.com/Schmittounet">@Schmittounet</a> for the translation!):</p>
@@ -23,4 +24,5 @@ Several French DarkWeb Sites Hacked, Allegedly."
 <p>DeepDotWeb were not able to verify if these claims are indeed real &#8211; but able to confirm that some of these alleged hacked markets has been down for the past few days according to our stats.</p>
 <p><a href="/imgs/2015/09/fdw.png"><img class="aligncenter size-full wp-image-11568" src="/imgs/2015/09/fdw.png" alt="fdw" width="423" height="208" srcset="/imgs/2015/09/fdw.png 423w, /imgs/2015/09/fdw-300x148.png 300w" sizes="(max-width: 423px) 100vw, 423px"/></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/allegedly/" rel="tag">allegedly</a> <a href="https://www.deepdotweb.com/tag/darkweb/" rel="tag">darkweb</a> <a href="https://www.deepdotweb.com/tag/french/" rel="tag">french</a> <a href="https://www.deepdotweb.com/tag/hacked/" rel="tag">hacked</a> <a href="https://www.deepdotweb.com/tag/sites/" rel="tag">sites</a></span> <span style="display:none" class="updated">2015-09-18
+<a href="/tag/allegedly/" rel="tag">allegedly</a> <a href="/tag/darkweb/" rel="tag">darkweb</a> <a href="/tag/french/" rel="tag">french</a> <a href="/tag/hacked/" rel="tag">hacked</a> <a href="/tag/sites/" rel="tag">sites</a></span> 
+Updated: 2015-09-18

@@ -1,16 +1,17 @@
 ---
-L2TP vs OpenVPN. The Ultimate Battle"
+title: "L2TP vs OpenVPN. The Ultimate Battle"
 ---
-<article class="post-listing post-11627 post type-post status-publish format-standard has-post-thumbnail hentry  tag-battle tag-l2tp tag-openvpn tag-ultimate">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11627  tag-battle tag-l2tp tag-openvpn tag-ultimate
+Posted by: DeepDotWeb 
+
 <span>September 29, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/09/29/l2tp-vs-openvpn-the-ultimate-battle/#comments">6 Comments</a></span>
+<span><a href="/2015/09/29/l2tp-vs-openvpn-the-ultimate-battle/#comments">6 Comments</a></span>
 
 
 <p>Over the last couple of years, a great number of VPN users have started using OpenVPN. You can find a lot of positive feedback online about this VPN protocol and why it&#8217;s superior to any other VPN implementation. But what is the force behind OpenVPN and do you really need to switch over from your standard L2TP/Ipsec option? In this article the <a href="https://www.privatoria.net/?ref=deepdotweb">Privatoria</a> team will investigate which one is better for specific cases.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>
 <p>OpenVPN has been around for a long time but it has only received prominence in recent years mostly because of multiple surveillance scandals in the US. Most users then started promoting the idea of open source software stressing the fact that surveillance is impossible in the open source world because any attempt to hide a tracking program inside a source code will be easily spotted. Things like Linux-based OS&#8217;s and Chromium Web browser have become a lot more popular. Open Source has unintentionally become a must-have (or a least a must-try) for every security enthusiast.</p>
 <p><a href="/imgs/2015/09/11.png"><img class="aligncenter size-full wp-image-11628" src="/imgs/2015/09/11.png" alt="1" width="650" height="343" srcset="/imgs/2015/09/11.png 650w, /imgs/2015/09/11-300x158.png 300w" sizes="(max-width: 650px) 100vw, 650px" /></a></p>
 <p>VPN, being a security-oriented technology, has also increased its popularity among casual personal users who want to hide and preserve their private info. In the world of VPNs, however, you don&#8217;t really have a choice; most protocols are proprietary (owned by a certain company) and therefore have closed source code. But there&#8217;s one exception and that&#8217;s OpenVPN. Users have rushed out and switched to OpenVPN but is L2TP/Ipsec better simply because you can find a standard option on MS Windows and Mac OS X? Let&#8217;s find out.</p>
@@ -44,4 +45,5 @@ L2TP vs OpenVPN. The Ultimate Battle"
 <p>At the end of the day each user has a choice of VPN protocols and that&#8217;s a great thing. L2TP/IPsec is a more solid, standard choice with built-in support on every commercial computing platform. It is also quite secure and has no known vulnerabilities. All of the above makes it a great choice for most casual VPN users who want their VPN to be simple and stable.</p>
 <p>OpenVPN is a new Open Source standard with the ability to use a wide range of port and protocols. It does not come pre-installed on any platform but can be installed on any modern OS both desktop and mobile. It is also much easier to configure on Linux/BSD systems than L2TP/Ipsec. OpenVPN is great choice for security nerds who want versatility and more control over their VPN. Nowadays most VPN providers support OpenVPN and L2TP. So, there shouldn’t be a problem connecting to a VPN server if you have the client configured correctly.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/battle/" rel="tag">battle</a> <a href="https://www.deepdotweb.com/tag/l2tp/" rel="tag">l2tp</a> <a href="https://www.deepdotweb.com/tag/openvpn/" rel="tag">openvpn</a> <a href="https://www.deepdotweb.com/tag/ultimate/" rel="tag">ultimate</a></span> <span style="display:none" class="updated">2015-09-29
+<a href="/tag/battle/" rel="tag">battle</a> <a href="/tag/l2tp/" rel="tag">l2tp</a> <a href="/tag/openvpn/" rel="tag">openvpn</a> <a href="/tag/ultimate/" rel="tag">ultimate</a></span> 
+Updated: 2015-09-29

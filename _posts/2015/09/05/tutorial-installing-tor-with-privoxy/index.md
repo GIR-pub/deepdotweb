@@ -1,16 +1,17 @@
 ---
-Tutorial: Installing Tor With Privoxy
+title: "Tutorial: Installing Tor With Privoxy"
 ---
-<article class="post-listing post-10263 post type-post status-publish format-standard has-post-thumbnail hentry  tag-installing tag-privoxy  tag-tutorial">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/jackmeyer/" title="">Jack Meyer </a></span>
+
+10263  tag-installing tag-privoxy  tag-tutorial
+Posted by: <a href="/author/jackmeyer/" title="">Jack Meyer 
+
 <span>September 5, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/09/05/tutorial-installing-tor-with-privoxy/#comments">9 Comments</a></span>
+<span><a href="/2015/09/05/tutorial-installing-tor-with-privoxy/#comments">9 Comments</a></span>
 
 
-<p>When it comes to keeping your activities out of the prying-eyes of Evil-Alphabet-Agency&#8217;s, one must not slack on beefing up security on both their computer&#8217;s and networks. The consequences for those who are involved are just too serious to take lightly. If you are accessing the Dark Net at home at all, there&#8217;s a few simple steps you can take to ensure you&#8217;re anonymity stays a secret. In this tutorial I am going to go over installing and configuring tor, privoxy, and a free <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a>.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage: Click Here For VPN&#8217;s Who Respect Your Privacy&lt;&lt;</a></p>
+<p>When it comes to keeping your activities out of the prying-eyes of Evil-Alphabet-Agency&#8217;s, one must not slack on beefing up security on both their computer&#8217;s and networks. The consequences for those who are involved are just too serious to take lightly. If you are accessing the Dark Net at home at all, there&#8217;s a few simple steps you can take to ensure you&#8217;re anonymity stays a secret. In this tutorial I am going to go over installing and configuring tor, privoxy, and a free <a href="/vpn-comparison-chart/">VPN</a>.</p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage: Click Here For VPN&#8217;s Who Respect Your Privacy&lt;&lt;</a></p>
 <p>First of all, absolutely do not use Windows thinking it&#8217;s safe. Use Windows at your own risk, I am not going to chance it. Especially when it is publicly known that since the release of Windows Seven Microsoft has been working the NSA, installing secret back doors to pretty much what ever they could scare people in to doing. The NSA can access everything that is accessible on the windows partition of your machine if its not encrypted (Yes, you can remove the back doors within Windows, but that is to say, you can remove the ones that we KNOW about, and I would not put it past the NSA to have a few tricks up their sleeves) I prefer using Linux anyway, I understand that some have difficulties making the transition from Windows to Linux, but that&#8217;s why they created man pages, my friend.</p>
 <p>(If you don&#8217;t know what a command does, just type man &lt;COMMAND&gt; in a terminal, read the manual page, and you&#8217;re good to go. Honestly, once you use any flavor of Linux for a while, the scripting will come naturally and Windows will become obsolete (well aside from a small, encrypted partition for what ever Windows applications you can not live with out, but please do make sure you encrypt you hard-drives and make sure you disable WPS on your modems and routers and such (because it is a lot easier to crack a WPS key than to sniff out a handshake sequence, then crack that against a .pcap sniffing file). In windows, use <a href="http://www.deepdotweb.com/2015/02/09/veracrypt-tutorial-how-to-encrypt-usb-drive/">Veracrypt</a>, and while installing Linux, wipe the disk completely and encrypt it all with VSLM. Of course back ups should be made first, but an encrypted hard-drive really give me piece of mind. I do not do anything illegal even I just get sick when I think about Government Agents who are supposed to protect us, pilfering through my computers, and precipitating the demise of American&#8217;s Right to Privacy. Since 9/11. they have basically made The Right To Privacy a joke, and it was done in the name of Patriotism. My retort to their Ranging Rover Taps and Legalized Racism.</p>
 <p>Anyway, so now to the technical stuff (Sorry it&#8217;s kind of boring, but our Right To Privacy as a Nation is at stake, not to mention our personal freedoms (which is a really good reason to put up with the boring) If we don&#8217;t take a stand and take hold of this situation now, privacy as we know it will become another yet another causality of war.</p>
@@ -230,5 +231,6 @@ Tutorial: Installing Tor With Privoxy
 <p>If it were me I would just restart the computer (to see if Tor and Privoxy are both installed and starting during the other init.d daemons.) but you could just restart the services, but you&#8217;re through the process now. To make sure you are safe, check out “<a href="http://www.ipchicken.com/">http://www.ipchicken.com</a>” or “<a href="https://www.whatismyip.com/">https://www.whatismyip.com</a>” and make sure both your current IP Address is masked as well as you&#8217;re ISP&#8217;s DNS is hidden as well. This is an example of a properly configured box:</p>
 <p><a href="/imgs/2015/05/privtor.png"><img class="aligncenter wp-image-10265" src="/imgs/2015/05/privtor.png" alt="privtor" width="1058" height="595" srcset="/imgs/2015/05/privtor.png 1366w, /imgs/2015/05/privtor-300x169.png 300w, /imgs/2015/05/privtor-1024x576.png 1024w" sizes="(max-width: 1058px) 100vw, 1058px"/></a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/installing/" rel="tag">installing</a> <a href="https://www.deepdotweb.com/tag/privoxy/" rel="tag">privoxy</a>  <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-05<a href="https://www.deepdotweb.com/author/jackmeyer/" title="Posts by Jack Meyer" rel="author">Jack Meyer</a></strong></div>
+<a href="/tag/installing/" rel="tag">installing</a> <a href="/tag/privoxy/" rel="tag">privoxy</a>  <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+Updated: 2015-09-05<a href="/author/jackmeyer/" title="Posts by Jack Meyer" rel="author">Jack Meyer</a></strong></div>
 

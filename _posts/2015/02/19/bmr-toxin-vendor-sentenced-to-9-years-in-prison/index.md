@@ -1,12 +1,10 @@
 ---
-BMR Toxin Vendor Sentenced to 9 Years in Prison"
+title: "BMR Toxin Vendor Sentenced to 9 Years in Prison"
 ---
-<article class="post-listing post-9139 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bmr tag-prison tag-sentenced tag-toxin tag-vendor tag-years">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+Posted by: DeepDotWeb 
+
 <span>February 19, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/19/bmr-toxin-vendor-sentenced-to-9-years-in-prison/#respond">Leave a comment</a></span>
 
 
 <p><a href="http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20William%20Sentencing%20News%20Release.html" target="_blank">A Florida man was sentenced yesterday</a> to 110 months in prison for producing and selling potentially deadly toxins ricin and abrin for use as weapons and conspiring to kill a woman in the United Kingdom, U.S. Attorney Paul J. Fishman announced.</p>
@@ -35,4 +33,5 @@ BMR Toxin Vendor Sentenced to 9 Years in Prison"
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/256250817/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_24677" frameborder="0"></iframe></p>
 <p><strong>Info source</strong>: http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20William%20Sentencing%20News%20Release.html</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bmr/" rel="tag">bmr</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/toxin/" rel="tag">toxin</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/years/" rel="tag">years</a></span> <span style="display:none" class="updated">2015-02-19
+
+Updated: 2015-02-19

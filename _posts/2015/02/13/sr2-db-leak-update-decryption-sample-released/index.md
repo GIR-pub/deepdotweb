@@ -1,12 +1,11 @@
 ---
-SR2 DB Leak Update: 10% of The Data Released"
+title: "SR2 DB Leak Update: 10% of The Data Released"
 ---
-<article class="post-listing post-9057 post type-post status-publish format-standard hentry category-news tag-db tag-decryption tag-leak tag-released tag-sample tag-sr2 tag-update">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+
+Posted by: DeepDotWeb 
+
 <span>February 13, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/13/sr2-db-leak-update-decryption-sample-released/#comments">1 Comment</a></span>
 
 
 <p>(This is a short news update) Note that we have not verified this &#8211; just reporting as a newsflash: <a href="https://bitcointalk.org/index.php?topic=952177.0" target="_blank">Background</a> &#8211;  New post: <a href="https://bitcointalk.org/index.php?topic=952177.msg10447311#msg10447311" target="_blank">https://bitcointalk.org/index.php?topic=952177.msg10447311#msg10447311</a></p>
@@ -85,4 +84,5 @@ SR2 DB Leak Update: 10% of The Data Released"
     5 1ArryDakqVZqjDfQahojj6QMpoh2LS7PY5</div>
 <p>If these addresses receieve a <b>total</b> of 2.5 BTC I will release the keys for the first five blocks by spending the received Bitcoins.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/db/" rel="tag">db</a> <a href="https://www.deepdotweb.com/tag/decryption/" rel="tag">decryption</a> <a href="https://www.deepdotweb.com/tag/leak/" rel="tag">leak</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> <a href="https://www.deepdotweb.com/tag/sample/" rel="tag">sample</a> <a href="https://www.deepdotweb.com/tag/sr2/" rel="tag">sr2</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-02-13
+
+Updated: 2015-02-13

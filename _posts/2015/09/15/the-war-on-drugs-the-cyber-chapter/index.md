@@ -1,12 +1,13 @@
 ---
-The War On Drugs – The Cyber Chapter"
+title: "The War On Drugs – The Cyber Chapter"
 ---
-<article class="post-listing post-11127 post type-post status-publish format-standard has-post-thumbnail hentry  tag-cyber tag-war">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/anthonydowd/" title="">Anthony Dowd </a></span>
+
+11127  tag-cyber tag-war
+Posted by: <a href="/author/anthonydowd/" title="">Anthony Dowd 
+
 <span>September 15, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/09/15/the-war-on-drugs-the-cyber-chapter/#comments">10 Comments</a></span>
+<span><a href="/2015/09/15/the-war-on-drugs-the-cyber-chapter/#comments">10 Comments</a></span>
 
 
 <p>Those four words ‘The War On Drugs’ contain so much nonsense its surprising they don’t explode in confusion of clowns and balloons. Drugs have been tied to man’s ascent so intimately that we may as well have a ‘War On Thumbs’ or a ‘War On Large Brains’; indeed the highest order of intellectual development in western and eastern civilization was influenced by a variety of substances which are now illegal. This can only stunt our continued development as a species.</p>
@@ -19,5 +20,6 @@ The War On Drugs – The Cyber Chapter"
 <p>When all substances are legalised it will be a happy day, part of the human experience will be re-integrated but it will also be a sad time because a whole subculture of resistance will be erased. That time is not now though, there’s a lot of war between now and then.</p>
 <p><em>The author of this article also wrote the e-book &#8220;<span style="text-decoration: underline;">The Unusual Thief</span>&#8221; &#8211; A drug fuelled fantasy trip through an alternate dimension. If you would like to read this book <span style="text-decoration: underline;">for free</span> use the coupon code <strong><span style="font-family: Calibri;">GU34Z </span></strong><span style="font-family: Calibri;">on the purchase screen <a href="http://www.smashwords.com/books/view/551076">on this link</a>.</span></em></p>
 </div>
- <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a>  <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> <span style="display:none" class="updated">2015-09-15<a href="https://www.deepdotweb.com/author/anthonydowd/" title="Posts by Anthony Dowd" rel="author">Anthony Dowd</a></strong></div>
+ <a href="/tag/cyber/" rel="tag">cyber</a>  <a href="/tag/war/" rel="tag">war</a></span> 
+Updated: 2015-09-15<a href="/author/anthonydowd/" title="Posts by Anthony Dowd" rel="author">Anthony Dowd</a></strong></div>
 

@@ -1,9 +1,11 @@
 ---
-Tor Messenger Beta Has Been Released"
+title: "Tor Messenger Beta Has Been Released"
 ---
-<article class="post-listing post-11922 post type-post status-publish format-standard has-post-thumbnail hentry  tag-messenger tag-released 
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11922  tag-messenger tag-released 
+
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>November 3, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/03/tor-messenger-beta-has-been-released/#respond">Leave a comment</a></span>
@@ -20,5 +22,6 @@ Tor Messenger Beta Has Been Released"
 <p>“Please note that this release is for users who would like to help us with testing the product but at the same time who also understand the risks involved in using beta software.”</p>
 <p>Since the Tor Messenger is in a beta phase, it can’t be used now as a fully anonymous chat service, however, later on, it has a big potential for accomplishing this goal.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/beta/" rel="tag">beta</a> <a href="https://www.deepdotweb.com/tag/messenger/" rel="tag">messenger</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> </span> <span style="display:none" class="updated">2015-11-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/beta/" rel="tag">beta</a> <a href="https://www.deepdotweb.com/tag/messenger/" rel="tag">messenger</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> </span> 
+Updated: 2015-11-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

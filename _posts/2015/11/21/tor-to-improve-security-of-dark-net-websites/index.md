@@ -1,9 +1,10 @@
 ---
-Tor To Improve Security Of Dark Net Websites"
+title: "Tor To Improve Security Of Dark Net Websites"
 ---
-<article class="post-listing post-12273 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-improve tag-net tag-security  tag-websites">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12273  tag-dark tag-improve tag-net tag-security  tag-websites
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>November 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/21/tor-to-improve-security-of-dark-net-websites/#comments">1 Comment</a></span>
@@ -21,5 +22,6 @@ Tor To Improve Security Of Dark Net Websites"
 <p>“So now the directory servers never learn the long-term identity,” d20 stated.</p>
 <p>“The improvements are already being rolled out,” Kate Krauss, the spokesperson of the Tor Project, informed Motherboard in an online chat.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/improve/" rel="tag">improve</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a>   <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> <span style="display:none" class="updated">2015-11-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/improve/" rel="tag">improve</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a>   <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> 
+Updated: 2015-11-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

@@ -1,13 +1,13 @@
 ---
-The UK Creates New Dark Net Task Force"
+title: "The UK Creates New Dark Net Task Force"
 ---
-<article class="post-listing post-12072 post type-post status-publish format-standard has-post-thumbnail hentry  tag-creates tag-dark tag-force tag-net tag-task tag-uk">
-    
-<div class="post-inner">
-    
+
+12072  tag-creates tag-dark tag-force tag-net tag-task tag-uk
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+    
+
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     
 <span>November 10, 2015</span>
@@ -26,10 +26,10 @@ The UK Creates New Dark Net Task Force"
 <p>“The explosion in online communication channels has brought huge benefits for society. It has also significantly expanded the means by which criminals can share information, plan crimes including the sexual exploitation of children, and target victims. The JOC is a genuinely innovative development, using the best of our respective agencies&#8217; skills to tackle the most complex cases and the most dangerous offenders online.”</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/creates/" rel="tag">creates</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span>				<span style="display:none" class="updated">2015-11-10<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+<a href="https://www.deepdotweb.com/tag/creates/" rel="tag">creates</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span>				
+Updated: 2015-11-10<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

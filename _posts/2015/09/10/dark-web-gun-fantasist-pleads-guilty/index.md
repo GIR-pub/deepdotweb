@@ -1,12 +1,13 @@
 ---
-Dark web gun fantasist pleads guilty
+title: "Dark web gun fantasist pleads guilty"
 ---
-<article class="post-listing post-11519 post type-post status-publish format-standard hentry category-news tag-dark tag-fantasist tag-guilty tag-gun tag-pleads tag-web">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11519 tag-dark tag-fantasist tag-guilty tag-gun tag-pleads tag-web
+Posted by: DeepDotWeb 
+
 <span>September 10, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/10/dark-web-gun-fantasist-pleads-guilty/#comments">5 Comments</a></span>
+
+<span><a href="/2015/09/10/dark-web-gun-fantasist-pleads-guilty/#comments">5 Comments</a></span>
 
 
 <p>According to a <a href="http://www.nationalcrimeagency.gov.uk/news/697-dark-web-gun-fantasist-pleads-guilty">press release</a> fron the UK national crime agency &#8211; A Milton Keynes man who concocted an elaborate story to purchase a gun from the dark web today pleaded guilty to conspiracy to import a firearm and ammunition at Bristol Crown Court.</p>
@@ -24,4 +25,4 @@ Dark web gun fantasist pleads guilty
 <p>“It would appear Hillyer was trying to live out a fantasy but attempting to buy a firearm in the real world has real life consequences.</p>
 <p>“The NCA will continue to collaborate with our national and international partners to prevent and disrupt serious cyber-enabled criminality.&#8221;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/fantasist/" rel="tag">fantasist</a>  <a href="https://www.deepdotweb.com/tag/gun/" rel="tag">gun</a>  <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-09-10
+ <a href="/tag/fantasist/" rel="tag">fantasist</a>  <a href="/tag/gun/" rel="tag">gun</a>  Updated: 2015-09-10

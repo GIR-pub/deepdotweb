@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 6 Sep. 2015
+title: "Bitcoin News Roundup – 6 Sep. 2015"
 ---
-<article class="post-listing post-11432 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-bitcoin tag-news tag-roundup tag-sep">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11432  tag-2524  tag-sep
+Posted by: DeepDotWeb 
+
 <span>September 6, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/06/bitcoin-news-roundup-6-sep-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/09/06/bitcoin-news-roundup-6-sep-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -20,4 +22,5 @@ Bitcoin News Roundup – 6 Sep. 2015
 <p><strong>Payments</strong></p>
 <p>Coinbase expands to Singapore. As Joseph Young of <a href="https://bitcoinmagazine.com/21817/coinbase-expands-canada-singapore-spur-mainstream-bitcoin-adoption/">Bitcoin Magazine</a> writes, followings its expansion to Canada, the leading bitcoin exchange now expands its services in Singapore in an effort to raise consumer awareness about the digital currency globally. Consumers in Singapore can now use Coinbase services to make their bitcoin transactions. According to Sam Rosenblum, Coinbase international expansion officer, Coinbase mission is to create incentive for mainstream adoption of the digital currency.<em>“By expanding our wallet and exchange services, we’re getting bitcoin into the hands of even more people globally”</em>, Rosenblum states.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/sep/" rel="tag">sep</a></span> <span style="display:none" class="updated">2015-09-06
+   <a href="/tag/sep/" rel="tag">sep</a></span> 
+Updated: 2015-09-06

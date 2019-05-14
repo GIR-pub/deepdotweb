@@ -1,12 +1,14 @@
 ---
-Shiny Flakes Bust: 38 Houses Raided"
+title: "Shiny Flakes Bust: 38 Houses Raided"
 ---
-<article class="post-listing post-9424 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2676 tag-bust tag-flakes tag-houses tag-raided tag-shiny">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9424  tag-2676 tag-bust tag-flakes tag-houses tag-raided tag-shiny
+Posted by: DeepDotWeb 
+
 <span>March 12, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/12/shiny-flakes-bust-38-houses-raided/#comments">4 Comments</a></span>
+
+
+<span><a href="/2015/03/12/shiny-flakes-bust-38-houses-raided/#comments">4 Comments</a></span>
 
 
 <p><strong>Update on the Shiny Flakes bust that we <a href="http://www.deepdotweb.com/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/">reported about yesterday</a></strong> &#8211; The <a href="http://www.finanznachrichten.de/nachrichten-2015-03/33080189-shiny-flakes-38-hausdurchsuchungen-nach-drogenfund-in-leipzig-003.htm">finanznachrichten.de</a> reports that following the arrest another 38 search warrants were executed in many locations across Germany <span class="notranslate">including Berlin, North Rhine-Westphalia, Bavaria and Mecklenburg-Vorpommern according to Leipzig police chief Bernd Merbitz who stated the above at a press conference showing the seized drugs:</span></p>
@@ -21,4 +23,5 @@ Shiny Flakes Bust: 38 Houses Raided"
 <p>The seized drugs consisted of: <span class="notranslate">Crystal, cocaine, amphetamine (speed), ecstasy tablets, LSD, hashish and marijuana.</span></p>
 <p>Sources:  <a href="http://www.polizei.sachsen.de/de/MI_2015_34938.htm">Police Press release</a>, <a href="http://www.finanznachrichten.de/nachrichten-2015-03/33080189-shiny-flakes-38-hausdurchsuchungen-nach-drogenfund-in-leipzig-003.htm">finanznachrichten.de</a></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/38/" rel="tag">38</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/flakes/" rel="tag">flakes</a> <a href="https://www.deepdotweb.com/tag/houses/" rel="tag">houses</a> <a href="https://www.deepdotweb.com/tag/raided/" rel="tag">raided</a> <a href="https://www.deepdotweb.com/tag/shiny/" rel="tag">shiny</a></span> <span style="display:none" class="updated">2015-03-12
+<a href="/tag/38/" rel="tag">38</a>  <a href="/tag/flakes/" rel="tag">flakes</a> <a href="/tag/houses/" rel="tag">houses</a> <a href="/tag/raided/" rel="tag">raided</a> <a href="/tag/shiny/" rel="tag">shiny</a></span> 
+Updated: 2015-03-12

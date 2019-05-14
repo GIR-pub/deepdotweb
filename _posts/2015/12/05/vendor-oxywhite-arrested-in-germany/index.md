@@ -1,9 +1,10 @@
 ---
-Vendor &#8220;Oxywhite&#8221; Arrested in Germany
+title: "Vendor &#8220;Oxywhite&#8221; Arrested in Germany"
 ---
-<article class="post-listing post-12476 post type-post status-publish format-standard has-post-thumbnail hentry  tag-germany tag-oxywhite tag-vendor">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12476  tag-germany tag-oxywhite tag-vendor
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/05/vendor-oxywhite-arrested-in-germany/#comments">1 Comment</a></span>
@@ -21,4 +22,5 @@ Vendor &#8220;Oxywhite&#8221; Arrested in Germany
 <p>Also, a stun gun was found in the apartment.</p>
 <p>Vendor Oxywhite operated on darknet sites as well as clearnet sites and had a German <a href="http://motherboard.vice.com/de/read/die-graueste-zone-des-deepwebs--einblick-in-den-darknet-medikamenten-handel-389">vice article</a> about him earlier this year.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/oxywhite/" rel="tag">oxywhite</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-12-05
+<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/oxywhite/" rel="tag">oxywhite</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+Updated: 2015-12-05

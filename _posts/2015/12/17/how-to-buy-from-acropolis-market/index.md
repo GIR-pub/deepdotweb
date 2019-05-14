@@ -1,9 +1,10 @@
 ---
-How To Buy From Acropolis Market?"
+title: "How To Buy From Acropolis Market?"
 ---
-<article class="post-listing post-12592 post type-post status-publish format-standard has-post-thumbnail hentry  tag-acropolis tag-buy tag-market">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12592  tag-acropolis tag-buy tag-market
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 17, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/12/17/how-to-buy-from-acropolis-market/#comments">5 Comments</a></span>
@@ -54,4 +55,5 @@ How To Buy From Acropolis Market?"
 <p>We really like to encourage the use of multisig market and invite all markets to provide us with usage tutorials.</p>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a></span> <span style="display:none" class="updated">2015-12-17
+<a href="https://www.deepdotweb.com/tag/acropolis/" rel="tag">acropolis</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a></span> 
+Updated: 2015-12-17

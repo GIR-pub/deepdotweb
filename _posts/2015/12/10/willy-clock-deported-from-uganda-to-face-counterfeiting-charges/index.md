@@ -1,16 +1,18 @@
 ---
-Willy.Clock: Deported from Uganda to Face Counterfeiting Charges"
+title: "Willy.Clock: Deported from Uganda to Face Counterfeiting Charges"
 ---
-<article class="post-listing post-12525 post type-post status-publish format-standard has-post-thumbnail hentry  tag-charges tag-counterfeiting tag-deported tag-face tag-uganda tag-willyclock">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12525  tag-charges tag-counterfeiting tag-deported tag-face tag-uganda tag-willyclock
+Posted by: DeepDotWeb 
+
 <span>December 10, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/10/willy-clock-deported-from-uganda-to-face-counterfeiting-charges/#comments">2 Comments</a></span>
+
+
+<span><a href="/2015/12/10/willy-clock-deported-from-uganda-to-face-counterfeiting-charges/#comments">2 Comments</a></span>
 
 
 <div id="parent-fieldname-text" class="plain">
-<p>According to a <a href="https://www.fbi.gov/pittsburgh/press-releases/2015/u.s.-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pennsylvania?utm_campaign=email-Immediate&amp;utm_medium=email&amp;utm_source=fbi-in-the-news&amp;utm_content=494572">press release from the FBI</a> and following <a href="https://www.deepdotweb.com/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/">last year&#8217;s bust</a> of Willy.Clock,  A well known dark web counterfeit currency vendor:  A United States citizen has been deported from the Republic of Uganda and brought to the Western District of Pennsylvania to face charges of leading an international counterfeit currency operation headquartered in that African nation. The announcement was made today by David Hickton, U.S. Attorney for the Western District of Pennsylvania and Eric Zahren, Special Agent in Charge of the U.S. Secret Service—Pittsburgh Field Office.</p>
+<p>According to a <a href="https://www.fbi.gov/pittsburgh/press-releases/2015/u.s.-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pennsylvania?utm_campaign=email-Immediate&amp;utm_medium=email&amp;utm_source=fbi-in-the-news&amp;utm_content=494572">press release from the FBI</a> and following <a href="/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/">last year&#8217;s bust</a> of Willy.Clock,  A well known dark web counterfeit currency vendor:  A United States citizen has been deported from the Republic of Uganda and brought to the Western District of Pennsylvania to face charges of leading an international counterfeit currency operation headquartered in that African nation. The announcement was made today by David Hickton, U.S. Attorney for the Western District of Pennsylvania and Eric Zahren, Special Agent in Charge of the U.S. Secret Service—Pittsburgh Field Office.</p>
 <p>Ryan Andrew Gustafson, aka Jack Farrel, aka Willy Clock, 28, is charged with conspiracy, conspiracy to launder money, and the passing and receiving of counterfeit money from December 2013 until December 2014. The indictment alleges more than $1.4 million in counterfeit Federal Reserve Notes have been seized and passed worldwide, both overseas and in the U.S. as part of this scheme.</p>
 <p>Gustafson had been on trial in Uganda on a number of charges, including possessing counterfeit money. He was deported Dec. 3 and arrived in Pittsburgh on Friday evening. He will be presented before Chief U.S. District Magistrate Maureen Kelly today at 2:30 p.m. for an Initial Appearance. The case is assigned to United States District Judge Mark R. Hornak.</p>
 <p>“Identifying, charging and returning Ryan Gustafson to the United States from Uganda required extensive cooperation among diverse international law enforcement partners and expert coordination among the Secret Service, Federal Bureau of Investigation, Homeland Security Investigations and the U.S. Postal Inspection Service,” stated U.S. Attorney Hickton. “As a result, a multimillion dollar international cyber counterfeiting scheme has been disrupted and its principal will face justice on American soil. This investigation demonstrates our relentless resolve to identify cyber criminals overseas and bring them back to the United States to be tried for their crimes.”</p>
@@ -26,4 +28,5 @@ Willy.Clock: Deported from Uganda to Face Counterfeiting Charges"
 <p>U.S. Attorney Hickton commended numerous agencies and organizations for conducting the investigation leading to charges in this case, including the Directorate of Public Prosecution, the Criminal Investigations and Intelligence Department, the Special Investigations and Intelligence Unit, and Stanbic Bank in Uganda; the U.S. Secret Service; the Federal Bureau of Investigation; the U.S. Postal Inspection Service; Homeland Security Investigations; U.S. Customs and Border Protection; and the National Cyber-Forensics &amp; Training Alliance.</p>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/charges/" rel="tag">charges</a> <a href="https://www.deepdotweb.com/tag/counterfeiting/" rel="tag">counterfeiting</a> <a href="https://www.deepdotweb.com/tag/deported/" rel="tag">deported</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/uganda/" rel="tag">uganda</a> <a href="https://www.deepdotweb.com/tag/willyclock/" rel="tag">willyclock</a></span> <span style="display:none" class="updated">2015-12-10
+<a href="/tag/charges/" rel="tag">charges</a> <a href="/tag/counterfeiting/" rel="tag">counterfeiting</a> <a href="/tag/deported/" rel="tag">deported</a> <a href="/tag/face/" rel="tag">face</a> <a href="/tag/uganda/" rel="tag">uganda</a> <a href="/tag/willyclock/" rel="tag">willyclock</a></span> 
+Updated: 2015-12-10

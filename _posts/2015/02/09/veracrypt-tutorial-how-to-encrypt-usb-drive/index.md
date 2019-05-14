@@ -1,13 +1,10 @@
 ---
-Veracrypt Tutorial: How To Encrypt A USB Drive?"
+title: "Veracrypt Tutorial: How To Encrypt A USB Drive?"
 ---
-<article class="post-listing post-8996 post type-post status-publish format-standard has-post-thumbnail hentry  tag-drive tag-encrypt tag-tutorial tag-usb tag-veracrypt">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+Posted by: DeepDotWeb 
+
 <span>February 9, 2015</span>
-
-<span><a href="https://www.deepdotweb.com/2015/02/09/veracrypt-tutorial-how-to-encrypt-usb-drive/#comments">7 Comments</a></span>
-
 
 <div class="elgg-output blog-post">
 <p>A simple tutorial explaining how to install VeraCrypt &#8211; The tutorial was created and contributed by Ping (Blog: http://w363zoq3ylux5rf5.onion/blog/owner/ping).</p>
@@ -50,6 +47,5 @@ Veracrypt Tutorial: How To Encrypt A USB Drive?"
 <p>That&#8217;s it! You have now encrypted a USB drive using Veracrypt. All you have to do now is wait for the feds to arrest you and see if it works!</p>
 <p>This tutorial is listed in the <a href="http://www.deepdotweb.com/security-tutorials/">Security Tutorials</a> section.</p>
 <p>&nbsp;</p>
-</div>
-</div>
-<a href="https://www.deepdotweb.com/tag/drive/" rel="tag">drive</a> <a href="https://www.deepdotweb.com/tag/encrypt/" rel="tag">encrypt</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a> <a href="https://www.deepdotweb.com/tag/usb/" rel="tag">usb</a> <a href="https://www.deepdotweb.com/tag/veracrypt/" rel="tag">veracrypt</a></span> <span style="display:none" class="updated">2015-02-09
+
+Updated: 2015-02-09

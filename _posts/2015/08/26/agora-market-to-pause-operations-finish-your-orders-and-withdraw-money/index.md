@@ -1,12 +1,14 @@
 ---
-Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
+title: "Agora Market To Pause Operations. Finish Your Orders And Withdraw Money"
 ---
-<article class="post-listing post-11357 post type-post status-publish format-standard has-post-thumbnail hentry  category-news  tag-agora tag-finish tag-money tag-operations tag-orders tag-pause tag-withdraw">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11357   tag-agora tag-finish tag-money tag-operations tag-orders tag-pause tag-withdraw
+Posted by: DeepDotWeb 
+
 <span>August 26, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/#comments">61 Comments</a></span>
+
+<a href="/category/news/" rel="category tag">News</a>, 
+<span><a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/#comments">61 Comments</a></span>
 
 
 <p><a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora</a>, the current largest market is about to pause its operations in order to deal with major security concerns before coming back, this will be done in a similar manner to what we have seen only in the BlackMarketReloaded case where the admins have notified the users prior to shutting down and did not &#8220;exit scam&#8221;. The admins have posted a signed message on the market explaining the situation (agorahooawayyfoe.onion/info/pausingoperations):</p>
@@ -17,7 +19,9 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 <div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
 <div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
 <div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
-    -----BEGIN PGP SIGNED MESSAGE-----
+    ---
+title: "--BEGIN PGP SIGNED MESSAGE---
+title: "--
     Hash: SHA512
     
     Recently research had come that shed some light on vulnerabilities in Tor Hidden Services protocol which could help to deanonymize server locations. Most of the new and previously known methods do require substantial resources to be executed, but the new research shows that the amount of resources could be much lower than expected, and in our case we do believe we have interested parties who possess such resources.
@@ -42,7 +46,9 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
     Since our PGP key is nearing expiration date, here is a new PGP key which could be used to check authenticity of our messages in the future.
     
     
-    - -----BEGIN PGP PUBLIC KEY BLOCK-----
+    - ---
+title: "--BEGIN PGP PUBLIC KEY BLOCK---
+title: "--
     
     mQINBFXbhfUBEADwmNTkQPx8UCSx4HBnuj4XpAA5uIceXAa6dBAGnLdZ8XjpgqM2
     scPLqPd0DHLu5SPB9+zq1H/YoDeG+Ha1LfZ6kbl1PTZjieGiyhiRN2cctlOL6RKJ
@@ -91,8 +97,12 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
     /ZWI5iZjxSSQLEfxigeu9PE8LWzayTTW2DJR0SCaMVyCQG5XnjO2ozHRQX47KE8Z
     XhtwS0aE2SI6BE5V8EZ3euZ3ok/CeNQPLFYNJWbCuEMEd4NuktvzR2skh94I
     =xcF3
-    - -----END PGP PUBLIC KEY BLOCK-----
-    -----BEGIN PGP SIGNATURE-----
+    - ---
+title: "--END PGP PUBLIC KEY BLOCK---
+title: "--
+    ---
+title: "--BEGIN PGP SIGNATURE---
+title: "--
     
     iQIcBAEBCgAGBQJV3MOEAAoJELCkZxCnK9YVfToQAINT8hwQqTaYy1H24XaiWS5K
     VtTG6I38Taz4yJO/Oe7Co3M2lKn0qgIZYOD1CK9iKuKr2/jub+JtDUWEX06GwWmp
@@ -107,7 +117,9 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
     kmRT7I3mX8gTGIb+LUPIpeEN2zyupbc7vRpked5FRC9BcH+Uma0kc6MtzYShUEKe
     NghlKoNBPQruQt7EEejn
     =IIZh
-    -----END PGP SIGNATURE-----</textarea></div>
+    ---
+title: "--END PGP SIGNATURE---
+title: "--</textarea></div>
 <div class="crayon-main" style="">
 <table class="crayon-table">
 <tr class="crayon-row">
@@ -120,7 +132,7 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 </div>
 </div>
     
-    Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="https://www.deepdotweb.com/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
+    Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
 <p><strong>So Where do we go now?</strong></p>
 <p>Well here&#8217;s what we have next in line:</p>
 <ul>
@@ -130,7 +142,8 @@ Agora Market To Pause Operations. Finish Your Orders And Withdraw Money
 <li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/middle-earth-marketplace">Middle Earth Marketplace</a></strong></li>
 <li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market"> Outlaw Market</a></strong></li>
 </ul>
-<p>Don&#8217;t forget to visit our <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">markets chart</a> &amp; <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list</a>.</p>
+<p>Don&#8217;t forget to visit our <a href="http://www.deepdotweb.com/dark-net-market-comparison-chart/">markets chart</a> &amp; <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list</a>.</p>
 <p>&nbsp;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/finish/" rel="tag">finish</a> <a href="https://www.deepdotweb.com/tag/money/" rel="tag">money</a> <a href="https://www.deepdotweb.com/tag/operations/" rel="tag">operations</a> <a href="https://www.deepdotweb.com/tag/orders/" rel="tag">orders</a> <a href="https://www.deepdotweb.com/tag/pause/" rel="tag">pause</a> <a href="https://www.deepdotweb.com/tag/withdraw/" rel="tag">withdraw</a></span> <span style="display:none" class="updated">2015-08-26
+<a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/finish/" rel="tag">finish</a> <a href="/tag/money/" rel="tag">money</a> <a href="/tag/operations/" rel="tag">operations</a> <a href="/tag/orders/" rel="tag">orders</a> <a href="/tag/pause/" rel="tag">pause</a> <a href="/tag/withdraw/" rel="tag">withdraw</a></span> 
+Updated: 2015-08-26

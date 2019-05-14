@@ -1,9 +1,11 @@
 ---
-Bitcoin Price analysis December 2, 2015
+title: "Bitcoin Price analysis December 2, 2015"
 ---
-<article class="post-listing post-12456 post type-post status-publish format-standard has-post-thumbnail hentry 
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+12456 
+
+Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic 
+
 <span>December 2, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/02/bitcoin-price-analysis-december-2-2015/#comments">1 Comment</a></span>
@@ -38,5 +40,6 @@ Bitcoin Price analysis December 2, 2015
 <p><strong>Bitcoin Weekly Price Forecast</strong></p>
 <p>This week I am cautious. Sentiment has changed since price rocketed to $ 500. The euphoria accompanying this run up has diminished. My forecast is neutral (sideways) or bullish &#8211; with limited upside. I am shooting for $430, after the current correction finds a bottom.</p>
 </div>
-<span style="display:none" class="updated">2015-12-02<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+
+Updated: 2015-12-02<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
 

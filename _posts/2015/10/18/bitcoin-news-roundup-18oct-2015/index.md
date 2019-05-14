@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 18Oct. 2015
+title: "Bitcoin News Roundup – 18Oct. 2015"
 ---
-<article class="post-listing post-11809 post type-post status-publish format-standard has-post-thumbnail hentry  tag-18oct tag-2524 tag-bitcoin tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11809  tag-18oct tag-2524 
+Posted by: DeepDotWeb 
+
 <span>October 18, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/18/bitcoin-news-roundup-18oct-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/10/18/bitcoin-news-roundup-18oct-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -20,4 +22,5 @@ Bitcoin News Roundup – 18Oct. 2015
 <p>OpenCart online shops accept the bitcoin. As Erin Lace of <a href="http://cointelegraph.com/news/115421/opencart-online-shops-welcome-bitcoin-payments">Coin Telegraph </a>writes, BitcoinPay, the European bitcoin PSP, has announced the launch of an OpenCart plugin that will enable the bitcoin integration with their e-commerce platforms. Online retailers will be also able to choose whether they want to receive payments in the digital currency or in any of the fiat currency already integrated in OpenCart, including Euro, USD, Czech Koruna and Polish Zloty.</p>
 <p>&nbsp;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/18oct/" rel="tag">18oct</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-10-18
+<a href="/tag/18oct/" rel="tag">18oct</a>   </span> 
+Updated: 2015-10-18

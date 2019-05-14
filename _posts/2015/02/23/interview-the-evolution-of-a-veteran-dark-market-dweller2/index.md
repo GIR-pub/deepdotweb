@@ -1,13 +1,10 @@
 ---
-Interview: The Evolution Of a Veteran Dark Market Dweller #2
+title: "Interview: The Evolution Of a Veteran Dark Market Dweller #2"
 ---
-<article class="post-listing post-8500 post type-post status-publish format-standard has-post-thumbnail hentry  tag-veterandarkmarketdweller">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+
+Posted by: Allen Hoffmann, JD
+
 <span>February 23, 2015</span>
-
-<span><a href="https://www.deepdotweb.com/2015/02/23/interview-the-evolution-of-a-veteran-dark-market-dweller2/#comments">4 Comments</a></span>
-
 
 <p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Doing business with the mob and managing your operation.</strong></span></p>
@@ -67,6 +64,6 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #2
 <p><strong>AH: What do you tell the IRS? You can’t pay for a condo with rolls of 20s and 50s last time I checked.</strong></p>
 <p>DT: We’re getting beyond the scope of the interview here, but let me answer that like this &#8211; I have people for that, the money has been in bank accounts in a number of places for a long time. I am a legitimate businessman. And also, fuck the IRS. Be sure you quote me on that word for word. “FUCK – THE – I-R-S”</p>
 <p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-23<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+
+Updated: 2015-02-23
 

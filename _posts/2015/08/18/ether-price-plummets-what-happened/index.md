@@ -1,16 +1,18 @@
 ---
-Ether Price Plummets &#8211; What Happened?"
+title: "Ether Price Plummets &#8211; What Happened?"
 ---
-<article class="post-listing post-11294 post type-post status-publish format-standard has-post-thumbnail hentry  tag-ether tag-happened tag-plummets tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11294  tag-ether tag-happened tag-plummets tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>August 18, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/18/ether-price-plummets-what-happened/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/18/ether-price-plummets-what-happened/#respond">Leave a comment</a></span>
 
 
 <p><a href="/imgs/2015/08/11.jpg"><img class="aligncenter size-full wp-image-11295" src="/imgs/2015/08/11.jpg" alt="1" width="809" height="540" srcset="/imgs/2015/08/11.jpg 809w, /imgs/2015/08/11-300x200.jpg 300w, /imgs/2015/08/11-290x195.jpg 290w" sizes="(max-width: 809px) 100vw, 809px" /></a></p>
-<p>Over the August 8 weekend, Ether (ETH), the native token of decentralized platform <a href="https://www.deepdotweb.com/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum</a> began trading on exchanges after the launch of its first live release, ‘Ethereum frontier’. The release came out with set conditions, measures put in place by devs. As soon as trading went live on some exchanges, led by kraken over miscommunication, ‘ether dumping’ set off a panic price fall, down 80% from prices at $3.0 just days ago.</p>
+<p>Over the August 8 weekend, Ether (ETH), the native token of decentralized platform <a href="/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum</a> began trading on exchanges after the launch of its first live release, ‘Ethereum frontier’. The release came out with set conditions, measures put in place by devs. As soon as trading went live on some exchanges, led by kraken over miscommunication, ‘ether dumping’ set off a panic price fall, down 80% from prices at $3.0 just days ago.</p>
 <p><em>“The market cap was around 170, now 88 ? Price halved in a single day?”</em></p>
 <p><strong>Ether Crowdsale, About a Year Ago</strong></p>
 <p><a href="/imgs/2015/08/22.jpg"><img class="aligncenter size-full wp-image-11296" src="/imgs/2015/08/22.jpg" alt="2" width="623" height="353" srcset="/imgs/2015/08/22.jpg 623w, /imgs/2015/08/22-300x170.jpg 300w" sizes="(max-width: 623px) 100vw, 623px" /></a></p>
@@ -31,5 +33,6 @@ Ether Price Plummets &#8211; What Happened?"
 <p><a href="/imgs/2015/08/52.jpg"><img class="aligncenter size-full wp-image-11299" src="/imgs/2015/08/52.jpg" alt="5" width="948" height="314" srcset="/imgs/2015/08/52.jpg 948w, /imgs/2015/08/52-300x99.jpg 300w" sizes="(max-width: 948px) 100vw, 948px" /></a></p>
 <p>Despite heavy sell offs initially on August 8, price settled at a bottom of $ 1 on Kraken and once users were able to access their coins, market interest resumed sending the price back up again to a peak of $ 2. A rollercoaster ride within a week; with a supply of 72,524,960 ETH, market capitalization went from $ 180 million, down to $42 million and up again to $ 122 million &#8211; all within a span of 1 and a half weeks! As of writing this, the price of 1 ETH is $1.33 as per <a href="http://coinmarketcap.com/currencies/ethereum/#charts">coinmarketcap</a>, with a market capitalization of $ 96 million. Certainly resembles the sort of volatility Bitcoin traders were accustomed to.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/ether/" rel="tag">ether</a> <a href="https://www.deepdotweb.com/tag/happened/" rel="tag">happened</a> <a href="https://www.deepdotweb.com/tag/plummets/" rel="tag">plummets</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-18<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/ether/" rel="tag">ether</a> <a href="/tag/happened/" rel="tag">happened</a> <a href="/tag/plummets/" rel="tag">plummets</a> 
+Updated: 2015-08-18
 

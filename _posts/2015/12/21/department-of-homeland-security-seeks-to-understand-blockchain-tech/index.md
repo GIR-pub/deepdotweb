@@ -1,9 +1,10 @@
 ---
-Department Of Homeland Security Seeks To Understand Blockchain Tech"
+title: "Department Of Homeland Security Seeks To Understand Blockchain Tech"
 ---
-<article class="post-listing post-12660 post type-post status-publish format-standard hentry category-news tag-blockchain tag-department tag-security tag-seeks tag-tech tag-understand">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12660 tag-blockchain tag-department tag-security tag-seeks tag-tech tag-understand
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>December 21, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/21/department-of-homeland-security-seeks-to-understand-blockchain-tech/#respond">Leave a comment</a></span>
@@ -17,5 +18,6 @@ Department Of Homeland Security Seeks To Understand Blockchain Tech"
 <p>In the S&amp;T initiative, the Homeland Security is calling a research for 10 projects, including the ”studying malware prediction for cyber defense” and ”real-time data analytics for emergency medical services.” The Domestic Nuclear Detection Office program of the DHS also offers grants in three different categories.</p>
 <p>Proposals should be submitted to the DHS SBIR by 14:00 EST on January 20, 2016, in order to be considered for 2016&#8217;s project.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a>   <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/tech/" rel="tag">tech</a> <a href="https://www.deepdotweb.com/tag/understand/" rel="tag">understand</a></span> <span style="display:none" class="updated">2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/department/" rel="tag">department</a>   <a href="https://www.deepdotweb.com/tag/seeks/" rel="tag">seeks</a> <a href="https://www.deepdotweb.com/tag/tech/" rel="tag">tech</a> <a href="https://www.deepdotweb.com/tag/understand/" rel="tag">understand</a></span> 
+Updated: 2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

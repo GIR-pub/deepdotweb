@@ -1,13 +1,13 @@
 ---
-How To Buy From TheRealDeal Market?"
+title: "How To Buy From TheRealDeal Market?"
 ---
-<article class="post-listing post-12674 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-therealdeal">
-    
-<div class="post-inner">
-    
+
+12674  tag-buy tag-therealdeal
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    
+
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
     
     
 <span>December 21, 2015</span>
@@ -39,10 +39,10 @@ How To Buy From TheRealDeal Market?"
 <p>You can use this link to register to <a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a>: <strong><a href="http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555" target="_blank">http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555</a></strong></p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span>				<span style="display:none" class="updated">2015-12-21
+
+<a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span>				
+Updated: 2015-12-21
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

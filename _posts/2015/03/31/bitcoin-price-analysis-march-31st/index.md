@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis March 31st
+title: "Bitcoin Price Analysis March 31st"
 ---
-<article class="post-listing post-9805 post type-post status-publish format-standard has-post-thumbnail hentry  tag-31st tag-analysis tag-bitcoin tag-march tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+9805  tag-31st tag-analysis tag-march tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>March 31, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/31/bitcoin-price-analysis-march-31st/#comments">1 Comment</a></span>
+
+
+<span><a href="/2015/03/31/bitcoin-price-analysis-march-31st/#comments">1 Comment</a></span>
 
 
 <p>This week the market was mostly in a correction, consolidating sideways while gradually retracing from the bottom in what I observe to be a corrective wave. The last impulsive drop from $280 and $270 exhibited a similar pattern. A 3 wave motive move to the bottom, with intermittent corrections. Retracement up from $247 to $271 was a 50% retracement &#8211; typical of corrective waves. The current price range, is a correction of an impulsive wave from $271 to $235. A 50% retracement level lies at around $254. So far, prices are within reasonable range of a corrective description.</p>
@@ -27,5 +29,6 @@ Bitcoin Price Analysis March 31st
 <p>A pattern akin to this Elliott wave count illustration below.</p>
 <p><a href="/imgs/2015/03/51.png"><img class="aligncenter size-full wp-image-9810" src="/imgs/2015/03/51.png" alt="5" width="620" height="376" srcset="/imgs/2015/03/51.png 620w, /imgs/2015/03/51-300x182.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></a>Alternatively, a slim chance of a bull reversal will have to break past $ 271 to invalidate this recent move up as a wave <strong>ii </strong>count. Overall, the bear market since January 2014 is still playing out and a definitive bottom is yet to be confirmed. Bar any abrupt bullish news, next week we should expect lower levels than today.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/31st/" rel="tag">31st</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-03-31<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/31st/" rel="tag">31st</a>  
+Updated: 2015-03-31
 

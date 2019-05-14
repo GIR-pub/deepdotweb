@@ -1,9 +1,10 @@
 ---
-Silk Road Vendor Sentenced To 2 Year Prison"
+title: "Silk Road Vendor Sentenced To 2 Year Prison"
 ---
-<article class="post-listing post-12046 post type-post status-publish format-standard has-post-thumbnail hentry  tag-counterfeit tag-currency tag-guns tag-prison tag-selling tag-sentenced tag-vendor tag-year">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12046  tag-counterfeit tag-currency tag-guns tag-prison tag-selling tag-sentenced tag-vendor tag-year
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>November 9, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/09/silk-road-vendor-sentenced-to-2-year-prison/#comments">4 Comments</a></span>
@@ -14,5 +15,6 @@ Silk Road Vendor Sentenced To 2 Year Prison"
 <p>On June 28, 2013, a federal search warrant was executed at Kennedy’s house in Lincoln, Nebraska. The vendor was at home when the feds have arrived at his place and he agreed to speak with the law enforcement authorities. Kennedy admitted that he used an online username for the sale of drugs, guns, and counterfeit currency on Silk Road, including cocaine, LSD, and several other synthetic and controlled prescription substances. He also admitted that the chemicals and laboratory equipment in his residence were used to manufacture Phenazepam, a controlled substance. During the time when the warrant was executed, the agents recovered ten firearms and various drugs, including Barbital powder, Phenazepam, Ethylphenidate, Ketamine, Etaqualone, Xanax, Valium, and Heroin. Kennedy also admitted selling at least 38 grams of cocaine.</p>
 <p>The sentence was announced by United States Attorney for the District of Maryland Rod J. Rosenstein; Special Agent in Charge Andre Watson of U.S. Immigration and Customs Enforcement’s (ICE) Homeland Security Investigations (HSI); Assistant Special Agent in Charge Don A. Hibbert of the Drug Enforcement Administration, Baltimore District Office; Postal Inspector in Charge David G. Bowers of the U.S. Postal Inspection Service &#8211; Washington Division; Special Agent in Charge William P. McMullan of the Bureau of Alcohol, Tobacco, Firearms and Explosives &#8211; Baltimore Field Division; Special Agent in Charge Brian Murphy of the United States Secret Service &#8211; Baltimore Field Office; and Special Agent in Charge Thomas Jankowski of the Internal Revenue Service &#8211; Criminal Investigation, Washington, D.C. Field Office.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a>  <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> <span style="display:none" class="updated">2015-11-09<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/counterfeit/" rel="tag">counterfeit</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a>  <a href="https://www.deepdotweb.com/tag/guns/" rel="tag">guns</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a>  <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a> <a href="https://www.deepdotweb.com/tag/sentenced/" rel="tag">sentenced</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a> <a href="https://www.deepdotweb.com/tag/year/" rel="tag">year</a></span> 
+Updated: 2015-11-09<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

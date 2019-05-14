@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 16 Aug.2015
+title: "Bitcoin News Roundup – 16 Aug.2015"
 ---
-<article class="post-listing post-11286 post type-post status-publish format-standard has-post-thumbnail hentry  tag-1887 tag-aug2015 tag-bitcoin tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11286  tag-1887 tag-aug2015 
+Posted by: DeepDotWeb 
+
 <span>August 16, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/16/bitcoin-news-roundup-16-aug-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/16/bitcoin-news-roundup-16-aug-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -23,4 +25,5 @@ Bitcoin News Roundup – 16 Aug.2015
 <p><strong>Payments</strong></p>
 <p>Coinify acquires Coinzone. As Duncan Riley of <a href="http://siliconangle.com/blog/2015/08/13/bitcoin-merchant-services-provider-coinify-picks-up-competitor-coinzone-in-psp-play/">Silicon Angle</a> writes, Coinify, the Danish-based bitcoin payment processing platform, has been focusing on the European market since 2014 aiming to deliver a seamless experience in bitcoins transactions both for users and merchants. Coinzone, the Amsterdam-based leading bitcoin payment solution provider has gained an early mover’s advantage in the European bitcoin community by protecting all transactions under European Data Privacy Laws. The price of the acquisition remained undisclosed.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/16/" rel="tag">16</a> <a href="https://www.deepdotweb.com/tag/aug2015/" rel="tag">aug2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-08-16
+<a href="/tag/16/" rel="tag">16</a> <a href="/tag/aug2015/" rel="tag">aug2015</a>  </span> 
+Updated: 2015-08-16

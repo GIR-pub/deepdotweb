@@ -1,16 +1,17 @@
 ---
-VPN: Encrypt every device on your network for $20
+title: "VPN: Encrypt every device on your network for $20"
 ---
-<article class="post-listing post-10149 post type-post status-publish format-standard has-post-thumbnail hentry tag-device tag-encrypt tag-network tag-vpn">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/c3lt1c/" title="">c3lt1c </a></span>
+
+10149 tag-device tag-encrypt tag-network tag-vpn
+Posted by: <a href="/author/c3lt1c/" title="">c3lt1c 
+
 <span>August 28, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/#comments">2 Comments</a></span>
+<span><a href="/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/#comments">2 Comments</a></span>
 
 
 <p>Staying in-line with the VPN theme I decided to build a site-to-site VPN solution &#8211; otherwise known as a &#8216;branch office tunnel&#8217;. First, you will need to make sure that your VPN provider supports this function. I personally use NordVPN, however many of the best popular providers support this option in the form of OpenVPN running on a flashed consumer router. Nord supports DDWRT and Tomato router. If you are not familiar with these custom firmwares I would advise that you do some reading and become comfortable with what they are and what they do. In a nutshell, both DDWRT and Tomato router are custom firmwares for many consumer grade routers, which leverage many additional features not available in the stock Linksys, D-Link, etc. firmware. Features include wireless function like bridges, repeaters, access points, etc. From a LAN/WAN perspective they support VPN, advanced routing, VLAN support, firewalling, etc.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">–&gt; Click here to see the best VPN’s for privacy &lt;–</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">–&gt; Click here to see the best VPN’s for privacy &lt;–</a></p>
 <p>Why would you want this you ask? In most scenarios you will be using clients to authenticate to your VPN provider. This is fine unless you&#8217;re using a device which is not supported or if your devices exceed your VPN license. More and more VPN providers are releasing clients for Android, IOS, Linux and just about any other OS around. Some are still a work in progress and on top of that you&#8217;re usually limited to a certain number of simultaneously connect devices. For example, I am limited to 2 devices &#8211; This is not a problem for me personally as I will rarely, if ever, use more than 2 devices on VPN simultaneously. <strong>Figure 1A</strong> illustrates a negotiation then tunnel establishment via software client to your VPN provider. <strong>Figure 1B</strong> will help you to visualize the difference in a site-to-site setup:</p>
 <p><strong>FIGURE 1A:</strong></p>
 <p><a href="/imgs/2015/04/12.jpg"><img class="aligncenter size-full wp-image-10150" src="/imgs/2015/04/12.jpg" alt="1" width="1042" height="293" srcset="/imgs/2015/04/12.jpg 1042w, /imgs/2015/04/12-300x84.jpg 300w, /imgs/2015/04/12-1024x288.jpg 1024w" sizes="(max-width: 1042px) 100vw, 1042px"/></a></p>
@@ -167,5 +168,6 @@ VPN: Encrypt every device on your network for $20
 <p>
     &nbsp;</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/device/" rel="tag">device</a> <a href="https://www.deepdotweb.com/tag/encrypt/" rel="tag">encrypt</a> <a href="https://www.deepdotweb.com/tag/network/" rel="tag">network</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a></span> <span style="display:none" class="updated">2015-08-28<a href="https://www.deepdotweb.com/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
+ <a href="/tag/device/" rel="tag">device</a> <a href="/tag/encrypt/" rel="tag">encrypt</a> <a href="/tag/network/" rel="tag">network</a> <a href="/tag/vpn/" rel="tag">vpn</a></span> 
+Updated: 2015-08-28<a href="/author/c3lt1c/" title="Posts by c3lt1c" rel="author">c3lt1c</a></strong></div>
 

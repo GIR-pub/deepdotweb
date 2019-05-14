@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis 17 March"
+title: "Bitcoin Price Analysis 17 March"
 ---
-<article class="post-listing post-9484 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2684 tag-analysis tag-bitcoin tag-march tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+9484  tag-2684 tag-analysis tag-march tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>March 17, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/17/bitcoin-price-analysis-17-march/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/03/17/bitcoin-price-analysis-17-march/#respond">Leave a comment</a></span>
 
 
 <p>Is Bitcoin’s price in a major reversal?</p>
@@ -28,5 +30,6 @@ Bitcoin Price Analysis 17 March"
 <p>Since the dip in price to $ 282, price has gradually come up to previous levels; a sudden break from $ 284 to current levels at $292 points to a retest of resistance at $303.</p>
 <p><a href="/imgs/2015/03/7.png"><img class="aligncenter size-full wp-image-9491" src="/imgs/2015/03/7.png" alt="7" width="542" height="351" srcset="/imgs/2015/03/7.png 542w, /imgs/2015/03/7-300x194.png 300w" sizes="(max-width: 542px) 100vw, 542px"/></a>Evidently, long term charts are exhibiting all sorts of technical bullish signs. It is also clear that  fundamentals on bitcoin’s development have improved. The January low had all the makings of a legitimate bottom &#8211; high volume crash and subsequent reversal; I expect trading range to hold around these levels bar major news this year.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/17/" rel="tag">17</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-03-17<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/17/" rel="tag">17</a>  
+Updated: 2015-03-17
 

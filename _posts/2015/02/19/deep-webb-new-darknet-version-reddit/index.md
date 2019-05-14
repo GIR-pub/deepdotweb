@@ -1,12 +1,11 @@
 ---
-The Deep Webb &#8211; New Darknet version of Reddit
+title: "The Deep Webb &#8211; New Darknet version of Reddit"
 ---
-<article class="post-listing post-9143 post type-post status-publish format-standard hentry category-news tag-reddit tag-version tag-webb">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+
+Posted by: DeepDotWeb 
+
 <span>February 19, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/19/deep-webb-new-darknet-version-reddit/#comments">7 Comments</a></span>
 
 
 <p>Just announced on <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2wdiqs/psaarticlethe_deep_webb_darknet_version_of_reddit/" target="_blank">the clearnet version</a> of Reddit:</p>
@@ -16,5 +15,5 @@ The Deep Webb &#8211; New Darknet version of Reddit
 <p>PLEASE DO NOT USE SAME PASSWORD AS REDDIT &amp; MARKET ACCOUNTS.</p></blockquote>
 <p>Not the first time that a reddit clone is being launched as an onion site, will keep following and see how this develops. Hopefully it will be kept clean.</p>
 <p><a href="/imgs/2015/02/deeep.png"><img class="aligncenter size-full wp-image-9145" src="/imgs/2015/02/deeep.png" alt="deeep" width="1250" height="730" srcset="/imgs/2015/02/deeep.png 1250w, /imgs/2015/02/deeep-300x175.png 300w, /imgs/2015/02/deeep-1024x598.png 1024w" sizes="(max-width: 1250px) 100vw, 1250px"/></a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/deep/" rel="tag">deep</a><a href="https://www.deepdotweb.com/tag/version/" rel="tag">version</a> <a href="https://www.deepdotweb.com/tag/webb/" rel="tag">webb</a></span> <span style="display:none" class="updated">2015-02-19
+
+Updated: 2015-02-19

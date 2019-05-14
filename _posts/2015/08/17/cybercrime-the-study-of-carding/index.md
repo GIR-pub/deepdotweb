@@ -1,12 +1,13 @@
 ---
-Cybercrime: The Study of Carding"
+title: "Cybercrime: The Study of Carding"
 ---
-<article class="post-listing post-11291 post type-post status-publish format-standard has-post-thumbnail hentry  tag-carding tag-cybercrime tag-study">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11291  tag-carding tag-cybercrime tag-study
+Posted by: DeepDotWeb 
+
 <span>August 17, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/08/17/cybercrime-the-study-of-carding/#comments">13 Comments</a></span>
+<span><a href="/2015/08/17/cybercrime-the-study-of-carding/#comments">13 Comments</a></span>
 
 
 <div class="entry-content">
@@ -25,4 +26,5 @@ Cybercrime: The Study of Carding"
 <p><em><a href="https://en.wikipedia.org/wiki/Carding_%28fraud%29">Read it now, ‘Carding (fraud)’ on Wikipedia for an inside look into the structure and history of Carding</a></em></p>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/carding/" rel="tag">carding</a> <a href="https://www.deepdotweb.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://www.deepdotweb.com/tag/study/" rel="tag">study</a></span> <span style="display:none" class="updated">2015-08-17
+<a href="/tag/carding/" rel="tag">carding</a> <a href="/tag/cybercrime/" rel="tag">cybercrime</a> <a href="/tag/study/" rel="tag">study</a></span> 
+Updated: 2015-08-17

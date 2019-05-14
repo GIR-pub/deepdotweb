@@ -1,9 +1,10 @@
 ---
-Interview With a Dark Net Market Developer"
+title: "Interview With a Dark Net Market Developer"
 ---
-<article class="post-listing post-12260 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dark tag-developer tag-interview tag-net">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12260  tag-dark tag-developer tag-interview tag-net
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>November 19, 2015</span>
 
 <span><a href="https://www.deepdotweb.com/2015/11/19/interview-with-a-dark-net-developer/#comments">7 Comments</a></span>
@@ -45,4 +46,5 @@ Interview With a Dark Net Market Developer"
 <p>There has been some interest, but nothing significant.  There are 2-3 people who seem genuinely interested in purchasing this, but until the first staged payment is made then the offer still on the table and open to bids.</p>
 <p><strong>Ok Thanks for your time and good luck with the sale!</strong></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/developer/" rel="tag">developer</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> <span style="display:none" class="updated">2015-11-19
+<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/developer/" rel="tag">developer</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> 
+Updated: 2015-11-19

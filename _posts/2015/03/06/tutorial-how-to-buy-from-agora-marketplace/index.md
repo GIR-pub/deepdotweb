@@ -1,18 +1,19 @@
 ---
-Tutorial: How To Buy From Agora Marketplace?"
+title: "Tutorial: How To Buy From Agora Marketplace?"
 ---
-<article class="post-listing post-9283 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agora tag-buy tag-tutorial">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9283  tag-agora tag-buy tag-tutorial
+Posted by: DeepDotWeb 
+
 <span>March 6, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/06/tutorial-how-to-buy-from-agora-marketplace/#comments">14 Comments</a></span>
+<span><a href="/2015/03/06/tutorial-how-to-buy-from-agora-marketplace/#comments">14 Comments</a></span>
 
 
 <p>So obviously you&#8217;re here to learn how to buy something from <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora Marketplace</a>. I don&#8217;t care what it is, nobody cares what it is. Do not say what it is. In this guide we&#8217;ll be covering the process of ordering on Agora, from A to Z. Make sure you read this whole guide before proceeding, it&#8217;s important that you understand each and every step. This guide is for buyers of personal amounts, if you&#8217;re reading this and thinking of vending or buying to resell you should think really damn hard about what you&#8217;re about to do.</p>
 <p><strong>Part 1 – Preparing</strong></p>
-<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://www.deepdotweb.com/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market<a href="http://silkroaddrugs.org/bestproxy">.</a> Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider.<a href="http://silkroaddrugs.org/bestproxy"> </a>This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market<a href="http://silkroaddrugs.org/bestproxy">.</a> Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider.<a href="http://silkroaddrugs.org/bestproxy"> </a>This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
 <p>The first step is to set up your environment. The following is absolute minimum to keep yourself safe when buying personal amounts. Once you get this down, check out the <a href="http://www.deepdotweb.com/security-tutorials/">Security Tutorials section</a> for some extra tips on how to stay secure.</p>
 <p><strong>Tor Browser Bundle</strong></p>
 <p><a href="/imgs/2015/02/ttb.png"><img class="aligncenter size-full wp-image-9242" src="/imgs/2015/02/ttb.png" alt="ttb" width="959" height="429" srcset="/imgs/2015/02/ttb.png 959w, /imgs/2015/02/ttb-300x134.png 300w" sizes="(max-width: 959px) 100vw, 959px"/></a></p>
@@ -122,4 +123,5 @@ Tutorial: How To Buy From Agora Marketplace?"
 <p><strong>Part 8 – Conclusion</strong></p>
 <p>Following this tutorial should be enough to get you started on Agora. There is a bit more that can be learned, but it&#8217;s better that you do this on your own. Have fun and stay safe!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-03-06
+<a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/marketplace/" rel="tag">marketplace</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+Updated: 2015-03-06

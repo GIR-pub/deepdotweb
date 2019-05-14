@@ -1,12 +1,13 @@
 ---
-Italian police Bust &#8220;Babylon&#8221; Dark Web Market
+title: "Italian police Bust &#8220;Babylon&#8221; Dark Web Market"
 ---
-<article class="post-listing post-11165 post type-post status-publish format-standard hentry category-news tag-babylon tag-bust tag-dark tag-italian tag-police tag-web">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11165 tag-babylon tag-bust tag-dark tag-italian tag-police tag-web
+Posted by: DeepDotWeb 
+
 <span>August 2, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/02/italian-police-bust-babylon-dark-web-market/#comments">5 Comments</a></span>
+
+<span><a href="/2015/08/02/italian-police-bust-babylon-dark-web-market/#comments">5 Comments</a></span>
 
 
 <section class="page">Italian police have shut down a Dark Web marketplace offering illegal goods ranging from child pornography to forged luncheon vouchers, and seized 11,000 bitcoin wallets worth about 1 million euros, authorities said Friday.</p>
@@ -22,4 +23,4 @@ Italian police Bust &#8220;Babylon&#8221; Dark Web Market
 <p>Article Source: <a href="http://www.pcworld.com/article/2955572/italian-police-shutter-dark-web-marketplace.html" target="_blank">http://www.pcworld.com/article/2955572/italian-police-shutter-dark-web-marketplace.html</a></p>
 </section>
 </div>
-<a href="https://www.deepdotweb.com/tag/babylon/" rel="tag">babylon</a> <a href="https://www.deepdotweb.com/tag/bust/" rel="tag">bust</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/italian/" rel="tag">italian</a> <a href="https://www.deepdotweb.com/tag/marketplace/" rel="tag">marketplace</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/web/" rel="tag">web</a></span> <span style="display:none" class="updated">2015-08-02
+<a href="/tag/babylon/" rel="tag">babylon</a>   <a href="/tag/italian/" rel="tag">italian</a> <a href="/tag/marketplace/" rel="tag">marketplace</a> Updated: 2015-08-02

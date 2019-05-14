@@ -1,9 +1,10 @@
 ---
-Reminder: Reduce Exit Scams By Supporting &#8220;Multisig&#8221; Markets"
+title: "Reminder: Reduce Exit Scams By Supporting &#8220;Multisig&#8221; Markets"
 ---
-<article class="post-listing post-12102 post type-post status-publish format-standard hentry category-news tag-exit tag-multisig tag-reduce tag-reminder tag-scams tag-supporting">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12102 tag-exit tag-multisig tag-reduce tag-reminder tag-scams tag-supporting
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>November 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/12/reminder-reduce-exit-scams-by-supporting-multisig-markets/#comments">10 Comments</a></span>
@@ -38,4 +39,5 @@ Reminder: Reduce Exit Scams By Supporting &#8220;Multisig&#8221; Markets"
 </li>
 </ol>
 </div>
-<a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/reduce/" rel="tag">reduce</a> <a href="https://www.deepdotweb.com/tag/reminder/" rel="tag">reminder</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/supporting/" rel="tag">supporting</a></span> <span style="display:none" class="updated">2015-11-12
+<a href="https://www.deepdotweb.com/tag/exit/" rel="tag">exit</a> <a href="https://www.deepdotweb.com/tag/markets/" rel="tag">markets</a> <a href="https://www.deepdotweb.com/tag/multisig/" rel="tag">multisig</a> <a href="https://www.deepdotweb.com/tag/reduce/" rel="tag">reduce</a> <a href="https://www.deepdotweb.com/tag/reminder/" rel="tag">reminder</a> <a href="https://www.deepdotweb.com/tag/scams/" rel="tag">scams</a> <a href="https://www.deepdotweb.com/tag/supporting/" rel="tag">supporting</a></span> 
+Updated: 2015-11-12

@@ -1,12 +1,13 @@
 ---
-College Dropouts Caught On Selling Drugs From Darknet In India
+title: "College Dropouts Caught On Selling Drugs From Darknet In India"
 ---
-<article class="post-listing post-11210 post type-post status-publish format-standard hentry category-news tag-caught tag-college tag-dropouts tag-india tag-selling">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11210 tag-caught tag-college tag-dropouts tag-india tag-selling
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>August 7, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/07/college-dropouts-caught-on-selling-drugs-from-darknet-in-india/#comments">3 Comments</a></span>
+
+<span><a href="/2015/08/07/college-dropouts-caught-on-selling-drugs-from-darknet-in-india/#comments">3 Comments</a></span>
 
 
 <p>If you follow darkweb news daily then I’m sure you have already came across several articles about people (mostly young) getting caught for possessing drugs that they have ordered from the darknet. Most of these people are from the United States, Canada or from the United Kingdom. However, in this case, the people who were arrested are from India.</p>
@@ -17,7 +18,7 @@ College Dropouts Caught On Selling Drugs From Darknet In India
 <p>&#8220;All transactions on the website are done through fake profiles, which makes it harder to trace the users,&#8221; said another official in the narcotics wing of Central Crime Branch.</p>
 <p>The drug peddlers stay in judicial custody until they will receive their official sentence from the court.</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/caught/" rel="tag">caught</a> <a href="https://www.deepdotweb.com/tag/college/" rel="tag">college</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dropouts/" rel="tag">dropouts</a>  <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a> <a href="https://www.deepdotweb.com/tag/selling/" rel="tag">selling</a></span> <span style="display:none" class="updated">2015-08-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
-</div>
-</article>
+<span style="display:none"><a href="/tag/caught/" rel="tag">caught</a> <a href="/tag/college/" rel="tag">college</a> <a href="/tag/darknet/" rel="tag">darknet</a> <a href="/tag/dropouts/" rel="tag">dropouts</a>  <a href="/tag/india/" rel="tag">india</a> <a href="/tag/selling/" rel="tag">selling</a></span> 
+Updated: 2015-08-07<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
 

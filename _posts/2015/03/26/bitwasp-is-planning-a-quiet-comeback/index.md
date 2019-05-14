@@ -1,12 +1,14 @@
 ---
-Can Bitwasp Make a Comeback? Maybe."
+title: "Can Bitwasp Make a Comeback? Maybe."
 ---
-<article class="post-listing post-9618 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitwasp tag-comeback">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9618  tag-bitwasp tag-comeback
+Posted by: DeepDotWeb 
+
 <span>March 26, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/26/bitwasp-is-planning-a-quiet-comeback/#comments">5 Comments</a></span>
+
+
+<span><a href="/2015/03/26/bitwasp-is-planning-a-quiet-comeback/#comments">5 Comments</a></span>
 
 
 <p><span style="text-decoration: underline;"><em>Brought to our attention by Fred Rico &#8211; Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting Bitwasp (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past year):</em></span></p>
@@ -37,4 +39,5 @@ Can Bitwasp Make a Comeback? Maybe."
 <div></div>
 <div>Anyone interested in helping out, any bugs, issues can be reported to me on email at: <a href="mailto:fredericoagent@googlemail.com" target="_blank">fredericoagent@googlemail.com</a>  OR posted on the Bit-Wasp forum &#8211; https://bit-wasp.org</div>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitwasp/" rel="tag">bitwasp</a> <a href="https://www.deepdotweb.com/tag/comeback/" rel="tag">comeback</a></span> <span style="display:none" class="updated">2015-03-26
+<a href="/tag/bitwasp/" rel="tag">bitwasp</a> <a href="/tag/comeback/" rel="tag">comeback</a></span> 
+Updated: 2015-03-26

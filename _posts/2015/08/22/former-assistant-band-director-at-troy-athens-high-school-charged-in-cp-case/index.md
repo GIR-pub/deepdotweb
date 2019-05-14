@@ -1,12 +1,13 @@
 ---
-Former Assistant Band Director At Troy Athens High School Charged In CP Case"
+title: "Former Assistant Band Director At Troy Athens High School Charged In CP Case"
 ---
-<article class="post-listing post-11319 post type-post status-publish format-standard hentry category-news tag-assistant tag-athens tag-band tag-case tag-charged tag-cp tag-director tag-high tag-school tag-troy">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11319 tag-assistant tag-athens tag-band tag-case tag-charged tag-cp tag-director tag-high tag-school tag-troy
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>August 22, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/22/former-assistant-band-director-at-troy-athens-high-school-charged-in-cp-case/#comments">3 Comments</a></span>
+
+<span><a href="/2015/08/22/former-assistant-band-director-at-troy-athens-high-school-charged-in-cp-case/#comments">3 Comments</a></span>
 
 
 <p><a href="http://www.freep.com/story/news/local/michigan/oakland/2015/08/18/troy-athens-assistant-band-director-charged/31909259/">Eric Junod, a Holly resident, also the ex-assistant band director at Troy Athens High School, has been charged with the distribution and possession of child pornography</a>. He was not just charged, however, he has been ordered to remain in federal custody until the end of the case by a federal magistrate judge, Elizabeth Stafford. The judge has also signed the complaint that has been made against Junod, which stated that he was part of a hidden CP service on the darknet where members have sent and received pictures and media containing child pornography.</p>
@@ -19,5 +20,6 @@ Former Assistant Band Director At Troy Athens High School Charged In CP Case"
 <p>Junod denied that he had any sexual content with any underaged children, however, he admitted that he touched a 12 months old little girl inappropriately.</p>
 <p>Junod also told law enforcement authorities that he has been watching child porn since 2008 and he has also been engaged in sexually explicit conversations with underaged children. According to the complaint, he has not just engaged in online conversations with these children, but he has sent sexually explicit photos of himself and also received these kinds of pictures from the children as well.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/assistant/" rel="tag">assistant</a> <a href="https://www.deepdotweb.com/tag/athens/" rel="tag">athens</a> <a href="https://www.deepdotweb.com/tag/band/" rel="tag">band</a> <a href="https://www.deepdotweb.com/tag/case/" rel="tag">case</a> <a href="https://www.deepdotweb.com/tag/charged/" rel="tag">charged</a> <a href="https://www.deepdotweb.com/tag/cp/" rel="tag">cp</a> <a href="https://www.deepdotweb.com/tag/director/" rel="tag">director</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/school/" rel="tag">school</a> <a href="https://www.deepdotweb.com/tag/troy/" rel="tag">troy</a></span> <span style="display:none" class="updated">2015-08-22<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="/tag/assistant/" rel="tag">assistant</a> <a href="/tag/athens/" rel="tag">athens</a> <a href="/tag/band/" rel="tag">band</a> <a href="/tag/case/" rel="tag">case</a> <a href="/tag/charged/" rel="tag">charged</a> <a href="/tag/cp/" rel="tag">cp</a> <a href="/tag/director/" rel="tag">director</a> <a href="/tag/high/" rel="tag">high</a> <a href="/tag/school/" rel="tag">school</a> <a href="/tag/troy/" rel="tag">troy</a></span> 
+Updated: 2015-08-22<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

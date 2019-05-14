@@ -1,12 +1,13 @@
 ---
-12 Things to Do While Your Market Is Down!"
+title: "12 Things to Do While Your Market Is Down!"
 ---
-<article class="post-listing post-9640 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2688 tag-market">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9640  tag-2688 tag-market
+Posted by: DeepDotWeb 
+
 <span>March 25, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/25/12-things-to-do-while-your-market-is-down/#comments">3 Comments</a></span>
+<span><a href="/2015/03/25/12-things-to-do-while-your-market-is-down/#comments">3 Comments</a></span>
 
 
 <p>After the <a href="http://www.deepdotweb.com/tag/evoscam/">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
@@ -32,4 +33,5 @@
 </ul>
 <p>And most important is stay calm, some of them will be back up eventually&#8230; maybe.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/12/" rel="tag">12</a></span> <span style="display:none" class="updated">2015-03-25
+<a href="/tag/12/" rel="tag">12</a></span> 
+Updated: 2015-03-25

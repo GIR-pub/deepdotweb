@@ -1,12 +1,13 @@
 ---
-Preventing the Next Multi-Million Dollar Theft
+title: "Preventing the Next Multi-Million Dollar Theft"
 ---
-<article class="post-listing post-9560 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dollar tag-multimillion tag-preventing tag-theft">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9560  tag-dollar tag-multimillion tag-preventing tag-theft
+Posted by: DeepDotWeb 
+
 <span>March 20, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/20/preventing-the-next-multi-million-dollar-theft/#comments">21 Comments</a></span>
+<span><a href="/2015/03/20/preventing-the-next-multi-million-dollar-theft/#comments">21 Comments</a></span>
 
 
 <p>Guest Post By Nadav Ivgi &#8211; Founder of <a href="https://www.bitrated.com/">Bitrated</a>  (Our previous interview with Nadav can be <a href="http://www.deepdotweb.com/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">found here</a>)</p>
@@ -30,4 +31,5 @@ Preventing the Next Multi-Million Dollar Theft
 <p>Needless to say, all private keys and cryptographic operations are managed using client-side technology. Private keys never touch our servers, not even in encrypted form. Bitrated cannot touch user funds, sign transactions or intervene in the arbitrator’s decision. You can read more about our security on the <a href="https://www.bitrated.com/security">security page</a>. If you’re a security researcher, we welcome security audits and offer a <a href="https://www.bitrated.com/bounty">bug bounty program</a>.</p>
 <p>Bitrated just re-launched recently and are eager to hear the community’s feedback. If you have any ideas, suggestions or questions &#8211; please <a href="https://www.bitrated.com/contact">reach out to us</a>!</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dollar/" rel="tag">dollar</a> <a href="https://www.deepdotweb.com/tag/multimillion/" rel="tag">multimillion</a> <a href="https://www.deepdotweb.com/tag/preventing/" rel="tag">preventing</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> <span style="display:none" class="updated">2015-03-20
+<a href="/tag/dollar/" rel="tag">dollar</a> <a href="/tag/multimillion/" rel="tag">multimillion</a> <a href="/tag/preventing/" rel="tag">preventing</a> <a href="/tag/theft/" rel="tag">theft</a></span> 
+Updated: 2015-03-20

@@ -1,9 +1,10 @@
 ---
-Roger Clark Suspected Silk Road&#8217;s &#8220;Variety Jones&#8221;, arrested in Koh Chang"
+title: "Roger Clark Suspected Silk Road&#8217;s &#8220;Variety Jones&#8221;, arrested in Koh Chang"
 ---
-<article class="post-listing post-12470 post type-post status-publish format-standard has-post-thumbnail hentry  tag-chang tag-clark tag-jones tag-koh tag-roads tag-roger tag-suspected tag-variety">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12470  tag-chang tag-clark tag-jones tag-koh tag-roads tag-roger tag-suspected tag-variety
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 5, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/05/silk-road-1-roger-clark-suspected-silk-road-architect-variety-jones-arrested-in-koh-chang/#comments">1 Comment</a></span>
@@ -28,4 +29,5 @@ Roger Clark Suspected Silk Road&#8217;s &#8220;Variety Jones&#8221;, arrested in
 <p><strong>US v. Roger Thomas Clark Complaint:</strong><br />
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/292196413/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_58769" frameborder="0"></iframe></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/chang/" rel="tag">chang</a> <a href="https://www.deepdotweb.com/tag/clark/" rel="tag">clark</a> <a href="https://www.deepdotweb.com/tag/jones/" rel="tag">jones</a> <a href="https://www.deepdotweb.com/tag/koh/" rel="tag">koh</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/roger/" rel="tag">roger</a> <a href="https://www.deepdotweb.com/tag/suspected/" rel="tag">suspected</a> <a href="https://www.deepdotweb.com/tag/variety/" rel="tag">variety</a></span> <span style="display:none" class="updated">2015-12-05
+<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/chang/" rel="tag">chang</a> <a href="https://www.deepdotweb.com/tag/clark/" rel="tag">clark</a> <a href="https://www.deepdotweb.com/tag/jones/" rel="tag">jones</a> <a href="https://www.deepdotweb.com/tag/koh/" rel="tag">koh</a> <a href="https://www.deepdotweb.com/tag/roads/" rel="tag">roads</a> <a href="https://www.deepdotweb.com/tag/roger/" rel="tag">roger</a> <a href="https://www.deepdotweb.com/tag/suspected/" rel="tag">suspected</a> <a href="https://www.deepdotweb.com/tag/variety/" rel="tag">variety</a></span> 
+Updated: 2015-12-05

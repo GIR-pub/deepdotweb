@@ -1,9 +1,10 @@
 ---
-Police Log IPs, Making Arrest By Planting Own Nodes In Freenet
+title: "Police Log IPs, Making Arrest By Planting Own Nodes In Freenet"
 ---
-<article class="post-listing post-12342 post type-post status-publish format-standard has-post-thumbnail hentry  tag-arrest tag-computers tag-freenet tag-ips tag-making tag-planting tag-police tag-tracking">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12342  tag-arrest tag-computers tag-freenet tag-ips tag-making tag-planting tag-police tag-tracking
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>November 27, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/27/police-log-ips-making-arrest-by-planting-own-nodes-in-freenet/#comments">9 Comments</a></span>
@@ -16,5 +17,6 @@ Police Log IPs, Making Arrest By Planting Own Nodes In Freenet
 <p>When journalists contacted the Bureau of Criminal Investigation of North Dakota, the law enforcement agency has declined to comment the case. However, hacker10.com has found some information regarding an ICAC (Internet Crimes against Children) Task Force operation, “Black Ice Project”, running a Freenet Workshop in 2014. They quoted this on their website:</p>
 <p>“This session will describe the basic functioning of Freenet, how persons exchanging child abuse material, the system’s vulnerabilities and how the Black Ice project exploits them.”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/freenet/" rel="tag">freenet</a> <a href="https://www.deepdotweb.com/tag/ips/" rel="tag">ips</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/planting/" rel="tag">planting</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a></span> <span style="display:none" class="updated">2015-11-27<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/arrest/" rel="tag">arrest</a> <a href="https://www.deepdotweb.com/tag/computers/" rel="tag">computers</a> <a href="https://www.deepdotweb.com/tag/freenet/" rel="tag">freenet</a> <a href="https://www.deepdotweb.com/tag/ips/" rel="tag">ips</a> <a href="https://www.deepdotweb.com/tag/making/" rel="tag">making</a> <a href="https://www.deepdotweb.com/tag/planting/" rel="tag">planting</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/tracking/" rel="tag">tracking</a></span> 
+Updated: 2015-11-27<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

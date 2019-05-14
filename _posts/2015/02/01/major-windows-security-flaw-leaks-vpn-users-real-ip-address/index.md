@@ -1,12 +1,12 @@
 ---
-Major Windows Security Flaw Leaks VPN Users Real IP Address"
+title: "Major Windows Security Flaw Leaks VPN Users Real IP Address"
 ---
-<article class="post-listing post-8950 post type-post status-publish format-standard has-post-thumbnail hentry  tag-address tag-flaw tag-ip tag-leaks tag-major tag-real tag-security tag-users tag-vpn tag-windows">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+
+Posted by: DeepDotWeb 
+
 <span>February 1, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/01/major-windows-security-flaw-leaks-vpn-users-real-ip-address/#comments">5 Comments</a></span>
+
 
 
 <p><em><strong>To the author of this article</strong>:  We are mailing to your mail2tor.com mail, and don&#8217;t think you are getting those mails, please contact us from another address.</em></p>
@@ -30,5 +30,5 @@ Major Windows Security Flaw Leaks VPN Users Real IP Address"
 <p style="margin-bottom: 0in;"><span style="font-family: Arial,Verdana;"><span style="font-size: medium;">IPv6 Leak:</span></span><a href="http://ipv6leak.com/" target="_blank"><span style="font-family: Arial,Verdana;"><span style="font-size: medium;">http://ipv6leak.com/</span></span></a></p>
 <p style="margin-bottom: 0in;"><span style="font-family: Arial,Verdana;"><span style="font-size: medium;">E-Mail IP Leak: </span></span><a href="http://emailipleak.com/" target="_blank"><span style="font-family: Arial,Verdana;"><span style="font-size: medium;">http://emailipleak.com/</span></span></a></p>
 <p style="margin-bottom: 0in;">
-</div>
-<a href="https://www.deepdotweb.com/tag/address/" rel="tag">address</a> <a href="https://www.deepdotweb.com/tag/flaw/" rel="tag">flaw</a> <a href="https://www.deepdotweb.com/tag/ip/" rel="tag">ip</a> <a href="https://www.deepdotweb.com/tag/leaks/" rel="tag">leaks</a> <a href="https://www.deepdotweb.com/tag/major/" rel="tag">major</a> <a href="https://www.deepdotweb.com/tag/real/" rel="tag">real</a>  <a href="https://www.deepdotweb.com/tag/users/" rel="tag">users</a> <a href="https://www.deepdotweb.com/tag/vpn/" rel="tag">vpn</a> <a href="https://www.deepdotweb.com/tag/windows/" rel="tag">windows</a></span> <span style="display:none" class="updated">2015-02-01
+
+Updated: 2015-02-01

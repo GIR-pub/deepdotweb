@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup 19 Sep 2015
+title: "Bitcoin News Roundup 19 Sep 2015"
 ---
-<article class="post-listing post-11582 post type-post status-publish format-standard has-post-thumbnail hentry  tag-3099 tag-2524 tag-bitcoin tag-news tag-roundup tag-sep">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11582  tag-3099 tag-2524  tag-sep
+Posted by: DeepDotWeb 
+
 <span>September 19, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/19/bitcoin-news-roundup-19-sep-2015/#comments">1 Comment</a></span>
+
+
+<span><a href="/2015/09/19/bitcoin-news-roundup-19-sep-2015/#comments">1 Comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web.</em></p>
@@ -22,4 +24,5 @@ Bitcoin News Roundup 19 Sep 2015
 <p><strong>Payments</strong></p>
 <p>PayPal is back on the U.S. online gambling scene, possible reclaiming stake from bitcoin. As Sarah Jenn of <a href="http://www.newsbtc.com/2015/09/16/paypal-to-reclaim-stake-in-us-online-gambling-from-bitcoin/">NewsBtc</a> reports, the global online payment system has announced that it will facilitate deposits and withdrawals from online gambling sites, following a ban after the merger with eBay back in 2003. Now that PayPal has split partnership with the online retailer, this move is viewed as a potential seeks to retain revenues in the online gambling industry, while directly competing with the bitcoin.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/19/" rel="tag">19</a> <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a> <a href="https://www.deepdotweb.com/tag/sep/" rel="tag">sep</a></span> <span style="display:none" class="updated">2015-09-19
+<a href="/tag/19/" rel="tag">19</a>    <a href="/tag/sep/" rel="tag">sep</a></span> 
+Updated: 2015-09-19

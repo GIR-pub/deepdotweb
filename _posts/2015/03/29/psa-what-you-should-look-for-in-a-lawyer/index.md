@@ -1,12 +1,13 @@
 ---
-PSA: What You Should Look For In A Lawyer?"
+title: "PSA: What You Should Look For In A Lawyer?"
 ---
-<article class="post-listing post-9761 post type-post status-publish format-standard has-post-thumbnail hentry  tag-lawyer tag-psa">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9761  tag-lawyer tag-psa
+Posted by: DeepDotWeb 
+
 <span>March 29, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/29/psa-what-you-should-look-for-in-a-lawyer/#comments">5 Comments</a></span>
+<span><a href="/2015/03/29/psa-what-you-should-look-for-in-a-lawyer/#comments">5 Comments</a></span>
 
 
 <div class="usertext-body may-blank-within md-container">
@@ -24,4 +25,5 @@ PSA: What You Should Look For In A Lawyer?"
 </div>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/lawyer/" rel="tag">lawyer</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a></span> <span style="display:none" class="updated">2015-03-29
+<a href="/tag/lawyer/" rel="tag">lawyer</a> <a href="/tag/psa/" rel="tag">psa</a></span> 
+Updated: 2015-03-29

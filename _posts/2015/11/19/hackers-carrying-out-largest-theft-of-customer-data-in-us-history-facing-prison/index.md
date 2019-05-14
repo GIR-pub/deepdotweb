@@ -1,9 +1,10 @@
 ---
-Hackers Carrying Out Largest Theft Of Customer Data In US. History Facing Prison"
+title: "Hackers Carrying Out Largest Theft Of Customer Data In US. History Facing Prison"
 ---
-<article class="post-listing post-12220 post type-post status-publish format-standard hentry category-news tag-carrying tag-customer tag-data tag-facing tag-hackers tag-history tag-largest tag-prison tag-theft">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12220 tag-carrying tag-customer tag-data tag-facing tag-hackers tag-history tag-largest tag-prison tag-theft
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>November 19, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/19/hackers-carrying-out-largest-theft-of-customer-data-in-us-history-facing-prison/#comments">1 Comment</a></span>
@@ -136,5 +137,6 @@ Hackers Carrying Out Largest Theft Of Customer Data In US. History Facing Prison
 </table>
 <p>Murgio is charged with these offences: ”conspiracy to operate an unlicensed money transmitting business, which carries a maximum prison term of five years; operation of an unlicensed money transmitting business, which carries a maximum prison term of five years; conspiracy to make corrupt payments with intent to influence an officer of a financial institution, which carries a maximum prison term of five years; making corrupt payments with intent to influence an officer of a financial institution, which carries a maximum prison term of 30 years; conspiracy to commit wire fraud, which carries a maximum prison term of 20 years; wire fraud, which carries a maximum prison term of 20 years; and money laundering, which carries a maximum prison term of 20 years.”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/carrying/" rel="tag">carrying</a> <a href="https://www.deepdotweb.com/tag/customer/" rel="tag">customer</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/history/" rel="tag">history</a> <a href="https://www.deepdotweb.com/tag/largest/" rel="tag">largest</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> <span style="display:none" class="updated">2015-11-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/carrying/" rel="tag">carrying</a> <a href="https://www.deepdotweb.com/tag/customer/" rel="tag">customer</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/facing/" rel="tag">facing</a> <a href="https://www.deepdotweb.com/tag/hackers/" rel="tag">hackers</a> <a href="https://www.deepdotweb.com/tag/history/" rel="tag">history</a> <a href="https://www.deepdotweb.com/tag/largest/" rel="tag">largest</a> <a href="https://www.deepdotweb.com/tag/prison/" rel="tag">prison</a> <a href="https://www.deepdotweb.com/tag/theft/" rel="tag">theft</a></span> 
+Updated: 2015-11-19<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

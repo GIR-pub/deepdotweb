@@ -1,12 +1,13 @@
 ---
-Book Review: Data And Goliath By Bruce Schneier"
+title: "Book Review: Data And Goliath By Bruce Schneier"
 ---
-<article class="post-listing post-9373 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bruce tag-data tag-goliath tag-schneier">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/jonsouthurst/" title="">Jon Southurst </a></span>
+
+9373  tag-bruce tag-data tag-goliath tag-schneier
+Posted by: <a href="/author/jonsouthurst/" title="">Jon Southurst 
+
 <span>March 11, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/11/book-review-data-and-goliath-by-bruce-schneier/#respond">Leave a comment</a></span>
+<span><a href="/2015/03/11/book-review-data-and-goliath-by-bruce-schneier/#respond">Leave a comment</a></span>
 
 
 <p><strong><em>Ubiquitous surveillance offends our humanity and making us less secure, but all is not lost&#8230; yet.</em></strong></p>
@@ -67,5 +68,6 @@ Book Review: Data And Goliath By Bruce Schneier"
 <p><strong>Released 2nd March 2015 &#8211; 400 pages</strong></p>
 <p>Review by Jon Southurst</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/bruce/" rel="tag">bruce</a> <a href="https://www.deepdotweb.com/tag/data/" rel="tag">data</a> <a href="https://www.deepdotweb.com/tag/goliath/" rel="tag">goliath</a> <a href="https://www.deepdotweb.com/tag/review/" rel="tag">review</a> <a href="https://www.deepdotweb.com/tag/schneier/" rel="tag">schneier</a></span> <span style="display:none" class="updated">2015-03-11<a href="https://www.deepdotweb.com/author/jonsouthurst/" title="Posts by Jon Southurst" rel="author">Jon Southurst</a></strong></div>
+ <a href="/tag/bruce/" rel="tag">bruce</a> <a href="/tag/data/" rel="tag">data</a> <a href="/tag/goliath/" rel="tag">goliath</a> <a href="/tag/review/" rel="tag">review</a> <a href="/tag/schneier/" rel="tag">schneier</a></span> 
+Updated: 2015-03-11<a href="/author/jonsouthurst/" title="Posts by Jon Southurst" rel="author">Jon Southurst</a></strong></div>
 

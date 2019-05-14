@@ -1,15 +1,16 @@
 ---
-Alphabay Market: Back Online With Upgraded infrastructure"
+title: "Alphabay Market: Back Online With Upgraded infrastructure"
 ---
-<article class="post-listing post-11411 post type-post status-publish format-standard hentry category-news tag-alphabay tag-infrastructure tag-upgraded">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11411 tag-alphabay tag-infrastructure tag-upgraded
+Posted by: DeepDotWeb 
+
 <span>September 2, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/02/alphabay-market-is-back-online/#comments">2 Comments</a></span>
+
+<span><a href="/2015/09/02/alphabay-market-is-back-online/#comments">2 Comments</a></span>
 
 
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a>, the market who is expected to take the lead after <a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> &#8211; has come back from a downtime, needed to upgrade their infrastructure due the huge increase of Agora refugees traffic. This was their official announcement:</p>
+<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a>, the market who is expected to take the lead after <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> &#8211; has come back from a downtime, needed to upgrade their infrastructure due the huge increase of Agora refugees traffic. This was their official announcement:</p>
 <blockquote><p>First of all, apologies for the downtime and coming back online a bit late. We wanted to make sure everything was all right before announcing it. We got a brand new infrastructure and we are ready for the big user influx.</p>
 <p>*** IMPORTANT *** Do not send coins to your old Bitcoin addresses. Simply head to your Balance page and get your new deposit address.</p>
 <p>We recuperated all the coins from the old hot wallets and made a new brand new one. We will keep the old wallet server online for 72 hours in case someone mistakenly sends coins to an old address, but this is a manual process and you will have to wait a bit if you make a mistake. Just send coins to the right address and you will be fine. To round things up, all Escrow countdowns have been extended for 48 hours, same goes for auto-declining orders.</p>
@@ -21,4 +22,5 @@ Alphabay Market: Back Online With Upgraded infrastructure"
 <li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a></strong></li>
 </ul>
 </div>
-<a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/infrastructure/" rel="tag">infrastructure</a>  <a href="https://www.deepdotweb.com/tag/upgraded/" rel="tag">upgraded</a></span> <span style="display:none" class="updated">2015-09-02
+<a href="/tag/alphabay/" rel="tag">alphabay</a> <a href="/tag/infrastructure/" rel="tag">infrastructure</a>  <a href="/tag/upgraded/" rel="tag">upgraded</a></span> 
+Updated: 2015-09-02

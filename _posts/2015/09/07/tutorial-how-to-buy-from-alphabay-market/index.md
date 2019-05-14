@@ -1,30 +1,31 @@
 ---
-Tutorial: How To Buy From AlphaBay Market?"
+title: "Tutorial: How To Buy From AlphaBay Market?"
 ---
-<article class="post-listing post-11443 post type-post status-publish format-standard has-post-thumbnail hentry  tag-alphabay tag-buy tag-tutorial">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11443  tag-alphabay tag-buy tag-tutorial
+Posted by: DeepDotWeb 
+
 <span>September 7, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/09/07/tutorial-how-to-buy-from-alphabay-market/#comments">52 Comments</a></span>
+<span><a href="/2015/09/07/tutorial-how-to-buy-from-alphabay-market/#comments">52 Comments</a></span>
 
 
-<p>With the news that <a href="https://www.deepdotweb.com/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> (Already gone now&#8230;) a large portion of its users have transitioned to <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a>. You must be here to learn how to buy stuff from AlphaBay, then. Ensure that you read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
-<p>AlphaBay market listing and url can be found <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">here</a>.</p>
+<p>With the news that <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> (Already gone now&#8230;) a large portion of its users have transitioned to <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a>. You must be here to learn how to buy stuff from AlphaBay, then. Ensure that you read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
+<p>AlphaBay market listing and url can be found <a href="/marketplace-directory/listing/alphabay">here</a>.</p>
 <p><strong>Part 1 – Preparing</strong></p>
-<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://www.deepdotweb.com/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market. Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider. This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
-<p>The first step in buying from any marketplace, is to set up your environment. What follows is bare minimum to staying safe when buying personal goods. Afterwards, look at the <a href="https://www.deepdotweb.com/security-tutorials">Security Tutorials section</a> for some extra security tips.</p>
+<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market. Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider. This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p>The first step in buying from any marketplace, is to set up your environment. What follows is bare minimum to staying safe when buying personal goods. Afterwards, look at the <a href="/security-tutorials">Security Tutorials section</a> for some extra security tips.</p>
 <p><strong>Tor Browser Bundle</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/ttb.png" alt="" width="700" height="313" /></p>
 <p>You will want to go to <a href="https://www.torproject.org/projects/torbrowser.html">https://www.torproject.org/projects/torbrowser.html</a> to download the Tor Browser Bundle for your OS. There are plenty of instructions for installation on the download page, for OS X, Windows, and Debian.</p>
 <p><strong>PGP</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/gnupg.png" alt="" width="459" height="137" /></p>
-<p>PGP is a secure method of encrypting and decrypting messages. It is not a very good idea to send your address to a vendor, unencrypted because if the hidden service gets seized, LE will then have hard evidence of the crime you&#8217;ve committed. One thought to keep in mind is that <a href="https://www.deepdotweb.com/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using online GPG methods such as iGolder and those utilizing BouncyCastle libraries.</p>
-<p>This site has basic guides covering GPG for each main OS. <a href="https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="https://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x">OS X</a>, and <a href="https://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the better choice, obviously; however, you will be fine ordering personal goods on both OS X and Windows.</p>
+<p>PGP is a secure method of encrypting and decrypting messages. It is not a very good idea to send your address to a vendor, unencrypted because if the hidden service gets seized, LE will then have hard evidence of the crime you&#8217;ve committed. One thought to keep in mind is that <a href="/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using online GPG methods such as iGolder and those utilizing BouncyCastle libraries.</p>
+<p>This site has basic guides covering GPG for each main OS. <a href="/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="/2015/02/20/pgp-tutorial-os-x">OS X</a>, and <a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the better choice, obviously; however, you will be fine ordering personal goods on both OS X and Windows.</p>
 <p><strong>Bitcoin</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/bitcoin.png" alt="" width="317" height="317" /></p>
-<p>One cannot buy items without having money first, now can we? You will need to buy some Bitcoin(s), which you can do with <a href="https://www.deepdotweb.com/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or even simply buy with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you choose to buy the Bitcoin(s) is completely up to you. However, <a href="https://localbitcoins.com/?ch=4v6y" target="_blank">LocalBitcoin</a> is the most popular for one reason: it can be done anonymously. There have been reports of Coinbase banning accounts which have deposited into the darknet markets, so try to avoid that. Secondly, do not be connected to the Tor network when purchasing your Bitcoin(s), as it is completely legal and using Tor to buy it will often prove a hindrance.</p>
+<p>One cannot buy items without having money first, now can we? You will need to buy some Bitcoin(s), which you can do with <a href="/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or even simply buy with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you choose to buy the Bitcoin(s) is completely up to you. However, <a href="https://localbitcoins.com/?ch=4v6y" target="_blank">LocalBitcoin</a> is the most popular for one reason: it can be done anonymously. There have been reports of Coinbase banning accounts which have deposited into the darknet markets, so try to avoid that. Secondly, do not be connected to the Tor network when purchasing your Bitcoin(s), as it is completely legal and using Tor to buy it will often prove a hindrance.</p>
 <p><strong>Wallet</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/electrum.png" alt="" width="398" height="90" /></p>
 <p>Now that you have some Bitcoin(s), you need a place to store them. One excellent choice is Electrum. It is open-source, cross-platform, and even has an Android version. You can go ahead and download it from <a href="https://electrum.org/download.html">here</a>. Using it is pretty simple and straightforward.</p>
@@ -51,7 +52,7 @@ Tutorial: How To Buy From AlphaBay Market?"
 <li>Referral/Affiliate program</li>
 <li>Migrated to a new server: better uptime and stability</li>
 <li>Quite responsive anti-scam team.</li>
-<li><a href="https://www.deepdotweb.com/2015/05/22/alphabay-market-launched-account-autoshop/">Accounts</a> &amp; <a href="https://www.deepdotweb.com/2015/05/20/alphabay-dark-net-market-launched-a-fully-automated-credit-card-shop/">CC</a> Autoshops</li>
+<li><a href="/2015/05/22/alphabay-market-launched-account-autoshop/">Accounts</a> &amp; <a href="/2015/05/20/alphabay-dark-net-market-launched-a-fully-automated-credit-card-shop/">CC</a> Autoshops</li>
 </ul>
 <p><strong><u>Cons</u></strong></p>
 <ul>
@@ -82,7 +83,7 @@ Tutorial: How To Buy From AlphaBay Market?"
 <p><strong>Judging the Vendor</strong></p>
 <p><a href="/imgs/2015/09/santa1.png"><img class="aligncenter wp-image-11448" src="/imgs/2015/09/santa1.png" alt="AB Vendor" width="691" height="1279" srcset="/imgs/2015/09/santa1.png 785w, /imgs/2015/09/santa1-162x300.png 162w, /imgs/2015/09/santa1-553x1024.png 553w" sizes="(max-width: 691px) 100vw, 691px" /></a></p>
 <p>By clicking on the vendor&#8217;s name in any listing or any search result, you are brought to their profile page, as exemplified above. Each vendor has his or her GPG public-key and XMPP listed, here. All of their feedback is also listed, both positive and negative. Beware though, just because a vendor might have positive reviews does not make for a purely reliable seller. In a case such as this, avoiding a purchase would be wise if you do not know the vendor that well, because of FE being enabled.</p>
-<p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the market forums, this site&#8217;s <a href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay listing</a>, the <a href="https://www.reddit.com/r/DarkNetMarkets">DNM</a> Subreddit &amp; <a href="https://www.reddit.com/r/alphabay">Alphabay&#8217;s subreddit</a>. You can also read their reviews on <a href="http://grams7enufi7jmdl.onion/">Grams</a>.</p>
+<p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the market forums, this site&#8217;s <a href="/marketplace-directory/listing/alphabay">AlphaBay listing</a>, the <a href="https://www.reddit.com/r/DarkNetMarkets">DNM</a> Subreddit &amp; <a href="https://www.reddit.com/r/alphabay">Alphabay&#8217;s subreddit</a>. You can also read their reviews on <a href="http://grams7enufi7jmdl.onion/">Grams</a>.</p>
 <p><strong>Part 7 – Making your order</strong></p>
 <p>Once you&#8217;ve discovered a good listing from a reputable vendor, and are ready to make an order, let&#8217;s go ahead and start!</p>
 <p><strong>Adding funds to your wallet</strong></p>
@@ -110,4 +111,5 @@ Tutorial: How To Buy From AlphaBay Market?"
 <p>So as long as you follow the guidelines in this tutorial, you should be ordering quite adequately, on AlphaBay to start off. There is, of course, a bit more to learn, but it&#8217;s much more worthwhile to learn how to do the rest on your own. Stay safe and enjoy shopping!</p>
 <p>&nbsp;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span> <span style="display:none" class="updated">2015-09-07
+<a href="/tag/alphabay/" rel="tag">alphabay</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+Updated: 2015-09-07

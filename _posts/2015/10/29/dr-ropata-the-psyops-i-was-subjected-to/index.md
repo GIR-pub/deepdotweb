@@ -1,15 +1,16 @@
 ---
-Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To"
+title: "Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To"
 ---
-<article class="post-listing post-11851 post type-post status-publish format-standard has-post-thumbnail hentry  tag-dr tag-psyops tag-ropata tag-subjected tag-vendor">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11851  tag-dr tag-psyops tag-ropata tag-subjected tag-vendor
+Posted by: DeepDotWeb 
+
 <span>October 29, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/10/29/dr-ropata-the-psyops-i-was-subjected-to/#comments">26 Comments</a></span>
+<span><a href="/2015/10/29/dr-ropata-the-psyops-i-was-subjected-to/#comments">26 Comments</a></span>
 
 
-<p><a href="https://www.deepdotweb.com/2015/10/14/dnm-vendor-dr-ropata-using-actors-image-for-marketing-purposes/">Ollie bassweight</a>, is an electronic musician, blogger and internet activist from new Zealand who has done many notable things including: doxing himself on reddit to expose flaws on market-places and forums and tackling the problem of drug prohibition around the world . This inadvertently propelled him to also tackle internet security and privacy issues. As a result has was subject to a PSYOP and Defamation Campaign by his country’s government in order to hide its illegal activities. I think that it is courageous of Ollie to take on governments and expose their wrongdoings. He had a blog, but took it down due to <a href="http://willtherealropataplzstandup.org/">privacy and legal issues</a>.</p>
+<p><a href="/2015/10/14/dnm-vendor-dr-ropata-using-actors-image-for-marketing-purposes/">Ollie bassweight</a>, is an electronic musician, blogger and internet activist from new Zealand who has done many notable things including: doxing himself on reddit to expose flaws on market-places and forums and tackling the problem of drug prohibition around the world . This inadvertently propelled him to also tackle internet security and privacy issues. As a result has was subject to a PSYOP and Defamation Campaign by his country’s government in order to hide its illegal activities. I think that it is courageous of Ollie to take on governments and expose their wrongdoings. He had a blog, but took it down due to <a href="http://willtherealropataplzstandup.org/">privacy and legal issues</a>.</p>
 <p>Ollie, on his blog, chronicled his time evading law enforcement and his experiences of being bullied online. Ollie was attacked by people with fake online personas, and as a result he lost his clearnet emails and accounts. Furthermore, he was subject to in-person intimidation and bullying. This is his story.</p>
 <p><a href="/imgs/2015/10/12087651_911617642209359_8669224166873742258_o1.jpg"><img class="aligncenter size-full wp-image-11854" src="/imgs/2015/10/12087651_911617642209359_8669224166873742258_o1.jpg" alt="12087651_911617642209359_8669224166873742258_o[1]" width="2048" height="1152" srcset="/imgs/2015/10/12087651_911617642209359_8669224166873742258_o1.jpg 2048w, /imgs/2015/10/12087651_911617642209359_8669224166873742258_o1-300x169.jpg 300w, /imgs/2015/10/12087651_911617642209359_8669224166873742258_o1-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px"/></a></p>
 <p>My name is Olie Bassweight and it has been a while since by last blog update.I feel that it is necessary to explicate this situation as compactly as I can for myself and the world around me. After the last blog update, I went to North Palmerston and was chased by law enforcement in a sick game of cat and mouse. I meet a woman in Palmerston North who claimed to be a criminal psychologist hired by NZ&#8217;s headhunters organization. I&#8217;ll call her &#8216;swim&#8217; for the purposes of this article. i met swim at the pavilion motel on Fitzherbert Ave in Palmerston North on the 9th of August 2015. Swim told me many things, and I wished I had listened more attentively at the time. Swim introduced herself as a daughter of a member of an infamous Australasian Contraband smuggling network. Swim also noted that she knew about my activities and about the PSYOPs and bullying I was receiving. That night I received a few different forms of manipulation, such as threats to myself and my loved ones, offers to give me money not to release my stories to the public, and 3-4 days of humiliation and intimidation administered by Law Enforcement. You may recall that I quite blatantly thumbed my nose at NZ’s law enforcement and at the “Five Eye” nations.</p>
@@ -35,4 +36,5 @@ Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To"
 <p>Think for yourself: http://fearuncertaintydoubt.net/</p>
 <p>Question Authority</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/dr/" rel="tag">dr</a> <a href="https://www.deepdotweb.com/tag/psyops/" rel="tag">psyops</a> <a href="https://www.deepdotweb.com/tag/ropata/" rel="tag">ropata</a> <a href="https://www.deepdotweb.com/tag/subjected/" rel="tag">subjected</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-10-29
+<a href="/tag/dr/" rel="tag">dr</a> <a href="/tag/psyops/" rel="tag">psyops</a> <a href="/tag/ropata/" rel="tag">ropata</a> <a href="/tag/subjected/" rel="tag">subjected</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+Updated: 2015-10-29

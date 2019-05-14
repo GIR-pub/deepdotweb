@@ -1,12 +1,13 @@
 ---
-Two Drug Dealers Busted In India"
+title: "Two Drug Dealers Busted In India"
 ---
-<article class="post-listing post-12668 post type-post status-publish format-standard hentry category-news tag-busted tag-dealers tag-india">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12668 tag-busted tag-dealers tag-india
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>December 22, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/22/two-drug-dealers-busted-in-india/#comments">2 Comments</a></span>
+
+<span><a href="/2015/12/22/two-drug-dealers-busted-in-india/#comments">2 Comments</a></span>
 
 
 <p><a href="http://timesofindia.indiatimes.com/city/hyderabad/Hyderabad-2-drug-peddlers-held/articleshow/50212016.cms">The brothers, Mayank Kumar Sahu (22) and Piyush Kumar Sahu (20) were arrested by Central Crime Service (CCS) investigators and task force detectives in Hyderabad, India.</a> The two men allegedly sold drugs they bought from the dark web, more precisely, from the <a href="http://www.deepdotweb.com/marketplace-directory/listing/nucleus-market/">Nucleus Marketplace</a>. During the police bust on Wednesday, the law enforcement authorities seized around 100 LSD blotters. The two men have both worked as graphics designers.</p>
@@ -14,5 +15,6 @@ Two Drug Dealers Busted In India"
 <p>According to police information, the Sahu brothers after buying the drugs from the dark web contacted Mustafa Mohiuddin in order to market and sell the illegal substances. Around a week ago, the brothers provided Mohiuddin 45 LSD blotter and a few grams of ephedrine to be sold. The police arrested Mohiuddin and his two associates, Siddiqui and Pasha, when they tried to sell the drugs to potential customers at King Koti.</p>
 <p>The arrested persons, along with the seized illegal substances, were handed over to the Central Crime Service for further investigation.</p>
 </div>
- <a href="https://www.deepdotweb.com/tag/dealers/" rel="tag">dealers</a>  <a href="https://www.deepdotweb.com/tag/india/" rel="tag">india</a></span> <span style="display:none" class="updated">2015-12-22<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+ <a href="/tag/dealers/" rel="tag">dealers</a>  <a href="/tag/india/" rel="tag">india</a></span> 
+Updated: 2015-12-22<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

@@ -1,9 +1,10 @@
 ---
-Many Market Are Down &#8211; Heavy Attack On Hidden Services"
+title: "Many Market Are Down &#8211; Heavy Attack On Hidden Services"
 ---
-<article class="post-listing post-9740 post type-post status-publish format-standard hentry category-news tag-attack tag-heavy tag-services">
-<div class="post-inner">
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9740 tag-attack tag-heavy tag-services
+Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>March 28, 2015</span>
 <span>in <a href="http://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="http://www.deepdotweb.com/2015/03/28/many-market-are-down-heavy-attack-on-hidden-services/#comments">29 Comments</a></span>
@@ -60,5 +61,6 @@ Many Market Are Down &#8211; Heavy Attack On Hidden Services"
 <div class="wp-socializer-clearer"></div></div>
     
 </div>
-<a href="http://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="http://www.deepdotweb.com/tag/heavy/" rel="tag">heavy</a> <a href="http://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="http://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="http://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> <span style="display:none" class="updated">2015-03-28<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+<a href="http://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="http://www.deepdotweb.com/tag/heavy/" rel="tag">heavy</a> <a href="http://www.deepdotweb.com/tag/hidden/" rel="tag">hidden</a> <a href="http://www.deepdotweb.com/tag/market/" rel="tag">market</a> <a href="http://www.deepdotweb.com/tag/services/" rel="tag">services</a></span> 
+Updated: 2015-03-28<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
 

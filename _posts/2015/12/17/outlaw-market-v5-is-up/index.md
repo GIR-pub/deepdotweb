@@ -1,20 +1,20 @@
 ---
-Outlaw Market V5 Is Up"
+title: "Outlaw Market V5 Is Up"
 ---
-<article class="post-listing post-12628 post type-post status-publish format-standard has-post-thumbnail hentry  tag-outlaw tag-v5">
-    
-<div class="post-inner">
-    
+
+12628  tag-outlaw tag-v5
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    
+
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
     
     
 <span>December 17, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
-<span><a href="https://www.deepdotweb.com/2015/12/17/outlaw-market-v5-is-up/#comments">1 Comment</a></span>
-</p>        
+<span><a href="https://www.deepdotweb.com/2015/12/17/outlaw-market-v5-is-up/#comments">1 
+        
 <p>One of the oldest markets, <a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market/">Outlaw market</a> has just been updated to a new version with new features, unfortunately new UI is not one of them, as the admins told <a href="https://www.deepdotweb.com" target="_blank">DeepDotWeb</a>:</p>
 <blockquote><p>Although we haven&#8217;t been able to finish our UI yet, we do have uploaded our v5 of the market. Quite some invisible backend updates, and more added features. This text will be shown shortly, and should you also give an update of our newest things!</p>
 <p>Our UI is still being worked on. The good thing about operating a market on the long term is that there&#8217;s no haste required&#8230; ;)</p></blockquote>
@@ -54,10 +54,10 @@ Outlaw Market V5 Is Up"
 <p>And don&#8217;t forget to review at the <a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market/" target="_blank">Outlaw market&#8217;s listing page</a>.</p>
     
     
-</div><!-- .entry /-->
- <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/v5/" rel="tag">v5</a></span>				<span style="display:none" class="updated">2015-12-17
+
+ <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/v5/" rel="tag">v5</a></span>				
+Updated: 2015-12-17
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

@@ -1,12 +1,11 @@
 ---
-Interview: The Evolution Of a Veteran Dark Market Dweller #3
+title: "Interview: The Evolution Of a Veteran Dark Market Dweller #3"
 ---
-<article class="post-listing post-8503 post type-post status-publish format-standard has-post-thumbnail hentry  tag-veterandarkmarketdweller">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
-<span>February 26, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/02/26/interview-the-evolution-of-a-veteran-dark-market-dweller-3/#respond">Leave a comment</a></span>
+
+Posted by: Allen Hoffmann, JD
+
+<span>February 26, 2015</span>
 
 
 <p><strong>The third part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
@@ -60,5 +59,6 @@ Interview: The Evolution Of a Veteran Dark Market Dweller #3
 <p><strong>AH: Its been a pleasure, “Deon”</strong></p>
 <p>DT: Pleasure was mine, dude. I don’t get to relive this shit too often, its been a trip down memory lane. And thanks for the seafood.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> <span style="display:none" class="updated">2015-02-26<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+<a href="/tag/veterandarkmarketdweller/" rel="tag">VeteranDarkMarketDweller</a></span> 
+Updated: 2015-02-26
 

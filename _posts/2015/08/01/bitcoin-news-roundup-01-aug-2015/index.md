@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 01 Aug.2015
+title: "Bitcoin News Roundup – 01 Aug.2015"
 ---
-<article class="post-listing post-11158 post type-post status-publish format-standard has-post-thumbnail hentry  tag-aug tag-bitcoin tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11158  tag-aug 
+Posted by: DeepDotWeb 
+
 <span>August 1, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/01/bitcoin-news-roundup-01-aug-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/01/bitcoin-news-roundup-01-aug-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -21,4 +23,5 @@ Bitcoin News Roundup – 01 Aug.2015
 <p>Stripe joins forces with American Express and Visa to improve positioning in the digital payments industry. As Mike Isaac of <a href="http://www.nytimes.com/2015/07/28/technology/stripe-digital-payments-start-up-raises-new-funding-and-partners-with-visa.html?_r=0">The New York Times</a> reports, the San-Francisco based digital payment processor raised new capital from partnering with American Express and Visa, among others. The new company is valued $5 billion. Especially, the partnership with Visa, one of the leading credit card companies in the world, will help Stripe not only to improve its digital transactions, but also to seek international expansion through Visa’s global customer relationships.</p>
 <p>Onebit develops NFC technology to facilitate bitcoin transfers. As Brian Booker of <a href="https://99bitcoins.com/nfc-technology-could-let-users-use-smartphones-to-pay-with-bitcoin/">99bitcoins</a> writes, the Czech-based bitcoin wallet, seeks to allow users to make payments in bitcoin using their smartphones via a wide credit card payment network, including MasterCard as well as other leading credit card companies. The Near Field Communication (NFC) technology has been increasingly accepted as a popular and reliable form of payment.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/aug/" rel="tag">aug</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-08-01
+<a href="/tag/aug/" rel="tag">aug</a>  </span> 
+Updated: 2015-08-01

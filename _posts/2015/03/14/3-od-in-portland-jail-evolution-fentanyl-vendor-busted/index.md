@@ -1,12 +1,14 @@
 ---
-3 OD in Portland Jail: Evolution Fentanyl Vendor Busted"
+title: "3 OD in Portland Jail: Evolution Fentanyl Vendor Busted"
 ---
-<article class="post-listing post-9469 post type-post status-publish format-standard has-post-thumbnail hentry  tag-busted tag-evolution tag-fentanyl tag-od tag-portland tag-vendor">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9469  tag-busted tag-evolution tag-fentanyl tag-od tag-portland tag-vendor
+Posted by: DeepDotWeb 
+
 <span>March 14, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/14/3-od-in-portland-jail-evolution-fentanyl-vendor-busted/#comments">2 Comments</a></span>
+
+
+<span><a href="/2015/03/14/3-od-in-portland-jail-evolution-fentanyl-vendor-busted/#comments">2 Comments</a></span>
 
 
 <p>According to a report in <a href="http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box">oregonlive.com</a>  (see article for full details) A 27-year-old inmate in the <a href="http://www.jailexchange.com/countyjails/oregon/multnomah/multnomah_county_detention_center.aspx">Justice Center Jail </a>is accused of smuggling a synthetic opioid many times more powerful than heroin (Fentanyl ) into the downtown Portland lockup last weekend, causing at least three of her fellow inmates to overdose &#8211; the investigation led to an evolution vendor who was arrested later:</p>
@@ -34,4 +36,5 @@
 <p>&#8220;It is a never ending battle to keep the drugs out,&#8221; Alexander said, &#8220;and there are a variety of ways people arrested bring them in.&#8221;</p></blockquote>
 <p><strong>Source</strong>: <a href="http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box">http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box</a></p>
 </div>
- <a href="https://www.deepdotweb.com/tag/evolution/" rel="tag">evolution</a> <a href="https://www.deepdotweb.com/tag/fentanyl/" rel="tag">fentanyl</a> <a href="https://www.deepdotweb.com/tag/jail/" rel="tag">jail</a> <a href="https://www.deepdotweb.com/tag/od/" rel="tag">od</a> <a href="https://www.deepdotweb.com/tag/portland/" rel="tag">portland</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> <span style="display:none" class="updated">2015-03-14
+ <a href="/tag/evolution/" rel="tag">evolution</a> <a href="/tag/fentanyl/" rel="tag">fentanyl</a> <a href="/tag/jail/" rel="tag">jail</a> <a href="/tag/od/" rel="tag">od</a> <a href="/tag/portland/" rel="tag">portland</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+Updated: 2015-03-14

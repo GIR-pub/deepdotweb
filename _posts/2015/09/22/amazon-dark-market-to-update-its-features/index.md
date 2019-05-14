@@ -1,15 +1,16 @@
 ---
-Amazon Dark Market To Update Its Features"
+title: "Amazon Dark Market To Update Its Features"
 ---
-<article class="post-listing post-11586 post type-post status-publish format-standard hentry category-news tag-amazon tag-dark tag-features tag-update">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11586 tag-amazon tag-dark tag-features tag-update
+Posted by: DeepDotWeb 
+
 <span>September 22, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/22/amazon-dark-market-to-update-its-features/#comments">1 Comment</a></span>
+
+<span><a href="/2015/09/22/amazon-dark-market-to-update-its-features/#comments">1 Comment</a></span>
 
 
-<p><a href="https://www.deepdotweb.com/marketplace-directory/listing/amazon-dark">Amazon Dark</a> released several new updates and announced them on <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3ls7uz/amazon_dark_has_been_updated/" target="_blank">Reddit</a>, the updates posted here to their request</p>
+<p><a href="/marketplace-directory/listing/amazon-dark">Amazon Dark</a> released several new updates and announced them on <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3ls7uz/amazon_dark_has_been_updated/" target="_blank">Reddit</a>, the updates posted here to their request</p>
 <div class="usertext-body may-blank-within md-container ">
 <div class="md">
 <blockquote><p>To accommodate our growth we have made some additions you may find interesting</p>
@@ -56,4 +57,5 @@ Amazon Dark Market To Update Its Features"
 </div>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/amazon/" rel="tag">amazon</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/features/" rel="tag">features</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-09-22
+<a href="/tag/amazon/" rel="tag">amazon</a>  <a href="/tag/features/" rel="tag">features</a> <a href="/tag/update/" rel="tag">update</a></span> 
+Updated: 2015-09-22

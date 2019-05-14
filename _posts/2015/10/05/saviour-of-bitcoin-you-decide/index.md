@@ -1,15 +1,16 @@
 ---
-Saviour of Bitcoin? You decide"
+title: "Saviour of Bitcoin? You decide"
 ---
-<article class="post-listing post-11685 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-decide tag-saviour">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11685  tag-decide tag-saviour
+Posted by: DeepDotWeb 
+
 <span>October 5, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/10/05/saviour-of-bitcoin-you-decide/#comments">12 Comments</a></span>
+<span><a href="/2015/10/05/saviour-of-bitcoin-you-decide/#comments">12 Comments</a></span>
 
 
-<p><em>Guest Post by by Fred Rico – Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting <a href="https://www.deepdotweb.com/tag/bitwasp/">Bitwasp</a> (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past 2 years):</em></p>
+<p><em>Guest Post by by Fred Rico – Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting <a href="/tag/bitwasp/">Bitwasp</a> (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past 2 years):</em></p>
 <p>Since 2009 many followers of the Bitcoin Crypto currency have searched for that illusive commercial platform which incorporates all the much publicized benefits of Bitcoin. <em>Namely Free, Transparent, secure and available to all</em>.</p>
 <p>Any medium that has not only lasted but been a change agent in humanities timeline has depended on one thing commerce.</p>
 <p>Recently we have seen that with the “App” Ecosystem, 20 years ago we saw that with the “Internet”, before that with Televisions, Radio and so on.</p>
@@ -19,7 +20,7 @@ Saviour of Bitcoin? You decide"
 <p>Mid 2014 saw announcement that several Bitcoin wallets startup and Commerce startups where going to be adopting Multi-Sig.</p>
 <p>The Idea behind True Multi-Sig is very simple. Everything is done through the “Blockchain” which means it’s transparent, you always have control over your Bitcoins 100% of the time so no middle man who can run away or steal your Bitcoins. In short the Marketplace becomes an old fashion town market where vendors display their products, buyers come and browse and all transactions is done direct between vendor and buyer.</p>
 <p>That’s where Aflao comes it. Aflao is defined to offer all the things mentioned Free (Its open source code), Secure &amp; Transparent “true multisig so it works just like an old fashion town market”.</p>
-<p><em><u>The Name Aflao is new but many readers will be familiar with <a href="https://www.deepdotweb.com/2015/03/26/bitwasp-is-planning-a-quiet-comeback/">Bitwasp</a>.</u></em></p>
+<p><em><u>The Name Aflao is new but many readers will be familiar with <a href="/2015/03/26/bitwasp-is-planning-a-quiet-comeback/">Bitwasp</a>.</u></em></p>
 <p><strong><u>So why the name change you ask. </u></strong></p>
 <p>Essentially seeing lots of kids wanting to setup marketplaces (and we mean kids, some even needed to be told what server to buy , whilst others needed screenshot step by step guides for installation) was doing Bitwasp no favours. Firstly each time those Marketplaces had an issue it eroded the confidence and name of the Bitwasp project.</p>
 <p>In the end the Bitwasp name was becoming a millstone and combined with the fact we fixed over 97 vulnerabilities in the Bitwasp code, we removed Javascript, improved the User Interface, implemented additional features such as offering both internal wallet functionality and multisig wallet features, offering the ability to create and track affiliate programs amongst many things it just made sense to call it a new product.</p>
@@ -32,4 +33,5 @@ Saviour of Bitcoin? You decide"
 <p><u>Aflao Marketplace</u> &#8211; http://fuc3bgvav4epcydh.onion</p>
 <p><u>Aflao Marketplace Community Forum</u> &#8211; http://yl4nqu25v7zfcimt.onion/fluxbb</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/decide/" rel="tag">decide</a> <a href="https://www.deepdotweb.com/tag/saviour/" rel="tag">saviour</a></span> <span style="display:none" class="updated">2015-10-05
+<a href="/tag/decide/" rel="tag">decide</a> <a href="/tag/saviour/" rel="tag">saviour</a></span> 
+Updated: 2015-10-05

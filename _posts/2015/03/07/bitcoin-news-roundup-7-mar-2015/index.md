@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 7 Mar.2015
+title: "Bitcoin News Roundup – 7 Mar.2015"
 ---
-<article class="post-listing post-9396 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-mar2015 tag-news tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9396  tag-mar2015 
+Posted by: DeepDotWeb 
+
 <span>March 7, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/07/bitcoin-news-roundup-7-mar-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/03/07/bitcoin-news-roundup-7-mar-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -28,4 +30,5 @@ Bitcoin News Roundup – 7 Mar.2015
 <p>Bitcoin enters the fresh food business. As Elliot Maras of <a href="https://www.cryptocoinsnews.com/overstock-coms-farmers-market-adds-home-delivery-fresh-food-accepts-bitcoin/">CryptoCoins News</a> writes, Farmer’s Market, Overstock’s online fresh food delivery service accepts bitcoins, thus becoming one of the few online fresh food retailers that accept the digital currency as a legal form of payment. GM of Farmer’s Market,</p>
 <p>Shelly Olsen, states that <em>“local delivery is currently available to about 35 percent of the U.S. and growing.</em>”</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/mar2015/" rel="tag">mar2015</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-03-07
+<a href="/tag/mar2015/" rel="tag">mar2015</a>  </span> 
+Updated: 2015-03-07

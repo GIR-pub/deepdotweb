@@ -1,9 +1,10 @@
 ---
-DNMAvengers: Hosting DoctorX &#038; New Partnership with Energy Control"
+title: "DNMAvengers: Hosting DoctorX &#038; New Partnership with Energy Control"
 ---
-<article class="post-listing post-12543 post type-post status-publish format-standard hentry category-news tag-control tag-dnmavengers tag-doctorx tag-energy tag-hosting tag-partnership">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12543 tag-control tag-dnmavengers tag-doctorx tag-energy tag-hosting tag-partnership
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 12, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/12/dnmavengers-now-hosting-doctorx-new-partnership-with-energy-control/#respond">Leave a comment</a></span>
@@ -23,4 +24,5 @@ DNMAvengers: Hosting DoctorX &#038; New Partnership with Energy Control"
 <p>Submission tutorial: <strong>http://avengerfxkkmt2a6.onion/index.php?topic=16</strong></p>
 <p>&#8220;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/dnmavengers/" rel="tag">dnmavengers</a> <a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/partnership/" rel="tag">partnership</a></span> <span style="display:none" class="updated">2015-12-12
+<a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/dnmavengers/" rel="tag">dnmavengers</a> <a href="https://www.deepdotweb.com/tag/doctorx/" rel="tag">doctorx</a> <a href="https://www.deepdotweb.com/tag/energy/" rel="tag">energy</a> <a href="https://www.deepdotweb.com/tag/hosting/" rel="tag">hosting</a> <a href="https://www.deepdotweb.com/tag/partnership/" rel="tag">partnership</a></span> 
+Updated: 2015-12-12

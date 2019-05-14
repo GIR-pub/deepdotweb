@@ -1,12 +1,9 @@
 ---
-Darkleaks: Black Market for Secrets"
+title: "Darkleaks: Black Market for Secrets"
 ---
-<article class="post-listing post-8963 post type-post status-publish format-standard has-post-thumbnail hentry  tag-darkleaks tag-secrets">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+Posted by: DeepDotWeb 
+
 <span>February 4, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/04/darkleaks-black-market-secrets/#comments">4 Comments</a></span>
 
 
 <p><iframe width="640" height="360" src="https://vid.me/e/Lfkh" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" scrolling="no"></iframe></p>
@@ -64,5 +61,5 @@ Darkleaks: Black Market for Secrets"
 <p id="aacb" class="graf--p">Don’t be afraid. Come join the revolution and reclaim your freedom.</p>
 <p class="graf--p"><strong>Article Source: <a href="https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892" target="_blank">https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892</a></strong></p>
 </div>
-</div>
- <a href="https://www.deepdotweb.com/tag/darkleaks/" rel="tag">darkleaks</a> <a href="https://www.deepdotweb.com/tag/secrets/" rel="tag">secrets</a></span> <span style="display:none" class="updated">2015-02-04
+
+Updated: 2015-02-04

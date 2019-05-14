@@ -1,12 +1,14 @@
 ---
-Bitcoin News Roundup – 04 Oct.2015
+title: "Bitcoin News Roundup – 04 Oct.2015"
 ---
-<article class="post-listing post-11682 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-news tag-oct2015 tag-roundup">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11682   tag-oct2015
+Posted by: DeepDotWeb 
+
 <span>October 4, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/04/bitcoin-news-roundup-04-oct-2015/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/10/04/bitcoin-news-roundup-04-oct-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -21,4 +23,5 @@ Bitcoin News Roundup – 04 Oct.2015
 <p>Mexico’s leading online retailer facilitates bitcoin payments for 7,000 merchants. As Joseph Young of <a href="http://cointelegraph.com/news/115361/mexicos-e-commerce-giant-brings-bitcoin-payments-to-7000-merchants">Coin Telegraph</a> writes, Mercado Libre Mexico, Mexico’s leading e-commerce platform and eBay subsidiary, is now accepting bitcoin payments.Following an increasing demand by morethan 100 million users and 7 million sellers, Mercado Libreenables various methods of payment. The integration of bitcoin facilitates instant payments in a seamless way.</p>
 <p>Coinbase enables instant bitcoin purchasing in 26 European countries. As Grace Caffyn of <a href="http://www.coindesk.com/coinbase-makes-instant-bitcoin-buying-available-in-26-countries/">Coin Desk</a> writes, following technology trials in Spain and the UK, Coinbase supports 3D Secure Credit and Debit cards. This means that users won’t have to top up their accounts anymore. According to Coinbase <em>“</em><em>Since credit and debit cards will not require a customer to pre-fund their Coinbase account with a bank transfer, customers can now receive bitcoin much faster.”</em></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/oct2015/" rel="tag">oct2015</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> <span style="display:none" class="updated">2015-10-04
+ <a href="/tag/oct2015/" rel="tag">oct2015</a> </span> 
+Updated: 2015-10-04

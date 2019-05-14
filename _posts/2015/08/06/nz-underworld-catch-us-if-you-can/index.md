@@ -1,12 +1,14 @@
 ---
-NZ Underworld: &#8220;Catch Us if You Can&#8221;
+title: "NZ Underworld: &#8220;Catch Us if You Can&#8221;"
 ---
-<article class="post-listing post-11189 post type-post status-publish format-standard has-post-thumbnail hentry  tag-catch">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/johnnywalker/" title="">Johnny Walker </a></span>
+
+11189  tag-catch
+Posted by: <a href="/author/johnnywalker/" title="">Johnny Walker 
+
 <span>August 6, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/06/nz-underworld-catch-us-if-you-can/#comments">9 Comments</a></span>
+
+
+<span><a href="/2015/08/06/nz-underworld-catch-us-if-you-can/#comments">9 Comments</a></span>
 
 
 <p>These are the words ringing out from three Victoria University computer science students to the New Zealand Police who are investigating their &#8220;dark web&#8221; site trading in illegal and prescription drugs. Party drugs, painkillers, and fake doctors&#8217; scripts are for sale on this anonymous marketplace, called NZ Underworld.</p>
@@ -21,5 +23,6 @@ NZ Underworld: &#8220;Catch Us if You Can&#8221;
 <p><a href="/imgs/2015/08/image3.jpg"><img class="aligncenter size-full wp-image-11192" src="/imgs/2015/08/image3.jpg" alt="image3" width="620" height="460" srcset="/imgs/2015/08/image3.jpg 620w, /imgs/2015/08/image3-300x223.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a><br />
     This month a 20-year old student was jailed for seven years for importing a &#8220;supermarket of drugs&#8221; worth $167,000 from Silk Road via post office boxes around Dunedin. Another non related conviction went to a 31-year-old man who was jailed eight years for importing packages of methamphetamine, ecstasy and LSD ordered online from Las Vegas to his mother&#8217;s house according to local media.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/catch/" rel="tag">catch</a></span> <span style="display:none" class="updated">2015-08-06<a href="https://www.deepdotweb.com/author/johnnywalker/" title="Posts by Johnny Walker" rel="author">Johnny Walker</a></strong></div>
+<a href="/tag/catch/" rel="tag">catch</a></span> 
+Updated: 2015-08-06<a href="/author/johnnywalker/" title="Posts by Johnny Walker" rel="author">Johnny Walker</a></strong></div>
 

@@ -1,20 +1,20 @@
 ---
-Bitcoin Price Analysis &#8211; 25 Novemebr 2015
+title: "Bitcoin Price Analysis &#8211; 25 Novemebr 2015"
 ---
-<article class="post-listing post-12320 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2524 tag-2528 tag-analysis tag-bitcoin tag-novemebr tag-price">
-    
-<div class="post-inner">
-    
+
+12320  tag-2524 tag-2528 tag-analysis tag-novemebr tag-price
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+    
+
+Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
     
     
 <span>November 25, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
     
-<span><a href="https://www.deepdotweb.com/2015/11/25/bitcoin-price-analysis-25-novemebr-2015/#comments">1 Comment</a></span>
-</p>        
+<span><a href="https://www.deepdotweb.com/2015/11/25/bitcoin-price-analysis-25-novemebr-2015/#comments">1 
+        
 <p><a href="/imgs/2015/11/12.jpg"><img class="aligncenter size-full wp-image-12321" src="/imgs/2015/11/12.jpg" alt="1" width="1644" height="916" srcset="/imgs/2015/11/12.jpg 1644w, /imgs/2015/11/12-300x167.jpg 300w, /imgs/2015/11/12-1024x571.jpg 1024w" sizes="(max-width: 1644px) 100vw, 1644px" /></a></p>
 <p>Since the 1 year high at $504 on November 4, price has been on a decline, surprising many who expecting an aggressive bull run, however. Corrections are part of market cycles, and necessary, like the current price action.</p>
 <p>The past 3 weeks have been a correction of the parabolic move up from $ 240. (3)(4) was a flat sideways level after a breakdown, moving sideways for some days before breaking down again to (1) at $ 300 &#8211; a significant support level. Testing this level and holding, forced price sideways, in a triangular fashion while still respecting this level. It closely resembles the triangle at (3) (4), only differing in its magnitude. Price is now at $ 321, as it converges towards a tipping point. Will this triangle break up or down?</p>
@@ -42,10 +42,10 @@ Bitcoin Price Analysis &#8211; 25 Novemebr 2015
 <p><em>“I maintain my earlier speculation that trading above 300 will be relatively easy, My forecast calls for more volatile, a wider spread, and tones of confusion. I think the trading range is pretty clearly spelled out, 300 is bottom 500 is top.”</em></p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/novemebr/" rel="tag">novemebr</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span>				<span style="display:none" class="updated">2015-11-25<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+
+<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/25/" rel="tag">25</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/novemebr/" rel="tag">novemebr</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span>				
+Updated: 2015-11-25<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

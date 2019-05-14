@@ -1,12 +1,14 @@
 ---
-UN To Call On Governments All Around The World To Stop War On Drugs"
+title: "UN To Call On Governments All Around The World To Stop War On Drugs"
 ---
-<article class="post-listing post-11825 post type-post status-publish format-standard hentry category-news tag-call tag-governments tag-stop tag-war 
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+11825 tag-call tag-governments tag-stop tag-war 
+
+Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>October 21, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/21/un-to-call-on-governments-all-around-the-world-to-stop-war-on-drugs/#comments">6 Comments</a></span>
+
+<span><a href="/2015/10/21/un-to-call-on-governments-all-around-the-world-to-stop-war-on-drugs/#comments">6 Comments</a></span>
 
 
 <p><a href="http://www.independent.co.uk/news/uk/home-news/un-to-call-on-governments-around-the-world-to-decriminalise-all-drugs-says-richard-branson-a6699851.html">According to businessman Richard Branson, the United Nations are planning to call on governments of all nations around the world to decriminalize the use and the possession of all kinds of illegal drugs.</a></p>
@@ -15,5 +17,6 @@ UN To Call On Governments All Around The World To Stop War On Drugs"
 <p>The original statement of Branson goes by:</p>
 <p>&#8220;As I&#8217;m writing this I am hearing that at least one government is putting an inordinate amount of pressure on the UNODC. Let us hope the UNODC, a global organization that is part of the UN and supposed to do what is right for the people of the world, does not do a remarkable volte-face at the last possible moment and bow to pressure by not going ahead with this important move. The war on drugs has done too much damage to too many people already.&#8221;</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/call/" rel="tag">call</a>  <a href="https://www.deepdotweb.com/tag/governments/" rel="tag">governments</a> <a href="https://www.deepdotweb.com/tag/stop/" rel="tag">stop</a> <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a> <a href="https://www.deepdotweb.com/tag/world/" rel="tag">world</a></span> <span style="display:none" class="updated">2015-10-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="/tag/call/" rel="tag">call</a>  <a href="/tag/governments/" rel="tag">governments</a> <a href="/tag/stop/" rel="tag">stop</a> <a href="/tag/war/" rel="tag">war</a> <a href="/tag/world/" rel="tag">world</a></span> 
+Updated: 2015-10-21<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

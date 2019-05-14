@@ -1,13 +1,11 @@
 ---
-DARPA&#8217;s Creating Search Engine to Crawl the Deep Web"
+title: "DARPA&#8217;s Creating Search Engine to Crawl the Deep Web"
 ---
-<article class="post-listing post-9020 post type-post status-publish format-standard has-post-thumbnail hentry  tag-crawl tag-creating tag-dark tag-darpas tag-engine tag-net tag-search">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>February 10, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/02/10/darpas-creating-search-engine-crawl-deep-web/#comments">4 Comments</a></span>
 
+
+Posted by: DeepDotWeb 
+
+<span>February 10, 2015</span>
 
 <p>As it was mentioned in cbsnews (<a href="http://www.cbsnews.com/news/new-search-engine-exposes-the-dark-web/" target="_blank">video available here</a>) Memex, a powerful new search tool that goes beyond the realm of Google, Yahoo, and Bing, is launched by DARPA:<br />
     This powerful new search engine developed by DARPA, the U.S. military&#8217;s Defense Advanced Research Projects Agency and was <a href="http://www.darpa.mil/newsevents/releases/2014/02/09.aspx" target="_blank">announced last year</a>. The inventor of Memex, Chris White:</p>
@@ -23,5 +21,5 @@ DARPA&#8217;s Creating Search Engine to Crawl the Deep Web"
 <p>How DARPA would catch traffickers without <em>“deanonymizing”</em> someone, though, the agency does not explain. Nor does it address just how far it wants to out anyone hiding in the deep web for legitimate reasons, whether they are journalists, whistleblowers, activists, and the like.</p>
 <p><strong>Sources</strong>: <a href="http://gizmodo.com/deep-web-search-engine-memex-fights-crime-a-bit-like-mi-1684674056" target="_blank">Gizmodo</a>, <a href="http://www.scientificamerican.com/article/human-traffickers-caught-on-hidden-internet/" target="_blank">scientificamerican</a> , <a href="http://rt.com/usa/darpa-internet-search-engine-788/" target="_blank">RT</a> , <a href="http://www.cbsnews.com/news/new-search-engine-exposes-the-dark-web/" target="_blank">Cbsnews</a></p>
 <p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/crawl/" rel="tag">crawl</a> <a href="https://www.deepdotweb.com/tag/creating/" rel="tag">creating</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/darpas/" rel="tag">darpas</a> <a href="https://www.deepdotweb.com/tag/engine/" rel="tag">engine</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/search/" rel="tag">search</a></span> <span style="display:none" class="updated">2015-02-10
+
+Updated: 2015-02-10

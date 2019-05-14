@@ -1,12 +1,10 @@
 ---
-Interview With &#8220;Sigaint DarkNet Email&#8221; Admin"
+title: "Interview With &#8220;Sigaint DarkNet Email&#8221; Admin"
 ---
-<article class="post-listing post-9076 post type-post status-publish format-standard has-post-thumbnail hentry  tag-admin tag-interview tag-sigaint">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
-<span>February 16, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/02/16/interview-sigaint-darknet-email-admin/#comments">43 Comments</a></span>
+Posted by: DeepDotWeb 
+
+<span>February 16, 2015</span>
 
 
 <p>Recently we have conducted a short interview with one of the growing darknet email providers &#8211; Sigaint &#8211; from their homepage:</p>
@@ -59,6 +57,5 @@ Interview With &#8220;Sigaint DarkNet Email&#8221; Admin"
 <p>They threatened the full force of the FBI upon us. We scoffed. They buckled like a belt, and stopped emailing us in absolute frustration.</p>
 <p>In summary: I used to think that we could find a middle ground between security, privacy, and letting law enforcement do their &#8220;job&#8221;. Snowden showed us that if we give them and inch, they take a mile. The last shred of trust with them has been destroyed as far as I&#8217;m concerned.</p>
 <p>Thank you for the info, to visit &amp; try sigaint: <strong><span style="text-decoration: underline;">http://sigaintevyh2rzvw.onion/</span></strong></p>
-<p>&nbsp;</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/sigaint/" rel="tag">sigaint</a></span> <span style="display:none" class="updated">2015-02-16
+
+Updated: 2015-02-16

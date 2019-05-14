@@ -1,9 +1,10 @@
 ---
-TheRealDeal: Launches Free LeakDB service"
+title: "TheRealDeal: Launches Free LeakDB service"
 ---
-<article class="post-listing post-12491 post type-post status-publish format-standard has-post-thumbnail hentry  tag-free tag-launches tag-leakdb tag-therealdeal">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12491  tag-free tag-launches tag-leakdb tag-therealdeal
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>December 7, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/07/new-therealdeal-db-leak-checker/#comments">5 Comments</a></span>
@@ -28,4 +29,5 @@ TheRealDeal: Launches Free LeakDB service"
 <p>I think its the only site that actually lets you look at the information from, for example, ashley madison, and not just &#8220;check&#8221; if an email is in the list, but also view the full information of the person.</p>
 <p>Available at this URL: <strong>http://leakdbxhumhnzsa7.onion</strong></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/leakdb/" rel="tag">leakdb</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span> <span style="display:none" class="updated">2015-12-07
+<a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/leakdb/" rel="tag">leakdb</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span> 
+Updated: 2015-12-07

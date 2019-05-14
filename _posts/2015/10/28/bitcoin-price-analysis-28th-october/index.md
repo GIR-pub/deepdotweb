@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis &#8211; 28th October"
+title: "Bitcoin Price Analysis &#8211; 28th October"
 ---
-<article class="post-listing post-11868 post type-post status-publish format-standard has-post-thumbnail hentry  tag-28th tag-analysis tag-bitcoin tag-october tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11868  tag-28th tag-analysis tag-october tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>October 28, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/28/bitcoin-price-analysis-28th-october/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/10/28/bitcoin-price-analysis-28th-october/#respond">Leave a comment</a></span>
 
 
 <p>Bitcoin moved up higher this week, from a low at $ 262, to a high of $ 295. Here is this week’s 6H chart</p>
@@ -35,5 +37,6 @@ Bitcoin Price Analysis &#8211; 28th October"
 <p>Regardless of facts, the uncanny correlation with events is visible on charts, thus dismissing the idea is a sure way to get on the wrong end of a trade.</p>
 <p>China is pulling out all stops to rein in market instability, even going as far as <em>“launching a plan to inject pension funds into capital markets in 2016 with estimated size of 2 trillion RMB!” </em>&#8211; an announcement made today. What we are witnessing is an increasing number of bitcoin mentions in time of capital controls and economic crisis that forebodes the role it will play as a safe haven asset class in the coming years.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/28th/" rel="tag">28th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/october/" rel="tag">october</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-10-28<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/28th/" rel="tag">28th</a>  
+Updated: 2015-10-28
 

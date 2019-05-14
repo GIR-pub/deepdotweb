@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?"
+title: "Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?"
 ---
-<article class="post-listing post-9627 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2706 tag-analysis tag-bitcoin tag-fresh tag-headed tag-lows tag-march tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+9627  tag-2706 tag-analysis tag-fresh tag-headed tag-lows tag-march tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>March 25, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/25/bitcoin-price-analysis-23-march-is-bitcoin-headed-towards-fresh-lows/#comments">3 Comments</a></span>
+
+
+<span><a href="/2015/03/25/bitcoin-price-analysis-23-march-is-bitcoin-headed-towards-fresh-lows/#comments">3 Comments</a></span>
 
 
 <p><a href="/imgs/2015/03/price1.png"><img class="aligncenter size-full wp-image-9628" src="/imgs/2015/03/price1.png" alt="price1" width="628" height="356" srcset="/imgs/2015/03/price1.png 628w, /imgs/2015/03/price1-300x170.png 300w" sizes="(max-width: 628px) 100vw, 628px"/></a></p>
@@ -39,5 +41,6 @@ Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?"
 <p>On the other hand, a slim chance of rebounding would have to hold strong at $ 236/ $ 243 levels and invalidate resistance at $ 275.</p>
 <p>This week I am bearish.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/23/" rel="tag">23</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/fresh/" rel="tag">fresh</a> <a href="https://www.deepdotweb.com/tag/headed/" rel="tag">headed</a> <a href="https://www.deepdotweb.com/tag/lows/" rel="tag">lows</a> <a href="https://www.deepdotweb.com/tag/march/" rel="tag">march</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-03-25<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/23/" rel="tag">23</a> <a href="/tag/fresh/" rel="tag">fresh</a> <a href="/tag/headed/" rel="tag">headed</a> <a href="/tag/lows/" rel="tag">lows</a>  
+Updated: 2015-03-25
 

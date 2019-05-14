@@ -1,12 +1,15 @@
 ---
-Indiana University Frat Member Arrested for Dealing DarkNet Xanax
+title: "Indiana University Frat Member Arrested for Dealing DarkNet Xanax"
 ---
-<article class="post-listing post-9390 post type-post status-publish format-standard hentry category-news tag-dealing tag-frat tag-indiana tag-member tag-university tag-xanax">
-<div class="post-inner">
-<  <span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9390 tag-dealing tag-frat tag-indiana tag-member tag-university tag-xanax">
+
+<  
+Posted by: DeepDotWeb 
+
 <span>March 5, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/05/indiana-university-frat-member-arrested-for-dealing-darknet-xanax/#respond">Leave a comment</a></span>
+
+<span><a href="/2015/03/05/indiana-university-frat-member-arrested-for-dealing-darknet-xanax/#respond">Leave a comment</a></span>
 
 
 <p>As it was published on <a href="http://www.idsnews.com/article/2015/03/delta-tau-delta-member-arrested-for-dealing-xanax">Idsnews.com</a>:</p>
@@ -15,4 +18,5 @@ Indiana University Frat Member Arrested for Dealing DarkNet Xanax
 </blockquote>
 <p class="Stories:Body Copy">More info: http://www.idsnews.com/article/2015/03/delta-tau-delta-member-arrested-for-dealing-xanax</p>
 </div>
-<span style="display:none"><a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/dealing/" rel="tag">dealing</a> <a href="https://www.deepdotweb.com/tag/frat/" rel="tag">frat</a> <a href="https://www.deepdotweb.com/tag/indiana/" rel="tag">indiana</a> <a href="https://www.deepdotweb.com/tag/member/" rel="tag">member</a> <a href="https://www.deepdotweb.com/tag/university/" rel="tag">university</a> <a href="https://www.deepdotweb.com/tag/xanax/" rel="tag">xanax</a></span> <span style="display:none" class="updated">2015-03-05
+<span style="display:none"><a href="/tag/arrested/" rel="tag">arrested</a> <a href="/tag/darknet/" rel="tag">darknet</a> <a href="/tag/dealing/" rel="tag">dealing</a> <a href="/tag/frat/" rel="tag">frat</a> <a href="/tag/indiana/" rel="tag">indiana</a> <a href="/tag/member/" rel="tag">member</a> <a href="/tag/university/" rel="tag">university</a> <a href="/tag/xanax/" rel="tag">xanax</a></span> 
+Updated: 2015-03-05

@@ -1,9 +1,10 @@
 ---
-Nucleus Market Has Removed Its Weapons Category
+title: "Nucleus Market Has Removed Its Weapons Category"
 ---
-<article class="post-listing post-12309 post type-post status-publish format-standard hentry category-news tag-category tag-nucleus tag-removed tag-weapons">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+12309 tag-category tag-nucleus tag-removed tag-weapons
+Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+
 <span>November 22, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
 <span><a href="https://www.deepdotweb.com/2015/11/22/nucleus-market-has-removed-its-weapons-category/#respond">Leave a comment</a></span>
@@ -14,4 +15,5 @@ Nucleus Market Has Removed Its Weapons Category
 <p><a href="/imgs/2015/11/nucleus1.png"><img class="aligncenter size-full wp-image-12310" src="/imgs/2015/11/nucleus1.png" alt="nucleus" width="1008" height="182" srcset="/imgs/2015/11/nucleus1.png 1008w, /imgs/2015/11/nucleus1-300x54.png 300w" sizes="(max-width: 1008px) 100vw, 1008px"/></a></p>
 <p>Just few months ago, while it was still active, Agora market which was the largest market at the time also decided <a href="https://www.deepdotweb.com/2015/07/07/agora-market-to-stop-listing-lethal-weapons/">to stop listing lethal weapons</a>.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/category/" rel="tag">category</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/removed/" rel="tag">removed</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> <span style="display:none" class="updated">2015-11-22
+<a href="https://www.deepdotweb.com/tag/category/" rel="tag">category</a> <a href="https://www.deepdotweb.com/tag/nucleus/" rel="tag">nucleus</a> <a href="https://www.deepdotweb.com/tag/removed/" rel="tag">removed</a> <a href="https://www.deepdotweb.com/tag/weapons/" rel="tag">weapons</a></span> 
+Updated: 2015-11-22

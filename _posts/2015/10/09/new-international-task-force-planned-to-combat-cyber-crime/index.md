@@ -1,12 +1,14 @@
 ---
-New International Task Force Planned to Combat Cyber Crime"
+title: "New International Task Force Planned to Combat Cyber Crime"
 ---
-<article class="post-listing post-11705 post type-post status-publish format-standard has-post-thumbnail hentry  tag-combat tag-crime tag-cyber tag-force tag-international tag-planned tag-task">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11705  tag-combat tag-crime tag-cyber tag-force tag-international tag-planned tag-task
+Posted by: DeepDotWeb 
+
 <span>October 9, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/10/09/new-international-task-force-planned-to-combat-cyber-crime/#comments">7 Comments</a></span>
+
+
+<span><a href="/2015/10/09/new-international-task-force-planned-to-combat-cyber-crime/#comments">7 Comments</a></span>
 
 
 <p>International policing agencies are now working together in order to create a more globalized approach to dealing with the critical issue of cyber crime. This comes after the <a href="http://www.interpol.int/News-and-media/News/2015/N2015-147">third cyber crime conference</a> which focused on assessing potential threats, co-operation models and the legal and practical challenges facing institutions such as INTERPOL and Europol.</p>
@@ -27,4 +29,5 @@ New International Task Force Planned to Combat Cyber Crime"
 <p>“The last 12 months have shown some remarkable successes by law enforcement in the fight against cybercrime, “ said Nakatani, “building upon these past successes, law enforcement has to continue pushing the boundaries of traditional policing and identify new ways to tackle this criminal phenomenon, despite the difficulties and the number of criminals involved. Further international cooperation with a wide range of actors is paramount for keeping the Internet safe from organized crime.”</p>
 <p>Whether these steps are enough remains to be seen but it is good to know that law enforcement agencies are finally looking to address this growing issue and one that was far outside the purview considered when they were first established.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/combat/" rel="tag">combat</a> <a href="https://www.deepdotweb.com/tag/crime/" rel="tag">crime</a> <a href="https://www.deepdotweb.com/tag/cyber/" rel="tag">cyber</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/international/" rel="tag">international</a> <a href="https://www.deepdotweb.com/tag/planned/" rel="tag">planned</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a></span> <span style="display:none" class="updated">2015-10-09
+<a href="/tag/combat/" rel="tag">combat</a> <a href="/tag/crime/" rel="tag">crime</a> <a href="/tag/cyber/" rel="tag">cyber</a> <a href="/tag/force/" rel="tag">force</a> <a href="/tag/international/" rel="tag">international</a> <a href="/tag/planned/" rel="tag">planned</a> <a href="/tag/task/" rel="tag">task</a></span> 
+Updated: 2015-10-09

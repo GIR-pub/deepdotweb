@@ -1,9 +1,11 @@
 ---
-Silk Road: Irish High Court To Rule On US Extradition Of Libertas"
+title: "Silk Road: Irish High Court To Rule On US Extradition Of Libertas"
 ---
-<article class="post-listing post-12486 post type-post status-publish format-standard has-post-thumbnail hentry  tag-court tag-extradition tag-high tag-irish tag-libertas tag-rule 
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+
+12486  tag-court tag-extradition tag-high tag-irish tag-libertas tag-rule 
+
+Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+
 <span>December 7, 2015</span>
 <span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="https://www.deepdotweb.com/2015/12/07/irish-high-court-to-rule-on-us-extradition-of-libertas/#comments">3 Comments</a></span>
@@ -17,5 +19,6 @@ Silk Road: Irish High Court To Rule On US Extradition Of Libertas"
 <p>Counsel stated the MCC special unit is used as the prison of terror suspects and a leading member of the Mexican drug cartel. According to him, while Davis is in custody, he will be monitored thoroughly in order to see his current mental health status.</p>
 <p>Justice Paul McDermott, following the conclusion of submissions from both parties, stated that he hopes to give his decision on Davis’ case in early February.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a>  <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> <span style="display:none" class="updated">2015-12-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a>  <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
+Updated: 2015-12-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
 

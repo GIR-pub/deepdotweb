@@ -1,12 +1,13 @@
 ---
-The 2 Federal Agent Embezzlement Complaint Excerpts"
+title: "The 2 Federal Agent Embezzlement Complaint Excerpts"
 ---
-<article class="post-listing post-9801 post type-post status-publish format-standard has-post-thumbnail hentry  tag-agent tag-complaint tag-embezzlement tag-excerpts tag-federal">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9801  tag-agent tag-complaint tag-embezzlement tag-excerpts tag-federal
+Posted by: DeepDotWeb 
+
 <span>March 31, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/31/the-2-federal-agent-embezzlement-complaint-excerpts/#comments">3 Comments</a></span>
+<span><a href="/2015/03/31/the-2-federal-agent-embezzlement-complaint-excerpts/#comments">3 Comments</a></span>
 
 
 <p>By <a href="http://www.gwern.net">Gwern</a>, Obviously.</p>
@@ -37,4 +38,5 @@ The 2 Federal Agent Embezzlement Complaint Excerpts"
 <p><span style="text-decoration: underline;">The full criminal complaint:</span></p>
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/260401879/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_54847" frameborder="0"></iframe></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agent/" rel="tag">agent</a> <a href="https://www.deepdotweb.com/tag/complaint/" rel="tag">complaint</a> <a href="https://www.deepdotweb.com/tag/embezzlement/" rel="tag">embezzlement</a> <a href="https://www.deepdotweb.com/tag/excerpts/" rel="tag">excerpts</a> <a href="https://www.deepdotweb.com/tag/federal/" rel="tag">federal</a></span> <span style="display:none" class="updated">2015-03-31
+<a href="/tag/agent/" rel="tag">agent</a> <a href="/tag/complaint/" rel="tag">complaint</a> <a href="/tag/embezzlement/" rel="tag">embezzlement</a> <a href="/tag/excerpts/" rel="tag">excerpts</a> <a href="/tag/federal/" rel="tag">federal</a></span> 
+Updated: 2015-03-31

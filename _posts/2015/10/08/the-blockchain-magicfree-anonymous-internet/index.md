@@ -1,12 +1,13 @@
 ---
-The Blockchain Magic: Φ Free Anonymous Internet
+title: "The Blockchain Magic: Φ Free Anonymous Internet"
 ---
-<article class="post-listing post-11707 post type-post status-publish format-standard has-post-thumbnail hentry  tag-anonymous tag-blockchain tag-free tag-internet tag-magic tag-3146">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11707  tag-anonymous tag-blockchain tag-free tag-internet tag-magic tag-3146
+Posted by: DeepDotWeb 
+
 <span>October 8, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/10/08/the-blockchain-magicfree-anonymous-internet/#comments">35 Comments</a></span>
+<span><a href="/2015/10/08/the-blockchain-magicfree-anonymous-internet/#comments">35 Comments</a></span>
 
 
 <p><strong>Update 12.10.15</strong>: Source code is now available for download at <a href="http://www.f-a-i.net/download/fai_v1.0.0_src.zip">this link</a>.</p>
@@ -59,4 +60,5 @@ The Blockchain Magic: Φ Free Anonymous Internet
 <p>Currently a windows version is available for downloading. To avoid Alt-coining, source code will be published after its user number reaches 1000.</p>
 <p>Promotion is going on: send your Φ address to <a href="mailto:fai03a6@gmx.com">fai03a6@gmx.com</a> to get free 10 Φ coins which allows you to publish 10KB long content to Φ blockchain.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/anonymous/" rel="tag">anonymous</a> <a href="https://www.deepdotweb.com/tag/blockchain/" rel="tag">blockchain</a> <a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/internet/" rel="tag">internet</a> <a href="https://www.deepdotweb.com/tag/magic/" rel="tag">magic</a> <a href="https://www.deepdotweb.com/tag/%cf%86/" rel="tag">Φ</a></span> <span style="display:none" class="updated">2015-10-08
+<a href="/tag/anonymous/" rel="tag">anonymous</a> <a href="/tag/blockchain/" rel="tag">blockchain</a> <a href="/tag/free/" rel="tag">free</a> <a href="/tag/internet/" rel="tag">internet</a> <a href="/tag/magic/" rel="tag">magic</a> <a href="/tag/%cf%86/" rel="tag">Φ</a></span> 
+Updated: 2015-10-08

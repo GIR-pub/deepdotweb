@@ -1,12 +1,13 @@
 ---
-Drops For Beginners: Why You May Or May Not Want To Use One?"
+title: "Drops For Beginners: Why You May Or May Not Want To Use One?"
 ---
-<article class="post-listing post-8625 post type-post status-publish format-standard has-post-thumbnail hentry  tag-beginners tag-drops">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/lionelhutz/" title="">Allen Hoffmann, JD </a></span>
+
+8625  tag-beginners tag-drops
+Posted by: Allen Hoffmann, JD
+
 <span>March 23, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/03/23/drops-for-beginners-why-you-may-or-may-not-want-to-use-one/#comments">36 Comments</a></span>
+<span><a href="/2015/03/23/drops-for-beginners-why-you-may-or-may-not-want-to-use-one/#comments">36 Comments</a></span>
 
 
 <p>So, you’ve taken the plunge and you’ve decided to buy something, be it a dime bag of kush or a fully automatic Kalashnikov from a dark market. How will you receive it? Will you set up a dead drop with your seller? Even though he was allegedly a vendor on a dark market, and not a buyer, you can ask Jesse Korff, who is looking down the barrel of some serious time for, in addition to selling <a title="BMR Vendor Busted For Selling Deadly Toxin" href="http://www.deepdotweb.com/2014/01/22/bmr-vendor-busted-for-selling-deadly-toxin/">Ricin and Abrin</a> to buyers in India, Austria, the UK, Denmark and Canada, (some of whom are also looking at time at this point too) and conspiring to kill people in foreign countries with those buyers, also hooking up an undercover federal agent with Abrin. It bears thinking about whether he used PGP with his clients and if so, if it was then busted up by the HSI investigation which followed, but I digress – remember kids, learn PGP and USE IT. How did he get caught? Surveillance at a dead drop agreed on with an undercover HSI agent identified him pretty cleanly doing a drop off of product. Smooth, huh? You can read all about Jesse <a href="http://www.justice.gov/usao/nj/Press/files/pdffiles/2014/Korff,%20Jesse%20Information.pdf">here</a> and <a href="http://www.justice.gov/usao/nj/Press/files/pdffiles/2014/Korff,%20Jesse%20William%20Complaint.pdf">here.</a></p>
@@ -32,5 +33,6 @@ Drops For Beginners: Why You May Or May Not Want To Use One?"
 <p>The simple reality is, cops are not prepared to sit on surveillance for operations which aren’t paying dividends. People in cars or stores watching and waiting are a whole lot more expensive than a phone tap.</p>
 <p>It’s a simple numbers game, and it applies to physical surveillance operations generally speaking. Mr heart attack waiting to happen cop has to justify to people higher up why he is using resources on a job which is not paying off. When you do eventually appear, the guy at the post office isn’t gonna jump the counter and make a citizen’s arrest, s/he’s been told to note your details and maybe get your plate if surveillance gave up on you. But think about it – visit a box one time a month, in four different places, or visit one box a week. Where are you more likely to run into dudes in trench coats talking to their wrists? Its straight up, simple numbers. Use them to your advantage.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/beginners/" rel="tag">beginners</a> <a href="https://www.deepdotweb.com/tag/drops/" rel="tag">drops</a></span> <span style="display:none" class="updated">2015-03-23<a href="https://www.deepdotweb.com/author/lionelhutz/" title="Posts by Allen Hoffmann, JD" rel="author">Allen Hoffmann, JD</a></strong></div>
+<a href="/tag/beginners/" rel="tag">beginners</a> <a href="/tag/drops/" rel="tag">drops</a></span> 
+Updated: 2015-03-23
 

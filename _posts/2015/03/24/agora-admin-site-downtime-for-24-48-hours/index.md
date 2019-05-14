@@ -1,12 +1,13 @@
 ---
 Agora Admin: Site Downtime for 24 &#8211; 48 Hours"
 ---
-<article class="post-listing post-9608 post type-post status-publish format-standard hentry category-news tag-1898 tag-2704 tag-admin tag-agora tag-downtime tag-hours tag-site">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9608 tag-1898 tag-2704 tag-admin tag-agora tag-downtime tag-hours tag-site
+Posted by: DeepDotWeb 
+
 <span>March 24, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/24/agora-admin-site-downtime-for-24-48-hours/#comments">53 Comments</a></span>
+
+<span><a href="/2015/03/24/agora-admin-site-downtime-for-24-48-hours/#comments">53 Comments</a></span>
 
 
 <p>Agora Admin have posted an update regarding the most recent downtime:</p>
@@ -54,4 +55,5 @@ Agora Admin: Site Downtime for 24 &#8211; 48 Hours"
     Screenshot:</p>
 <div id="attachment_9613" style="width: 870px" class="wp-caption aligncenter"><a href="/imgs/2015/03/FDBBPNF1.jpg"><img class="wp-image-9613 size-full" src="/imgs/2015/03/FDBBPNF1.jpg" alt="FDBBPNF[1]" width="860" height="646" srcset="/imgs/2015/03/FDBBPNF1.jpg 860w, /imgs/2015/03/FDBBPNF1-300x225.jpg 300w" sizes="(max-width: 860px) 100vw, 860px"/></a><p class="wp-caption-text">Image Credit: /r/Agmarketplace :)</p></div>
 </div>
-<a href="https://www.deepdotweb.com/tag/24/" rel="tag">24</a> <a href="https://www.deepdotweb.com/tag/48/" rel="tag">48</a> <a href="https://www.deepdotweb.com/tag/admin/" rel="tag">admin</a> <a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/downtime/" rel="tag">downtime</a> <a href="https://www.deepdotweb.com/tag/hours/" rel="tag">hours</a> <a href="https://www.deepdotweb.com/tag/site/" rel="tag">site</a></span> <span style="display:none" class="updated">2015-03-24
+<a href="/tag/24/" rel="tag">24</a> <a href="/tag/48/" rel="tag">48</a> <a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/downtime/" rel="tag">downtime</a> <a href="/tag/hours/" rel="tag">hours</a> <a href="/tag/site/" rel="tag">site</a></span> 
+Updated: 2015-03-24

@@ -1,12 +1,13 @@
 ---
-Agora Update: Its Up again!"
+title: "Agora Update: Its Up again!"
 ---
-<article class="post-listing post-9651 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-agora tag-update">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+9651 tag-agora tag-update
+Posted by: DeepDotWeb 
+
 <span>March 25, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/03/25/agora-update-its-up-again/#comments">54 Comments</a></span>
+
+<span><a href="/2015/03/25/agora-update-its-up-again/#comments">54 Comments</a></span>
 
 
 <p><strong>Update, Buyers url is up BUT VERY SLOW &#8211; Possibly due to <a href="http://www.deepdotweb.com/2015/03/25/agora-update-its-up-again/">DDOS Attack</a> on Hidden Services:</strong></p>
@@ -16,4 +17,5 @@ Agora Update: Its Up again!"
 <p><a href="/imgs/2015/03/Agora-itsalive.png"><img class="aligncenter  wp-image-9652" src="/imgs/2015/03/Agora-itsalive.png" alt="Agora-itsalive" width="817" height="445" srcset="/imgs/2015/03/Agora-itsalive.png 1374w, /imgs/2015/03/Agora-itsalive-300x163.png 300w, /imgs/2015/03/Agora-itsalive-1024x557.png 1024w" sizes="(max-width: 817px) 100vw, 817px"/></a></p>
 <p><strong>Be patient &#8211; the market will be VERY slow, due to the tremendous load. </strong></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/agora/" rel="tag">agora</a> <a href="https://www.deepdotweb.com/tag/update/" rel="tag">update</a></span> <span style="display:none" class="updated">2015-03-25
+<a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/update/" rel="tag">update</a></span> 
+Updated: 2015-03-25

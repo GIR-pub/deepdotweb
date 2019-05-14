@@ -1,12 +1,13 @@
 ---
-Bitcoin: Does the “Currency of the Future” tag still hold true?"
+title: "Bitcoin: Does the “Currency of the Future” tag still hold true?"
 ---
-<article class="post-listing post-11349 post type-post status-publish format-standard has-post-thumbnail hentry  tag-bitcoin tag-currency tag-future tag-hold tag-tag tag-true">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/macavity/" title="">Macavity </a></span>
+
+11349  tag-currency tag-future tag-hold tag-tag tag-true
+Posted by: <a href="/author/macavity/" title="">Macavity 
+
 <span>September 27, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/09/27/bitcoin-does-the-currency-of-the-future-tag-still-hold-true/#respond">Leave a comment</a></span>
+<span><a href="/2015/09/27/bitcoin-does-the-currency-of-the-future-tag-still-hold-true/#respond">Leave a comment</a></span>
 
 
 <p><em>“The next step in the evolution of money”</em></p>
@@ -50,5 +51,6 @@ Bitcoin: Does the “Currency of the Future” tag still hold true?"
 <p><strong><em>Yours truly,</em></strong></p>
 <p><strong><em>Macavity</em></strong></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/currency/" rel="tag">currency</a> <a href="https://www.deepdotweb.com/tag/future/" rel="tag">future</a> <a href="https://www.deepdotweb.com/tag/hold/" rel="tag">hold</a> <a href="https://www.deepdotweb.com/tag/tag/" rel="tag">tag</a> <a href="https://www.deepdotweb.com/tag/true/" rel="tag">true</a></span> <span style="display:none" class="updated">2015-09-27<a href="https://www.deepdotweb.com/author/macavity/" title="Posts by Macavity" rel="author">Macavity</a></strong></div>
+<a href="/tag/currency/" rel="tag">currency</a> <a href="/tag/future/" rel="tag">future</a> <a href="/tag/hold/" rel="tag">hold</a> <a href="/tag/tag/" rel="tag">tag</a> <a href="/tag/true/" rel="tag">true</a></span> 
+Updated: 2015-09-27<a href="/author/macavity/" title="Posts by Macavity" rel="author">Macavity</a></strong></div>
 

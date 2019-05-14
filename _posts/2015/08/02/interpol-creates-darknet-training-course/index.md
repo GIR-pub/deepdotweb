@@ -1,12 +1,13 @@
 ---
-INTERPOL Creates &#8220;Darknet Training Course&#8221;
+title: "INTERPOL Creates &#8220;Darknet Training Course&#8221;"
 ---
-<article class="post-listing post-11167 post type-post status-publish format-standard hentry category-news tag-creates tag-interpol tag-training">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+11167 tag-creates tag-interpol tag-training
+Posted by: DeepDotWeb 
+
 <span>August 2, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/02/interpol-creates-darknet-training-course/#comments">4 Comments</a></span>
+
+<span><a href="/2015/08/02/interpol-creates-darknet-training-course/#comments">4 Comments</a></span>
 
 
 <p>According to a <a href="http://www.interpol.int/News-and-media/News/2015/N2015-108">press release</a>:</p>
@@ -20,4 +21,5 @@ INTERPOL Creates &#8220;Darknet Training Course&#8221;
 <p>Representatives from Australia, Finland, France, Ghana, Hong Kong, Indonesia, Japan, Netherlands, Singapore, Sri Lanka and Sweden attended the first training session.</p>
 <p>A second course is scheduled for November in Brussels, with a separate training event also planned for senior law enforcement officers in order to raise awareness of these new threat areas at all policing levels.</p></blockquote>
 </div>
-<a href="https://www.deepdotweb.com/tag/creates/" rel="tag">creates</a> <a href="https://www.deepdotweb.com/tag/darknet/" rel="tag">darknet</a> <a href="https://www.deepdotweb.com/tag/interpol/" rel="tag">interpol</a> <a href="https://www.deepdotweb.com/tag/training/" rel="tag">training</a></span> <span style="display:none" class="updated">2015-08-02
+<a href="/tag/creates/" rel="tag">creates</a> <a href="/tag/darknet/" rel="tag">darknet</a> <a href="/tag/interpol/" rel="tag">interpol</a> <a href="/tag/training/" rel="tag">training</a></span> 
+Updated: 2015-08-02

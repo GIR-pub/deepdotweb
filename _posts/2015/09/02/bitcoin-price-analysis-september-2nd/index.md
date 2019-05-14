@@ -1,12 +1,14 @@
 ---
-Bitcoin Price Analysis September 2nd"
+title: "Bitcoin Price Analysis September 2nd"
 ---
-<article class="post-listing post-11404 post type-post status-publish format-standard has-post-thumbnail hentry  tag-2nd tag-analysis tag-bitcoin tag-price tag-september">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11404  tag-2nd tag-analysis tag-price tag-september
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>September 2, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/02/bitcoin-price-analysis-september-2nd/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/09/02/bitcoin-price-analysis-september-2nd/#respond">Leave a comment</a></span>
 
 
 <p><a href="/imgs/2015/09/1.jpg"><img class="aligncenter size-full wp-image-11405" src="/imgs/2015/09/1.jpg" alt="1" width="850" height="596" srcset="/imgs/2015/09/1.jpg 850w, /imgs/2015/09/1-300x210.jpg 300w" sizes="(max-width: 850px) 100vw, 850px" /></a></p>
@@ -34,5 +36,6 @@ Bitcoin Price Analysis September 2nd"
 <p><a href="/imgs/2015/09/5.jpg"><img class="aligncenter size-full wp-image-11409" src="/imgs/2015/09/5.jpg" alt="5" width="915" height="342" srcset="/imgs/2015/09/5.jpg 915w, /imgs/2015/09/5-300x112.jpg 300w" sizes="(max-width: 915px) 100vw, 915px" /></a></p>
 <p>The overall bearish expectations still loom, as per this chart from whaleclub.co with market currently trading in the red rectangle zone. Thus, while higher prices in the short term are probable, the larger price pattern is tending to testing sub $ 200 prices. I will discuss this real possibility in a dedicated post later this week.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/2nd/" rel="tag">2nd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-02<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/2nd/" rel="tag">2nd</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+Updated: 2015-09-02
 

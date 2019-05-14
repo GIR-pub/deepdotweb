@@ -1,13 +1,10 @@
 ---
-Silk Road &#038; Ross Ulbricht Tribute Songs Compilation"
+title: "Silk Road &#038; Ross Ulbricht Tribute Songs Compilation"
 ---
-<article class="post-listing post-8971 post type-post status-publish format-standard has-post-thumbnail hentry  tag-compilation  tag-songs tag-tribute tag-ulbricht">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+
+Posted by: DeepDotWeb 
+
 <span>February 5, 2015</span>
-
-<span><a href="https://www.deepdotweb.com/2015/02/05/silk-road-ross-ulbricht-tribute-songs-compilation/#comments">1 Comment</a></span>
-
 
 <p>With the end of Ross Ulbricht trial that ended up with <a href="http://www.deepdotweb.com/2015/02/04/ross-ulbricht-found-guilty-running-silk-road-dread-pirate-roberts/">his conviction</a>, i have gathered here the Silk Road tribute songs that were published during the past year &#8211;  If you know anymore, fee free to share with me and i will add!</p>
 <p><span style="text-decoration: underline;"><strong>#1 &#8211; Zhou Tonged &#8211; End of Silk Road (Boyz II Men &#8211; End Of The Road)</strong></span><br />
@@ -130,5 +127,5 @@ Silk Road &#038; Ross Ulbricht Tribute Songs Compilation"
     One day will rise</p>
 <p>One day we&#8217;ll rise</p>
 <p><strong>Know other Silk road / Ross Ulbricht tributes? Share with us!</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/compilation/" rel="tag">compilation</a>  <a href="https://www.deepdotweb.com/tag/ross/" rel="tag">ross</a> <a href="https://www.deepdotweb.com/tag/songs/" rel="tag">songs</a> <a href="https://www.deepdotweb.com/tag/tribute/" rel="tag">tribute</a> <a href="https://www.deepdotweb.com/tag/ulbricht/" rel="tag">ulbricht</a></span> <span style="display:none" class="updated">2015-02-05
+
+Updated: 2015-02-05

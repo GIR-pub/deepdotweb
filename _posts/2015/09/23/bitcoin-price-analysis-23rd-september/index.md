@@ -1,12 +1,14 @@
 ---
-Bitcoin Price analysis 23rd September"
+title: "Bitcoin Price analysis 23rd September"
 ---
-<article class="post-listing post-11588 post type-post status-publish format-standard has-post-thumbnail hentry  tag-23rd tag-analysis tag-bitcoin tag-price tag-september">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11588  tag-23rd tag-analysis tag-price tag-september
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>September 23, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/09/23/bitcoin-price-analysis-23rd-september/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/09/23/bitcoin-price-analysis-23rd-september/#respond">Leave a comment</a></span>
 
 
 <p><a href="/imgs/2015/09/13.jpg"><img class="aligncenter size-full wp-image-11589" src="/imgs/2015/09/13.jpg" alt="1" width="1134" height="664" srcset="/imgs/2015/09/13.jpg 1134w, /imgs/2015/09/13-300x176.jpg 300w, /imgs/2015/09/13-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
@@ -36,9 +38,10 @@ Bitcoin Price analysis 23rd September"
 <p><a href="/imgs/2015/09/61.jpg"><img class="aligncenter size-full wp-image-11594" src="/imgs/2015/09/61.jpg" alt="6" width="952" height="373" srcset="/imgs/2015/09/61.jpg 952w, /imgs/2015/09/61-300x118.jpg 300w" sizes="(max-width: 952px) 100vw, 952px"/></a></p>
 <p>This week, I am neutral to bearisj. I expect a proper test of support at $223 zone first, before any attempt to move up beyond $ 236. Price is likely to trade within a sideways range for a couple of days, before a decisive break down. Considering the EMA technicals and the bear channel from earlier chart, $ 220 is a reasonable target for a short term bottom.</p>
 <p><a href="/imgs/2015/09/71.jpg"><img class="aligncenter size-full wp-image-11595" src="/imgs/2015/09/71.jpg" alt="7" width="1020" height="457" srcset="/imgs/2015/09/71.jpg 1020w, /imgs/2015/09/71-300x134.jpg 300w" sizes="(max-width: 1020px) 100vw, 1020px"/></a></p>
-<p>My outlook for the mid term is still bearish, irrespective of any upside we might see in the next 3 weeks. I explained my thoughts in an article early this week, <a href="https://www.deepdotweb.com/2015/09/21/bitcoin-medium-term-price-outlook/">Bitcoin Medium Term Price Outlook</a>.</p>
+<p>My outlook for the mid term is still bearish, irrespective of any upside we might see in the next 3 weeks. I explained my thoughts in an article early this week, <a href="/2015/09/21/bitcoin-medium-term-price-outlook/">Bitcoin Medium Term Price Outlook</a>.</p>
 <p><a href="/imgs/2015/09/8.jpg"><img class="aligncenter size-full wp-image-11596" src="/imgs/2015/09/8.jpg" alt="8" width="904" height="492" srcset="/imgs/2015/09/8.jpg 904w, /imgs/2015/09/8-300x163.jpg 300w" sizes="(max-width: 904px) 100vw, 904px"/></a></p>
 <p>Overall, the market is on fickle territory, trading just above a long term trendline and bouncing off it 6 times since 2012, including twice in 2015. Traders are keenly watching whether 200 WMA and this trendline will continue to hold and maintain its trading range between $ 200 and $300.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/23rd/" rel="tag">23rd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a> <a href="https://www.deepdotweb.com/tag/september/" rel="tag">september</a></span> <span style="display:none" class="updated">2015-09-23<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/23rd/" rel="tag">23rd</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+Updated: 2015-09-23
 

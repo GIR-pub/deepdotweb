@@ -1,12 +1,13 @@
 ---
-The PerfectScans Roadshow Slaps The Deebweb In The Face"
+title: "The PerfectScans Roadshow Slaps The Deebweb In The Face"
 ---
-<article class="post-listing post-11312 post type-post status-publish format-standard has-post-thumbnail hentry category-memes tag-deebweb tag-face tag-perfectscans tag-roadshow tag-slaps">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/perfectscans/" title="">PerfectScans </a></span>
+
+11312 category-memes tag-deebweb tag-face tag-perfectscans tag-roadshow tag-slaps
+Posted by: <a href="/author/perfectscans/" title="">PerfectScans 
+
 <span>August 19, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/19/the-perfectscans-roadshow-slaps-the-deebweb-in-the-face-2/#comments">21 Comments</a></span>
+<span>in <a href="/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
+<span><a href="/2015/08/19/the-perfectscans-roadshow-slaps-the-deebweb-in-the-face-2/#comments">21 Comments</a></span>
 
 
 <p><span class="im">Yes, you read that right, it&#8217;s been a long time coming and the voice of sanity you have missed, lost in the wilderness of relays trying to find their way home, to give the answers for those who have been waiting.</p>
@@ -58,5 +59,6 @@ The PerfectScans Roadshow Slaps The Deebweb In The Face"
 <p>And Remember: Lucy Loves You</p>
 <p>x</span></p>
 </div>
-<a href="https://www.deepdotweb.com/tag/deebweb/" rel="tag">deebweb</a> <a href="https://www.deepdotweb.com/tag/face/" rel="tag">face</a> <a href="https://www.deepdotweb.com/tag/perfectscans/" rel="tag">perfectscans</a> <a href="https://www.deepdotweb.com/tag/roadshow/" rel="tag">roadshow</a> <a href="https://www.deepdotweb.com/tag/slaps/" rel="tag">slaps</a></span> <span style="display:none" class="updated">2015-08-19<a href="https://www.deepdotweb.com/author/perfectscans/" title="Posts by PerfectScans" rel="author">PerfectScans</a></strong></div>
+<a href="/tag/deebweb/" rel="tag">deebweb</a> <a href="/tag/face/" rel="tag">face</a> <a href="/tag/perfectscans/" rel="tag">perfectscans</a> <a href="/tag/roadshow/" rel="tag">roadshow</a> <a href="/tag/slaps/" rel="tag">slaps</a></span> 
+Updated: 2015-08-19<a href="/author/perfectscans/" title="Posts by PerfectScans" rel="author">PerfectScans</a></strong></div>
 

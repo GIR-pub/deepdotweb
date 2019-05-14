@@ -1,37 +1,37 @@
 ---
-Tutorial: How to Buy From Outlaw Market?"
+title: "Tutorial: How to Buy From Outlaw Market?"
 ---
-<article class="post-listing post-11531 post type-post status-publish format-standard has-post-thumbnail hentry  tag-buy tag-outlaw tag-tutorial">
-    
-<div class="post-inner">
-    
+
+11531  tag-buy tag-outlaw tag-tutorial
     
     
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+    
+
+Posted by: DeepDotWeb
     
     
 <span>September 17, 2015</span>
 
     
-<span><a href="https://www.deepdotweb.com/2015/09/17/tutorial-how-to-buy-from-outlaw-market/#comments">3 Comments</a></span>
+<span><a href="/2015/09/17/tutorial-how-to-buy-from-outlaw-market/#comments">3 Comments</a></span>
 </p>        
 <p>It&#8217;s time to present you a guide outlining how to purchase things from Outlaw Market. Make extra sure that you have entirely read this whole tutorial before diving in – it&#8217;s very, very important you fully comprehend each and every step. The following guide is to assist you to purchase, not to sell items. Vending is a wholly other animal which requires much heavier time, effort, and consideration.</p>
-<p>The Listing for Outlaw Market as well as its official onion link are placed <a href="https://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">here</a></p>
+<p>The Listing for Outlaw Market as well as its official onion link are placed <a href="/marketplace-directory/listing/outlaw-market">here</a></p>
 <p><strong>Part 1 – Preparing</strong></p>
-<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://www.deepdotweb.com/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market<a href="http://silkroaddrugs.org/bestproxy">.</a> Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider.<a href="http://silkroaddrugs.org/bestproxy"> </a>This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
-<p>Your first-ever step in buying something via any marketplace whatsoever, is properly setting-up your digital environment. Following below is a bare standard minimum in order to stay safe when buying personal items. After you are done, make sure you glance at the <a href="https://www.deepdotweb.com/security-tutorials">Security Tutorials section</a> for several additional tips in security.</p>
+<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market<a href="http://silkroaddrugs.org/bestproxy">.</a> Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider.<a href="http://silkroaddrugs.org/bestproxy"> </a>This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p>Your first-ever step in buying something via any marketplace whatsoever, is properly setting-up your digital environment. Following below is a bare standard minimum in order to stay safe when buying personal items. After you are done, make sure you glance at the <a href="/security-tutorials">Security Tutorials section</a> for several additional tips in security.</p>
 <p><strong>Tor Browser Bundle</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/ttb.png" alt="" width="959" height="429" /></p>
 <p>To visit the darkweb, you will need to visit <a href="https://www.torproject.org/projects/torbrowser.html">https://www.torproject.org/projects/torbrowser.html</a> and download what is known as the Tor Browser Bundle, for your current OS. There are plenty of detailed instructions for installing it on its download webpage, for OS X, Windows, even Debian, too.</p>
 <p><strong>PGP</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/gnupg.png" alt="" width="459" height="137" /></p>
-<p>PGP is an especially useful method of encrypting/decrypting sensitive messages. It&#8217;s not very good of an idea to tell a vendor, your home address without first encrypting it, because should the hidden service get seized, LE will have clearly-cut evidence of the crime you have committed. One thought to bear in mind is that <a href="https://www.deepdotweb.com/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using GPG methods such as iGolder or those utilizing the BouncyCastle libraries.</p>
-<p>This site has long had essential, fundamental guides covering GPG for each and every mainstream OS, <a href="https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="https://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x">OS X</a>, and then <a href="https://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the best choice, obviously; however, you will be fine ordering personal goods on either OS X and Windows.</p>
+<p>PGP is an especially useful method of encrypting/decrypting sensitive messages. It&#8217;s not very good of an idea to tell a vendor, your home address without first encrypting it, because should the hidden service get seized, LE will have clearly-cut evidence of the crime you have committed. One thought to bear in mind is that <a href="/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using GPG methods such as iGolder or those utilizing the BouncyCastle libraries.</p>
+<p>This site has long had essential, fundamental guides covering GPG for each and every mainstream OS, <a href="/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="/2015/02/20/pgp-tutorial-os-x">OS X</a>, and then <a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the best choice, obviously; however, you will be fine ordering personal goods on either OS X and Windows.</p>
 <p>With Outlaw Market&#8217;s mandatory PGP policy and its obviously better-secure PGP-login system which you should definitely utilize, this habit will become not only inevitable but also essential.</p>
 <p><strong>Bitcoin</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/bitcoin.png" alt="" width="411" height="410" /></p>
-<p>You can&#8217;t really buy anything on the darkweb, without first owning bitcoin, can we? You&#8217;ll need to buy Bitcoin(s), something you can do with <a href="https://www.deepdotweb.com/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or order with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you buy Bitcoin is completely up to your own preference. Regardless, <a href="https://localbitcoins.com/?ch=4v6y">LocalBitcoin</a> is one of the most widely-popular options for a reason: it can be done anonymously. There&#8217;ve also been reports of Coinbase taking ban action against accounts involved in Darkweb Market deposits, so avoid that if you&#8217;re able. Secondly, don&#8217;t stay connected Tor while purchasing Bitcoin(s), because it is totally legal and buying through Tor often becomes a cumbersome ordeal.</p>
+<p>You can&#8217;t really buy anything on the darkweb, without first owning bitcoin, can we? You&#8217;ll need to buy Bitcoin(s), something you can do with <a href="/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or order with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you buy Bitcoin is completely up to your own preference. Regardless, <a href="https://localbitcoins.com/?ch=4v6y">LocalBitcoin</a> is one of the most widely-popular options for a reason: it can be done anonymously. There&#8217;ve also been reports of Coinbase taking ban action against accounts involved in Darkweb Market deposits, so avoid that if you&#8217;re able. Secondly, don&#8217;t stay connected Tor while purchasing Bitcoin(s), because it is totally legal and buying through Tor often becomes a cumbersome ordeal.</p>
 <p><strong>Wallet</strong></p>
 <p><img class=" aligncenter" src="/imgs/2015/02/electrum.png" alt="" width="398" height="90" /></p>
 <p>Now that you&#8217;ve purchased some Bitcoins, you need to store them somewhere. A particularly great choice is the open-source Electrum Wallet. This is also cross-platform and has a downloadable version for Android phones. Go ahead, download it <a href="https://electrum.org/download.html">here</a>. Using the Electrum Wallet is quite easily accomplished.</p>
@@ -94,11 +94,11 @@ Tutorial: How to Buy From Outlaw Market?"
 <p>By clicking the green text-hyperlink as is shown in the screenshot above, labeled with our vendor&#8217;s name, you are brought to this page in particular (some of the page&#8217;s components are cropped/removed due to relative insignificance in this point being made):</p>
 <p><a href="/imgs/2015/09/vendprof1.png"><img class="aligncenter size-full wp-image-11541" src="/imgs/2015/09/vendprof1.png" alt="vendprof[1]" width="540" height="423" srcset="/imgs/2015/09/vendprof1.png 540w, /imgs/2015/09/vendprof1-300x235.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></p>
 <p>Each vendor has his or her GPG key listed as well as the feedback they have received, thus far. Keep note, nonetheless, that a vendor who has positive reviews is not necessarily foolproof or incapable of exit-scamming.</p>
-<p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the <a href="https://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">listing</a> on our site or even the subreddit, <a href="https://www.reddit.com/r/DarkNetMarkets">DarkNetMarkets</a>. You can also read your vendor&#8217;s reviews on <a href="http://grams7enufi7jmdl.onion/">Grams</a>, after you search for a listing or vendor&#8217;s name. This also compiles all that vendor&#8217;s listings across markets.</p>
+<p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the <a href="/marketplace-directory/listing/outlaw-market">listing</a> on our site or even the subreddit, <a href="https://www.reddit.com/r/DarkNetMarkets">DarkNetMarkets</a>. You can also read your vendor&#8217;s reviews on <a href="http://grams7enufi7jmdl.onion/">Grams</a>, after you search for a listing or vendor&#8217;s name. This also compiles all that vendor&#8217;s listings across markets.</p>
 <p><strong>Part 7 – Making your order</strong></p>
 <p>After you have finally discovered a nicely-looking listing from a vendor of reputation, and are finally ready to start ordering, let&#8217;s cover that right now!</p>
 <p><strong>Laundering your coins:</strong></p>
-<p>Lucky for you Outlaw-Market users, you do not at all need an external blender such as <a href="https://www.deepdotweb.com/2014/06/22/introducing-grams-helix-bitcoins-cleaner">Grams&#8217;s Helix</a> (you can either register for a small fee or you can use the Lite version; this service does not only blend your coins – it gives you new coins), <a href="http://bitmixer2whesjgj.onion/">BitMixer</a>, or alternatively, but less optimally, either (due to fees and the fact it is a clearnet website) <a href="http://app.bitlaundry.com/">BitLaundry</a> or <a href="https://sharedcoin.com/">SharedCoin</a> (this requires a Blockchain wallet: you are better off with a service that does not require a cloud wallet, in general, for obvious security/privacy concerns and to evade LE investigations).</p>
+<p>Lucky for you Outlaw-Market users, you do not at all need an external blender such as <a href="/2014/06/22/introducing-grams-helix-bitcoins-cleaner">Grams&#8217;s Helix</a> (you can either register for a small fee or you can use the Lite version; this service does not only blend your coins – it gives you new coins), <a href="http://bitmixer2whesjgj.onion/">BitMixer</a>, or alternatively, but less optimally, either (due to fees and the fact it is a clearnet website) <a href="http://app.bitlaundry.com/">BitLaundry</a> or <a href="https://sharedcoin.com/">SharedCoin</a> (this requires a Blockchain wallet: you are better off with a service that does not require a cloud wallet, in general, for obvious security/privacy concerns and to evade LE investigations).</p>
 <p><a href="/imgs/2015/09/blend11.png"><img class="aligncenter size-full wp-image-11542" src="/imgs/2015/09/blend11.png" alt="blend1[1]" width="565" height="78" srcset="/imgs/2015/09/blend11.png 565w, /imgs/2015/09/blend11-300x41.png 300w" sizes="(max-width: 565px) 100vw, 565px" /></a></p>
 <p>Once you click that button on the login/index screen, you will be brought to this page:</p>
 <p><a href="/imgs/2015/09/OUTLAW_mixing_service_htm_201509131144111.png"><img class="aligncenter size-full wp-image-11543" src="/imgs/2015/09/OUTLAW_mixing_service_htm_201509131144111.png" alt="OUTLAW_mixing_service_htm_20150913114411[1]" width="545" height="379" srcset="/imgs/2015/09/OUTLAW_mixing_service_htm_201509131144111.png 545w, /imgs/2015/09/OUTLAW_mixing_service_htm_201509131144111-300x209.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></a></p>
@@ -131,10 +131,10 @@ Tutorial: How to Buy From Outlaw Market?"
 <p>If you follow these guidelines, you should be safe buying. There&#8217;s plenty more to learn, but you&#8217;re better learning it for yourself. Super-safe shopping!</p>
     
     
-</div><!-- .entry /-->
-<a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/outlaw/" rel="tag">outlaw</a> <a href="https://www.deepdotweb.com/tag/tutorial/" rel="tag">tutorial</a></span>				<span style="display:none" class="updated">2015-09-17
+
+<a href="/tag/outlaw/" rel="tag">outlaw</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span>				
+Updated: 2015-09-17
     
     
-</div><!-- .post-inner -->
-</article><!-- .post-listing -->
+
 

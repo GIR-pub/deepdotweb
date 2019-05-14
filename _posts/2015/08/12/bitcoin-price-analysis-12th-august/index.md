@@ -1,12 +1,14 @@
 ---
-​Bitcoin Price Analysis 12th August
+title: "​Bitcoin Price Analysis 12th August"
 ---
-<article class="post-listing post-11254 post type-post status-publish format-standard has-post-thumbnail hentry  tag-12th tag-analysis tag-august tag-bitcoin tag-price">
-<div class="post-inner">
-<span>Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic </a></span>
+
+11254  tag-12th tag-analysis tag-august tag-price
+Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+
 <span>August 12, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/08/12/bitcoin-price-analysis-12th-august/#respond">Leave a comment</a></span>
+
+
+<span><a href="/2015/08/12/bitcoin-price-analysis-12th-august/#respond">Leave a comment</a></span>
 
 
 <p><strong>BBVA Bank of Spain on mainstreaming Bitcoin</strong></p>
@@ -38,5 +40,6 @@
 <p><a href="/imgs/2015/08/61.jpg"><img class="aligncenter  wp-image-11260" src="/imgs/2015/08/61.jpg" alt="6" width="953" height="476" srcset="/imgs/2015/08/61.jpg 1205w, /imgs/2015/08/61-300x150.jpg 300w, /imgs/2015/08/61-1024x512.jpg 1024w, /imgs/2015/08/61-660x330.jpg 660w, /imgs/2015/08/61-995x498.jpg 995w" sizes="(max-width: 953px) 100vw, 953px"/></a></p>
 <p>Safe to say the market is in a decisive zone.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/12th/" rel="tag">12th</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/august/" rel="tag">august</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> <span style="display:none" class="updated">2015-08-12<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+<a href="/tag/12th/" rel="tag">12th</a>  
+Updated: 2015-08-12
 
