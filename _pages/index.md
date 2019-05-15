@@ -17,7 +17,26 @@ I was broken-hearted to recently find out that deepdotweb got seized.
 
 The world should have user-friendly access to the educational materials that were previously available on deepdotweb.com.
 
-It was the best place to find privacy guides, and though I'm grateful for the internet archive, I thought I could do something nice with [Jekyll and Github Pages](https://infominer.id/web-work/github-pages-starter-pack/). 
+I have never bought anything from the darkweb, and have no particular inclination to use or facilitate use of the markets.
+
+However, its clear that governments use the drug war to suppress their populous and take massive profit on both sides.
+
+I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
+
+
+## Why Did I Build This Archive?
+
+Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://www.deepdotweb.com/), which begs the question: Why did I build this archive?
+
+A few reasons.
+
+1. Preserve content essential to humanity.
+2. Practice building static websites.
+3. Study Bitcoin History.
+4. Show off the content of DeepDotWeb to Highlight some of it's most important contributions.
+
+Though I'm grateful for the internet archive, I thought I could do something nice with [Jekyll and Github Pages](https://infominer.id/web-work/github-pages-starter-pack/). 
+
 
 ## How I Created this Archive
 
@@ -56,5 +75,6 @@ I also removed the market directory and forum. For space, and really it's not my
 * [Archive.org hit with hundreds of false terrorist content notices from EU](https://www.google.com/amp/s/www.theverge.com/platform/amp/2019/4/11/18305968/eu-internet-terrorist-content-takedown-mistakes-internet-archive-org)
 
 This was another reason I was concerned that I shouldn't leave it up to the Internet Archive to protect our ability to learn best practicees for privacy online.
+
 
 ![](https://imgur.com/T7QpFTM.png)
