@@ -16,7 +16,9 @@ title: "HOW TO CONNECT TO TOR OVER TOP OF TOr"
 <p>To do this, simply go to your Start Menu and type in the search box &#8220;command&#8221;. When command comes up, you right click it, and click run as Administrator and it will open up a command prompt. Next type in the following command. <strong>Bcdedit.exe -set TESTSIGNING ON</strong> and this will allow Windows to install test-signed drivers. Restart your computer and you will see in the bottom right hand corner after you restart <strong>Test Mode Windows</strong>. Now you can run Tortilla. And let it connect to TOR. Remember to have <strong>tor.exe</strong> from TOR Expert Bundle open first.</p>
 <p>Finally, you open up Virtual Box or whatever Virtual Machine software you are using and click <strong>Settings</strong> on the Tails virtual machine. Click on the <strong>Network</strong> tab and change the drop down menu where it says <strong>Attached To</strong>: to <strong>Bridged Adapter</strong> and in the drop down menu below it called Name: Select Tortilla Adapter. Now your Virtual Machine, in this case Tails, will always connect to the internet <strong>through Tortilla</strong>, which connects through TOR. And since Tails establishes its own connection to TOR, you will be running TOR over top of TOR. Again, you may or may not want to do this, but I am giving you the option should you want to.</p>
 <p>If anyone is interested in learning more about the creator of Tortilla, he did a PowerPoint presentation at the 2013 Black Hat USA conference. Feel free to watch his talk at the YouTube link below. Please note however that YouTube is owned by Google and there are only about 57 views on the video, so the government will likely correlate users who watch that video with users from this forum. Make sure you do not watch the video on YouTube with your real IP address. At the very least use a VPN or find another site that has it hosted. Always be extra paranoid.</p>
-<p>{% include video id="G_jDPQU-8YQ" provider="youtube" %}
+
+{% include video id="G_jDPQU-8YQ" provider="youtube" %}
+
 
 Updated: 2014-02-12
 

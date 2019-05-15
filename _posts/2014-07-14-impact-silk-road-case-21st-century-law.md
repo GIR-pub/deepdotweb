@@ -7,7 +7,9 @@ Posted by: DeepDotWeb
 <span>July 14, 2014</span>
 
     
+
 {% include video id="Y1DsEeb2DOY" provider="youtube" %}
+
 
 <p>Recorded at the Free State Project&#8217;s annual Porcupine Freedom Festival (PorcFest 2014) on June 27, 2014.</p>
 <p>The Federal government claims Ross Ulbricht created and operated Silk Road under the pseudonym Dread Pirate Roberts. He has pleaded not guilty on four counts: narcotics trafficking; computer hacking; money laundering; and engaging in a criminal enterprise. He faces up to 30 years in prison.</p>

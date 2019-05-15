@@ -13,7 +13,10 @@ Posted by: Zubair Muadh
 <p><strong>Ricardian Contracts</strong></p>
 <p>Ricardian contracts where originally formulated by Grigg and Gary Howland, as an addition to the Ricardo payment model. The Ricardian contract is used as a means to translate capital of all sorts into a series of agreements, or trade-able contracts.</p>
 <p><strong>How does OpenBazaar work?</strong></p>
-<p>{% include video id="w4vtUPJEmqg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
+
+{% include video id="w4vtUPJEmqg" provider="youtube" %}
+
+
 <p>The seller would choose an auction style contract. The required sections in the file will include:</p>
 <p>Item name,</p>
 <p>Description,</p>

@@ -7,7 +7,9 @@ Posted by: DeepDotWeb
 <span>March 2, 2014</span>
 
 
+
 {% include video id="GrL81kK8ehY" provider="youtube" %}
+
 
 
 <p>This video was made because the author was frustrated at how hard buying something from Agora through Tor, using Bitcoin was. There were no good video guides online, so he decided to make one! Thanks for your views and support!<br/>

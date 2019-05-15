@@ -25,7 +25,9 @@ title: "Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launch
 <p>Paypal donation. (A button on this site:  <a href="http://www.freeross.org/">www.freeross.org</a>)</p>
 <p>And bitcoin donations can be sent using this site <a href="http://www.rossulbricht.org" target="_blank">www.rossulbricht.org</a></p>
 <p>And even an official video regarding the legal fund:</p>
-<p>{% include video id="3EyzWwljp7c" provider="youtube" %}
+
+{% include video id="3EyzWwljp7c" provider="youtube" %}
+
 <p><strong>Judging From our experience with the so called justice system &#8211; we believe that this is smart move.</strong></p>
 </div>
 

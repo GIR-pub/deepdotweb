@@ -2,7 +2,9 @@
 title: "How The Silk Road Case Affects Us All"
 ---
 
+
 {% include video id="osg2LqSxEeI" provider="youtube" %}
+
 Posted by: DeepDotWeb
 
 <span>July 8, 2014</span>

@@ -19,7 +19,9 @@ Posted by: DeepDotWeb
 <p>Well that was easy.</p>
 <p>Just by reading the results you can see that a lot of people are saying that this is a scam. Apparently after you open your account and deposit some coins you receive an email that your account is hacked and you will not be able to do anything about it.</p>
 <p>My guess is that most of the top sites in the Google results are people who are pissed off about EarnTomorrow stealing their money. Including one guy who actually love 1.1BTC and decided to upload a video with proof about the story.</p>
-<p>{% include video id="IhSCJv0DRU8" provider="youtube" %}
+
+{% include video id="IhSCJv0DRU8" provider="youtube" %}
+
 <p>So solving our first case was pretty simple, but what if you can’t find any reviews about your requested service ?</p>
 <p>here are some more tool to solve your puzzle:</p>
 <p><strong>Check the “About Us” page</strong> &#8211; Usually when a site is a scam it will not give explicit information about the company’s team. It will state something vague like “We are a team of Bitcoin experts”. In EarnTomorrow’s case I found this paragraph on the FAQ page:</p>
