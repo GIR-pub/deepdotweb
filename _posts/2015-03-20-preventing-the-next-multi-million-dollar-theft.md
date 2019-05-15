@@ -14,7 +14,7 @@ Posted by: DeepDotWeb
 <p>And yet, despite repeating incidents that have shown the weaknesses of escrow, these solutions are still not widely used. The majority of marketplaces today (both “hidden” and “clear-web” ones) still rely on a standard centralized escrow, or on direct buyer to seller payments that provide no buyer protection at all.</p>
 <p>Fortunately, Bitrated is here to change that.</p>
 
-{% include video id="iI9hpFUa_CI" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
+{% include video id="iI9hpFUa_CI" provider="youtube" %}
 
 <p><a href="https://www.bitrated.com/">Bitrated</a> is a trust platform for the Bitcoin ecosystem. Originally launched at the end of 2013, it utilizes a payment system that facilitates the creation of 2-of-3 multi-signature contracts for the purpose of third-party arbitration, as well as a marketplace for arbitrators that wish to offer their services in exchange for fees.</p>
 <p>Bitrated, was recently <a href="https://bitcoinmagazine.com/19371/bitrated-unveils-reputation-system-multisig-escrow/">re-launched as Bitrated v2</a>, a completely new codebase rewritten from the ground up to replace the old system, with a strong focus on ‘reputation’ as the foundation of the system, as well as improved usability and user experience.</p>
