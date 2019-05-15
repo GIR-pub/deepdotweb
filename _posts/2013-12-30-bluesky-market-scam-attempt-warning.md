@@ -32,7 +32,7 @@ title: "BlueSky Marketplace Scam Attempt Warning"
     Please every one, stay as far from blue sky market as you possibly can. Tell every one that you know and care about to do the same.</p>
 <p>What message does it send that the owner/operator of the site is not only a scamming cunt rag, but they are stooping so low as to single out and impersonate an individual vendor as the cherry atop the scam-sundae.</p>
 <p>If any one has any questions or inquiries of any sort, please do not hesitate to message us.</p>
-<p>This has been a public service announcement brought to you by the REAL OG_ ( we never in a million years would have thought we would be having to defend our reputation against such fuckery, heh).</p>
+<p>This has been a public service announcement brought to you by the REAL OG_ ( we never in a million years would have thought we would be having to defend our reputation against such butterflyery, heh).</p>
 <p>Stay safe people, stay diligent</p>
 <p><strong>===End Quote===</strong></p>
 <p>The vendor also posted the support ticket that was closed by the admins:</p>
