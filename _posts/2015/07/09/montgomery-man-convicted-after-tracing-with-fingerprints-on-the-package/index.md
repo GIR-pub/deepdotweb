@@ -5,10 +5,6 @@ title: "Montgomery Man Convicted For Illegal Gun Sales on Darknet Markets"
 Posted by: Tariq Riaz 
 
 <span>July 9, 2015</span>
-
-
-
-    
 <p>You can scramble your Internet association, you can exchange bitcoin, and you can shroud your character in case you&#8217;re considering offering weapons on the Darknet Markets. Be that as it may, you still may end up in cuffs on the off chance that you neglect to wipe your fingerprints off the bundle before you send the request.</p>
 <p><strong>That is the thing</strong> that <a href="http://www.justice.gov/usao-mdal/pr/montgomery-man-convicted-illegal-gun-sales-darknet-sites">Michael Focia of Montgomery</a>, Alabama, took in while making things as difficult as possible subsequent to being indicted offering unlicensed guns on the darknet markets. Focia, 48, confronts 15 years in federal prison for arranging two unlawful weapon deals to undercover agents of the Bureau of Alcohol, Tobacco, Firearms and Explosives.</p>
 <p><strong>Amid the investigation</strong>, Special Agents of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) acted like weapon purchasers on two Darknet sites (Agora &amp; Black Market Reloaded) and had the capacity arrange for the offer of two firearms from Focia. Subsequent to consenting to offer the weapons, Focia dispatched them from Alabama to Nebraska and New Jersey.In case of the New Jersey firearm, proof at trial demonstrated that Focia&#8217;s unique mark (<strong>fingerprints</strong>) was on the weapon&#8217;s bundling.</p>
@@ -18,4 +14,3 @@ Posted by: Tariq Riaz
 
 Updated: 2015-07-09
 
-    

@@ -19,9 +19,8 @@ Posted by: DeepDotWeb
 <p>Generally it&#8217;s not recommended for recreational drug users to consume substances without first knowing its composition. More information about testing of other substances can be found <a href="/2014/04/06/energy-control-drug-testing-service-for-deepweb-users" target="_blank">at this link</a>.</p>
 <p><em>Energy Control is a project from an NGO that emerged in 1997 as a pioneer project in Spain in the area of reducing the risks associated with recreational drug use, having since received recognition from numerous government administrations (European, state, community and local), health professionals and, most of all, users.</em></p>
 <p>Images of the pills:</p>
-<p><a href="/imgs/2015/01/superman.jpg"><img class="aligncenter  wp-image-8945" src="/imgs/2015/01/superman.jpg" alt="superman" width="762" height="428" srcset="/imgs/2015/01/superman.jpg 2340w, /imgs/2015/01/superman-300x169.jpg 300w, /imgs/2015/01/superman-1024x575.jpg 1024w" sizes="(max-width: 762px) 100vw, 762px" /><br />
-</a> <a href="/imgs/2015/01/Superman2.jpg"><img class="aligncenter  wp-image-8946" src="/imgs/2015/01/Superman2.jpg" alt="Superman2" width="674" height="505" srcset="/imgs/2015/01/Superman2.jpg 2048w, /imgs/2015/01/Superman2-300x225.jpg 300w, /imgs/2015/01/Superman2-1024x768.jpg 1024w" sizes="(max-width: 674px) 100vw, 674px" /></a></p>
+<img src="imgs/2015/01/superman.jpg">
+</a> <a href="/imgs/2015/01/Superman2.jpg">
 
 Updated: 2015-01-31
 
-    

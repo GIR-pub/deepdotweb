@@ -9,17 +9,17 @@ Posted by: pesa_mic
 
 
 
-<p><a href="/imgs/2015/12/11.jpg"><img class="aligncenter size-full wp-image-12510" src="/imgs/2015/12/11.jpg" alt="1" width="1131" height="693" srcset="/imgs/2015/12/11.jpg 1131w, /imgs/2015/12/11-300x184.jpg 300w, /imgs/2015/12/11-1024x627.jpg 1024w" sizes="(max-width: 1131px) 100vw, 1131px"/></a></p>
+<img src="imgs/2015/12/11.jpg">
 <p>At the time of writing this, the price of bitcoin just broke out of the $380 &#8211; $ 390 resistance zone that has been pushing back on it this week. At $ 420 now, it is not a foregone conclusion that it has convincingly broken this level. From recent events, spike to $ 504 some weeks ago, it is not unusual for price breakouts to retract forming long wicks. So, it is wise to observe the formation of a complete candle on the 3 day and the 1 week chart for good measure.</p>
 <p>This chart shows the significance of price action now, where, the 200 EMA is currently supporting price, after the run up in November broke above it. Significant because the last time price was above it was in September 2014. As a long term moving average line, it is unlikely to break overnight, so price movement here might gradual and drag out.</p>
-<p><a href="/imgs/2015/12/21.jpg"><img class="aligncenter size-full wp-image-12511" src="/imgs/2015/12/21.jpg" alt="2" width="1134" height="665" srcset="/imgs/2015/12/21.jpg 1134w, /imgs/2015/12/21-300x176.jpg 300w, /imgs/2015/12/21-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
+<img src="imgs/2015/12/21.jpg">
 <p>This week (1) was mostly sideways consolidation, limited to a low of $ 358, before moving up towards $ 400 and breaking above it. The market is making higher lows and now seems intent on $ 470 &#8211; ideally the next target. At $ 470, an uptrend reversal pattern from November 5 marks a resistance level; here too i expect sideways consolidation and possibly a pull back.</p>
-<p><a href="/imgs/2015/12/31.jpg"><img class="aligncenter size-full wp-image-12512" src="/imgs/2015/12/31.jpg" alt="3" width="1021" height="452" srcset="/imgs/2015/12/31.jpg 1021w, /imgs/2015/12/31-300x133.jpg 300w" sizes="(max-width: 1021px) 100vw, 1021px"/></a></p>
+<img src="imgs/2015/12/31.jpg">
 <p><em>“Bitcoin appears very bullish, even staying below this line the trend is up, however we could easily see if break up again and charge towards next resistance line at $460. It looks very much like bitcoin is bullish again.”</em></p>
 <p>Bullish fork extensions show where to expect resistance and support levels going up, such as $ 465 (pointed arrow). Sentiment has turned bullish again, with technical reasons to support this expectation. I will admit, the price level here is decisive, but I remain skeptical until at least $ 500.</p>
-<p><a href="/imgs/2015/12/4.jpg"><img class="aligncenter size-full wp-image-12513" src="/imgs/2015/12/4.jpg" alt="4" width="1063" height="406" srcset="/imgs/2015/12/4.jpg 1063w, /imgs/2015/12/4-300x115.jpg 300w, /imgs/2015/12/4-1024x391.jpg 1024w" sizes="(max-width: 1063px) 100vw, 1063px"/></a> <a href="/imgs/2015/12/5.jpg"><img class="aligncenter size-full wp-image-12514" src="/imgs/2015/12/5.jpg" alt="5" width="1648" height="944" srcset="/imgs/2015/12/5.jpg 1648w, /imgs/2015/12/5-300x172.jpg 300w, /imgs/2015/12/5-1024x587.jpg 1024w" sizes="(max-width: 1648px) 100vw, 1648px"/></a></p>
+<img src="imgs/2015/12/4.jpg">
 <p>My caution is informed by the first chart above I posted last month, that forecasted a drop from $ 500, a correction to find a bottom and a retrace back up to retest highs.Similarly, chart 2 also compares the pattern now to a pattern in May/July 2014. The takeaway is an expected retrace after a second top. I am keenly looking out for this, but remain open to the possibility of an invalidation and resulting higher prices.</p>
-<p><a href="/imgs/2015/12/6.png"><img class="aligncenter size-full wp-image-12515" src="/imgs/2015/12/6.png" alt="6" width="1566" height="917" srcset="/imgs/2015/12/6.png 1566w, /imgs/2015/12/6-300x176.png 300w, /imgs/2015/12/6-1024x600.png 1024w" sizes="(max-width: 1566px) 100vw, 1566px"/></a></p>
+<img src="imgs/2015/12/6.png">
 <p>The upside potential is exciting, as it could go up as high as $ 640, a high from May 2014. It will be exciting to watch it unfold</p>
 <p><strong>BITCOIN FUNDAMENTAL NEWS</strong></p>
 <p><strong>Overstock gets SEC Approval to Issue Shares on Bitcoin Blockchain</strong></p>

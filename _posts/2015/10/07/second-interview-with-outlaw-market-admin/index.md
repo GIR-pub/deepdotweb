@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 
 
-<p><a href="/marketplace-directory/listing/outlaw-market">Outlaw Market</a> Is one of the oldest running markets, dated as far as 29-12-13 (according to <a href="http://www.gwern.net/">gwern.net</a>),  we previously had <a href="/2014/01/23/interview-with-outlaw-market-admin/">an interview</a> with its admins and since a lot have changed since than, we felt it might be nice to do a followup interview and see if we can learn something from the experience gathered since then. So here it is:</p>
+<p><a href="#">an interview</a> with its admins and since a lot have changed since than, we felt it might be nice to do a followup interview and see if we can learn something from the experience gathered since then. So here it is:</p>
 <p><strong>Who are you and what is your position on Outlaw?</strong></p>
 <p>(music: Dire Straits) I&#8217;m just an aged trouble-boy, in the drug-wars I used to play&#8230; I&#8217;ve called the tune, to many a wonderful experience&#8230;;-) Now they say I&#8217;m a net criminal and I&#8217;m fading away, DDW, please hear my confession: I&#8217;ve legalized drug deals and call it freedom&#8230;</p>
 <p>I&#8217;m part of the core management.</p>

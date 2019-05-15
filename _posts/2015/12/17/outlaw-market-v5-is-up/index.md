@@ -7,9 +7,7 @@ Posted by: DeepDotWeb
 <span>December 17, 2015</span>
 
     
-
-        
-<p>One of the oldest markets, <a href="/marketplace-directory/listing/outlaw-market/">Outlaw market</a> has just been updated to a new version with new features, unfortunately new UI is not one of them, as the admins told <a href="" target="_blank">DeepDotWeb</a>:</p>
+<p>One of the oldest markets, <a href="#">DeepDotWeb</a>:</p>
 <blockquote><p>Although we haven&#8217;t been able to finish our UI yet, we do have uploaded our v5 of the market. Quite some invisible backend updates, and more added features. This text will be shown shortly, and should you also give an update of our newest things!</p>
 <p>Our UI is still being worked on. The good thing about operating a market on the long term is that there&#8217;s no haste required&#8230; ;)</p></blockquote>
 <p>And these are the updates:</p>
@@ -45,7 +43,7 @@ Posted by: DeepDotWeb
 <p>More to come, as always!<br />
     Kind regards</p></blockquote>
 <p>Visit outlaw market using this link:  <a href="http://outfor6jwcztwbpd.onion/indxx1.php" target="_blank"><strong>http://outfor6jwcztwbpd.onion/indxx1.php</strong></a></p>
-<p>And don&#8217;t forget to review at the <a href="/marketplace-directory/listing/outlaw-market/" target="_blank">Outlaw market&#8217;s listing page</a>.</p>
+<p>And don&#8217;t forget to review at the <a href="#">Outlaw market&#8217;s listing page</a>.</p>
     
     
 

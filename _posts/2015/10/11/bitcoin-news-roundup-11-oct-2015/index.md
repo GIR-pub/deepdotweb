@@ -9,7 +9,6 @@ Posted by: DeepDotWeb
 <span>October 11, 2015</span>
 
 
-    
 <span><a href="/2015/10/11/bitcoin-news-roundup-11-oct-2015/
         
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>

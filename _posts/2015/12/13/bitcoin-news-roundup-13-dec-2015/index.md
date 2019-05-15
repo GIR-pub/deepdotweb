@@ -10,7 +10,6 @@ Posted by: DeepDotWeb
 <span><a href="/2015/12/13/bitcoin-news-roundup-13-dec-2015/
 
 
-    
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p><strong> </strong>Microsoft reveals intention to integrate Ripple for Ethereum expansion. As Samburaj Das of <a href="https://www.cryptocoinsnews.com/microsoft-looks-to-expand-blockchain-based-toolkit-with-ripple-integration/">CryptoCoins News</a> writes, following its October decision to offer its customers a blockchain-based solution, the multinational technology company is now considering the integration of Ripple in its cloud platform Azure to enhance the offering. Currently, Microsoft enables its Azure customers to familiarize themselves with the blockchain technology through the use of BlockApps Strato and Camp solutions. The integration of Ripple’s Interledger Protocol is expected to carve a pathway for innovative cases within Microsoft’s blockchain platform.</p>
 <p>Sberbank favors the Blockchain, still reluctant for the bitcoin. As Jp Buntinx of <a href="http://bitcoinist.net/russias-sberbank-openly-shows-interest-blockchain-technology/">Bitcoinist</a> reports, Russia’s largest bank has expressed a clear interest in the blockchain by joining the R3 consortium, a widely viewed milestone for blockchain related projects. So far, Russia has been skeptical of jumping on the bitcoin bandwagon, so Sberbank’s interest is definitely a positive development. In fact, Lev Khasis, First Deputy Chair of the Management Board has openly stated that <em>“once blockchain solutions are official, Sberbank will be among the first to embrace them.”</em> Yet, the bitcoin remains still a no-no situation for the Russian financial institutions.</p>
@@ -25,4 +24,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-12-13
 
-    

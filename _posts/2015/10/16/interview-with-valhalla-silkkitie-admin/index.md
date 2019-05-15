@@ -9,10 +9,9 @@ Posted by: DeepDotWeb
 
 
 
-<p><a href="/marketplace-directory/listing/silkkitie">Silkkitie Market</a> &#8211; One of the smaller markets which started as a local market for Finland and later turned international just celebrated two years of operation and was rebranded as &#8220;<a href="/marketplace-directory/listing/silkkitie">Valhalla</a>&#8220;, we have conducted an interview with &#8220;Kapteeni&#8221;, the market admin, which you can find below.</p>
+<p><a href="#">Valhalla</a>&#8220;, we have conducted an interview with &#8220;Kapteeni&#8221;, the market admin, which you can find below.</p>
 <p>Admin Proof:</p>
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     I'm sending my interview about Silkkitie/Valhalla to Deepdotweb in middle of October 2015.
@@ -28,13 +27,12 @@ Posted by: DeepDotWeb
     =JIp0
     -----END PGP SIGNATURE-----
 
-    
 <p>
 <strong>Can you tell us how Silkkitie started?</strong></p>
 <p>Silkkitie was founded due to many reasons. Most notably because of the Finnish Customs. It was already very effective but as the darknet markets got more popular, became also the Finnish Customs too aware of this and more effective on searching drugs and other illegal things that darknet markets have usually listed. This was of course direct result from all the media attention original Silk Road and its descendants had when they got shut down.</p>
 <p>Probably law enforcement agencies also shared information about amounts of drugs that are being shipped from everywhere around the world in regular mail. Therefore ordering from other countries became increasingly risky for Finnish clients. At this point it was clear that we needed our own market. Since the founding of Silkkitie have the methods of vendors developed a lot and ordering from abroad has became slightly safer since there are vendors who use every method possible to prevent their shipments from getting caught.</p>
 <p>Other reasons, I could mention the poor state of street markets. You have to mix with people you really don&#8217;t want to, quality of the products is poor, impurities are common and some people just don&#8217;t care if they sell product that they claim is something else. And with this kind of &#8220;business men&#8221; there is always the risk of violence. I knew that there are responsible and smart people too and they needed channel to meet with clients. There is no risk of violence and if you sell something that is not what you claim, people can avoid this, warn each other and seek vendors with good reputation.</p>
-<p><a href="/imgs/2015/10/silkki.png"><img class="aligncenter size-full wp-image-11793" src="/imgs/2015/10/silkki.png" alt="silkki" width="1108" height="758" srcset="/imgs/2015/10/silkki.png 1108w, /imgs/2015/10/silkki-300x205.png 300w, /imgs/2015/10/silkki-1024x701.png 1024w" sizes="(max-width: 1108px) 100vw, 1108px"/></a></p>
+<img src="imgs/2015/10/silkki.png">
 <p><strong>Why did you choose to rebrand Silkkitie as Valhalla?</strong></p>
 <p>There are a few reasons. The burden in the old name referencing to already closed markets might not create so positive associations. We had to get rid of that burden since we are not responsible for what happened to those markets. Silkkitie was good name for domestic market and it will stay for Finnish customers because they have gotten used to it. For audience abroad the old name is hard both to enunciate and to remember. The new one describes us well, referencing to the Nordic mythology as something that is resilient as hell.</p>
 <p><strong>It used to be Finnish only than turned English, what was the reason for that?</strong></p>

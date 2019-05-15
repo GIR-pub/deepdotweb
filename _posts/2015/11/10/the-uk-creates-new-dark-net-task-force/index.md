@@ -8,7 +8,6 @@ Posted by: Benjamin Vitáris </a></span>
     
 <span>November 10, 2015</span>
 
-    
 
 </p>        
 <p><a href="http://motherboard.vice.com/read/the-uk-will-police-the-dark-web-with-a-new-task-force">With the fear of the dark web expanding, the United Kingdom’s main intelligence agency, the GCHQ (Government Communications Headquarters) and the country’s top law enforcement apparatus, the National Crime Agency (NCA), have formed a brand new task force to battle dark net criminals.</a> An NCA press release that has been published on Friday goes by:</p>

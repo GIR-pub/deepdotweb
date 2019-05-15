@@ -8,24 +8,8 @@ Posted by: DeepDotWeb
 
 
 
-    
-
-    
-
-    
-
-    
-
-    
-<div class="g-plusone" data-size="medium" data-href="
 /2015/06/18/german-police-and-the-fbi-arrests-40-year-old-darknet-buyer/"></div>
-    
 
-    
-
-    
-<div class="usertext-body may-blank-within md-container ">
-<div class="md">
 <p><a href="https://www.polizei.bayern.de/news/presse/aktuell/index.html/222614">Police press release</a> &#8211; <a href="http://www.sueddeutsche.de/bayern/wuerzburg-drogenhaendler-verhaftet-1.2523212">From the news</a></p>
 <p><span style="text-decoration: underline;">As it was translated and posted by <a class="author may-blank id-t2_o6z53" href="http://www.reddit.com/user/fu2rndue395ngk9s9">fu2rndue395ngk9s9</a> on <a href="http://www.reddit.com/r/DarkNetMarkets/comments/3ab357/darknet_bust_in_germany_bavarian_police_talk_of/">Reddit</a>:</span></p>
 <blockquote><p>Würzburg. A 40-year-old had a roaring trade with all kinds of illegal narcotics since the end of 2012 . The drugs he ordered over the Internet. In April clicked the handcuffs on the man. Acquiring more than four kilograms of amphetamine among others could the investigators of KPI Würzburg, as well as various domestic and foreign authorities prove. The perceived anonymity of the Internet did not help the suspect in his business.</p></blockquote>
@@ -36,10 +20,7 @@ Posted by: DeepDotWeb
 </div>
 </div>
 
-    
 
-    
 
 Updated: 2015-06-18
 
-    

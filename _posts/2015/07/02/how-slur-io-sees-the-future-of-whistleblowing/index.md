@@ -7,7 +7,6 @@ Posted by: Politech
 <span>July 2, 2015</span>
     
 
-    
 <p><em>This article represent the <span style="text-decoration: underline;">author&#8217;s personal views.</span><br />
 </em></p>
 <p>One of the attractive qualities of Tor hidden services is the relatively non-capitalistic nature of its domain name system and end-to-end encryption. If you want to set up a secure website on the surface web, you have to buy a domain name and an SSL certificate. Tor hidden service addresses, however, are themselves cryptographic keys which are generated on the user&#8217;s own machine. No need to consult any companies and certainly no need to hand over any money.</p>
@@ -26,4 +25,3 @@ Posted by: Politech
 
 Updated: 2015-07-02
 
-    

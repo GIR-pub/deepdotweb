@@ -9,8 +9,7 @@ Posted by: DeepDotWeb
 
 
 <p>If you are a Sigaint email user you probably received this email last week:</p>
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
     
     Hello SIGAINT user,
@@ -55,7 +54,6 @@ Posted by: DeepDotWeb
     =Fkou
     -----END PGP SIGNATURE-----
 
-    
 <p>
 <span style="text-decoration: underline;"><strong> And this is the story behind it as it was shared with us by the owner of <a href="/2015/02/16/interview-sigaint-darknet-email-admin/">sigaint darknet email</a> service:</strong></span></p>
 <p>We started noticing some strange circumstances. We usually get a few complaints from law enforcement per week regarding abusive users of the service.</p>
@@ -82,4 +80,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-04-26
 
-    

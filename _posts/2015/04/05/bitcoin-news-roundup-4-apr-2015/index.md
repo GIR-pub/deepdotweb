@@ -9,9 +9,7 @@ Posted by: DeepDotWeb
 <span>April 5, 2015</span>
 
 
-    
 
-    
 <p><strong>UBS Bank’s Bitcoin Blockchain innovation lab in London</strong></p>
 <p><a href="http://www.finextra.com/news/fullstory.aspx?newsitemid=27195">Finextra</a> reported plans by UBS to launch an innovation lab in London’s Canary Wharf fintech accelerator. The lab, to be set up at Level39, is a break away from purely in house innovation strategies. UBS admits the present environment is ripe for Fintech innovation; the Blockchain represents this shift. The Swiss lender has prior experience in fostering internal ‘innovations’ spaces. It’s team has also mentored accelerators programmes at Level39 in the last 2 years.</p>
 <p>Group CIO at UBS spoke warmly of Bitcoin &#8220;<em>Our innovation lab at Level39 will provide a unique platform to explore emerging technologies such as Blockchain and crypto-currencies, and to understand the potential impact for the industry”</em></p>
@@ -55,7 +53,6 @@ Posted by: DeepDotWeb
 
 Updated: 2015-04-05
 
-    
     
 
 

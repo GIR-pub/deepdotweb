@@ -5,10 +5,6 @@ title: "Gwern: Archives of ALL Dark Net Market Released"
 Posted by: DeepDotWeb 
 
 <span>July 16, 2015</span>
-
-
-
-    
 <p>Another important contribution from <a href="http://www.gwern.net/">Gwern</a>, and this time the full archives of all Dark Net Markets &#8211; From 2011 until 2015. Links to the archives are available at:</p>
 <ul>
 <li><a href="https://archive.org/download/dnmarchives/dnmarchives_archive.torrent">Torrent</a></li>
@@ -16,10 +12,8 @@ Posted by: DeepDotWeb
 <li><a href="http://www.gwern.net/Black-market%20archives">Writeup on Gwern.net</a></li>
 </ul>
 <p><strong>Please consider donating to Gwern at this address:</strong></p>
+1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
 
-    1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
-
-    
 <p>
 <span style="text-decoration: underline;">From the writeup:</span></p>
 <blockquote><p>Dark Net Markets (DNM) are online markets typically hosted as Tor hidden services providing escrow services between buyers &amp; sellers transacting in Bitcoin or other cryptocoins, usually for drugs or other illegal/regulated goods; the most famous DNM was Silk Road 1, which pioneered the business model in 2011. From 2013-2015, I scraped/mirrored on a weekly or daily basis all existing English-language DNMs as part of my research into their <a href="http://www.gwern.net/Silk%20Road">usage</a>, <a href="http://www.gwern.net/Black-market%20survival">lifetimes/characteristics</a>, &amp; <a href="http://www.gwern.net/Black-market%20arrests">legal riskiness</a>; these scrapes covered vendor pages, feedback, images, etc. In addition, I made or obtained copies of as many other datasets &amp; documents related to the DNMs as I could. This uniquely comprehensive collection is now publicly released as a 52GB (~1.6TB) collection covering 89 DNMs &amp; 37+ related forums, representing &lt;4,438 mirrors, and is available for any research. This page documents the download, contents, interpretation, and technical methods behind the scrapes.</p></blockquote>
@@ -69,13 +63,10 @@ Posted by: DeepDotWeb
 <p>I give you back your memories.</p></blockquote>
 <p><strong>On the behalf of DeepDotWeb, i want to thank Gwern for everything that he have done for this community.</strong></p>
 <p>Please consider Donating to Gwern at:</p>
+1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
 
-    1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
-
-    
 <p>
 
 
 Updated: 2015-07-16
 
-    

@@ -9,9 +9,9 @@ Posted by: pesa_mic
 
 
 <p><strong><span style="text-decoration: underline;">Bitcoin Markets this week</span></strong></p>
-<p><a href="/imgs/2015/05/1.jpg"><img class="aligncenter size-full wp-image-10200" src="/imgs/2015/05/1.jpg" alt="1" width="623" height="463" srcset="/imgs/2015/05/1.jpg 623w, /imgs/2015/05/1-300x223.jpg 300w" sizes="(max-width: 623px) 100vw, 623px"/></a>This week, prices continued a trend up, after last week’s bottom at $213. Red support line shows how far up this week’s action was, topping out at $243. Admittedly, my forecast of a retest of $200 lows (and possibly lower) has been delayed. Short term market sentiment is now bullish, after a midweek green candlestick spiked up to $240. $240 top resistance level has now been tested twice &#8211; both times unsuccessful.</p>
-<p><a href="/imgs/2015/05/2.jpg"><img class="aligncenter size-full wp-image-10201" src="/imgs/2015/05/2.jpg" alt="2" width="623" height="338" srcset="/imgs/2015/05/2.jpg 623w, /imgs/2015/05/2-300x163.jpg 300w" sizes="(max-width: 623px) 100vw, 623px"/></a>Fibonacci lines from $166 bottom to $ $315 top reflects why prices have stalled around this zone. As market psychological levels, breaking up or down past these zones is a process &#8211; such as several attempts. Since 2 weeks ago at $217, price action is held within a range by 61.8% and 50% fibonacci lines. The run up this week has invigorated bulls, and some analysts are expecting this trend to continue.</p>
-<p><a href="/imgs/2015/05/3.jpg"><img class="aligncenter size-full wp-image-10202" src="/imgs/2015/05/3.jpg" alt="3" width="590" height="362" srcset="/imgs/2015/05/3.jpg 590w, /imgs/2015/05/3-300x184.jpg 300w" sizes="(max-width: 590px) 100vw, 590px"/></a></p>
+<img src="imgs/2015/05/1.jpg">
+<img src="imgs/2015/05/2.jpg">
+<img src="imgs/2015/05/3.jpg">
 <p>Exponential moving averages (lagging indicators) track change in trends &#8211; short, mid. long term depending on days set. This chart captures 200, 100, 50 and 30 day EMAs on a 12 hour chart frame. 100D and 50D have defined price ranges (top and bottom) for now; notably, 100D resistance line at $240 was tough to break, confirming why this a significant level. 50D and 30D are now acting as support, given both are acting together at around $232, this level may hold well. If 30D cuts above 50D &#8211; a bullish crossover &#8211; higher prices will continue, up to test 100D again.</p>
 <p>There are implications of such a move for short term prices. Interesting to note how all EMAs are lining up sideways. For me, 200 D, at around $255, will be definitive for how far up this move lasts. Read on for bitcoin weekly forecast.</p>
 <p><strong><span style="text-decoration: underline;">Bitcoin Fundamentals </span></strong></p>
@@ -27,16 +27,15 @@ Posted by: pesa_mic
 <p>My forecasts won’t always get the price right down to the last cent; these are approximations with margins of error. My target for $210 for example, came close at $213. What is important is to be on the right side of trends, riding them when you can, staying out when not sure and knowing when to come in. Weekly analysis are limiting in that a lot changes within the week &#8211; it is not intended to be definitive, just a guide.</p>
 <p><strong><span style="text-decoration: underline;">Bitcoin Price forecast this week</span></strong></p>
 <p>My medium to long term forecast remains bearish. At some point after this brief move up, I expect the market to have another go at breaking $210 and depending on how that holds, possibly sub $200.</p>
-<p><a href="/imgs/2015/05/4.png"><img class="aligncenter  wp-image-10203" src="/imgs/2015/05/4.png" alt="4" width="643" height="316" srcset="/imgs/2015/05/4.png 1808w, /imgs/2015/05/4-300x147.png 300w, /imgs/2015/05/4-1024x503.png 1024w" sizes="(max-width: 643px) 100vw, 643px"/></a></p>
+<img src="imgs/2015/05/4.png">
 <p>The upper bound of long term channel from $982 has held strong multiple times, with every advance to break it opposed. Pink arrow point to current prices, a cross point of channel and lateral resistance line at $237 (give or take).</p>
 <p>Current unfolding of a short term uptrend isn’t convincing enough yet to mark a solid trend reversal from a bear market. Earlier in our analysis for instance, we observed several levels aligning with EMAs that would have to be broken and sustainably held &#8211; 50D &amp; 30D at around $232, 100D now at $240 and long term 200D at $255 &#8211; all on 12 hour time frame. Caution is necessary riding the current move; critical points to watch if this price action continues as per</p>
-<p><a href="/imgs/2015/05/51.jpg"><img class="aligncenter size-full wp-image-10204" src="/imgs/2015/05/51.jpg" alt="5" width="532" height="293" srcset="/imgs/2015/05/51.jpg 532w, /imgs/2015/05/51-300x165.jpg 300w" sizes="(max-width: 532px) 100vw, 532px"/></a></p>
+<img src="imgs/2015/05/51.jpg">
 <p>The lower purple line is acting as support for last week’s uptrend. As it heads higher, $240 marked by an arrow is the first critical point to observe for sign of weakness and collapse. The next point after is $270, which matches with channel resistance line from $982 from January 2014.</p>
 <p>This adds to levels pointed to by EMAs and fibonacci extension lines. Until these points flip, I will reserve calls of a trend reversal.</p>
 <p>Finally, perspective on an even longer term chart, dating back to 2013, offers insights on a long term support level that has been tested multiple times in the past. Recently, $166 flirted with this line, bouncing back up. For long term trend reversal, this line is handy, now that we’ve struck it once already.</p>
-<p><a href="/imgs/2015/05/6.png"><img class="aligncenter  wp-image-10205" src="/imgs/2015/05/6.png" alt="6" width="640" height="308" srcset="/imgs/2015/05/6.png 1824w, /imgs/2015/05/6-300x144.png 300w, /imgs/2015/05/6-1024x492.png 1024w" sizes="(max-width: 640px) 100vw, 640px"/></a></p>
+<img src="imgs/2015/05/6.png">
 <p><strong>TLDR</strong>: Short term price up. Watch out for $240s, $255 and $270 else, medium term forecast still bearish. Test of $200/$210 possibly $185 later on.</p>
 
 Updated: 2015-05-05
 
-    

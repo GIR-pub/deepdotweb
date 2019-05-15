@@ -7,12 +7,6 @@ Posted by: DeepDotWeb
 <span>May 28, 2015</span>
 
 
-
-    
-
-    
-
-    
 <p>As it was published in <a href="http://www.justice.gov/opa/pr/new-orleans-man-charged-conspiracy-commit-wire-fraud-and-conspiracy-commit-trademark">Justice.gov</a>:</p>
 <p>A Louisiana man was charged in a two-count information with conspiracy to commit wire fraud and conspiracy to commit trademark counterfeiting using the “Silk Road” online marketplace, announced Assistant Attorney General Leslie R. Caldwell of the Justice Department’s Criminal Division and U.S. Attorney Kenneth Polite Jr. of the Eastern District of Louisiana.</p>
 <p>“Anonymous online marketplaces have provided criminals with the ability to conduct illegal operations worldwide while seemingly insulating them from apprehension and prosecution,” said Assistant Attorney General Caldwell.  “The Criminal Division is determined to peel back the veil of anonymity and prosecute criminals of all stripes who attempt to use the ‘dark web’ to cloak their illegal conduct.”</p>
@@ -22,10 +16,7 @@ Posted by: DeepDotWeb
 <p>The case is being investigated by the FBI’s Philadelphia Division, with assistance from the FBI’s New Orleans Division.  The case is being prosecuted by Senior Counsel Marie-Flore Johnson, Gavin Corn and Robert Wallace of the Criminal Division’s Computer Crime and Intellectual Property Section, and Assistant U.S. Attorney Jordan Ginsberg of the Eastern District of Louisiana.</p>
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/266952770/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_48250" frameborder="0"></iframe></p>
 
-    
 
-    
 
 Updated: 2015-05-28
 
-    

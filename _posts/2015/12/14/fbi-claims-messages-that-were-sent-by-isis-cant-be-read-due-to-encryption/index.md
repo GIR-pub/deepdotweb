@@ -7,7 +7,6 @@ Posted by: Benjamin Vitáris
 <span>December 14, 2015</span>
 
 
-    
 <p><a href="http://www.breitbart.com/texas/2015/12/11/109-encrypted-messages-sent-jihadi-failed-texas-terrorist-attack-unreadable-says-fbi/">The Federal Bureau of Investigation is still unable to decipher the 109 encrypted messages that were sent by the attackers who opened fire outside the Muhammad Art Exhibit in Garland, Texas, back in May.</a> According to FBI Director James Comey, Elton Simpson (one of the attackers) exchanged the messages with an overseas terrorist from the Islamic State. Comey released this information to the Congress after the San Bernardino massacre happened. He made this statement:</p>
 <p>“In May, when two terrorists attempted to kill a lot of people in Garland, Texas, and were stopped by the action of great local law enforcement again, that morning, before one of those terrorists left to try and commit mass murder, he exchanged 109 messages with an overseas terrorist. We have no idea what he said because those messages were encrypted.”</p>
 <p>The Texas attacks started at Curtis Culwell Center when Simpson and roommate Nadir Soofi drove up and began shooting with assault rifles at the event that has been organized by Pamela Geller. A guard killed both suspects and only one officer sustained a minor gunshot in the leg during the incident. Later on, Junaid Hussain, ISIS recruiter, and hacker, was linked to the gunman and the Islamic State took credit for the failed terrorist attack.</p>
@@ -18,4 +17,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-12-14
 
-    

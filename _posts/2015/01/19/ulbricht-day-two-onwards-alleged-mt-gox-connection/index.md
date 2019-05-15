@@ -7,7 +7,6 @@ Posted by: Allen Hoffmann, JD
     
 <span>January 19, 2015</span>
 
-    
 <p>More articles about the Silk road trial at this tag: <a href="/tag/SilkRoadTrial/">#SilkRoadTrial</a></p>
 <p>There’s no getting past it &#8211; Its been an interesting few days in the Pearl Street, with the trial of Ross William Ulbricht now well under way, and a few more bombshells being dropped inside the court room, and a couple of potential revelations outside of it.</p>
 <p><strong>“Cirrus” was an undercover DHS agent, and a couple of other names were the same guy, too.</strong></p>
@@ -34,7 +33,6 @@ Posted by: Allen Hoffmann, JD
     
 Updated: 2015-01-19
 
-    
     
 
 

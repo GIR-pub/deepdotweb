@@ -9,7 +9,6 @@ Posted by: Benjamin Vitáris
 
 
 
-    
 <p><a href="https://blog.torproject.org/blog/announcing-shari-steele-our-new-executive-director">On December 11, the Tor Project officially announced the new executive director, Shari Steele, to the community in the form of a blog post.</a> Shari Steele has been the <a href="https://www.eff.org/deeplinks/2015/04/shari-steele-legacy-digital-rights">Legal Director, then, later on, the Executive Director at the Electronic Frontier Foundation (EFF).</a> The EFF is an international non-profit digital rights group based in the USA that helps to protect personal freedoms (mostly from governments) and new technologies from legal problems and threats.</p>
 <p>The Project is pretty happy since their search for the job post has finally ended, but more importantly, they state that Steele has been always a ”good friend” for them and they have known each other for a long time. They made this statement about their relations:</p>
 <p>”We&#8217;ve known Shari for a long time. She led EFF&#8217;s choice to fund Tor back in 2004-2005. She is also the one who helped create EFF&#8217;s technology department, which has brought us HTTPS Everywhere and their various guides and tool assessments,” said arma, a Tor developer who made the blog post.</p>
@@ -20,4 +19,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-12-18
 
-    

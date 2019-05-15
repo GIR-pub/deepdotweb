@@ -7,11 +7,9 @@ Posted by: DeepDotWeb
 <span>November 4, 2015</span>
     
 
-    
-<p><a href="/marketplace-directory/listing/german-plaza/">German-Plaza</a>,  Is a market focused at digital items, we recently conducted an interview with one of the admins. Here it is:</p>
+<p><a href="#">German-Plaza</a>,  Is a market focused at digital items, we recently conducted an interview with one of the admins. Here it is:</p>
 <p>Admin proof &#8211;</p>
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Sending my Interview about German-Plaza in 10/31/2015.
@@ -34,7 +32,6 @@ Posted by: DeepDotWeb
     =XtDr
     -----END PGP SIGNATURE-----
 
-    
 <p>
 <strong>Who are you and what is your background concerning the darknet?</strong></p>
 <p>I&#8217;ve been part of the regular clearnet crime scene for about eight years and I entered the darknet about four years ago. Since then, I have had a lot of positive and also negative experiences with several markets and vendors. I originally began in the German scene where my team and I made a name for ourselves. If we saw anything suboptimal on the darknet, we couldn&#8217;t just watch helplessly. We acted immediately and were able to rectify justice and gather invaluable experiences.</p>
@@ -66,4 +63,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-11-04
 
-    

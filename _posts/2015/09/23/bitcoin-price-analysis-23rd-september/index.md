@@ -10,15 +10,15 @@ Posted by: pesa_mic
 
 
 
-<p><a href="/imgs/2015/09/13.jpg"><img class="aligncenter size-full wp-image-11589" src="/imgs/2015/09/13.jpg" alt="1" width="1134" height="664" srcset="/imgs/2015/09/13.jpg 1134w, /imgs/2015/09/13-300x176.jpg 300w, /imgs/2015/09/13-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
+<img src="imgs/2015/09/13.jpg">
 <p>This week, bitcoin traded mostly in a sideways trend, with limited upside and downside breaks. $236 and $224 were the highest and lowest respectively; defining the range for this week’s price movement. $227 was a bottom for a $10 run up on Wednesday and Thursday, before retesting lows at $224 and moving up $10. It is now on a consolidation sideways trend from peak at $234.</p>
-<p><a href="/imgs/2015/09/23.jpg"><img class="aligncenter size-full wp-image-11590" src="/imgs/2015/09/23.jpg" alt="2" width="1642" height="916" srcset="/imgs/2015/09/23.jpg 1642w, /imgs/2015/09/23-300x167.jpg 300w, /imgs/2015/09/23-1024x571.jpg 1024w" sizes="(max-width: 1642px) 100vw, 1642px"/></a></p>
+<img src="imgs/2015/09/23.jpg">
 <p>On higher time frame, 12h charts, bearish sloping channel from $248 top on 6 September can be seen here. Lower lows are respecting the channel range, consolidating sideways after huge moves. As I write this, candle wicks have hit the upper sloping trend line. It could break out of the trend line and head up or repeat the trend so far, fall to the lower sloping trend line.</p>
-<p><a href="/imgs/2015/09/33.jpg"><img class="aligncenter size-full wp-image-11591" src="/imgs/2015/09/33.jpg" alt="3" width="1646" height="736" srcset="/imgs/2015/09/33.jpg 1646w, /imgs/2015/09/33-300x134.jpg 300w, /imgs/2015/09/33-1024x458.jpg 1024w" sizes="(max-width: 1646px) 100vw, 1646px"/></a></p>
+<img src="imgs/2015/09/33.jpg">
 <p>Interesting looking at the same channel on the 3 day; it extends back to the 2016 high at $318. This high is significant as it came during the Greek crisis, and was the closest the market has come to breaking out of the long term log trend of the past 22 months. The upper sloping trendline is bound to be tested.</p>
-<p><a href="/imgs/2015/09/44.jpg"><img class="aligncenter size-full wp-image-11592" src="/imgs/2015/09/44.jpg" alt="4" width="1646" height="916" srcset="/imgs/2015/09/44.jpg 1646w, /imgs/2015/09/44-300x167.jpg 300w, /imgs/2015/09/44-1024x570.jpg 1024w" sizes="(max-width: 1646px) 100vw, 1646px"/></a></p>
+<img src="imgs/2015/09/44.jpg">
 <p>Watching how price reacts with regards to exponential moving averages at current price levels is crucial, telling from previous contact with the 100, 50 and 30 day EMA. One attempt to break above 50 and 30 EMA failed preceded a low at $224 followed a bounce back up. The convergence of average lines with upper sloping trendline, makes for a zone to watch. A sideways trend for a while might be in order to gather momentum to attempt a break up. In the event of a successful break, it will follow through with force, as high as $240 where 200 day EMA cuts across. Else, failure will fall fast to the lower trend line at $220 zone.</p>
-<p><a href="/imgs/2015/09/54.jpg"><img class="aligncenter size-full wp-image-11593" src="/imgs/2015/09/54.jpg" alt="5" width="1638" height="736" srcset="/imgs/2015/09/54.jpg 1638w, /imgs/2015/09/54-300x135.jpg 300w, /imgs/2015/09/54-1024x460.jpg 1024w" sizes="(max-width: 1638px) 100vw, 1638px"/></a></p>
+<img src="imgs/2015/09/54.jpg">
 <p>The chart above zooms out on a trend over most of this year. Highlighted in blue is the ranging price zone price over the month of September. From similar trends in January and June, it takes 2 rebounds off support at $223. Wick extensions are reasonable just as in Jan and June.</p>
 <p>Watch $220 support keenly and whether it holds.</p>
 <p><strong>BITCOIN FUNDAMENTALS</strong></p>
@@ -34,11 +34,11 @@ Posted by: pesa_mic
 <p><strong>Bitcoin Startup Circle Pay first to acquire BitLicense via </strong><a href="http://blogs.wsj.com/moneybeat/2015/09/22/circle-gets-first-bitlicense-releases-circlepay-new-service/"><strong>Wall Street Journal</strong></a></p>
 <p>This start up from Boston became the first digital currency service to be licensed serve New Yorkers on the Island. NY department of financial services, set up a framework that requires measures to check on anti money laundering and cyber threats. It has been heavily opposed by the Bitcoin community but, some 22 companies have filed applications for this license. Backed by Goldman Sachs, Circle pay also simultaneously launched a new version of its service.</p>
 <p><strong>BITCOIN WEEKLY PRICE FORECAST</strong></p>
-<p><a href="/imgs/2015/09/61.jpg"><img class="aligncenter size-full wp-image-11594" src="/imgs/2015/09/61.jpg" alt="6" width="952" height="373" srcset="/imgs/2015/09/61.jpg 952w, /imgs/2015/09/61-300x118.jpg 300w" sizes="(max-width: 952px) 100vw, 952px"/></a></p>
+<img src="imgs/2015/09/61.jpg">
 <p>This week, I am neutral to bearisj. I expect a proper test of support at $223 zone first, before any attempt to move up beyond $ 236. Price is likely to trade within a sideways range for a couple of days, before a decisive break down. Considering the EMA technicals and the bear channel from earlier chart, $ 220 is a reasonable target for a short term bottom.</p>
-<p><a href="/imgs/2015/09/71.jpg"><img class="aligncenter size-full wp-image-11595" src="/imgs/2015/09/71.jpg" alt="7" width="1020" height="457" srcset="/imgs/2015/09/71.jpg 1020w, /imgs/2015/09/71-300x134.jpg 300w" sizes="(max-width: 1020px) 100vw, 1020px"/></a></p>
+<img src="imgs/2015/09/71.jpg">
 <p>My outlook for the mid term is still bearish, irrespective of any upside we might see in the next 3 weeks. I explained my thoughts in an article early this week, <a href="/2015/09/21/bitcoin-medium-term-price-outlook/">Bitcoin Medium Term Price Outlook</a>.</p>
-<p><a href="/imgs/2015/09/8.jpg"><img class="aligncenter size-full wp-image-11596" src="/imgs/2015/09/8.jpg" alt="8" width="904" height="492" srcset="/imgs/2015/09/8.jpg 904w, /imgs/2015/09/8-300x163.jpg 300w" sizes="(max-width: 904px) 100vw, 904px"/></a></p>
+<img src="imgs/2015/09/8.jpg">
 <p>Overall, the market is on fickle territory, trading just above a long term trendline and bouncing off it 6 times since 2012, including twice in 2015. Traders are keenly watching whether 200 WMA and this trendline will continue to hold and maintain its trading range between $ 200 and $300.</p>
 
 Updated: 2015-09-23

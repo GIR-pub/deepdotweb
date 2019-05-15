@@ -9,7 +9,6 @@ Posted by: DeepDotWeb
 <span>January 23, 2015</span>
 
 
-    
 <p>All Excerpts by <a href="http://www.gwern.net/">Gwern</a> &#8211; (Source: <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2tdays/sr1_trial_2013_ross_ulbricht_journal/">Reddit)</a>  &#8211; The full document is available at the bottom of this post:</p>
 <ul>
 <li>More articles about the Silk road trial at this tag: <a href="/tag/SilkRoadTrial/">#SilkRoadTrial</a></li>
@@ -159,7 +158,6 @@ Posted by: DeepDotWeb
     
 Updated: 2015-01-23
 
-    
     
 
 

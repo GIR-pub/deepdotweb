@@ -15,10 +15,10 @@ Posted by: DeepDotWeb
 <p><strong>What was your role on BMR?</strong></p>
 <p>CosaNostra was a shared account like any mod account on BMR, it was not my personal account it was an account were i had access to.<br/>
     BMR was kinda smart designed on the background, to be honest there were no roles defined. A moderator is a moderator.</p>
-<div id="attachment_10566" style="width: 1021px" class="wp-caption aligncenter"><a href="/imgs/2015/06/utopiagun.png"><img class="size-full wp-image-10566" src="/imgs/2015/06/utopiagun.png" alt="A gun seized during the raids on the BMR / Utopia team." width="1011" height="693" srcset="/imgs/2015/06/utopiagun.png 1011w, /imgs/2015/06/utopiagun-300x206.png 300w" sizes="(max-width: 1011px) 100vw, 1011px"/></a><p class="wp-caption-text">A gun seized during the raids on the BMR / Utopia team.</p></div>
+<div id="attachment_10566" style="width: 1021px" class="wp-caption aligncenter"><a href="/imgs/2015/06/utopiagun.png">
 <p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
 <p>I don&#8217;t know how backopy is doing at this moment. The judges asked me the same question, I told them he is doing fine&#8230; That&#8217;s kinda based on no thing , but i think he is really doing fine preparing for the next steps. Hope to hear from him in the future. I was jailed so didn&#8217;t notice the takedown of the BMR forum.. Why should anyone take down an discussion forum nothing going on there, but some east European country are retarded so its plausible.</p>
-<div id="attachment_10568" style="width: 908px" class="wp-caption aligncenter"><a href="/imgs/2015/06/mods.png"><img class=" wp-image-10568" src="/imgs/2015/06/mods.png" alt="From the time when BMR forums were used as a backup forums after The Takedown of Silk Road 1" width="898" height="452" srcset="/imgs/2015/06/mods.png 1412w, /imgs/2015/06/mods-300x151.png 300w, /imgs/2015/06/mods-1024x516.png 1024w" sizes="(max-width: 898px) 100vw, 898px"/></a><p class="wp-caption-text">From the time when BMR forums were used as a backup forums after The Takedown of Silk Road 1</p></div>
+<div id="attachment_10568" style="width: 908px" class="wp-caption aligncenter"><a href="/imgs/2015/06/mods.png">
 <p><strong>Can you give us the full background of Utopia creation? (Why? By who, which mods? etc&#8230;) Did Backopy had any role there?</strong></p>
 <p>I and another PHP programmer were the developers of Utopia. Backopy was an admin on the utopia forum because we defined him as admin he had no role whatsoever.</p>
 <p><strong>What was you role in the creation / Running of Utopia?</strong></p>
@@ -27,7 +27,7 @@ Posted by: DeepDotWeb
 <p>LeContog was busted , he was observed for 2 months by the Police. They found us while following him. Ruud was also busted they found LeContog following him to LeContog. So my advise is never meet in real life and not even tell your best friends you&#8217;re surfing on the darknet.</p>
 <p><strong>What was the charges / sentences against you and the other people in Utopia?</strong></p>
 <p>This is a very big case in the Netherlands. I was sentenced for 3 year but in higher courtroom they gave a RuudNL mod on BMR has 5 years LeContog is in the Netherlands he has 6 years. In the Netherlands they will be free in 2 years. RuudNL is almost free. So don&#8217;t be shocked by the jail times they are fictif to shock others.</p>
-<div id="attachment_10570" style="width: 858px" class="wp-caption aligncenter"><a href="/imgs/2015/06/rundnl.png"><img class=" wp-image-10570" src="/imgs/2015/06/rundnl.png" alt="Rudolf Jansen Aka &quot;RuudNL&quot;" width="848" height="388" srcset="/imgs/2015/06/rundnl.png 1089w, /imgs/2015/06/rundnl-300x137.png 300w, /imgs/2015/06/rundnl-1024x468.png 1024w, /imgs/2015/06/rundnl-272x125.png 272w" sizes="(max-width: 848px) 100vw, 848px"/></a><p class="wp-caption-text">Rudolf Jansen Aka &#8220;RuudNL&#8221;</p></div>
+<div id="attachment_10570" style="width: 858px" class="wp-caption aligncenter"><a href="/imgs/2015/06/rundnl.png">
 <p><strong>What are you doing today?</strong></p>
 <p>I&#8217;m running a Cannabis apotheca . Only medicinal Cannabis which is high in Cannabidiol (CDD). Helping people to get rid of their symptoms were the regular medication failed.</p>
 <p><strong>What made you want to come forward and interview about this?</strong></p>
@@ -36,12 +36,12 @@ Posted by: DeepDotWeb
 <p>I&#8217;m not allowed to be on TOR lol the judge has me forbidden to go on the TOR network so i maybe will listen to him.. or not&#8230; Weird Rule.</p>
 <p><strong>As it shows in the document you were planning on launching a DarkNet Market called Agora&#8230;?</strong></p>
 <p>LeContog came up with that name but it was already an upcomin market.. So he decided else.</p>
-<p><a href="/imgs/2015/06/agora12.png"><img class="aligncenter size-full wp-image-10565" src="/imgs/2015/06/agora12.png" alt="agora12" width="1172" height="872" srcset="/imgs/2015/06/agora12.png 1172w, /imgs/2015/06/agora12-300x223.png 300w, /imgs/2015/06/agora12-1024x762.png 1024w" sizes="(max-width: 1172px) 100vw, 1172px"/></a></p>
+<img src="imgs/2015/06/agora12.png">
 <p><strong>How did they find the server?</strong></p>
 <p>There were 3 servers , they found them by Jeroen Teeninga, another programmer.  It took them 10 days to find the servers we kept our mouth shut LeContog talked to the German Recherche.</p>
 <p><strong>What was you sentenced for?</strong></p>
 <p>Me; Producing Dimethyltraptamine (*DMT), selling weapons and selling drug. Drug for own use is legal in the Netherlands.</p>
-<p><a href="/imgs/2015/06/CosanostraDMT.png"><img class="aligncenter size-full wp-image-10569" src="/imgs/2015/06/CosanostraDMT.png" alt="CosanostraDMT" width="879" height="795" srcset="/imgs/2015/06/CosanostraDMT.png 879w, /imgs/2015/06/CosanostraDMT-300x271.png 300w" sizes="(max-width: 879px) 100vw, 879px"/></a></p>
+<img src="imgs/2015/06/CosanostraDMT.png">
 <p><strong>How did they learn about your real identity?</strong></p>
 <p>They found me by RuudNL telephone taps. They infiltrated Utopia which was not my site i just got paid for building it , i did i for the money. Only the programmers knew the server locations.</p>
 <p><strong>Thanks Steven for this interview.</strong></p>
@@ -56,4 +56,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-06-04
 
-    

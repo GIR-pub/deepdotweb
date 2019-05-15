@@ -17,8 +17,7 @@ Posted by: DeepDotWeb
 <div class="codeheader">Code:</div>
 <div class="code">
     
-
-    64 02f38bdf9909fbaded6fcbc84fc54432a8a9bf092890312222674b1e95624b1a2f
+64 02f38bdf9909fbaded6fcbc84fc54432a8a9bf092890312222674b1e95624b1a2f
     66 03617629bb8dde7cb6371f1ec434bdf2f180a0d4f4dbe5a6c0fd0eb4ecd397b000
     55 02eadd6f661df9df9cb3771f5c915add9296740861dd560571a472898d598e5d8b
     21 020679d067642a8d5c5e7faaf9d70a0d23aab66f054f9db4260fe2a089bd870a1a
@@ -29,20 +28,17 @@ Posted by: DeepDotWeb
     32 02931f32d06a8c59a9661d07a48d54ada2d2cf6efbc252656e1d86aed3048ba784
     45 021e2bd10bfdb89d53ee6e42a5e05ed08ac5f48b6f9a36101aac2da7988d9af8b9</textarea></div>
 
-    
 </div>
 <p>To unlock use</p>
 <div class="codeheader">Code:</div>
 <div class="code">
     
-
-    dl_unlock CHUNK.64 02f38bdf9909fbaded6fcbc84fc54432a8a9bf092890312222674b1e95624b1a2f
+dl_unlock CHUNK.64 02f38bdf9909fbaded6fcbc84fc54432a8a9bf092890312222674b1e95624b1a2f
     dl_unlock CHUNK.66 03617629bb8dde7cb6371f1ec434bdf2f180a0d4f4dbe5a6c0fd0eb4ecd397b000
     dl_unlock CHUNK.55 02eadd6f661df9df9cb3771f5c915add9296740861dd560571a472898d598e5d8b
     dl_unlock CHUNK.21 020679d067642a8d5c5e7faaf9d70a0d23aab66f054f9db4260fe2a089bd870a1a
     ...</textarea></div>
 
-    
 </div>
 <p>I&#8217;ll allow some time for everybody (or 10% of you) to find themselves in here. As I said, this first dump only contains usernames, internal user IDs, some basic account type information and hashed passwords. The method of hashing is sha1(salt + password) with a single static universal strong salt. PM me if you are interested in purchasing a peek at the salt.</p>
 <p><b>More?</b></p>

@@ -7,7 +7,6 @@ Posted by: Mo_Drugs
 <span>July 27, 2015</span>
     
 
-    
 <p><em>Contributed by the article author</em> &#8211; There are indications that that DPR&#8217;s home for the next 50 years or so until he dies will be The United States Penitentiary, Coleman II</p>
 <p>Cursory observations of this complex reveal it classified as:</p>
 <p><strong>Maximum Security Prison &#8211; The United States Penitentiary, Coleman is a high-security United States federal prison for male inmates in Florida..</strong></p>
@@ -47,4 +46,3 @@ Posted by: Mo_Drugs
 
 Updated: 2015-07-27
 
-    

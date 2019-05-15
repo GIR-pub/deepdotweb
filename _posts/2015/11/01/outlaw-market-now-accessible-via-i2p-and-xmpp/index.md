@@ -7,10 +7,8 @@ Posted by: DeepDotWeb
 <span>November 1, 2015</span>
 
 
-    
-<p><a href="/marketplace-directory/listing/outlaw-market">Outlaw Market</a> now accessible via I2P (and XMPP), as the admin announced:</p>
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+<p><a href="#">Outlaw Market</a> now accessible via I2P (and XMPP), as the admin announced:</p>
+-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Hello
@@ -57,10 +55,8 @@ Posted by: DeepDotWeb
     =m+TJ
     -----END PGP SIGNATURE-----
 
-    
 <p>
     A tutorial of how to access I2P sites <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">can be found here.</a></p>
 
 Updated: 2015-11-01
 
-    

@@ -8,7 +8,6 @@ Posted by: DeepDotWeb
 
 <a href="/category/news/" rel="category tag">News</a>, 
 
-    
 <p><strong>AVOID</strong>  &#8211; The Most recent scam list responsible for spreading phishing url to unsuspecting visitors has been located on this site:</p>
 <ul>
 <li><em>darknetmarkets.o r g/mark ets</em> (added spaces in the url)</li>
@@ -18,20 +17,17 @@ Posted by: DeepDotWeb
 <div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="true" data-embed-created="2015-07-02T20:55:40.646Z"><a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/csq5ntk">Comment</a> from discussion <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/">https://darknetmarkets.org/markets &lt;&lt; Scammer link</a>.</div>
 <p><script src="https://www.redditstatic.com/comment-embed.js" async=""></script></p>
 <p><strong>Screenshot of the phishing links:</strong></p>
-<p><a href="/imgs/2015/07/Scam.png"><img class="aligncenter  wp-image-10949" src="/imgs/2015/07/Scam.png" alt="Scam" width="939" height="577" srcset="/imgs/2015/07/Scam.png 1501w, /imgs/2015/07/Scam-300x184.png 300w, /imgs/2015/07/Scam-1024x629.png 1024w" sizes="(max-width: 939px) 100vw, 939px" /></a></p>
+<img src="imgs/2015/07/Scam.png">
 <p>Clicking one of the shortlinks on that list:</p>
-
-    GET /Agora HTTP/1.1
+GET /Agora HTTP/1.1
     Host: drk.li
     User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
     Referer: http://www.google.com
     Connection: close</textarea></div>
 
-    
 <p>
     Returns this response with the phishing link:</p>
-
-    HTTP/1.1·307·Temporary·Redirect(CR)(LF)
+HTTP/1.1·307·Temporary·Redirect(CR)(LF)
     Date:·Thu,·02·Jul·2015·23:34:01·GMT(CR)(LF)
     Server:·Apache/2.2.29·(Unix)·mod_ssl/2.2.29·OpenSSL/1.0.1e-fips·mod_bwlimited/1.4(CR)(LF)
     X-Powered-By:·PHP/5.4.36(CR)(LF)
@@ -48,7 +44,6 @@ Posted by: DeepDotWeb
     Content-Type:·text/html;·charset=UTF-8(CR)(LF)
     (CR)(LF)</textarea></div>
 
-    
 <p>
     Generally its better to have your links saved in an encrypted text file if you use them on a regular basis, but if you must &#8211; get your links <strong>ONLY</strong> from:</p>
 <ul>
@@ -60,4 +55,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-07-03
 
-    

@@ -18,13 +18,12 @@ Posted by: DeepDotWeb
 <p>And closing with:</p>
 <blockquote><p>Are you excited?</p></blockquote>
 <p>Maybe LE will get excited? who knows.</p>
-<p><a href="/imgs/2015/07/open1.png"><img class="aligncenter size-full wp-image-11072" src="/imgs/2015/07/open1.png" alt="open1" width="795" height="438" srcset="/imgs/2015/07/open1.png 795w, /imgs/2015/07/open1-300x165.png 300w" sizes="(max-width: 795px) 100vw, 795px" /></a></p>
+<img src="imgs/2015/07/open1.png">
 <p>The Site offers instructions on how to mine the coins safely through a Tor connection:</p>
-<p><a href="/imgs/2015/07/safe3.png"><img class="aligncenter size-full wp-image-11073" src="/imgs/2015/07/safe3.png" alt="safe3" width="753" height="803" srcset="/imgs/2015/07/safe3.png 753w, /imgs/2015/07/safe3-281x300.png 281w" sizes="(max-width: 753px) 100vw, 753px" /></a></p>
+<img src="imgs/2015/07/safe3.png">
 <p>With clear instruction of how to unlock the &#8220;content&#8221; using miners for various operating systems:</p>
-<p><a href="/imgs/2015/07/unlock1.png"><img class="aligncenter size-full wp-image-11074" src="/imgs/2015/07/unlock1.png" alt="unlock1" width="719" height="413" srcset="/imgs/2015/07/unlock1.png 719w, /imgs/2015/07/unlock1-300x172.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a></p>
+<img src="imgs/2015/07/unlock1.png">
 <p>Lets just hope that this will fail like the previous one and that this method will be used to achieve better goals.</p>
 
 Updated: 2015-07-16
 
-    

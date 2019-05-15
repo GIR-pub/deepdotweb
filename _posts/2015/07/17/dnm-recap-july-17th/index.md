@@ -5,10 +5,6 @@ title: "DNM Recap: July 17th"
 Posted by: DeepDotWeb 
 
 <span>July 17, 2015</span>
-
-
-
-    
 <p>The last week or two had quite some happenings, here is a short recap of the most important news from the previous week / 10 days:</p>
 <p><strong>Lethal Weapon Listings Are Prohibited From Agora</strong></p>
 <p><a href="/2015/07/07/agora-market-to-stop-listing-lethal-weapons/">Agora Market has taken action to stop all lethal weapon listings from the marketplace</a>. The admins have posted a PGP message to the website that every user can see. It says that lethal weapon listings will be prohibited from the Agora marketplace starting from the 15th of July. The admins state that the reason behind this action is that they don’t think it is worth for the users to buy weapons on the website. “Shipping weapons is hard, they are expensive and stimulate both scamming by dishonest vendors and honeypot listings by agencies looking to find buyers who might wish to obtain such weapons illegally from us.” This part of the message sums up precisely the whole reason why they have taken a stand against the selling of weapons on their marketplace.</p>
@@ -32,4 +28,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-07-17
 
-    

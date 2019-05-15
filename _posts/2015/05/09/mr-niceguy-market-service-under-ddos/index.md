@@ -11,8 +11,7 @@ Posted by: DeepDotWeb
 <p>As the admin told us:</p>
 <blockquote><p>I will be back online as soon as possible. And I will work on a permanent solution for this problem once I am back online.</p></blockquote>
     
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
     
     Can you post this in your Quick news? That be nice. Mr. Nice Guy
@@ -34,9 +33,7 @@ Posted by: DeepDotWeb
     =SWm5
     -----END PGP SIGNATURE-----
 
-    
 
 
 Updated: 2015-05-09
 
-    

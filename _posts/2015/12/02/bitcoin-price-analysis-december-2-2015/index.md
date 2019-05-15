@@ -10,15 +10,15 @@ Posted by: pesa_mic
 
 
 
-<p><a href="/imgs/2015/12/1.jpg"><img class="aligncenter size-full wp-image-12457" src="/imgs/2015/12/1.jpg" alt="1" width="944" height="361" srcset="/imgs/2015/12/1.jpg 944w, /imgs/2015/12/1-300x115.jpg 300w" sizes="(max-width: 944px) 100vw, 944px"/></a></p>
+<img src="imgs/2015/12/1.jpg">
 <p>This week, the price of bitcoin went up as high as $ 383 &#8211; a resistance level from November 9th &#8211; from where price broke down to low $ 300s. From last week’s analysis, $ 380 as a target level was expected; now, the price has retracted to consolidate and possibly gather more steam for another attempt at breaking up to $ 420; however, a second attempt at breaking $ 380 is not a foregone conclusion. Price action this week held $ 320 as strong support, for a firm bounce up to $ 383.</p>
 <p>Some traders are of the opinion the bull run from November is over, so wise to be cautious of limited upside</p>
 <p><em>“That current candlestick pattern and volume indicate that bulls are out of steam. It&#8217;ll head back to 300 and likely break below.” </em></p>
 <p>$350 and $ 360 zone is evidently a crucial zone, telling from price action in that range &#8211; price consolidated in this zone after breaking up from $ 320. Now that trading is happening in this range after breaking down from $ 380, a period of trading sideways in this territory might be in order.</p>
-<p><a href="/imgs/2015/12/2.jpg"><img class="aligncenter size-full wp-image-12458" src="/imgs/2015/12/2.jpg" alt="2" width="940" height="355" srcset="/imgs/2015/12/2.jpg 940w, /imgs/2015/12/2-300x113.jpg 300w" sizes="(max-width: 940px) 100vw, 940px"/></a></p>
+<img src="imgs/2015/12/2.jpg">
 <p>The 50 day EMA is about to be tested again from below, similar to Nove 21 &#8211; 25 when a sideways trend prevailed. The bullish cross above 200 EMA on Nove 27 re-affirmed a change in trend. In the coming weeks, 50 EMA will retest 200 EMA from above,in an attempt to maintain this upward trend; breaking below it is a bearish cross signal.</p>
 <p>I expect several attempts by price candles to break up above 50 day EMA again, and try hold. This might not be immediate, as alternatively, a sideways trend will drag it out, testing it multiple times until a break &#8211; up or down occurs.</p>
-<p><a href="/imgs/2015/12/3.jpg"><img class="aligncenter size-full wp-image-12459" src="/imgs/2015/12/3.jpg" alt="3" width="957" height="442" srcset="/imgs/2015/12/3.jpg 957w, /imgs/2015/12/3-300x139.jpg 300w, /imgs/2015/12/3-272x125.jpg 272w" sizes="(max-width: 957px) 100vw, 957px"/></a></p>
+<img src="imgs/2015/12/3.jpg">
 <p>SMAs paint a similar picture to EMAs &#8211; 200 and 50 SMA are converging for a squeeze.</p>
 <p>From the RSI, I expect it to remain below 50 for a while, resulting in a sideways trend in price. If bulls still have it in them to go up to low $ 400s, RSI will gradually rise towards 70 level. We are approaching another decisive call</p>
 <p>“<em>385 target reached but the new weekly candle looks like limited upside or rollercoaster when above 385”</em></p>

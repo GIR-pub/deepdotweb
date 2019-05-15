@@ -8,23 +8,8 @@ Posted by: DeepDotWeb
 
 
 
-    
-
-    
-
-    
-
-    
-
-    
-<div class="g-plusone" data-size="medium" data-href="
 /2015/06/24/new-features-on-alphbay-paid-advertisement-via-sticky-listings-sticky-topics/"></div>
-    
-
-    
-
-    
-<p>Despite the recent massive FUD &amp; Ddos attacks on the market, <a href="/marketplace-directory/listing/alphabay">Alphabay</a> admins showed no sign of slowing down and released some other new &amp; unique features:</p>
+<p>Despite the recent massive FUD &amp; Ddos attacks on the market, <a href="#">Alphabay</a> admins showed no sign of slowing down and released some other new &amp; unique features:</p>
 <blockquote><p>We have now added support for Paid Advertisement via <b>Sticky Listings</b> &amp; <b>Sticky Topics</b>. The perfect opportunity for both new &amp; old vendors to promote their products &amp; services.</p>
 <p><b>Sticky Listings &#8211; In Marketplace:</b><br/>
     In your Listings page, you can click the Sticky button and you will be taken to a page to choose between 7 days (USD $120), 15 days (USD $180), or 30 days (USD $300). Your listing will appear at the top of the search results if you choose to buy sticky position.</p>
@@ -35,10 +20,7 @@ Posted by: DeepDotWeb
 <blockquote><p>New capabilities (e.g. paid listing bidding) are in the works, expanding the newly-introduced advertisement features to a whole new level where no other marketplace has been to.</p></blockquote>
 <p>Source: http://pwoah7foa6au2pul.onion/forum/index.php?threads/paid-advertisement-via-sticky-listings-and-sticky-topics-latest-feedback.11419/#post-93858</p>
 
-    
 
-    
 
 Updated: 2015-06-24
 
-    

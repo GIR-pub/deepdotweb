@@ -18,14 +18,14 @@ Posted by: Christian
 <p>“If other markets are down,” he said on May 15, “I grow and make money and this happens fast! [&#8230;] For any market being down, meaning showing red on the deepdotweb.com list I will pay you.”</p>
 <p>In the same message is included the following prioritized list of marketplaces for the DDoS Mafia to attack in lieu of Mr. Nice Guy’s Market:</p>
 <ol>
-<li><a href="/marketplace-directory/listing/agora-market">Agora</a></li>
-<li><a href="/marketplace-directory/listing/nucleus-market">Nucleus</a></li>
-<li><a href="/marketplace-directory/listing/black-bank-bitcoin-market">BlackBank</a></li>
-<li><a href="/marketplace-directory/listing/outlaw-market">Outlaw</a></li>
-<li><a href="/marketplace-directory/listing/alphabay">Alphabay</a></li>
-<li><a href="/marketplace-directory/listing/middle-earth-marketplace">Middle Earth Market</a></li>
-<li><a href="/marketplace-directory/listing/abraxas-market">Abraxas</a></li>
-<li><a href="/marketplace-directory/listing/dream-market">Dream Market</a></li>
+<li><a href="#">Agora</a></li>
+<li><a href="#">Nucleus</a></li>
+<li><a href="#">BlackBank</a></li>
+<li><a href="#">Outlaw</a></li>
+<li><a href="#">Alphabay</a></li>
+<li><a href="#">Middle Earth Market</a></li>
+<li><a href="#">Abraxas</a></li>
+<li><a href="#">Dream Market</a></li>
 </ol>
 <p>If these terms are complied with, the attackers will be paid $200 a day, or $6,000 a month; if his market grows with exceptional speed, Mr. Nice Guy continues, he may be in a position to pay up to $20,000 a month to ensure that the other, competing markets are defunct for long periods of time (indefinitely, if possible). Originally, the attackers decline, clearly aware that the administrator can be milked for a lot more than just six grand a month and cited costs related to resource use—some people just don’t appreciate the value of a good DDoS these days.</p>
 <p>The exact counteroffer made by Mr. Nice Guy on May 16 cannot be deduced fully from the screenshot, though he mentions “getting rich in six months” before encouraging the DDoS Mafia to continue ransoming the other sites, asking the Mafia to accept the other markets’ money while forbidding them to ease up on the attacks. It is likely that attackers were offered a slice of the market’s bitcoin-pie at some point in the future, as the two parties considered themselves “partners” and a similar, more detailed, agreement would be reached in less than a week.</p>
@@ -40,4 +40,3 @@ Posted by: Christian
 
 Updated: 2015-06-01
 
-    

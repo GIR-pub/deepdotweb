@@ -8,7 +8,6 @@ Posted by: DeepDotWeb
     
 
 
-    
 <p>Written by ACE from <strong>TheScurvyCrew</strong> and published to his request, one of the oldest Dark net markets vendors since Silk Road 1 days, Here is a <a href="http://www.vice.com/read/the-scurvy-crew-silk-road-interview">Vice article</a> published about them last year that can give some background, and some background about the <a href="http://www.reddit.com/r/DarkNetMarkets/comments/252z99/ace_has_doxxed_a_the_user_who_posted_about_a/">doxxing incident</a>.</p>
 <p><em>Its Been An Amazing Ride:</em></p>
 <p>You may not know us, but we are a large seller that started up in the early days of SR1. We will be winding down operations soon due to a number of reasons, but I thought you might be interested in hearing out story in much the same way as you put forward Mr.Nice Guys mistakes in the past and gave him a platform to mediate on.</p>
@@ -35,6 +34,5 @@ Posted by: DeepDotWeb
     
 Updated: 2015-06-16
 
-    
 
 

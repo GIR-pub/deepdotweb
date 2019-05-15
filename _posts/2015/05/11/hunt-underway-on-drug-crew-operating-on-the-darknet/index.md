@@ -7,12 +7,6 @@ Posted by: DeepDotWeb
 <span>May 11, 2015</span>
 
 
-
-    
-
-    
-
-    
 <p><strong>Translation of the article is <a href="/2015/05/12/translation-hunt-underway-on-drug-crew-operating-on-the-darknet/">published here</a>.</strong></p>
 <p>Was posted on <a href="http://www.reddit.com/r/DarkNetMarkets/comments/35kwq7/complaintwarning_another_reason_why_not_to_order/">/r/darknetmarkets</a> by <a href="http://www.reddit.com/user/23023203">/u/23023203</a>:</p>
 <blockquote><p>I think we missed this article because it is behind a soft pay wall:</p>
@@ -32,13 +26,10 @@ Posted by: DeepDotWeb
 <hr/>
 <p>I am at work so I have no time for a translation. Just wanted to make sure nobody missed this.</p></blockquote>
 <p>So LE are trying to warn dutch vendors to improve their OPSEC?  this press release seems a bit unusual as no busts were made and the investigation is ongoing.</p>
-<p><a href="/imgs/2015/05/zObBHKL1.png" rel="lightbox"> <img class="aligncenter size-full wp-image-10239" src="/imgs/2015/05/zObBHKL1.png" alt="zObBHKL[1]" width="475" height="537"/> </a></p>
+<img src="imgs/2015/05/zObBHKL1.png" rel="lightbox"> 
 <p>* Will try and get a proper translation later. If you are reading this and you can translate from dutch, <a href="/contact-us/">contact</a>.</p>
 
-    
 
-    
 
 Updated: 2015-05-11
 
-    

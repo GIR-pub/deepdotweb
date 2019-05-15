@@ -36,14 +36,14 @@ Posted by: DeepDotWeb
 <li><a title="Watch: *Alleged* Hydra Market Admin Getting Busted in Budapest" href="/2014/11/11/watch-alleged-hydra-market-admin-getting-busted-in-budapest/" target="_blank">Hydra</a></li>
 </ol>
 <p>With this additional data, we can fill out our picture of the lifecycle of blackmarkets with a more precise survival curve drawing on the full dataset:</p>
-<p><a href="/imgs/2015/01/1.png"><img class="aligncenter  wp-image-8713" src="/imgs/2015/01/1.png" alt="1" width="774" height="442" srcset="/imgs/2015/01/1.png 1576w, /imgs/2015/01/1-300x171.png 300w, /imgs/2015/01/1-1024x585.png 1024w" sizes="(max-width: 774px) 100vw, 774px" /></a></p>
+<img src="imgs/2015/01/1.png">
 <p>Blackmarkets thus far seem to have a steady mortality rate for the first year, but then it looks like risks shoot up steeply: very few blackmarkets thus far have passed the first-year mark, but it&#8217;s hard to be sure why, it may be that most of them died too young or not enough time has elapse for them to reach that mark. It may be better to break down the deaths by cause as above, to get a &#8216;competing risks&#8217; survival curve:</p>
-<p><a href="/imgs/2015/01/2.png"><img class="aligncenter  wp-image-8714" src="/imgs/2015/01/2.png" alt="2" width="760" height="434" srcset="/imgs/2015/01/2.png 1576w, /imgs/2015/01/2-300x171.png 300w, /imgs/2015/01/2-1024x585.png 1024w" sizes="(max-width: 760px) 100vw, 760px" /></a></p>
+<img src="imgs/2015/01/2.png">
 <p>(This would benefit from a confidence interval like the survival curve graph, but I haven&#8217;t figured out how to add those yet.) I draw a few lessons from eyeballing the graph:</p>
 <ul>
 <li>early on, the main threats to markets is the operator giving up (blue) or it being hacked (black); it&#8217;s new, untested, unpopular, and unprofitable.</li>
 <li>as time passes, hacking seems to be less of an issue. Either long-established markets are genuinely more secure, or possibly the operators are just better able to cover up hacking (akin to SR1 paying off a hacker, and SR2 simply brazening it out and hiding it in the 2 known instances)</li>
-<li>law enforcement (red) is not a serious threat to a market until nearly a year in.In fact, the exception here proves the rule: the case of Utopia, which is that little blip in the red line almost at the start, demonstrates this lag time. Utopia <a title="Utopia Marketplace Seized by Dutch Police – 5 Arrested" href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/" target="_blank">was busted</a> a week or two after opening, because much of its staff had been employed on BMR, which is where the Dutch police investigation started &#8211; except BMR shut down gracefully after 886 days of operation and the investigation followed the staff to Utopia and arrested them <em>then</em>! Backopy had a very close call; who knows how close the Dutch investigation was to nailing him or getting the staff to de-anonymize him?This point should be of serious concern to the operators of <a href="/marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution</a> and <a href="/marketplace-directory/listing/agora-market" target="_blank">Agora</a>; for both, the LE clock has started ticking. Given their prominence, parallel investigations of both, akin to the parallel investigations &amp; subversions of BMR &amp; SR1 (the leading markets in their time), are doubtless ongoing. This is particularly concerning for Evolution &#8211; I&#8217;ve posted <a href="https://www.reddit.com/r/DarkNetMarkets/comments/2ips02/carding_forums_ponzi_schemes_and_law_enforcement/">the_avid&#8217;s writeup of the alarming history of Western carding forums</a>, and given the carryover of people and personal contacts from the recently-closed Tor Carding Forum/TCF to Evolution, the clock started ticking on Evolution before Agora and I think it is likely that there are already some CIs or UCs attempting to penetrate or on staff at Evolution.</li>
+<li>law enforcement (red) is not a serious threat to a market until nearly a year in.In fact, the exception here proves the rule: the case of Utopia, which is that little blip in the red line almost at the start, demonstrates this lag time. Utopia <a title="Utopia Marketplace Seized by Dutch Police – 5 Arrested" href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/" target="_blank">was busted</a> a week or two after opening, because much of its staff had been employed on BMR, which is where the Dutch police investigation started &#8211; except BMR shut down gracefully after 886 days of operation and the investigation followed the staff to Utopia and arrested them <em>then</em>! Backopy had a very close call; who knows how close the Dutch investigation was to nailing him or getting the staff to de-anonymize him?This point should be of serious concern to the operators of <a href="#">the_avid&#8217;s writeup of the alarming history of Western carding forums</a>, and given the carryover of people and personal contacts from the recently-closed Tor Carding Forum/TCF to Evolution, the clock started ticking on Evolution before Agora and I think it is likely that there are already some CIs or UCs attempting to penetrate or on staff at Evolution.</li>
 <li>The temptation to exit scam is constant; market operators are always tempted to seize the money and run</li>
 </ul>
 <p>So what markets <em>are</em> still operating?</p>
@@ -65,52 +65,52 @@ Posted by: DeepDotWeb
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/dream-market" target="_blank">Dream Market</a></td>
+<td align="left"><a href="#">Dream Market</a></td>
 <td align="left">100.0</td>
 <td align="left">100.0</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/agora-market" target="_blank">Agora</a></td>
+<td align="left"><a href="#">Agora</a></td>
 <td align="left">65.6</td>
 <td align="left">65.6</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/outlaw-market" target="_blank">Outlaw Market</a></td>
+<td align="left"><a href="#">Outlaw Market</a></td>
 <td align="left">72.3</td>
 <td align="left">72.3</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/evolution-marketplace" target="_blank">evolution</a></td>
+<td align="left"><a href="#">evolution</a></td>
 <td align="left">17.5</td>
 <td align="left">17.5</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/black-bank-bitcoin-market" target="_blank">BlackBank Market</a></td>
+<td align="left"><a href="#">BlackBank Market</a></td>
 <td align="left">13.1</td>
 <td align="left">13.1</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/area-51" target="_blank">Area51</a></td>
+<td align="left"><a href="#">Area51</a></td>
 <td align="left">57.7</td>
 <td align="left">28.1</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/middle-earth-marketplace" target="_blank">Middle Earth Marketplace</a></td>
+<td align="left"><a href="#">Middle Earth Marketplace</a></td>
 <td align="left">56.8</td>
 <td align="left">28.8</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/silk-road-3" target="_blank">Diabolus</a></td>
+<td align="left"><a href="#">Diabolus</a></td>
 <td align="left">34.7</td>
 <td align="left">0.0</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/nucleus-market" target="_blank">Nucleus Marketplace</a></td>
+<td align="left"><a href="#">Nucleus Marketplace</a></td>
 <td align="left">15.7</td>
 <td align="left">0.0</td>
 </tr>
 <tr>
-<td align="left"><a href="/marketplace-directory/listing/panacea-flower-sanctuary" target="_blank">Panacea</a></td>
+<td align="left"><a href="#">Panacea</a></td>
 <td align="left">89.7</td>
 <td align="left">34.4</td>
 </tr>
@@ -189,4 +189,3 @@ Posted by: DeepDotWeb
  
 Updated: 2015-01-03
 
-    

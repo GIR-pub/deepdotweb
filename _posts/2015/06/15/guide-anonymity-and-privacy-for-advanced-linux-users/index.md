@@ -106,67 +106,50 @@ Posted by: DeepDotWeb
 <li>sudo ufw allow port/udp</li>
 </ol>
 <p>Then when you’re done check the status</p>
+sudo ufw status</textarea></div>
 
-    sudo ufw status</textarea></div>
-
-    
 <p>
-<a href="/imgs/2015/06/ufwbasics21.png"><img class="aligncenter size-full wp-image-10733" src="/imgs/2015/06/ufwbasics21.png" alt="ufwbasics2[1]" width="525" height="361" srcset="/imgs/2015/06/ufwbasics21.png 525w, /imgs/2015/06/ufwbasics21-300x206.png 300w" sizes="(max-width: 525px) 100vw, 525px"/></a></p>
+<a href="/imgs/2015/06/ufwbasics21.png">
 <p>you can see I’ve blocked some specific ports in this example</p>
 <p>For more advanced configuration <a href="https://help.ubuntu.com/community/UFW">visit</a>.</p>
 <h3><a name="changing-mac-address"></a>Changing <span class="caps">MAC</span> Address</h3>
 <p>A <span class="caps">MAC</span> Address is a hardware specific identifier for you network interface. In some cases it may be useful to change your mac address to avoid detection.</p>
 <p><a href="https://wiki.archlinux.org/index.php/MAC_address_spoofing">Arch Linux Guide</a>:</p>
-
-    sudo apt-get install macchanger
+sudo apt-get install macchanger
     for a gui
     sudo apt-get install macchange-gtk</textarea></div>
 
-    
 <p>
     With macchanger-gtk</p>
-<p><a href="/imgs/2015/06/macchanger-gtk1.png"><img class="aligncenter size-full wp-image-10734" src="/imgs/2015/06/macchanger-gtk1.png" alt="macchanger-gtk[1]" width="410" height="287" srcset="/imgs/2015/06/macchanger-gtk1.png 410w, /imgs/2015/06/macchanger-gtk1-300x210.png 300w" sizes="(max-width: 410px) 100vw, 410px"/></a></p>
+<img src="imgs/2015/06/macchanger-gtk1.png">
 <p>heck your current mac addresses for future reference</p>
-
-    macchanger eth0
+macchanger eth0
     macchanger wlan0</textarea></div>
 
-    
 <p>
     for a random macaddress</p>
+sudo ifconfig wlan0 down</textarea></div>
 
-    sudo ifconfig wlan0 down</textarea></div>
-
-    
 <p>
     sudo macchanger -r wlan0</textarea></div>
 
-    
 <p>
     This will change the mac address to a random value</p>
+macchanger -e wlan0</textarea></div>
 
-    macchanger -e wlan0</textarea></div>
-
-    
 <p>
     will change the mac address but keep it as the same vendor. This can be useful if you’re spoofing your address but you don’t want it obviously coming from a device not on the network.</p>
+sudo macchanger -A wlan0</textarea></div>
 
-    sudo macchanger -A wlan0</textarea></div>
-
-    
 <p>
     This will change the devices <span class="caps">MAC</span> to a random <span class="caps">MAC</span> of any kind, regardless of the original device.</p>
+sudo macchanger —mac=XX:XX:XX:XX:XX:XX interface</textarea></div>
 
-    sudo macchanger —mac=XX:XX:XX:XX:XX:XX interface</textarea></div>
-
-    
 <p>
     Will change to a specific mac address of your choice</p>
 <p>You may want to write a script to start automatically on network manager start, and network manager shut down.</p>
+sudo nano /etc/init/macchanger.conf</textarea></div>
 
-    sudo nano /etc/init/macchanger.conf</textarea></div>
-
-    
 <p>
     description     "change mac addresses"
     
@@ -182,13 +165,10 @@ Posted by: DeepDotWeb
     end script
 </textarea></div>
 
-    
 <p>
     you can switch out -A for -r or whatever other configuration you might want.</p>
+sudo nano /etc/network/if-post-down.d/random-mac</textarea></div>
 
-    sudo nano /etc/network/if-post-down.d/random-mac</textarea></div>
-
-    
 <p>
     #!/bin/sh
     
@@ -201,7 +181,6 @@ Posted by: DeepDotWeb
     macchanger -A "$IFACE"
 </textarea></div>
 
-    
 <p>
 <ol>
 <li>sudo chmod +x /etc/network/if-post-down.d/random-mac</li>
@@ -240,73 +219,71 @@ Posted by: DeepDotWeb
 <p><a href="https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial">Here’s a good beginners tutorial for Veracrypt</a></p>
 <p><strong>How to create a hidden encrypted volume with Veracrypt</strong></p>
 <p>Select Create Volume</p>
-<p><a href="/imgs/2015/06/veracrypt11.png"><img class="aligncenter size-full wp-image-10735" src="/imgs/2015/06/veracrypt11.png" alt="veracrypt1[1]" width="595" height="578" srcset="/imgs/2015/06/veracrypt11.png 595w, /imgs/2015/06/veracrypt11-300x291.png 300w, /imgs/2015/06/veracrypt11-50x50.png 50w" sizes="(max-width: 595px) 100vw, 595px"/></a></p>
+<img src="imgs/2015/06/veracrypt11.png">
 <p>Select Create an Encrypted File Container</p>
-<p><a href="/imgs/2015/06/veracrypt21.png"><img class="aligncenter size-full wp-image-10736" src="/imgs/2015/06/veracrypt21.png" alt="veracrypt2[1]" width="763" height="485" srcset="/imgs/2015/06/veracrypt21.png 763w, /imgs/2015/06/veracrypt21-300x191.png 300w" sizes="(max-width: 763px) 100vw, 763px"/></a><br/>
+<img src="imgs/2015/06/veracrypt21.png">
     Select Hidden Veracrypt volume</p>
-<p><a href="/imgs/2015/06/veracrypt31.png"><img class="aligncenter size-full wp-image-10737" src="/imgs/2015/06/veracrypt31.png" alt="veracrypt3[1]" width="771" height="491" srcset="/imgs/2015/06/veracrypt31.png 771w, /imgs/2015/06/veracrypt31-300x191.png 300w" sizes="(max-width: 771px) 100vw, 771px"/></a><br/>
+<img src="imgs/2015/06/veracrypt31.png">
     Choose volume location and select never save history:</p>
-<p><a href="/imgs/2015/06/veracrypt41.png"><img class="aligncenter size-full wp-image-10738" src="/imgs/2015/06/veracrypt41.png" alt="veracrypt4[1]" width="767" height="485" srcset="/imgs/2015/06/veracrypt41.png 767w, /imgs/2015/06/veracrypt41-300x190.png 300w" sizes="(max-width: 767px) 100vw, 767px"/></a><br/>
+<img src="imgs/2015/06/veracrypt41.png">
     Select your encryption algorithm, <span class="caps">AES</span> is fine, but you may chose more secure<br/>
     Select Hash Algorithm, <span class="caps">SHA</span>-512 is sufficient</p>
-<p><a href="/imgs/2015/06/veracrypt51.png"><img class="aligncenter size-full wp-image-10739" src="/imgs/2015/06/veracrypt51.png" alt="veracrypt5[1]" width="767" height="488" srcset="/imgs/2015/06/veracrypt51.png 767w, /imgs/2015/06/veracrypt51-300x191.png 300w" sizes="(max-width: 767px) 100vw, 767px"/></a><br/>
+<img src="imgs/2015/06/veracrypt51.png">
     Select Use Key files and click the key files box… <strong>optional:</strong></p>
 <p>&nbsp;</p>
-<p><a href="/imgs/2015/06/veracrypt61.png"><img class="aligncenter size-full wp-image-10740" src="/imgs/2015/06/veracrypt61.png" alt="veracrypt6[1]" width="761" height="487" srcset="/imgs/2015/06/veracrypt61.png 761w, /imgs/2015/06/veracrypt61-300x192.png 300w" sizes="(max-width: 761px) 100vw, 761px"/></a><br/>
+<img src="imgs/2015/06/veracrypt61.png">
     Generate save the new key.</p>
-<p><a href="/imgs/2015/06/veracrypt71.png"><img class="aligncenter size-full wp-image-10741" src="/imgs/2015/06/veracrypt71.png" alt="veracrypt7[1]" width="657" height="468" srcset="/imgs/2015/06/veracrypt71.png 657w, /imgs/2015/06/veracrypt71-300x214.png 300w" sizes="(max-width: 657px) 100vw, 657px"/></a><br/>
+<img src="imgs/2015/06/veracrypt71.png">
     Click add files and add the key<br/>
     Click Generate Random Keyfile box if you want another key<br/>
     You may also use existing keys:</p>
-<p><a href="/imgs/2015/06/veracrypt81.png"><img class="aligncenter size-full wp-image-10742" src="/imgs/2015/06/veracrypt81.png" alt="veracrypt8[1]" width="640" height="525" srcset="/imgs/2015/06/veracrypt81.png 640w, /imgs/2015/06/veracrypt81-300x246.png 300w" sizes="(max-width: 640px) 100vw, 640px"/></a><br/>
+<img src="imgs/2015/06/veracrypt81.png">
     Click format to create the volume that will be visible:</p>
-<p><a href="/imgs/2015/06/veracrypt101.png"><img class="aligncenter size-full wp-image-10743" src="/imgs/2015/06/veracrypt101.png" alt="veracrypt10[1]" width="763" height="487" srcset="/imgs/2015/06/veracrypt101.png 763w, /imgs/2015/06/veracrypt101-300x191.png 300w" sizes="(max-width: 763px) 100vw, 763px"/></a><br/>
+<img src="imgs/2015/06/veracrypt101.png">
     Now it’s recommended to load this volume with contents that appear sensitive</p>
-<p><a href="/imgs/2015/06/veracrypt111.png"><img class="aligncenter size-full wp-image-10744" src="/imgs/2015/06/veracrypt111.png" alt="veracrypt11[1]" width="764" height="483" srcset="/imgs/2015/06/veracrypt111.png 764w, /imgs/2015/06/veracrypt111-300x190.png 300w" sizes="(max-width: 764px) 100vw, 764px"/></a><br/>
+<img src="imgs/2015/06/veracrypt111.png">
     You will follow the same steps, remember this is the hidden volume consider it’s security most important.</p>
-<p><a href="/imgs/2015/06/veracrypt121.png"><img class="aligncenter size-full wp-image-10745" src="/imgs/2015/06/veracrypt121.png" alt="veracrypt12[1]" width="756" height="485" srcset="/imgs/2015/06/veracrypt121.png 756w, /imgs/2015/06/veracrypt121-300x192.png 300w" sizes="(max-width: 756px) 100vw, 756px"/></a><br/>
+<img src="imgs/2015/06/veracrypt121.png">
     When complete you will see this warning, read it carefully.</p>
-<p><a href="/imgs/2015/06/veracrypt131.png"><img class="aligncenter size-full wp-image-10746" src="/imgs/2015/06/veracrypt131.png" alt="veracrypt13[1]" width="489" height="353" srcset="/imgs/2015/06/veracrypt131.png 489w, /imgs/2015/06/veracrypt131-300x217.png 300w" sizes="(max-width: 489px) 100vw, 489px"/></a></p>
+<img src="imgs/2015/06/veracrypt131.png">
 <h2>Browsers</h2>
 <h3>Tor Browser</h3>
 <p>Download at: <a href="https://torproject.org">torproject.org</a></p>
 <p>All Tor network addresses will be followed with .onion, not .com. It is far more secure browsing .onion services.</p>
 <p>In depth explanation of Tor <a href="https://media.torproject.org/video/tor-internet-days-2010.mp4">by its head developer Arma</a>.</p>
 <p>Once you’ve download tor browser, expand the zipped file. Then</p>
-
-    cd tordirectory
+cd tordirectory
     ./start-tor-browser.desktop</textarea></div>
 
-    
 <p>
-<a href="/imgs/2015/06/starttor1.png"><img class="aligncenter size-full wp-image-10747" src="/imgs/2015/06/starttor1.png" alt="starttor[1]" width="497" height="145" srcset="/imgs/2015/06/starttor1.png 497w, /imgs/2015/06/starttor1-300x88.png 300w" sizes="(max-width: 497px) 100vw, 497px"/></a></p>
+<a href="/imgs/2015/06/starttor1.png">
 <p>Forbidding javascript and other elements can make web browsing less convenient, but by allowing more elements you open yourself to potential vulnerabilities. It’s best to find the best possible security setting you can withstand while the web browsing experience is still functional.</p>
 <p><strong>Configuring Security Settings</strong></p>
 <p>Privacy and security settings can be easily configured. Click on the Onion in the top left.</p>
-<p><a href="/imgs/2015/06/toronion_large1.png"><img class="aligncenter size-full wp-image-10748" src="/imgs/2015/06/toronion_large1.png" alt="toronion_large[1]" width="500" height="349" srcset="/imgs/2015/06/toronion_large1.png 500w, /imgs/2015/06/toronion_large1-300x209.png 300w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<img src="imgs/2015/06/toronion_large1.png">
 <p>Select “Privacy and Security Settings” Adjust the slider to your desired level of security.</p>
-<p><a href="/imgs/2015/06/torprivacysettings1.png"><img class="aligncenter size-full wp-image-10749" src="/imgs/2015/06/torprivacysettings1.png" alt="torprivacysettings[1]" width="619" height="495" srcset="/imgs/2015/06/torprivacysettings1.png 619w, /imgs/2015/06/torprivacysettings1-300x240.png 300w" sizes="(max-width: 619px) 100vw, 619px"/></a></p>
+<img src="imgs/2015/06/torprivacysettings1.png">
 <p><strong>Noscript basics</strong></p>
 <p>Depending on your security level selected in Tor, Noscript may not provide any advantage. That main advantage of Noscript is it’s easier to tailor allowing on specific sites, or for specific elements on the fly. Click the S in the Top Left next to the Tor Onion symbol and select forbid scripts globally. You should see a red line across the S. If you allow specific sites, you should check that the red line is there for those you do not allow. Allowing only specific sites may create a fingerprint of your activity. There are some advanced settings under options worth taking a look at.</p>
-<p><a href="/imgs/2015/06/tornoscripts_large1.png"><img class="aligncenter size-full wp-image-10750" src="/imgs/2015/06/tornoscripts_large1.png" alt="tornoscripts_large[1]" width="500" height="357" srcset="/imgs/2015/06/tornoscripts_large1.png 500w, /imgs/2015/06/tornoscripts_large1-300x214.png 300w" sizes="(max-width: 500px) 100vw, 500px"/></a></p>
+<img src="imgs/2015/06/tornoscripts_large1.png">
 <h2>Tor bridge</h2>
 <p>in some cases if Tor is blocked or you wish to conceal the use of Tor a bridge can be configured. This makes it more difficult for an <span class="caps">ISP</span> to detect Tor. Bridges can help avoid censorship, and if your <span class="caps">ISP</span> Blocks Tor Traffic it is much more difficult to detect the nature of the traffic unless deep packet inspection is employed. It’s one of those things that since it’s there, might as well set it up as a per-cautionary measure and see if your connection is still, reliable and fast enough for your standards.</p>
 <ul>
-<li>Click Open Settings on the Pop-up Connection Box<a href="/imgs/2015/06/torconnectionpopup1.png"><img class="aligncenter size-full wp-image-10751" src="/imgs/2015/06/torconnectionpopup1.png" alt="torconnectionpopup[1]" width="401" height="260" srcset="/imgs/2015/06/torconnectionpopup1.png 401w, /imgs/2015/06/torconnectionpopup1-300x195.png 300w" sizes="(max-width: 401px) 100vw, 401px"/><br/>
+<li>Click Open Settings on the Pop-up Connection Box<a href="/imgs/2015/06/torconnectionpopup1.png">
 </a></li>
 <li>Click configure<br/>
-<a href="/imgs/2015/06/torconfigurebridge1.png"><img class="aligncenter size-full wp-image-10752" src="/imgs/2015/06/torconfigurebridge1.png" alt="torconfigurebridge[1]" width="679" height="539" srcset="/imgs/2015/06/torconfigurebridge1.png 679w, /imgs/2015/06/torconfigurebridge1-300x238.png 300w" sizes="(max-width: 679px) 100vw, 679px"/></a></li>
-<li>Select Yes to <span class="caps">ISP</span> Censors or Blocks<a href="/imgs/2015/06/torispblocks1.png"><img class="aligncenter size-full wp-image-10753" src="/imgs/2015/06/torispblocks1.png" alt="torispblocks[1]" width="681" height="538" srcset="/imgs/2015/06/torispblocks1.png 681w, /imgs/2015/06/torispblocks1-300x237.png 300w" sizes="(max-width: 681px) 100vw, 681px"/></a></li>
+<a href="/imgs/2015/06/torconfigurebridge1.png">
+<li>Select Yes to <span class="caps">ISP</span> Censors or Blocks<a href="/imgs/2015/06/torispblocks1.png">
 <li>obfs3 is fine, see below for information on other options.<br/>
-<a href="/imgs/2015/06/torselectbridge1.png"><img class="aligncenter size-full wp-image-10754" src="/imgs/2015/06/torselectbridge1.png" alt="torselectbridge[1]" width="686" height="537" srcset="/imgs/2015/06/torselectbridge1.png 686w, /imgs/2015/06/torselectbridge1-300x235.png 300w" sizes="(max-width: 686px) 100vw, 686px"/></a></li>
+<a href="/imgs/2015/06/torselectbridge1.png">
 <li>Most likely just skip use a local proxy</li>
-<li>Click connect<a href="/imgs/2015/06/torconnectbridge1.png"><img class="aligncenter size-full wp-image-10755" src="/imgs/2015/06/torconnectbridge1.png" alt="torconnectbridge[1]" width="680" height="532" srcset="/imgs/2015/06/torconnectbridge1.png 680w, /imgs/2015/06/torconnectbridge1-300x235.png 300w" sizes="(max-width: 680px) 100vw, 680px"/></a></li>
+<li>Click connect<a href="/imgs/2015/06/torconnectbridge1.png">
 </ul>
 <p>Optionally if Tor is already started you can:</p>
 <ul>
 <li>click the onoin icon in the top left of the browser and select</li>
 <li>Open Network Settings</li>
-<li>check My <span class="caps">ISP</span> Blocks Connections and hit OK.<a href="/imgs/2015/06/torbridgeselect1.png"><img class="aligncenter size-full wp-image-10756" src="/imgs/2015/06/torbridgeselect1.png" alt="torbridgeselect[1]" width="662" height="632" srcset="/imgs/2015/06/torbridgeselect1.png 662w, /imgs/2015/06/torbridgeselect1-300x286.png 300w" sizes="(max-width: 662px) 100vw, 662px"/></a></li>
+<li>check My <span class="caps">ISP</span> Blocks Connections and hit OK.<a href="/imgs/2015/06/torbridgeselect1.png">
 <li>Use obfs 3 which is recommended, see next section on other types.</li>
 </ul>
 <h3>Pluggable Transports</h3>
@@ -315,7 +292,7 @@ Posted by: DeepDotWeb
 <p>If you need to use another browser Firefox is preferred. Here are some configuration settings and extensions that can be helpful.</p>
 <p><strong>Optional Configuration:</strong></p>
 <p>In the <span class="caps">URL</span> Bar enter: about:config</p>
-<p><a href="/imgs/2015/06/aboutconfigbasics1.png"><img class="aligncenter size-full wp-image-10757" src="/imgs/2015/06/aboutconfigbasics1.png" alt="aboutconfigbasics[1]" width="689" height="512" srcset="/imgs/2015/06/aboutconfigbasics1.png 689w, /imgs/2015/06/aboutconfigbasics1-300x223.png 300w" sizes="(max-width: 689px) 100vw, 689px"/></a></p>
+<img src="imgs/2015/06/aboutconfigbasics1.png">
 <ul>
 <li>geo.enabled = false</li>
 <li>geo.wifi.uri =leave blank</li>
@@ -407,9 +384,9 @@ Posted by: DeepDotWeb
 <li>i2p router start</li>
 </ul>
 <p>If you have issue connecting to .i2p addresses check configuration by visiting: localhost:7657/confignet</p>
-<p><a href="/imgs/2015/06/networksettings1.png"><img class="aligncenter size-full wp-image-10758" src="/imgs/2015/06/networksettings1.png" alt="networksettings[1]" width="893" height="554" srcset="/imgs/2015/06/networksettings1.png 893w, /imgs/2015/06/networksettings1-300x186.png 300w" sizes="(max-width: 893px) 100vw, 893px"/></a></p>
+<img src="imgs/2015/06/networksettings1.png">
 <p>One main issue is your firewall or router is blocking connections. Click networking.</p>
-<p><a href="/imgs/2015/06/ports1.png"><img class="aligncenter size-full wp-image-10759" src="/imgs/2015/06/ports1.png" alt="ports[1]" width="691" height="420" srcset="/imgs/2015/06/ports1.png 691w, /imgs/2015/06/ports1-300x182.png 300w" sizes="(max-width: 691px) 100vw, 691px"/></a></p>
+<img src="imgs/2015/06/ports1.png">
 <p>Basic port unblocking</p>
 <p>IP Tables</p>
 <ol>
@@ -451,7 +428,7 @@ Posted by: DeepDotWeb
     socks5 ipaddress port<br/>
     proxies etc……</li>
 </ol>
-<p><a href="/imgs/2015/06/proxychains1.png"><img class="aligncenter size-full wp-image-10760" src="/imgs/2015/06/proxychains1.png" alt="proxychains[1]" width="760" height="456" srcset="/imgs/2015/06/proxychains1.png 760w, /imgs/2015/06/proxychains1-300x180.png 300w" sizes="(max-width: 760px) 100vw, 760px"/></a></p>
+<img src="imgs/2015/06/proxychains1.png">
 <p>You will need to search for public socks proxy lists to populate.</p>
 <p>start firefox in terminal: proxychains firefox</p>
 <h3><a name="operating-systems"></a>Operating Systems</h3>
@@ -472,29 +449,29 @@ Posted by: DeepDotWeb
 <li>Open Virtualbox and connect the <span class="caps">USB</span> drive</li>
 </ol>
 <p>Click new in the top left:</p>
-<p><a href="/imgs/2015/06/tails11.png"><img class="aligncenter size-full wp-image-10761" src="/imgs/2015/06/tails11.png" alt="tails1[1]" width="765" height="560" srcset="/imgs/2015/06/tails11.png 765w, /imgs/2015/06/tails11-300x220.png 300w" sizes="(max-width: 765px) 100vw, 765px"/></a><br/>
+<img src="imgs/2015/06/tails11.png">
     Name your VM and select Linux 64bit or 32bit depending on which you downloaded:</p>
-<p><a href="/imgs/2015/06/tails21.png"><img class="aligncenter size-full wp-image-10762" src="/imgs/2015/06/tails21.png" alt="tails2[1]" width="564" height="414" srcset="/imgs/2015/06/tails21.png 564w, /imgs/2015/06/tails21-300x220.png 300w" sizes="(max-width: 564px) 100vw, 564px"/></a><br/>
+<img src="imgs/2015/06/tails21.png">
     Set memory size at least 1024 for smooth performance</p>
-<p><a href="/imgs/2015/06/tails31.png"><img class="aligncenter size-full wp-image-10763" src="/imgs/2015/06/tails31.png" alt="tails3[1]" width="559" height="425" srcset="/imgs/2015/06/tails31.png 559w, /imgs/2015/06/tails31-300x228.png 300w" sizes="(max-width: 559px) 100vw, 559px"/></a><br/>
+<img src="imgs/2015/06/tails31.png">
     Create a virtual hard drive</p>
-<p><a href="/imgs/2015/06/tails41.png"><img class="aligncenter size-full wp-image-10764" src="/imgs/2015/06/tails41.png" alt="tails4[1]" width="561" height="416" srcset="/imgs/2015/06/tails41.png 561w, /imgs/2015/06/tails41-300x222.png 300w" sizes="(max-width: 561px) 100vw, 561px"/></a><span class="caps"><br/>
+<img src="imgs/2015/06/tails41.png">
     VDI</span> Image is suitable</p>
-<p><a href="/imgs/2015/06/tails51.png"><img class="aligncenter size-full wp-image-10765" src="/imgs/2015/06/tails51.png" alt="tails5[1]" width="665" height="478" srcset="/imgs/2015/06/tails51.png 665w, /imgs/2015/06/tails51-300x216.png 300w" sizes="(max-width: 665px) 100vw, 665px"/></a><br/>
+<img src="imgs/2015/06/tails51.png">
     You can select dynamically allocated and set a starting amount at a couple gigabytes</p>
-<p><a href="/imgs/2015/06/tails61.png"><img class="aligncenter size-full wp-image-10766" src="/imgs/2015/06/tails61.png" alt="tails6[1]" width="656" height="468" srcset="/imgs/2015/06/tails61.png 656w, /imgs/2015/06/tails61-300x214.png 300w" sizes="(max-width: 656px) 100vw, 656px"/></a><br/>
+<img src="imgs/2015/06/tails61.png">
     Select the image and click start</p>
-<p><a href="/imgs/2015/06/tails81.png"><img class="aligncenter size-full wp-image-10767" src="/imgs/2015/06/tails81.png" alt="tails8[1]" width="764" height="573" srcset="/imgs/2015/06/tails81.png 764w, /imgs/2015/06/tails81-300x225.png 300w" sizes="(max-width: 764px) 100vw, 764px"/></a><br/>
+<img src="imgs/2015/06/tails81.png">
     Select the location of the .iso file you downloaded.</p>
-<p><a href="/imgs/2015/06/tails71.png"><img class="aligncenter size-full wp-image-10768" src="/imgs/2015/06/tails71.png" alt="tails7[1]" width="561" height="381" srcset="/imgs/2015/06/tails71.png 561w, /imgs/2015/06/tails71-300x204.png 300w" sizes="(max-width: 561px) 100vw, 561px"/></a><br/>
+<img src="imgs/2015/06/tails71.png">
     Once started go to Applications→Tails→Tails Installer</p>
-<p><a href="/imgs/2015/06/tails91.png"><img class="aligncenter size-full wp-image-10769" src="/imgs/2015/06/tails91.png" alt="tails9[1]" width="809" height="646" srcset="/imgs/2015/06/tails91.png 809w, /imgs/2015/06/tails91-300x240.png 300w" sizes="(max-width: 809px) 100vw, 809px"/></a><br/>
+<img src="imgs/2015/06/tails91.png">
     Make sure the <span class="caps">USB</span> Drive is present you will see a green plus, over the usb icon in this image</p>
-<p><a href="/imgs/2015/06/tails101.png"><img class="aligncenter size-full wp-image-10770" src="/imgs/2015/06/tails101.png" alt="tails10[1]" width="370" height="169" srcset="/imgs/2015/06/tails101.png 370w, /imgs/2015/06/tails101-300x137.png 300w, /imgs/2015/06/tails101-272x125.png 272w" sizes="(max-width: 370px) 100vw, 370px"/></a><br/>
+<img src="imgs/2015/06/tails101.png">
     Select clone and install and follow the steps for installation</p>
-<p><a href="/imgs/2015/06/tails111.png"><img class="aligncenter size-full wp-image-10771" src="/imgs/2015/06/tails111.png" alt="tails11[1]" width="530" height="397" srcset="/imgs/2015/06/tails111.png 530w, /imgs/2015/06/tails111-300x225.png 300w" sizes="(max-width: 530px) 100vw, 530px"/></a><br/>
+<img src="imgs/2015/06/tails111.png">
     Once you’ve started tails you can create a persistent volume to store static content</p>
-<p><a href="/imgs/2015/06/tails121.png"><img class="aligncenter size-full wp-image-10772" src="/imgs/2015/06/tails121.png" alt="tails12[1]" width="577" height="432" srcset="/imgs/2015/06/tails121.png 577w, /imgs/2015/06/tails121-300x225.png 300w" sizes="(max-width: 577px) 100vw, 577px"/></a></p>
+<img src="imgs/2015/06/tails121.png">
 <ol>
 <li>Next reboot you will be prompted if you wish to use persistent or not, only use when necessary.</li>
 </ol>
@@ -508,17 +485,17 @@ Posted by: DeepDotWeb
 <li>You may want to verify the file identities using the Signing key see other sections on this.</li>
 </ol>
 <p>Click file import appliance and select the Whonix Gateway .ova file:</p>
-<p><a href="/imgs/2015/06/whonix11.png"><img class="aligncenter size-full wp-image-10773" src="/imgs/2015/06/whonix11.png" alt="whonix1[1]" width="624" height="437" srcset="/imgs/2015/06/whonix11.png 624w, /imgs/2015/06/whonix11-300x210.png 300w" sizes="(max-width: 624px) 100vw, 624px"/></a><br/>
+<img src="imgs/2015/06/whonix11.png">
     Keep the settings default and click import</p>
-<p><a href="/imgs/2015/06/whonix21.png"><img class="aligncenter size-full wp-image-10774" src="/imgs/2015/06/whonix21.png" alt="whonix2[1]" width="629" height="441" srcset="/imgs/2015/06/whonix21.png 629w, /imgs/2015/06/whonix21-300x210.png 300w" sizes="(max-width: 629px) 100vw, 629px"/></a><br/>
+<img src="imgs/2015/06/whonix21.png">
     Repeat for workstation, select the .ova</p>
-<p><a href="/imgs/2015/06/whonix31.png"><img class="aligncenter size-full wp-image-10775" src="/imgs/2015/06/whonix31.png" alt="whonix3[1]" width="629" height="443" srcset="/imgs/2015/06/whonix31.png 629w, /imgs/2015/06/whonix31-300x211.png 300w" sizes="(max-width: 629px) 100vw, 629px"/></a><br/>
+<img src="imgs/2015/06/whonix31.png">
     Import without changing settings</p>
-<p><a href="/imgs/2015/06/whonix41.png"><img class="aligncenter size-full wp-image-10776" src="/imgs/2015/06/whonix41.png" alt="whonix4[1]" width="632" height="428" srcset="/imgs/2015/06/whonix41.png 632w, /imgs/2015/06/whonix41-300x203.png 300w, /imgs/2015/06/whonix41-290x195.png 290w" sizes="(max-width: 632px) 100vw, 632px"/></a><br/>
+<img src="imgs/2015/06/whonix41.png">
     Select both and start both at the same time.</p>
-<p><a href="/imgs/2015/06/whonix51.png"><img class="aligncenter size-full wp-image-10777" src="/imgs/2015/06/whonix51.png" alt="whonix5[1]" width="768" height="567" srcset="/imgs/2015/06/whonix51.png 768w, /imgs/2015/06/whonix51-300x221.png 300w" sizes="(max-width: 768px) 100vw, 768px"/></a><br/>
+<img src="imgs/2015/06/whonix51.png">
     Once workstation has finished booting you will see this screen.</p>
-<p><a href="/imgs/2015/06/whonix61.png"><img class="aligncenter size-full wp-image-10778" src="/imgs/2015/06/whonix61.png" alt="whonix6[1]" width="1031" height="852" srcset="/imgs/2015/06/whonix61.png 1031w, /imgs/2015/06/whonix61-300x248.png 300w, /imgs/2015/06/whonix61-1024x846.png 1024w" sizes="(max-width: 1031px) 100vw, 1031px"/></a></p>
+<img src="imgs/2015/06/whonix61.png">
 <p>You will keep both VM Windows open but all activities will be within the Whonix-Workstation VM Window</p>
 <h3>Base System</h3>
 <p>Essentials:<br/>
@@ -541,7 +518,7 @@ Posted by: DeepDotWeb
 <p>First:<br/>
     sudo apt-get install bleachbit<br/>
     sudo bleachbit</p>
-<p><a href="/imgs/2015/06/bleachbit11.png"><img class="aligncenter size-full wp-image-10779" src="/imgs/2015/06/bleachbit11.png" alt="bleachbit1[1]" width="604" height="516" srcset="/imgs/2015/06/bleachbit11.png 604w, /imgs/2015/06/bleachbit11-300x256.png 300w" sizes="(max-width: 604px) 100vw, 604px"/></a><a href="/imgs/2015/06/bleachbit21.png"><img class="aligncenter size-full wp-image-10780" src="/imgs/2015/06/bleachbit21.png" alt="bleachbit2[1]" width="394" height="623" srcset="/imgs/2015/06/bleachbit21.png 394w, /imgs/2015/06/bleachbit21-190x300.png 190w" sizes="(max-width: 394px) 100vw, 394px"/></a></p>
+<img src="imgs/2015/06/bleachbit11.png">
 <p>You can “Shred” files and folders from the file menu, and wipe free space, which may remove excess data that still exists, without pointers.<br/>
     file→Shred files<br/>
     file→Shred folder<br/>
@@ -557,24 +534,18 @@ Posted by: DeepDotWeb
 <p>you will need to boot off a usb/cd if you wish to wipe your primary hard drive.</p>
 <p>Properly deleting a drive will take time, if you’re in a hurry, you can at least use fast mode.</p>
 <p>First:</p>
+sudo apt-get secure-delete</textarea></div>
 
-    sudo apt-get secure-delete</textarea></div>
-
-    
 <p>
     If you’re wiping a disk</p>
+fdisk-l</textarea></div>
 
-    fdisk-l</textarea></div>
-
-    
 <p>
     find the disk/partition name: should be /dev/sdxx<br/>
     at this point if you haven’t already, consider encrypting the partition, see veracrypt.<br/>
     wipe space considered free (-f is fast mode “insecure mode”)</p>
+sudo sfill /dev/sddisk#</textarea></div>
 
-    sudo sfill /dev/sddisk#</textarea></div>
-
-    
 <p>
     if you need to clear swap space-<br/>
     (-f is fast mode “insecure mode”)</p>
@@ -585,30 +556,22 @@ Posted by: DeepDotWeb
 <li>sudo swapon /dev/sdFdisk#</li>
 </ol>
 <p>if you are strapped for time, use -m for 7 passes or -s for simple 1 pass “insecure mode”</p>
+sudo srm file</textarea></div>
 
-    sudo srm file</textarea></div>
-
-    
 <p>
     or</p>
+sudo srm -r /directory</textarea></div>
 
-    sudo srm -r /directory</textarea></div>
-
-    
 <p>
     or</p>
+srm /dev/sddisk#</textarea></div>
 
-    srm /dev/sddisk#</textarea></div>
-
-    
 <p>
     At the end you may also be interested at the end to wipe memory on the system.<br/>
     (-f is fast mode “insecure mode)</p>
 <p>Enter:</p>
+sudo sdmem</textarea></div>
 
-    sudo sdmem</textarea></div>
-
-    
 <p>
 <h3><a name="physical-destruction"></a>Physical Destruction</h3>
 <p>Try to at least encrypt the disk first, if you have time to spare, follow the instructions for disk erasure with <span class="caps">DBAN</span>.</p>
@@ -703,14 +666,14 @@ Posted by: DeepDotWeb
     it will then ask you to move the mouse, type etc to create entropy</p>
 <p>Simple <span class="caps">PGP</span> with <span class="caps">GNU</span> Privacy Assistant</p>
 <p>If you open gpa it will guide you through creating your first key<br/>
-    don’t put real information unless intended, obviously<a href="/imgs/2015/06/gpa11.png"><img class="aligncenter size-full wp-image-10781" src="/imgs/2015/06/gpa11.png" alt="gpa1[1]" width="393" height="155" srcset="/imgs/2015/06/gpa11.png 393w, /imgs/2015/06/gpa11-300x118.png 300w" sizes="(max-width: 393px) 100vw, 393px"/></a><a href="/imgs/2015/06/gpa21.png"><img class="aligncenter size-full wp-image-10782" src="/imgs/2015/06/gpa21.png" alt="gpa2[1]" width="706" height="741" srcset="/imgs/2015/06/gpa21.png 706w, /imgs/2015/06/gpa21-286x300.png 286w" sizes="(max-width: 706px) 100vw, 706px"/></a>Either click refresh or restart gpa and the keys will appear<br/>
+    don’t put real information unless intended, obviously<a href="/imgs/2015/06/gpa11.png">
     Click the clipboard</p>
-<p><a href="/imgs/2015/06/gpa71.png"><img class="aligncenter size-full wp-image-10783" src="/imgs/2015/06/gpa71.png" alt="gpa7[1]" width="675" height="175" srcset="/imgs/2015/06/gpa71.png 675w, /imgs/2015/06/gpa71-300x78.png 300w" sizes="(max-width: 675px) 100vw, 675px"/></a>Enter your message</p>
-<p><a href="/imgs/2015/06/gpa81.png"><img class="aligncenter size-full wp-image-10784" src="/imgs/2015/06/gpa81.png" alt="gpa8[1]" width="628" height="506" srcset="/imgs/2015/06/gpa81.png 628w, /imgs/2015/06/gpa81-300x242.png 300w" sizes="(max-width: 628px) 100vw, 628px"/></a>Select the key you wish to sign it with</p>
-<p><a href="/imgs/2015/06/gpa91.png"><img class="aligncenter size-full wp-image-10785" src="/imgs/2015/06/gpa91.png" alt="gpa9[1]" width="408" height="552" srcset="/imgs/2015/06/gpa91.png 408w, /imgs/2015/06/gpa91-222x300.png 222w" sizes="(max-width: 408px) 100vw, 408px"/></a><br/>
+<img src="imgs/2015/06/gpa71.png">
+<img src="imgs/2015/06/gpa81.png">
+<img src="imgs/2015/06/gpa91.png">
     You will now see an encrypted message.<br/>
     To decrypt a message click the mail icon with the key, and it will allow you to choose the appropriate key.</p>
-<p><a href="/imgs/2015/06/gpa101.png"><img class="aligncenter size-full wp-image-10786" src="/imgs/2015/06/gpa101.png" alt="gpa10[1]" width="628" height="508" srcset="/imgs/2015/06/gpa101.png 628w, /imgs/2015/06/gpa101-300x243.png 300w" sizes="(max-width: 628px) 100vw, 628px"/></a></p>
+<img src="imgs/2015/06/gpa101.png">
 <p><strong>More details on <span class="caps">GPA</span></strong></p>
 <p>Exporting/Importing Public Key<br/>
     gpa</p>
@@ -776,4 +739,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-06-15
 
-    

@@ -12,4 +12,3 @@ title: "Silk Road Trial Full Transcript: Day 6 (22.1.15)"
 
 Updated: 2015-01-23
 
-    

@@ -10,7 +10,6 @@ Posted by: Benjamin Vitáris
 
 
 
-    
 <p><a href="http://motherboard.vice.com/read/court-docs-show-a-university-helped-fbi-bust-silk-road-2-child-porn-suspects">According to official court documents, an unnamed academic institution has been providing information to the Federal Bureau of Investigation in certain cases, including the Silk Road 2 bust and a child porn case.</a></p>
 <p>In January, Brian Richard Farrell from Seattle, AKA. DoctorClu was busted by the FBI. According to official documents, Farell was the main staff member of Silk Road 2, the dark net marketplace, which has launched shortly after the original one’s bust in October 2013. Special Agent Michael Larson stated in the search warrant, which has been used for the bust of DoctorClu in January that in the time interval of January 2014 to July 2014, an FBI Source of Information (SOI) provided “reliable IP addresses for TOR and hidden services such as Silk Road 2.” There were pretty many places included, such as the main marketplace, the vendor section, the SR2 forum and the support interface.</p>
 <p>The information that has been provided by the institute to the feds led to the location of the Silk Road 2 servers, which helped in the identification of &#8220;at least another seventeen black markets on TOR”, which refers to Operation Onymous where law enforcement authorities in several different countries took down dark net marketplaces and scam sites on the dark web in a synchronized operation. However, that’s not all the info, the warrant goes by this:</p>
@@ -27,4 +26,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-11-15
 
-    

@@ -9,25 +9,25 @@ Posted by: DeepDotWeb
 
 
 
-<p>One of the new Multisig markets that deserves some more love is <a href="/marketplace-directory/listing/acropolis-market/">Acropolis market</a>, the market is a <strong>referral only</strong> market, you can use this referral link to register:</p>
+<p>One of the new Multisig markets that deserves some more love is <a href="#">Acropolis market</a>, the market is a <strong>referral only</strong> market, you can use this referral link to register:</p>
 <p><strong><a href="http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY" target="_blank">http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY</a></strong></p>
-<p>And check out reviews on <a href="/marketplace-directory/listing/acropolis-market/" target="_blank">Acropolis listing page</a>.</p>
+<p>And check out reviews on <a href="#">Acropolis listing page</a>.</p>
 <p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
 <p>The following guide was originally published on Acropolis market and explains the ordering process on Acropolis market, it is published here with the approval of the market admin:</p>
 <p>1. Login to your account and find a listing that suits your needs. Select the &#8220;Order now&#8221; option to start your purchase.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_1.png"><img class="aligncenter size-full wp-image-12593" src="/imgs/2015/12/order_1.png" alt="order_1" width="750" height="434" srcset="/imgs/2015/12/order_1.png 750w, /imgs/2015/12/order_1-300x174.png 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_1.png">
 <p>2. The following step allows you to select between several payment options before placing an order. After selecting the listing and quantity that you want, you can select a specific Bitcoin public key, or you can let the market select a random public key from your own pool. In case you don&#8217;t want to use public keys from your pool, you can check the option, &#8220;Use custom public key&#8221; and provide your key in the &#8220;Custom public key&#8221; text field. Complete encrypting your shipping details. Optionally you can let the market encrypt your message to the vendor. Select &#8220;Next&#8221; to continue.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_2.png"><img class="aligncenter size-full wp-image-12594" src="/imgs/2015/12/order_2.png" alt="order_2" width="750" height="905" srcset="/imgs/2015/12/order_2.png 750w, /imgs/2015/12/order_2-249x300.png 249w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_2.png">
 <p>3. An order summary screen then displays the listing summary with option price, fees and total. Also, the selected public key and optional message for vendor are shown. Please, check that everything is ok. To place your order you must provide your PIN number and select the &#8220;Place order&#8221; option.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_3.png"><img class="aligncenter size-full wp-image-12595" src="/imgs/2015/12/order_3.png" alt="order_3" width="750" height="624" srcset="/imgs/2015/12/order_3.png 750w, /imgs/2015/12/order_3-300x250.png 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_3.png">
 <p>4. Once your order is created, it is not submitted to your vendor until the funds are recieved. Shown next are the public keys used to generate the multisig address. The first key is selected from your pool, with the second key selected from the vendors pool and a third key the market generates uniquely for each order. Select the, &#8220;Payment instructions&#8221; options to the see payment addresses and required amount. Use the wallet of your choice to transfer funds. After 4 confirmations your order will be automatically submitted to the vendor. The vendor will then process your order and mark it appropriately.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_4.png"><img class="aligncenter size-full wp-image-12596" src="/imgs/2015/12/order_4.png" alt="order_4" width="750" height="750" srcset="/imgs/2015/12/order_4.png 750w, /imgs/2015/12/order_4-150x150.png 150w, /imgs/2015/12/order_4-300x300.png 300w, /imgs/2015/12/order_4-55x55.png 55w, /imgs/2015/12/order_4-50x50.png 50w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_4.png">
 <p>5. When your order is shipped, you can finalize your order.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_5.png"><img class="aligncenter size-full wp-image-12597" src="/imgs/2015/12/order_5.png" alt="order_5" width="750" height="464" srcset="/imgs/2015/12/order_5.png 750w, /imgs/2015/12/order_5-300x186.png 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_5.png">
 <p>6. Make sure that everything is ok with your order before you select the &#8220;Finalize&#8221; option. When finalizing an order you must provide your PIN number to finalize.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_6.png"><img class="aligncenter size-full wp-image-12598" src="/imgs/2015/12/order_6.png" alt="order_6" width="655" height="353" srcset="/imgs/2015/12/order_6.png 655w, /imgs/2015/12/order_6-300x162.png 300w" sizes="(max-width: 655px) 100vw, 655px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_6.png">
 <p>7. You will get a message to confirm that your order has been successfully finalized and the funds will become available for the vendor to claim.</p>
-<div class="thumbnail"><a href="/imgs/2015/12/order_7.png"><img class="aligncenter size-full wp-image-12599" src="/imgs/2015/12/order_7.png" alt="order_7" width="750" height="372" srcset="/imgs/2015/12/order_7.png 750w, /imgs/2015/12/order_7-300x149.png 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+<div class="thumbnail"><a href="/imgs/2015/12/order_7.png">
 <h3>Some important notes about ordering:</h3>
 <ol>
 <li>Do your research, check reviews for both listings and vendors before placing an order.</li>
@@ -50,7 +50,7 @@ Posted by: DeepDotWeb
 </ol>
 <p>Make sure to register using this link and check out the detailed help section on the market which offers clear tutorials:</p>
 <p><strong><a href="http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY" target="_blank">http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY</a></strong></p>
-<p>And don&#8217;t forget to review the market on our <a href="/marketplace-directory/listing/acropolis-market/" target="_blank">Acropolis listing page</a>!</p>
+<p>And don&#8217;t forget to review the market on our <a href="#">Acropolis listing page</a>!</p>
 <p>We really like to encourage the use of multisig market and invite all markets to provide us with usage tutorials.</p>
 </div>
 

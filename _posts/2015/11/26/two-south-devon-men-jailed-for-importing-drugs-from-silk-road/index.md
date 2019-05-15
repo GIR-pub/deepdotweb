@@ -10,7 +10,6 @@ Posted by: Benjamin Vitáris
 <span><a href="/2015/11/26/two-south-devon-men-jailed-for-importing-drugs-from-silk-road/
 
 
-    
 <p><a href="http://www.torquayheraldexpress.co.uk/South-Devon-men-jailed-using-website-shut-FBI-buy/story-28213043-detail/story.html">Nathan Wilson (30), and Jamie McAllister (35) has been both sentenced to prison for importing heroin and cannabis from the busted Silk Road marketplace.</a> According to law enforcement officials, the two men were paying via Western Union for the drugs that have been sold from India and Thailand by vendors.</p>
 <p>The border officials have intercepted packages containing illegal substances and were estimated to be worth £14.000 on the street at the time. McAllister when question by the local police, he told them that he was a legitimated businessman who bought sarongs and saris from the Far East. It was a rather bad move from him since later turned out that the site he ordered the packages was Silk Road, the infamous dark net market that has been shut down by the FBI.</p>
 <p>When the two “drug importers” were presented before Exeter Crown Court, they pleaded guilty for conspiracy to supply heroin and cannabis. McAllister was jailed for three years, Wilson for two years and eight months. James Waddington, Recorder QC made these statements:</p>
@@ -28,4 +27,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-11-26
 
-    

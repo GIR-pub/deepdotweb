@@ -7,7 +7,6 @@ Posted by: DeepDotWeb
 <span>July 7, 2015</span>
 
 
-    
 <p>Agora admins have posted a new message on the market announcing that from now own it will not allow the sale of lethal weapons:</p>
 <p>Original announcement link on agora: http://agorahooawayyfoe.onion/info/noweapons</p>
 <blockquote><p>&#8212;&#8211;BEGIN PGP SIGNED MESSAGE&#8212;&#8211;<br />
@@ -30,8 +29,7 @@ Posted by: DeepDotWeb
     7b0uboq9MgQ1h+P1s30b<br />
     =u/KI<br />
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p></blockquote>
-<p><a href="/imgs/2015/07/Agoraweapon.png"><img class="aligncenter size-full wp-image-10968" src="/imgs/2015/07/Agoraweapon.png" alt="Agoraweapon" width="858" height="637" srcset="/imgs/2015/07/Agoraweapon.png 858w, /imgs/2015/07/Agoraweapon-300x223.png 300w" sizes="(max-width: 858px) 100vw, 858px" /></a>This is probably a smart move considering the amount of people who got arrested when purchasing guns trough honeypot vendors and the additional heat from LE these product are attracting (more details available here:  <a href="http://www.gwern.net/Black-market%20arrests">Tor black-market-related arrests</a>).</p>
+<img src="imgs/2015/07/Agoraweapon.png">
 
 Updated: 2015-07-07
 
-    

@@ -11,13 +11,13 @@ Posted by: DeepDotWeb
 
 
 <p class="post-box-title"><span style="text-decoration: underline;"><strong>Update 12.3.15</strong></span>: <a title="Permalink to Shiny Flakes Bust:  38 Houses Raided" href="/2015/03/12/shiny-flakes-bust-38-houses-raided/" rel="bookmark">Shiny Flakes Bust: 38 Houses Raided</a></p>
-<p>The Known German vendor known as &#8220;<a href="/marketplace-directory/listing/shiny-flakes">Shiny flakes</a>&#8221; was arrested in <span class="notranslate"><span class="pf-content">one of the biggest </span></span><span class="notranslate"><span class="pf-content">discoveries in the Leipziger criminal history.</span></span></p>
+<p>The Known German vendor known as &#8220;<a href="#">discoveries in the Leipziger criminal history.</span></span></p>
 <p><span class="notranslate"><span class="pf-content">On February 27 , 2015, police investigators arrested the alleged owner, a young Leipzig resident, who lives with his mother. The 20-year old man was apparently hoarding an astonishing amount of around 320kg of various drugs, the man is accused of selling the drugs on the internet using the alias &#8220;Shiny flakes&#8221; on 2 sites &#8211; one &#8220;.onion site&#8221; and one clearnet site at <strong>shiny-flakes.to</strong>:<br />
 </span></span></p>
-<div id="attachment_9408" style="max-width: 989px" class="wp-caption aligncenter"><a href="/imgs/2015/03/seized.png"><img class="wp-image-9408" src="/imgs/2015/03/seized.png" alt="seized" width="979" height="798" srcset="/imgs/2015/03/seized.png 1146w, /imgs/2015/03/seized-300x245.png 300w, /imgs/2015/03/seized-1024x835.png 1024w" sizes="(max-width: 979px) 100vw, 979px" /></a><p class="wp-caption-text">The seized onion site</p></div>
-<div id="attachment_9419" style="max-width: 300px" class="wp-caption aligncenter"><a href="/imgs/2015/03/impressum.jpg"><img class="size-full wp-image-9419" src="/imgs/2015/03/impressum.jpg" alt="The police even linked their contact details from the site" width="290" height="180" /></a><p class="wp-caption-text">^The police even linked their contact details from the site^</p></div>
+<div id="attachment_9408" style="max-width: 989px" class="wp-caption aligncenter"><a href="/imgs/2015/03/seized.png">
+<div id="attachment_9419" style="max-width: 300px" class="wp-caption aligncenter"><a href="/imgs/2015/03/impressum.jpg">
 <p>The site <a href="http://www.l-iz.de/leben/faelle-unfaelle/2015/03/leipziger-ermittler-nehmen-drogenversand-shiny-flakes-hoch-78227">l-iz.de</a> reports that the bust was followed by other raids in other locations. The seized sites used to offer drugs s<span class="notranslate">uch as cocaine, crystal, LSD, speed and marijuana. More details will be released in a press release by the German police on Thursday (tommorow) &#8211;  If you ask us, its ridiculous to believe that a single 20 years old was the sole owner of a drug operation who owns 320kg of &#8220;hard drugs&#8221;, but we will be following and updating once we learn some new details..</span></p>
 <p>The former site:</p>
-<p><a href="/imgs/2015/03/shiny.jpg"><img class="aligncenter size-full wp-image-9416" src="/imgs/2015/03/shiny.jpg" alt="shiny" width="620" height="412" srcset="/imgs/2015/03/shiny.jpg 620w, /imgs/2015/03/shiny-300x199.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a></p>
+<img src="imgs/2015/03/shiny.jpg">
 
 Updated: 2015-03-11

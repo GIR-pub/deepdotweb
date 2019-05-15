@@ -10,11 +10,10 @@ Posted by: DeepDotWeb
 
 
 
-<p><a href="/marketplace-directory/listing/agora-market">Agora</a>, the current largest market is about to pause its operations in order to deal with major security concerns before coming back, this will be done in a similar manner to what we have seen only in the BlackMarketReloaded case where the admins have notified the users prior to shutting down and did not &#8220;exit scam&#8221;. The admins have posted a signed message on the market explaining the situation (agorahooawayyfoe.onion/info/pausingoperations):</p>
-<div id="attachment_11360" style="width: 628px" class="wp-caption aligncenter"><a href="/imgs/2015/08/agora.png"><img class="size-full wp-image-11360" src="/imgs/2015/08/agora.png" alt="Agora's message" width="618" height="719" srcset="/imgs/2015/08/agora.png 618w, /imgs/2015/08/agora-258x300.png 258w" sizes="(max-width: 618px) 100vw, 618px" /></a><p class="wp-caption-text">Agora&#8217;s message</p></div>
+<p><a href="#">Agora</a>, the current largest market is about to pause its operations in order to deal with major security concerns before coming back, this will be done in a similar manner to what we have seen only in the BlackMarketReloaded case where the admins have notified the users prior to shutting down and did not &#8220;exit scam&#8221;. The admins have posted a signed message on the market explaining the situation (agorahooawayyfoe.onion/info/pausingoperations):</p>
+<div id="attachment_11360" style="width: 628px" class="wp-caption aligncenter"><a href="/imgs/2015/08/agora.png">
     
-
-    ---
+---
 title: "--BEGIN PGP SIGNED MESSAGE---
 title: "--
     Hash: SHA512
@@ -116,16 +115,15 @@ title: "--
 title: "--END PGP SIGNATURE---
 title: "--</textarea></div>
 
-    
     Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
 <p><strong>So Where do we go now?</strong></p>
 <p>Well here&#8217;s what we have next in line:</p>
 <ul>
-<li class="ok"><strong><a href="/marketplace-directory/listing/abraxas-market">Abraxas Market</a></strong></li>
-<li class="ok"><strong><a href="/marketplace-directory/listing/dream-market">Dream market</a></strong></li>
-<li class="ok"><strong><a href="/marketplace-directory/listing/alphabay">AlphaBay</a></strong></li>
-<li class="ok"><strong><a href="/marketplace-directory/listing/middle-earth-marketplace">Middle Earth Marketplace</a></strong></li>
-<li class="ok"><strong><a href="/marketplace-directory/listing/outlaw-market"> Outlaw Market</a></strong></li>
+<li class="ok"><strong><a href="#">Abraxas Market</a></strong></li>
+<li class="ok"><strong><a href="#">Dream market</a></strong></li>
+<li class="ok"><strong><a href="#">AlphaBay</a></strong></li>
+<li class="ok"><strong><a href="#">Middle Earth Marketplace</a></strong></li>
+<li class="ok"><strong><a href="#"> Outlaw Market</a></strong></li>
 </ul>
 <p>Don&#8217;t forget to visit our <a href="/dark-net-market-comparison-chart/">markets chart</a> &amp; <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list</a>.</p>
 <p>&nbsp;</p>

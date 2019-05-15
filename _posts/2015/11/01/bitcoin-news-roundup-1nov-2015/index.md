@@ -5,10 +5,6 @@ title: "Bitcoin News Roundup – 1Nov. 2015"
 Posted by: DeepDotWeb 
 
 <span>November 1, 2015</span>
-
-
-
-    
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p><strong> </strong>Microsoft and Consensys join forces for implementing Ethereum on Azure. As Ian Allison of <a href="http://www.ibtimes.co.uk/ethereum-spin-off-consensys-announces-microsoft-partnership-deliver-blockchain-service-1526090">International Business Times</a>writes, Microsoft has signed a deal with Ethereum New York-based collective Consensys for the development of new Ethereum blockchain as an enterprise solution. The partnership aims to facilitate business customers everywhere to set up private blockchain networks as well as public Ethereum nodes via Microsoft’s Azure cloud platform. The new service will be officially launched on November 10<sup>th</sup> at the DΞVCON1 Conference that will be held in London.</p>
 <p>Nasdaq reveals Linqblockchain platform. As Laura Shin of <a href="http://www.forbes.com/sites/laurashin/2015/10/27/nasdaq-unveils-blockchain-enabled-platform-linq-announces-6-inaugural-clients/">Forbes</a> reports, following the initial announced in May, Nasdaq presented Linq, its new blockchain-based platform at the Money 20/20 event that was held in Las Vegas on October 27<sup>th</sup>. The platform is set up to facilitate management, transfer and sale of shares of private companies. Linq’s first clients are Chain.com, Change Tip, PeerNova, Synack, Tango and Vera, and the list is expected to grow further. Robert <em>Greifeld, Nasdaq CEO, stated that “</em><em>the initial demand for Nasdaq Linq from these innovative, first-mover companies, and the validation it represents of our application of blockchain technology is extremely encouraging.”</em></p>
@@ -22,4 +18,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-11-01
 
-    

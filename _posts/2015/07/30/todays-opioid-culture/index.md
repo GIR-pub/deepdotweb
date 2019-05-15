@@ -7,7 +7,6 @@ Posted by: Lines_of_Thought
 <span>July 30, 2015</span>
     
 
-    
 <p>For thousands of years opiates have been used in many different contexts. Going back to the pre-biblical times, Opium was used as a healing remedy, an anesthetic, ritual purposes and just to get high. During the 15<sup>th</sup> century opium use was widespread in China and then in the 18<sup>th</sup> century the British came in and used their opium habits to balance the economy as China was doing very well in that time period, which the British, obviously, did not want. Then towards the start of the 20<sup>th</sup> century opium and all opiate products were banned as their use had a high impact on the working class, which meant that less work was being done.</p>
 <p>In recent times opiates have been demonized for their ability to make users dependent on the substances and more often than not, turn to crime to get their next fix. However today, opiate use has become more popular due to the influx of pharmaceutical opioids and military occupation of poppy fields in Afghanistan, which in turn gets sent back to the western countries and as a result a large amount of Heroin is flooding the streets, turning more and more into opiate users.</p>
 <p>After looking through some statistics I came across some astounding facts. Over the past 40 years drug overdose (mainly opiates) have increased some 10 times the amount at the beginning of the 70&#8217;s with an exponential curve showing that fact. In just ten years (between 1998 and 2008) opioid overdoses increased 3 times as much and it&#8217;s mostly in western countries.</p>
@@ -129,4 +128,3 @@ Posted by: Lines_of_Thought
 
 Updated: 2015-07-30
 
-    

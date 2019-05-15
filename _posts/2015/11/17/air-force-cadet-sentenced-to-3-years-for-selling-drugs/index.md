@@ -7,7 +7,6 @@ Posted by: Benjamin Vitáris
 <span>November 17, 2015</span>
 
 
-    
 <p><a href="http://gazette.com/air-force-academy-cadet-sentenced-for-dealing-drugs/article/1562468">Nathaniel Penalosa, a junior cadet at the Air Force Academy was sentenced for 3 years in military prison for the charge of dealing drugs as a part of the plea deal.</a> The cadet admitted that he sold MDMA, LSD, Modafinil, that he ordered from dark net marketplaces to his classmates.</p>
 <p>&#8220;I purchased it on the Internet, had it mailed to me,&#8221; Penalosa stated.</p>
 <p>Penalosa who previously earned the Air Force Achievement Medal was on the military honors list at the academy before the drugs, an electronic scale and small bags (that are mostly used for selling illegal substances) were found during a random room inspection.</p>
@@ -22,4 +21,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-11-17
 
-    

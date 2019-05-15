@@ -10,9 +10,7 @@ Posted by: DeepDotWeb
 
 
 
-    
 
-    
 <blockquote><p>An Australian man pleaded guilty on Friday to U.S. charges stemming from his role as a staff member of Silk Road, an underground website where people bought drugs and other illicit goods using bitcoin digital currency.</p>
 <p>Peter Nash, 42, pleaded guilty in Manhattan federal court to conspiracy to commit narcotics trafficking and money laundering, a month after a U.S. jury convicted the suspected mastermind behind Silk Road, Ross Ulbricht.</p></blockquote>
 <p><strong>Full article</strong>: <a href="http://www.reuters.com/article/2015/03/13/us-usa-bitcoin-silkroad-idUSKBN0M92G820150313">http://www.reuters.com/article/2015/03/13/us-usa-bitcoin-silkroad-idUSKBN0M92G820150313</a></p>
@@ -27,8 +25,6 @@ Posted by: DeepDotWeb
 </div>
 </div>
 
-    
 
-    
 
 Updated: 2015-03-14

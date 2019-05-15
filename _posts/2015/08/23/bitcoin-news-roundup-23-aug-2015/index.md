@@ -9,7 +9,6 @@ Posted by: DeepDotWeb
 <span>August 23, 2015</span>
 
 
-    
 <span><a href="/2015/08/23/bitcoin-news-roundup-23-aug-2015/
         
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>

@@ -32,8 +32,7 @@ Posted by: DeepDotWeb
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
     
-
-    -----BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1
     
     mQENBFU7NTEBCACvnZkiewS4OZM93+w1lLYIz634I6b02Yvtqd+tGU5CbZ0uZGYJ
@@ -64,7 +63,6 @@ Posted by: DeepDotWeb
     =7Qes
     -----END PGP PUBLIC KEY BLOCK-----</textarea></div>
 
-    
 </p></div>
 <p><b>What are the fees?<br/>
     Only $5 per contract</b> &#8211; this is payable by the <b>initiator</b> (the user that creates the contract).</p>
@@ -76,4 +74,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-04-29
 
-    

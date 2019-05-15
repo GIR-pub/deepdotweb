@@ -4,11 +4,7 @@ title: "BlackBank Market: Permanent Alternate Onion Addresses"
 
 Posted by: DeepDotWeb 
 
-<span>May 9, 2015</span>
-
-
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+<span>May 9, 2015</span>-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Howdy,
@@ -51,13 +47,9 @@ Posted by: DeepDotWeb
     =FNzD
     -----END PGP SIGNATURE-----
 
-    
 
 
-    
 
-    
 
 Updated: 2015-05-09
 
-    

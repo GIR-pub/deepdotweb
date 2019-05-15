@@ -7,9 +7,8 @@ Posted by: DeepDotWeb
 <span>May 18, 2015</span>
 
 
-<p><a href="/marketplace-directory/listing/black-bank-bitcoin-market">BlackBank</a> is not gone:</p>
-
-    -----BEGIN PGP SIGNED MESSAGE-----
+<p><a href="#">BlackBank</a> is not gone:</p>
+-----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Howdy,
@@ -38,10 +37,8 @@ Posted by: DeepDotWeb
     =1MLm
     -----END PGP SIGNATURE-----
 
-    
 <p>
     Reddit discussion can be found <a href="http://www.reddit.com/r/BlackBank/comments/36b6t2/blackbank_under_maintenance/">here</a></p>
 
 Updated: 2015-05-18
 
-    

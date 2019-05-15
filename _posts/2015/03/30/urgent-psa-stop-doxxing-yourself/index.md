@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 
 
-<p>With the recent massive influx of traffic on this site, since <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evo went down</a> and even more since <a href="/marketplace-directory/listing/agora-market">Agora is down</a>, there is also a massive influx of people doing all they can to doxx themselves (<a href="/2014/03/02/deepdotwebs-darknet-dictionary/">post their own personal details</a>) <span style="text-decoration: underline;">along with incriminating information</span> like:</p>
+<p>With the recent massive influx of traffic on this site, since <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evo went down</a> and even more since <a href="#">along with incriminating information</span> like:</p>
 <ul>
 <li>What they ordered</li>
 <li>From which vendor</li>
@@ -18,7 +18,7 @@ Posted by: DeepDotWeb
 <li>Their picture</li>
 <li>Their social network profiles</li>
 </ul>
-<p><a href="/imgs/2015/03/fruit.png"><img class="aligncenter size-full wp-image-9776" src="/imgs/2015/03/fruit.png" alt="fruit" width="673" height="362" srcset="/imgs/2015/03/fruit.png 673w, /imgs/2015/03/fruit-300x161.png 300w" sizes="(max-width: 673px) 100vw, 673px"/></a><br/>
+<img src="imgs/2015/03/fruit.png">
 <strong>Whatever it is, WE DON&#8217;T WANT TO KNOW. <span style="text-decoration: underline;">PLEASE STOP</span>!</strong> For the seriously low hanging fruits among you, i will be more specific:</p>
 <ol>
 <li>Stop sending us mail with incriminating information about yourself from your personal GMAILS (they are being deleted immediately!)</li>

@@ -9,9 +9,7 @@ Posted by: Benjamin Vitáris </a></span>
 <span>December 14, 2015</span>
 
 
-    
 
-    
     
     
 <p><a href="http://www.nottinghampost.com/Man-jailed-attempting-buy-hand-gun-case-terrorist/story-28347495-detail/story.html">Harry Woodward (21), of Church Street, Newark, has been sentenced to 21 months in prison for an attempt to purchase a handgun, which cost roughly £1,100, from a dark net market (which has not been named by the court).</a> The man said he needed the gun for self-defense in case of a terror attack, describing by his own words he needed the firearm &#8220;in case s*** hit the fan&#8221; concerning terrorism.</p>
@@ -28,7 +26,6 @@ Posted by: Benjamin Vitáris </a></span>
 
 Updated: 2015-12-14
 
-    
     
 
 

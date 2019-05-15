@@ -7,7 +7,6 @@ Posted by: Benjamin Vitáris
 <span>November 15, 2015</span>
 
 
-    
 <p><a href="http://www.thejournal.ie/drugs-in-ireland-2427294-Nov2015/">Drug use in Ireland is illegal, currently, if someone is caught using any kinds of illegal substances will be taken to police custody by the local law enforcement authorities (the Gardaí).</a> Addicts will go through the treatment process of the criminal justice system, which has only a small chance that it will be successful. In addition to that, the current drug policy in Ireland could damage the life of the addicts and could also waste the manpower of the Gardaí, since they could be focusing on the tracking down of more important criminals and crimes instead of chasing simple drug users.</p>
 <p>An expert of the case made a statement about the current drug policy of the country:</p>
 <p>”When Gardaí arrests somebody taking heroin down a laneway there is no beneficiary. The addict is thrown into the criminal justice system which doesn’t benefit them, garda time is spent arresting this person and taxpayer money ends up being spent. The idea of decriminalisation makes mountains of sense.”</p>
@@ -22,4 +21,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-11-15
 
-    

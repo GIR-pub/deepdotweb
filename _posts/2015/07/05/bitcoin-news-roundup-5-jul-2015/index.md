@@ -10,7 +10,6 @@ Posted by: DeepDotWeb
 
 
 
-    
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Greeks are turning to the bitcoin as a result of the current banking crisis. According to <a href="http://money.cnn.com/2015/06/29/technology/greece-bitcoin/index.html">CNN Money</a>, there is an increasing number of Greeks are registering to online trading platforms, mainly the German Bitcoin.de, in an effort to investigate the benefits of the bitcoin compared to the euro and if there is a point in trading in the digital currency. In addition, it is estimated that the bitcoin trades from Greece on Bitstamp have skyrocketed to 79%.</p>
 <p>Reveal, the mobile startup, is looking to become a huge social network by issuing its own cryptocurrency to sponsor network expansion. <em>Michael J. Casey of </em><a href="http://blogs.wsj.com/moneybeat/2015/06/16/bitbeat-social-network-to-launch-own-coin-gift-cards-on-the-blockchain/">The Wall Street Journal</a><em> reports that Reveal has raised </em>$1.5-million to promote its own network with the contribution of private investors, including Mike Hirshland of Resolute Ventures and Adam Draper of Boost VC. Within the first year, the members of Reveal will be rewarded with 1,000 Reveal Coins (RVL), while there is an option for a 10,000 RVL reward for every referred friend who joins the network and 100 RVL for every “like” gained in their posts.</p>
@@ -26,4 +25,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-07-05
 
-    

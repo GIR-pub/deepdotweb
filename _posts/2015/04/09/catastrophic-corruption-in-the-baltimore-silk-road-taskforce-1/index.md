@@ -6,12 +6,10 @@ title: "Catastrophic Corruption In The Baltimore Silk Road Taskforce (1)"
 Posted by: Allen Hoffmann, JD
 
     
-    
 <span>April 9, 2015</span>
     
     
 
-    
 
 <p>Today, we’re taking a good look at the latest twist in the Silk Road saga; the allegation that two feds involved in the investigation, when they weren’t working on busting people, were busy abusing their positions of power just about as far as would be possible. Cue gigantic shitstorm.</p>
 <p>Here’s <a href="http://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/30/criminal_complaint_force.pdf">the complaint</a>, and here’s the Government’s petition to keep one of the former federal agents locked up ahead of trial. <a href="https://fusiondotnet.files.wordpress.com/2015/04/force-detention.pdf">for reference</a>.</p>
@@ -26,11 +24,9 @@ Posted by: Allen Hoffmann, JD
 <p>Let’s get the dull but sophisticated part out of the way first &#8211; the documents list Force as using “Engedi, LLC” in Maryland, and Bridges as using “Quantum International Invements, LLC” as components of their laundering and obscuring tactics, with Force bouncing money around Panama and elsewhere. When you think of Baltimore, corruptions, and cops, what do you think of? Probably “The Wire”, where we occasionally see fictitious police contemplate, or engage in, some opportunistic ‘taxation without representation’, perhaps during a warrant. What was happening in the Baltimore Silk Road Taskforce, if proven, was not someone pocketing a few stacks of hard cash when flipping a stash house; it was a pre-mediated, ongoing and predatory enterprise, with federal agents abusing their positions in a multitude of ways. Its that blurring of purpose and intent which becomes characteristic in the complaint against Force and his alleged co conspirator which makes it so damning. They were professionals. They acted together. And their hubris as to just how much can be pulled from the blockchain has been the downfall of both.</p>
 
     
-    
 
 Updated: 2015-04-09
 
-    
     
 
 

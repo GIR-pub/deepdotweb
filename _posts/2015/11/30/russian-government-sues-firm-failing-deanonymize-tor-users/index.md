@@ -9,7 +9,6 @@ Posted by: Benjamin Vitáris
 
 
 
-    
 <p><a href="http://dailycaller.com/2015/11/25/russia-sues-company-for-failing-to-reveal-anonymous-internet-users/">The Ministry of Internal Affairs in Russia filed a suit against Rostec, a cyber defense company that was working with the Russian government, for the failure to reveal the details of Tor users in the requested time frame.</a></p>
 <p>According to documents, the government and Rostec has a contract worth 3.9 million Rubles (around $60.000) for the company to “research the possibility of obtaining technical information on users of [the] anonymous network Tor and users’ equipment.”</p>
 <p>Since Rostec did not hack into the Tor Project’s anonymous browser in order to reveal information about its users in time, the government is trying to end the contract with the tech firm. However, this is only the government’s viewpoint, since Vladimir Pleshakov, the lawyer who is representing Rostec in the case states that the Russian government just wants “to bring down the price of the contract or claim a penalty” and notes that despite this recent lawsuit, the contract with the government will continue, according to Pleshakov.</p>
@@ -18,4 +17,3 @@ Posted by: Benjamin Vitáris
 
 Updated: 2015-11-30
 
-    

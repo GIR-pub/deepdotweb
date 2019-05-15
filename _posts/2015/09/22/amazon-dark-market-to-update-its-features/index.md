@@ -9,9 +9,8 @@ Posted by: DeepDotWeb
 
 
 
-<p><a href="/marketplace-directory/listing/amazon-dark">Amazon Dark</a> released several new updates and announced them on <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3ls7uz/amazon_dark_has_been_updated/" target="_blank">Reddit</a>, the updates posted here to their request</p>
-<div class="usertext-body may-blank-within md-container ">
-<div class="md">
+<p><a href="#">Reddit</a>, the updates posted here to their request</p>
+
 <blockquote><p>To accommodate our growth we have made some additions you may find interesting</p>
 <ul>
 <li>Improved Interface</li>

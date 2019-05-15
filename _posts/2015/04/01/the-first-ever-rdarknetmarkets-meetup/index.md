@@ -22,7 +22,7 @@ Posted by: DeepDotWeb
 <p>If your reddit account meets the criteria go ahead &amp; visit the site below to register &amp; learn more about the event!</p>
 <p><strong>dnmfekemzvbdcis4.onion</strong></p>
 <p>Here is the official flyer! It&#8217;s time to get hype:</p>
-<p><a href="/imgs/2015/04/6UJtiJg1.png"><img class="aligncenter size-full wp-image-9813" src="/imgs/2015/04/6UJtiJg1.png" alt="6UJtiJg[1]" width="1000" height="300" srcset="/imgs/2015/04/6UJtiJg1.png 1000w, /imgs/2015/04/6UJtiJg1-300x90.png 300w, /imgs/2015/04/6UJtiJg1-995x300.png 995w" sizes="(max-width: 1000px) 100vw, 1000px"/></a>As this is the first time running the event we&#8217;re expecting some hiccups along the way, but we are seriously looking forward to meeting you awesome people from the community! All feedback is welcome and should be posted in the comments.</p>
+<img src="imgs/2015/04/6UJtiJg1.png">
 <h2 class="section-heading">Meet your favorite mods &amp; vendors</h2>
 <p class="lead">Market mods and admins, as well as some of your<br/>
     favorite vendors, will be meeting in LISBON PORTUGAL on June 9-11. Portugal has decriminalized ALL drugs over ten years ago and there is nothing illegal about having this meeting! That’s right, drugs are NOT illegal in Portugal.</p>
@@ -43,4 +43,3 @@ Posted by: DeepDotWeb
 
 Updated: 2015-04-01
 
-    

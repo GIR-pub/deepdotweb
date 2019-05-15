@@ -12,11 +12,10 @@ Posted by: David Cornwish </a></span>
 
     
     
-    
 <p>Fear, it seems, is the mission-creep now invading the darknet . It appears that dark markets, the narco-types, are fearful of taking the top slot. But why?</p>
 <p>History tells them, and us, that if you put your head over the parapet you&#8217;ll find yourself the main target. When Agora went offline the other markets in 2nd 3rd etc. places, by default, were expected and by expectations should have taken up the slack. This scenario has not really happened.</p>
 <p>The rational behind the other markets seem to be twofold: 1. No-one wants to be number one as that slot automatically makes them the top FBI target for a take-down (this being great for the Fed&#8217;s PR machine) and 2. The extra DDOS attacks and server pressure from taking up the slack of Agora immigrants is a hit they would rather not suffer from their bottom-line BTC profit. Thus the double-whammy of being a target and having to fork out more of their profits has the causation of what we are now seeing; markets such as Middle Earth going off citing security concerns and a, by all accounts, take-it-and-run policy by certain other top markets, though the latter may well be rumors but certainly not without precedence.</p>
-<p>Rumours? The onion-grapevine has been very active, not least on sites such as DeepDotWeb. From an unknown drugs cartel giving the green light to a &#8216;lesson&#8217; offering a 500k Euro &#8216;reward&#8217; for Gandalf of <a href="/marketplace-directory/listing/middle-earth-marketplace">Middle Earth</a>, the market which has us all guessing if they really have &#8216;done a bunk&#8217; or really they do have your best interests at heart and, yes, they will come back with fantastic new servers, to Abraxas: Who? Yes they now have gone from the lists of DDW&#8217;s markets. Nucleus also? Afraid so yes, or maybe, as <a href="/marketplace-directory/listing/nucleus-market">their feedback here on DDW</a> is riddled with warnings and anecdotal evidence so as to make even the most fearless vendor empty their Nucleus-wallet.</p>
+<p>Rumours? The onion-grapevine has been very active, not least on sites such as DeepDotWeb. From an unknown drugs cartel giving the green light to a &#8216;lesson&#8217; offering a 500k Euro &#8216;reward&#8217; for Gandalf of <a href="#">their feedback here on DDW</a> is riddled with warnings and anecdotal evidence so as to make even the most fearless vendor empty their Nucleus-wallet.</p>
 <p>Other possibilities? Of course. The current state of dark markets makes us all conspiracy theorists as, due to their very nature, dark markets are, well, dark. Covert. Thus, who can really say, without doubt, that one or more markets have not &#8216;flipped&#8217; &#8211; that the owners have been arrested and the entire site, rather than having a typical THIS HIDDEN SITE HAS BEEN SEIZED notice, courtesy of our usual friendly three-letter special service agencies, is now being run by the same and is collating the details of all buyers and sellers.</p>
 <p>Perhaps a certain market was originally made by the FBI (replace with any other country&#8217;s service &#8211; maybe the NCA of the UK? and has always been run and operated by them. Shivers&#8230;.</p>
 <p>It&#8217;s enough to turn you drug-free!</p>
@@ -29,7 +28,6 @@ Posted by: David Cornwish </a></span>
 
 Updated: 2015-11-13
 
-    
     
 
 
