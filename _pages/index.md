@@ -7,7 +7,8 @@ header:
 toc: true
 sidebar:
   nav: "jolly"
-permalink: "/"
+permalink: /
+share: true
 ---
 
 **Archive: Privacy Guides, and History from DeepDotWeb.**
