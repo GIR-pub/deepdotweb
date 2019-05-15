@@ -294,7 +294,4 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: 
-          - "blog2013"
-          - "blog2014"
-          - "blog2015"
+        nav: "blognav"

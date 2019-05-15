@@ -40,6 +40,38 @@ jolly:
         url: "/jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-libertas-dpr-sabu-lulzsec/"
       - title: "HOW FAR WILL LAW ENFORCEMENT GO?"
         url: "/jolly-rogers-security-guide-for-beginners/how-far-will-law-enforcement-go/"
+      - title: "FRAUDULENT PRIVATE MESSAGES"
+        url: "/jolly-rogers-security-guide-for-beginners/fraudulent-private-messages/"
+      - title: "LEARNING FROM OTHERS&#8217; MISTAKES. HOW THEY BUSTED SABU"
+        url: "/jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-how-they-busted-sabu/"
+      - title: "LEARNING FROM OTHERS&#8217; MISTAKES. SABU BECAME FBI INFORMANT AND BETRAYED JEREMY HAMMOND"
+        url: "/jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-sabu-became-fbi-informant-and-betrayed-jeremy-hammond/"
+      - title: "WHERE YOU MIGHT CONSIDER RUNNING TO, IF YOU HAD NO OTHER CHOICE"
+        url: "/jolly-rogers-security-guide-for-beginners/where-you-might-consider-running-to-if-you-had-no-other-choice/"
+      - title: "SECURING YOUR ACCOUNT FROM FBI MONITORING"
+        url: "/jolly-rogers-security-guide-for-beginners/securing-your-account-from-fbi-monitoring/"
+      - title: "INVINCIBILITY MINDSET, FEDERAL GOVERNMENT BULLYING TACTICS"
+        url: "/jolly-rogers-security-guide-for-beginners/invincibility-mindset-federal-government-bullying-tactics/"
+      - title: "HOW TO CONNECT TO TOR OVER TOP OF TOR"
+        url: "/jolly-rogers-security-guide-for-beginners/how-to-connect-to-tor-over-top-of-tor/"
+      - title: "HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC"
+        url: "jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/"
+      - title: "VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES"
+        url: "/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/"
+      - title: "AN EXAMPLE OF REALLY BAD OPSEC &#8211; SMARTEN UP!"
+        url:  "/jolly-rogers-security-guide-for-beginners/an-example-of-really-bad-opsec-smarten-up/"
+      - title: "TOR CHAT!"
+        url: "/jolly-rogers-security-guide-for-beginners/tor-chat/"
+      - title: "OBTAINING, SENDING AND RECEIVING BITCOINS ANONYMOUSLY"
+        url: "/jolly-rogers-security-guide-for-beginners/obtaining-sending-and-receiving-bitcoins-anonymously/"
+      - title: "CLEARNET VS HIDDEN SERVICES &#8211; WHY YOU SHOULD BE CAREFUL"
+        url: "/jolly-rogers-security-guide-for-beginners/clearnet-vs-hidden-services-why-you-should-be-careful/"
+      - title: "THEY ARE WATCHING YOU &#8211; VIRUSES, MALWARE, VULNERABILITIES!"
+        url: "/jolly-rogers-security-guide-for-beginners/they-are-watching-you-viruses-malware-vulnerabilities/"
+      - title: "MONITORING YOU WITH AN ANTENNA!"
+        url: "/jolly-rogers-security-guide-for-beginners/monitoring-you-with-an-antenna/"
+      - title: "COOKIES &amp; JAVASCRIPT REVISITED, PLUS FLASH COOKIES AND OTHER BROWSER TRACKING"
+        url: "/jolly-rogers-security-guide-for-beginners/cookies-javascript-revisited-plus-flash-cookies-and-other-browser-tracking/"
       - title: ""
         url: ""
       - title: ""
@@ -59,7 +91,7 @@ jolly:
       - title: ""
         url: ""
 
-blog2013:
+blognav:
   - title: "Blog Archive 2013"
     children:
       - title: "October 17 - end-of-silk-road-youtube-tribute"
@@ -214,8 +246,6 @@ blog2013:
         url: "/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/"
       - title: "December 31 - new-bmr-based-market-utopia-market"
         url: "/new-bmr-based-market-utopia-market/"
-
-blog2014:
   - title: "Blog-Archive 2014"
     children:
       - title: "January 05 - silk-road-2-0-lost-escrow-funds-returned"
@@ -874,8 +904,6 @@ blog2014:
         url: "/deep-web-law-enforcement-informers/"
       - title: "December 31 - personal-experience-part-7-persistent-volumes"
         url: "/personal-experience-part-7-persistent-volumes/"
-
-blog2015:
   - title: "Blog-Archive 2015"
     children:
       - title: "January 02 - weve-learnt-benthall-criminal-complaint"
