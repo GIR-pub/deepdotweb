@@ -91,7 +91,7 @@ jolly:
       - title: ""
         url: ""
 
-BLOGNAV:
+blognav:
   - title: "Blog Archive 2013"
     children:
       - title: "October 17 - END-OF-SILK-ROAD-YOUTUBE-TRIBUTE"
