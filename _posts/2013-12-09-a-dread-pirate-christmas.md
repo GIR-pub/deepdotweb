@@ -120,7 +120,8 @@ title: "A Dread Pirate Christmas"
 <li>New features/implementations.</li>
 <li>DPR is Santa. Or the new Pope. Possibly both.</li>
 </ul>
-<div id="attachment_2369" style="width: 380px" class="wp-caption aligncenter"><a href="/imgs/2013/12/usps.jpg"/>
+
+<img src="/imgs/2013/12/usps.jpg"/>
 <p>Other ongoing projects funded or Kickstarted by DPR include the journalist credentials of yours truly – something that’s been covered already by DeepDotWeb: <a href="/2013/11/16/get-ready-to-silk-roads-newspaper/" target="_blank">The Courier Project </a>and he also makes significant contributions to help fund the Tor project.</p>
 <p>All of this hardly comes as a surprise however &#8211; after all, once you register for an account on Silk Road Marketplace, you &#8216;re greeted by a charter of sorts. And it’s quite welcoming – here’s an excerpt from DPR’s<br/>
     ‘<a href="/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">We Rise Again</a>’ statement:</p>

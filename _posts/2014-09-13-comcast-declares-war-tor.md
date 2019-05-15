@@ -11,7 +11,8 @@ Posted by: <a href="/author/nathan/" title="">Nathan Wold </a></span>
 <p>If you needed another reason to hate Comcast, the most hated company in America, they’ve just given it to you: they’ve declared war on Tor Browser.</p>
 <p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage From your ISP &#8211; Click here For Our Best VPN&#8217;s Chart!&lt;&lt;&lt;</a></p>
 <p>Reports have surfaced (The first one was via <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2g2e44/is_comcast_legally_allowed_to_do_this/" target="_blank">/r/darknetmarkets</a> and another one submitted to us) that Comcast agents have contacted customers using Tor and instructed them to stop using the browser or risk termination of service. A Comcast agent named Jeremy allegedly called Tor an “illegal service.” The Comcast agent told its customer that such activity is against usage policies.</p>
-<div id="attachment_7102" style="width: 855px" class="wp-caption aligncenter"><a href="/imgs/2014/09/cc.png"/>
+
+<img src="/imgs/2014/09/cc.png"/>
 <p>The Comcast agent then repeatedly asked the customer to tell him what sites he was accessing on the Tor browser. The customer refused to answer.</p>
 <p>The next day the customer called Comcast and spoke to another agent named Kelly who reiterated that Comcast does not want its customers using Tor. The Comcast agent then allegedly told the customer:</p>
 <blockquote><p>Users who try to use anonymity, or cover themselves up on the internet, are usually doing things that aren&#8217;t so-to-speak legal. We have the right to terminate,   fine, or suspend your account at anytime due to you violating the rules. Do you have any other questions? Thank you for contacting Comcast, have a great day.</p></blockquote>

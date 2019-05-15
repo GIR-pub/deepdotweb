@@ -14,9 +14,11 @@ Posted by: DeepDotWeb
 <p class="post-box-title">Hopefully this time they fail before even launching anything, since this time:</p>
 <ul>
 <li>They will be using scraped fake pages with similar look to pages on this site, to gain credibility before their planned launch:
-<div id="attachment_6699" style="width: 861px" class="wp-caption aligncenter"><a href="/imgs/2014/08/screengrab.png"/>
+
+<img src="/imgs/2014/08/screengrab.png"/>
 <li>They will post fake reviews:
-<div id="attachment_6701" style="width: 797px" class="wp-caption aligncenter"><a href="/imgs/2014/08/fakerev.png"/>
+
+<img src="/imgs/2014/08/fakerev.png"/>
 <li>I am posting this here as a warning so you could know in advance and avoid this attempt.</li>
 <li>Hopefully this will also help him reconsider his actions in case he is planning on fixing his broken reputation at some point.</li>
 </ul>

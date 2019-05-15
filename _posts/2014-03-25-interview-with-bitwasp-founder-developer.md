@@ -16,7 +16,8 @@ Posted by: DeepDotWeb
 <p>If you feel like helping to the Bitwasp project and contribute for the future development of better marketplaces you can donate to this bitcoin address: 19EkDTAaGWySZv1QsWxyWwYMZpo7jpvPYe<br />
     The developer is working full time on this project, is unemployed and living off the donations so he would really appreciate donations!<br />
     You can find more information here: <a href="http://bitwasp.co/" target="_blank">http://bitwasp.co/</a></p>
-<div id="attachment_4801" style="width: 227px" class="wp-caption aligncenter"><a href="/imgs/2014/03/bitwasp-new-design.png"/>
+
+<img src="/imgs/2014/03/bitwasp-new-design.png"/>
 <p><b>So, What can you tell us about the new finished, but beta version of Bitwasp?</b></p>
 <p><span style="text-decoration: underline;">Thomas</span>: Our major milestone will be publishing a full version of the Bitwasp code running multisig. Multisig will remove the trust users need to have in the site operator, and at each step of making payment and signing, the user has all the information they need to make an informed decision before proceeding. Users will never pay to an address that one party has control over, meaning less exposure when operators setting up a site. No one wants to be responsible for losing coin, as there&#8217;s often little recourse. But with multisig, even if the site experiences downtime, once buyers and sellers can communicate on another channel they can recover the funds.</p>
 <p>Multisig, or P2SH addresses, have been supported since 2012, so it&#8217;s insane that there isn&#8217;t more support for it. Bitwasp will be one of the first few sites to implement multisig, let alone publish all the code behind it.</p>

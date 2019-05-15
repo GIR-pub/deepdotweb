@@ -8,7 +8,8 @@ Posted by: DeepDotWeb
 
 <p>So it seems that as more people are posting threads agaist the interviewers, more people are seeking to do them, this time we had the REAL pleasure of interviewing Boogie &#8211; The PR representative of the <a href="marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution marketplace</a>.  Beside the fact that he was a fun person to interview he helped to clear out some common misconceptions about Evolution (refereed to as Evo in the interview), Which is important as its the fourth largest market today in the DarknetMarkets Scene.</p>
 <p><strong><a href="marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution Marketplace</a>:  http://k5zq47j6wd3wdvjq.onion</strong></p>
-<div id="attachment_5389" style="width: 655px" class="wp-caption aligncenter"><a href="/imgs/2014/05/admin.jpg"/>
+
+<img src="/imgs/2014/05/admin.jpg"/>
 <p>Evo = Evolution Market<br />
     TCF = Tor Carding forum</p>
 <p><strong>DeepDotWeb: So you are the next one that want to put himself in the line of fire with doing interviews? I see many are complaining about them on the forums.</strong><br />

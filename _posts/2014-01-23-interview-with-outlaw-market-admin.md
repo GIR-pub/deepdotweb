@@ -13,7 +13,8 @@ Posted by: DeepDotWeb
     http://outfor6jwcztwbpd.onion/index.php<br />
 <strong>Forum:</strong> http://outforumbpapnpqr.onion
 </div></div>
-<div id="attachment_3628" style="max-width: 545px" class="wp-caption aligncenter"><a href="/imgs/2014/01/outlawadmin.png"/>
+
+<img src="/imgs/2014/01/outlawadmin.png"/>
 <p><span style="text-decoration: underline;"><strong>Can you tell us a bit about Outlaw market and what distinguishes it from the other markets?</strong></span></p>
 <p>Outlaw Market was created and launched while SR 1.0 was still up. Outlaw focused on developing their own software keeping their project away from open source platforms such as bitwasp, which is the currently being used by all dark net markets and has proven to be insecure and easy to exploit.</p>
 <p>Our software prides itself for having improved security features aimed at protecting both customers as well as suppliers.</p>

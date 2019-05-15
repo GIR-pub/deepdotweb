@@ -56,7 +56,8 @@ title: "Warning: Silk Road 2.0 And DPR account might be compromised!"
 <blockquote><p>Access the site here if you still have coins in the market:</p>
 <p>http://vx3w763ohd256iyh.onion/login</p></blockquote>
 <p>In Addition to this,  some reports on the forum are saying that they tried to verify DPR&#8217;s PGP key and failed to do so, we have reported before about this suspicious changed of keys in the post about <a href="/2013/12/20/silk-road-administrator-inigo-busted/">Inigo&#8217;s arrest</a>  &#8211;  we believe that this is a mistake originated from people trying to verify hes <strong>OLD Key</strong> rather than hes new one.</p>
-<div id="attachment_2833" style="width: 835px" class="wp-caption aligncenter"><a href="/imgs/2013/12/verify.png"/>
+
+<img src="/imgs/2013/12/verify.png"/>
 <p>It was assumed already that one of the arrested mods was actually the new Dread pirate roberts, and it was also hinted by the FBI themselves that  they believe that at least one of them was &#8220;more than just a mod&#8221; <a href="http://www.forbes.com/sites/andygreenberg/2013/12/20/feds-indict-three-more-alleged-employees-of-the-silk-roads-dread-pirate-roberts/">according to the forbes article that was published </a> By Andy Greenberg.</p>
 <p>Once again evevn before the notice from Cirrus,  the same person who posted about the arrests few days ago, posted again on Tormarket warning the users that some of the wallets are being empties (address remove) and stating some names that were also removed (this info is not verifies in any way &#8211; but the timing was suspiciously close to the post from Cirrus, so we thought we should mention it):</p>
 <img src="/imgs/2013/12/swisher.png" />

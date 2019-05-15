@@ -47,7 +47,8 @@ Posted by: DeepDotWeb
 <p>There are two admin accounts. 1 for market and 1 for control panel. Market- <strong>admin:Password1</strong> , Panel &#8211; <strong>admincantina:AAAaaa111</strong></p>
 <p>Here is the site users list that was posted by the_avid: https://gist.github.com/anonymous/f9f58b21d370a5564f6d</p>
 <p>Here is a screenshot of the admin inbox sniok provided to us while he was logged in as the admin user:</p>
-<div id="attachment_3726" style="width: 449px" class="wp-caption aligncenter"><a href="/imgs/2014/01/cantina_admin.jpg"/>
+
+<img src="/imgs/2014/01/cantina_admin.jpg"/>
 <p>High Quality Screenshot &#8211; note the PM&#8217;s claiming the 5BTC bounty and the fact that known vendors are trying to get verified on this marketplace:</p>
 <img src="/imgs/2014/01/admin2.png" />
 

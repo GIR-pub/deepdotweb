@@ -39,8 +39,10 @@ Posted by: DeepDotWeb
 <img src="/imgs/2014/01/developer.png" />
 
 <p>19. Than as if it wasnt enough already, the final blow landed &#8211; as magnus0 posted a thread (that was later deleted, but we had it screenshot), in the &#8220;<a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/" target="_blank">we hacked tormarket DPR Style</a>&#8221;  and dumping all the usernames data from Drugslist Database, proving the world that it is in fact, very vulnerable to hacking:</p>
-<div id="attachment_3693" style="width: 592px" class="wp-caption aligncenter"><a href="/imgs/2014/01/dumpdata.png"/>
-<div id="attachment_3694" style="width: 547px" class="wp-caption aligncenter"><a href="/imgs/2014/01/dump2.png"/>
+
+<img src="/imgs/2014/01/dumpdata.png"/>
+
+<img src="/imgs/2014/01/dump2.png"/>
 <p>20. Later, when we thought this could not get any worse in any way &#8211; it has brought to our attention that the hacker himself (Magnus0) was doxxed (probably by someone from drugslist staff?), and we received a copy of the full details, obviously we blacked them out:</p>
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>{We have remove the Blacked Out Doxx &#8211; since it was too much revealing anyway, and by now the point was made}</strong></span></p>
 <p>The reason that we post this is it could stop a bunch of innocent users&#8217; information from being released or held hostage for money from the owners of DrugsList. it makes it less likely it is that Magnus0 will release the information he has on DrugsList users.</p>

@@ -7,9 +7,12 @@ Posted by: DeepDotWeb
 <span>November 26, 2014</span>
 
 <p><strong>Update</strong>:  According to the documents on Pacer his status is &#8220;“Detention on consent without prejudice.” (agrees to stay in jail) &amp; According to <a href="https://www.vinelink.com">Vinelink</a>,  he was transferred to an &#8220;Unknown location&#8221;, which explains the &#8220;released&#8221; part fom the BOP site:</p>
-<div id="attachment_8469" style="width: 506px" class="wp-caption aligncenter"><a href="/imgs/2014/11/transffered.png"/>
-<div id="attachment_8472" style="width: 581px" class="wp-caption aligncenter"><a href="/imgs/2014/11/vine2.png"/>
-<div id="attachment_8470" style="width: 504px" class="wp-caption aligncenter"><a href="/imgs/2014/11/pacer.jpg"/>
+
+<img src="/imgs/2014/11/transffered.png"/>
+
+<img src="/imgs/2014/11/vine2.png"/>
+
+<img src="/imgs/2014/11/pacer.jpg"/>
 <p>So he was not released, and being held in an &#8220;Unknown location&#8221;. Thanks to Reddit user <a href="http://www.reddit.com/user/World177">World177</a> For confirming the info!</p>
 <p>========Update End============</p>
 <p><strong>**This story is not yet clear and is <span style="color: #ff0000;">not yet </span>verified or explained &#8211; we are trying to figure out what happened here &#8211; if you have any further info please <a title="Contact Us" href="contact-us/">contact us</a>**</strong></p>
