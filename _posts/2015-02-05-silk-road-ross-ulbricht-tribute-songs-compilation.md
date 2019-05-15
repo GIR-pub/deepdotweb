@@ -10,12 +10,12 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong>#1 &#8211; Zhou Tonged &#8211; End of Silk Road (Boyz II Men &#8211; End Of The Road)</strong></span><br />
     This is the first one, was published when Silk Road 1 was taken down:<br />
 
-{% include video id="Di5NSU5yuKE" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
+{% include video id="Di5NSU5yuKE" provider="youtube" %}
 
 <p><span style="text-decoration: underline;"><strong>#2 &#8211; &#8220;The Silk Road&#8221; &#8211; A Tribute Song to Ross Ulbricht</strong></span><br />
     This one was posted on /r/bitcoin not long ago:<br />
 
-{% include video id="fZjiGvrTB6o" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
+{% include video id="fZjiGvrTB6o" provider="youtube" %}
 
 <p><span style="text-decoration: underline;">Lyrics</span></p>
 <p>There was a man who did the unspoken<br />

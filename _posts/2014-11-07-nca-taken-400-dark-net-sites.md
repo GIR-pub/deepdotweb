@@ -76,7 +76,7 @@ Posted by: DeepDotWeb
 <p>A large amount of computer equipment was seized at all the addresses searched and will now be forensically examined.</p>
 <p>The action yesterday by the NCA and partners across Europe and America is part of continuing operations to target the use of online market places to trade in illegal commodities such as class A drugs, firearms and false documents. Anyone who tries to access Silk Road 2.0 will now see a notice highlighting the site has been seized.<br/>
 
-{% include video id="sROgBUwqS84" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br/>" provider="youtube" %}
+{% include video id="sROgBUwqS84" provider="youtube" %}
 
     Roy McComb, Deputy Director of the National Crime Agency, commented:</p>
 <p>“Over the months since the original Silk Road was taken down, we have been working with partners in the US and Europe to locate technical infrastructure, key to the dark web and to investigate individuals suspected of significant involvement in illegal online market places. Those arrested by the NCA in this phase of the operation are suspected of setting up Silk Road 2.0, or of being significant vendors of illegal drugs.</p>
