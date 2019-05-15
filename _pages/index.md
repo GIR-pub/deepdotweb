@@ -69,7 +69,7 @@ I used VSCode which has a really nice search and replace funtion that works with
 
 I also learned to use RegEx to put wildcards in my search query to make it even more powerful, and speed up the process.
 
-https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2019
+* [Using Regular Expression in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio)
 
 
 I also removed the market directory and forum. For space, and really it's not my interest to connect people with darknet markets. I firmly believe, however, that anyone who desires should have free access to information on how to protect your privacy online, and the history available in the blog-feed.
