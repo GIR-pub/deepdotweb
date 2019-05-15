@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>March 27, 2015</span>
 
-
-
-
 <p>Middle Earth market admin updates regarding the Recent Downtime:</p>
 <blockquote><p>
     &#8212;&#8211;BEGIN PGP SIGNED MESSAGE&#8212;&#8211;<br/>

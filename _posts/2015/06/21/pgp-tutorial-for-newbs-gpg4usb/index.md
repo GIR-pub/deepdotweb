@@ -29,43 +29,67 @@ Posted by: DeepDotWeb
 <p><strong>Part 1 – Installing the software</strong></p>
 <p>Since gpg4usb is a portable program, it&#8217;s not really installed per se. It&#8217;s a bunch of files that will be extracted from a .zip archive, and copied onto the USB drive. Head on over to the <strong><a href="http://www.gpg4usb.org/about.html">gpg4usb website</a></strong> and click on the green download button, and save the file. If you want to check out the source code you can visit their development page <strong><a href="http://www.gpg4usb.org/development.html">here</a></strong>.</p>
 <p>Note: gpg4usb will not run on GNU/Linux distributions on USB drives formatted as FAT. If you&#8217;re only using it on GNU/Linux operating systems then ext4 would be best, otherwise format it to NTFS.</p>
-<img src="imgs/2015/03/g4u02.png">
+
+<img src="/imgs/2015/03/g4u02.png">
+
 <p>After the download has finished open up the .zip file with your archive manager of choice, you should be able to just double-click on it. You should see a folder named &#8216;gpg4win&#8217;, with all the files needed contained within that folder. Copy that folder over to your USB drive, open it, and it should look similar to the below picture.</p>
-<img src="imgs/2015/03/g4u03.png">
+
+<img src="/imgs/2015/03/g4u03.png">
+
 <p>That was pretty simple right? Check out the README file if you want to know more about gpg4usb. To open it, all you have to do is double-click &#8216;start_windows.exe&#8217; if you&#8217;re on Windows, or &#8216;start_linux_xxbit&#8217; where &#8216;xx&#8217; is your CPU architecture. For the majority of users this will be the 64bit version.</p>
 <p><strong>Part 2 – Generating your keypair</strong></p>
 <p>This is the very first thing you should do. Without your own keypair, it will be impossible to receive and decrypt messages. Open up gpg4usb and you&#8217;ll be greeted by the &#8216;First Start Wizard&#8217;. This will walk you through the steps of creating your keypair.</p>
-<img src="imgs/2015/03/g4u04.png">
+
+<img src="/imgs/2015/03/g4u04.png">
+
 <p>Choose your language then click &#8216;Next&#8217;. It will now ask you if you want to create a new keypair, import keys from GnuPG, or import settings/keys from an older version of gng4usb. Click on &#8216;create a new keypair&#8217;, then click the button that says &#8216;Create New Key&#8217;. You should see a window with the title &#8216;Generate Key&#8217;. Fill out the information, fill out a fake email if you don&#8217;t want to use one, select if you want it to expire or not, choose the KeySize, then create a strong password. A 2048 bit keypair will <a href="http://danielpocock.com/rsa-key-sizes-2048-or-4096-bits">do fine until 2030</a>, but it&#8217;s recommended to use a 4096 bit key. If you want to know more about how the keysize affects your security, check out <a href="https://www.gnupg.org/(en)/faq/gnupg-faq.html#advanced_topics">this link</a> over at the GnuPG website.</p>
 <p>If filled out correctly your window should look something similar to below.</p>
-<img src="imgs/2015/03/g4u05.png">
+
+<img src="/imgs/2015/03/g4u05.png">
+
 <p>You can now click &#8216;Ok&#8217;, and your keypair will be generated. This may take some time depending on what you&#8217;re doing on your computer. Watch some porn, torrent some GNU/Linux ISOs, type up that essay you were supposed to have done last week. If all went well a window will pop up saying your keypair has been created.</p>
-<img src="imgs/2015/03/g4u06.png">
+
+<img src="/imgs/2015/03/g4u06.png">
+
 <p>You can now close out of the wizard, and select if you want to see the offline help or show the wizard again next time you start up. You&#8217;ll be brought to the main gpg4usb window and will see your keypair on the right, along with gpg4usb&#8217;s keypair.</p>
-<img src="imgs/2015/03/g4u07.png">
+
+<img src="/imgs/2015/03/g4u07.png">
+
 <p><strong>Part 3 – Obtaining your public key</strong></p>
 <p>To receive messages you&#8217;ll need your public key posted somewhere. This is really easy in gpg4usb as you don&#8217;t need to save it to a file first.</p>
 <p>With gpg4usb open, click &#8216;Manage Keys&#8217; at the top. A window titles &#8216;Keymanagement&#8217; should appear. Check off the box beside your keypair name, and click &#8216;Export to Clipboard&#8217; at the top. You can now paste your public key somewhere people can access it so they can send you messages. If you want a backup of your public key you can also click &#8216;Export To File&#8217; and save it somewhere.</p>
-<img src="imgs/2015/03/g4u08.png">
+
+<img src="/imgs/2015/03/g4u08.png">
+
 <p><strong>Part 4 – Obtaining your private key</strong></p>
 <p>It&#8217;s a good idea to back up your private key somewhere safe in case of computer failure. Although rare, things do happen and you don&#8217;t want to be stuck not being able to decrypt that very important message your mother sent you.</p>
 <p>From the main window right click on your key on the right, and click &#8216;Show Key Details&#8217;.</p>
-<img src="imgs/2015/03/g4u09.png">
+
+<img src="/imgs/2015/03/g4u09.png">
+
 <p>From here you can see the details of your key, it&#8217;s fingerprint, and export your private key. Click the button that says &#8216;Export Private Key&#8217; and it will warn you that this is sensitive information that is not to be shared. Select somewhere to save it and keep the filename it gives. A good idea is to save it to a microSD card and hide it somewhere. You don&#8217;t want anyone other than you to get a hold of your private key.</p>
 <p>Again, it is <strong>very important</strong> that you keep this file somewhere secure.</p>
 <p><strong>Part 5 – Importing a public key</strong></p>
 <p>gpg4win makes this just as easy as exporting your public key. Highlight everything in the public key, including &#8216;&#8212;&#8211; BEGIN PGP PUBLIC KEY BLOCK&#8212;&#8211;&#8216; and &#8216;&#8212;&#8211; END PGP PUBLIC KEY BLOCK&#8217;, and copy it. In the main gpg4usb window click &#8216;Import Key&#8217; at the top, then &#8216;Clipboard&#8217;. You&#8217;ll see a window pop up with the imported key&#8217;s details.</p>
-<img src="imgs/2015/03/g4u10.png">
+
+<img src="/imgs/2015/03/g4u10.png">
+
 <p>Close out of the window and you&#8217;ll see the public key has been imported.</p>
 <p><strong>Part 6 – Importing a private key</strong></p>
 <p>This is just as easy as importing a public key. In the main gpg4usb window click &#8216;Import Key&#8217;, then &#8216;File&#8217;. Browse to where you saved your private key and open it. You should see a window pop up confirming that it&#8217;s been imported. Click &#8216;Ok&#8217; and you&#8217;ll see your keypair in the right part of gpg4win.</p>
-<img src="imgs/2015/03/g4u11.png">
+
+<img src="/imgs/2015/03/g4u11.png">
+
 <p><strong>Part 7 – Encrypting a message</strong></p>
 <p>Encrypting a message in gpg4usb is super simple. In the main window for gpg4usb there will be a text box. Type in your message, click the checkbox for the recipient on the right, and click &#8216;Encrypt&#8217; up at the top. Your encrypted message will now take the place of the unencrypted one. Copy and paste this and send it to the recipient.</p>
-<img src="imgs/2015/03/g4u12.png">
+
+<img src="/imgs/2015/03/g4u12.png">
+
 <p><strong>Part 8 – Decrypting a message</strong></p>
 <p>Once again, gpg4usb makes this really easy. Just paste the message you received into the textbox and click &#8216;Decrypt&#8217; up at the top. Enter your password and your decrypted message will take the place of the encrypted one.</p>
-<img src="imgs/2015/03/g4u13.png">
+
+<img src="/imgs/2015/03/g4u13.png">
+
 <p><strong>Part 9 – Conclusion</strong></p>
 <p>If you&#8217;ve followed the above steps and understood each one you&#8217;re on your way to increased privacy in a world that wants to invade it. PGP can seem complicated at first, but once you learn it you&#8217;ll laugh at yourself for thinking it was so hard. Even if you still think it&#8217;s complicated or a waste of time, just keep in mind that taking an extra 60 seconds out of your day could possible save you from serving 5+ years in prison.</p>
 

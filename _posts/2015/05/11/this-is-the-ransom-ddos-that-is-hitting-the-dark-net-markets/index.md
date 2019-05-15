@@ -14,12 +14,21 @@ Posted by: DeepDotWeb
 <p>In the past few days, it seems like almost every DN market is being hit by DDoS attacks. Our logs show huge amounts of basic http requests aiming for dynamic pages, probably in attempt to (ab)use as many resources as possible on the server side, for example by requesting for pages that execute many sql queries or generate captcha codes.</p>
 <p>As we are security oriented we manged to halt the attack on our servers the moment it showed up in the logs. Although this required fast thinking, due to the fact that dealing with this kind of attack over tor is not the same as dealing with such attack over clearnet. New addresses? Shifting Pages? Waiting? All these did not work for other markets&#8230;</p>
 <p>Here you can see the beginning and failure, as caught by <a href="https://dnstats.net/market/TheRealDeal">Dnstats</a>:<br />
-<a href="/imgs/2015/05/failddos.png">
-<a href="/imgs/2015/05/gooddos.png">
+
+
+<img src="/imgs/2015/05/failddos.png">
+
+
+
+<img src="/imgs/2015/05/gooddos.png">
+
     The flat line at 0 seconds meaning there was no response from the server.</p>
 <h3>The Problem</h3>
 <p>As opposed to cleanet attacks, where mitigation steps could be taken by simply blocking the offending IP addresses,when it comes to tor, the requests are coming from the localhost (127.0.0.1) IP address as everything is tunneled through tor.<br />
-<a href="/imgs/2015/05/screenshot.png">
+
+
+<img src="/imgs/2015/05/screenshot.png">
+
 <p>Another problem is the fact that the attackers are using the same user-agent of tor browser &#8211; hence we cannot drop packets based on UA strings.</p>
 <p>The attackers are also aiming for critical pages of our site &#8211; for example the captcha generation page. Removing this page will not allow our users to login, or will open the site to bruteforce attempts. Renaming this page just made them aim for the new url (almost instantly, seems very much automated). One of the temporary solutions was to run a script that constantly renamed and re-wrote the login page after 1 successful request for a captcha&#8230; Attacks then turned into POST requests aiming for the login page.</p>
 <h3>Solutions</h3>

@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>August 12, 2015</span>
 
-
-
-
 <p><a href="#">Alphabay market</a> admins just introduced new feature that will hopefully help to reduce the amount of scams on the market, taken from their forum thread.</p>
 <p>Source: http://pwoah7foa6au2pul.onion/forum/index.php?threads/new-anti-scam-team.17512/#post-143050</p>
 <blockquote><p><em>The Alphabay SCAMWATCH Team</em></p>

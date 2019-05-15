@@ -11,7 +11,8 @@ Posted by: DeepDotWeb
 <p>http://lacbzxobeprssrfx.onion/index.php/topic,62254.msg11135370.html#msg11135370</p>
 <blockquote><p>We have been working on restoring the service and now came at least to a point where we can work out a time estimate. We are relatively certain that we will be able to restore the functionality by the end of 19th April, UTC time. Sorry for this prolonged downtime, we know that it has inconvenienced many of you. Such problems are mostly caused by the amount of security that we have, which unfortunately has some drawbacks in the times when some elements of the system fail. We have always placed more priority on the security and safety, above for example speed and availability, and this focus is not going to change, even if we know that some of our users do get inconvenienced by it during times like these. We can at least assure you that the balances and funds are safe and you shall be able to use/withdraw them once the site goes back online.</p></blockquote>
 <p>PGP Signed by Agora:</p>
------BEGIN PGP SIGNED MESSAGE-----
+
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     We have been working on restoring the service and now came at least to a point where we can work out a time estimate. We are relatively certain that we will be able to restore the functionality by the end of 19th April, UTC time.

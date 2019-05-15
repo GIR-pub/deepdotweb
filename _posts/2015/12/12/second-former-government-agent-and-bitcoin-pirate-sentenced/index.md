@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>December 12, 2015</span>
 
-
-
-
 <p>Former Secret Service agent Shaun Bridges has been sentenced to 71 months in prison for his involvement in stealing from the Silk Road site, while performing several federal investigations of the website. Bridges’ sentence is <a href="/2015/10/23/corrupt-dea-agent-carl-force-gets-6-years-in-prison-for-extorting-bitcoins/">the second</a> for the team of government agents that went rogue to make fast money.</p>
 <p>Bridges along with his partner, former Drug Enforcement Agent Carl Mark Force were <a href="/2015/03/30/2-federal-agents-arrested-for-stealing-btc-while-investigating-silk-road/">arrested in March 2015</a> on charges of stealing Bitcoins from the largest drug-trafficking website at the time. On July 1, Force formally pleaded guilty and was sentenced to six and a half years in prison in October.</p>
 <p>Within days, Bridges pleaded guilty to money laundering and obstruction of justice, and additionally agreed to pay $500,000 in restitution. Both men were part of the larger end game, working alongside Ross Ulbricht, the mastermind behind the Silk Road. The 31 year old Ulbricht was tried and <a href="/2015/05/30/silk-road-admin-ross-ulbricht-dpr-sentenced-to-life-in-prison/">sentenced to life in prison</a> in May of this year.</p>

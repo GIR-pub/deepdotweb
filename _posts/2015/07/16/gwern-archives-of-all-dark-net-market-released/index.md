@@ -5,6 +5,7 @@ title: "Gwern: Archives of ALL Dark Net Market Released"
 Posted by: DeepDotWeb 
 
 <span>July 16, 2015</span>
+
 <p>Another important contribution from <a href="http://www.gwern.net/">Gwern</a>, and this time the full archives of all Dark Net Markets &#8211; From 2011 until 2015. Links to the archives are available at:</p>
 <ul>
 <li><a href="https://archive.org/download/dnmarchives/dnmarchives_archive.torrent">Torrent</a></li>
@@ -65,7 +66,6 @@ Posted by: DeepDotWeb
 <p>Please consider Donating to Gwern at:</p>
 1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
 
-<p>
 
 
 Updated: 2015-07-16

@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>December 21, 2015</span>
 
-
-
-
 <p><a href="http://www.engadget.com/2015/12/18/house-senate-pass-budget-with-cisa/">On December 18, the US House of Representatives and the Senate passed a huge budget bill, with almost 2000 pages, that contains the Cybersecurity Information Sharing Act and sent it to President Barack Obama for signature.</a> With such bills, the president of the United States has the option to veto such document, however, in this case, Obama just signed it.</p>
 <p>The bill lays out a $1.15 trillion spending plan that has received solid support from both sides. This should be enough to prevent a government shutdown like the one in 2013.</p>
 <p>About CISA: it was meant to allow companies to share information on cyber attacks, including data from private citizens, with other companies and the Department of Homeland Security (DHS). Once DHS has all the required details about the citizens or the threats, they can pass it along to the FBI and NSA for further investigation and for potential legal action. Critics in the case saw CISA as a way for the government agencies to legally spy on the citizens of the USA without their knowledge. The bill was opposed by both privacy advocates and tech savvies alike. Also, big companies like Amazon, Apple, Dropbox, Google, Facebook and Symantec) issued statements against an earlier version of the CISA bill.</p>

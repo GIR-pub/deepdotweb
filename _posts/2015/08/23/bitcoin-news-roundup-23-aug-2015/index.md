@@ -9,7 +9,6 @@ Posted by: DeepDotWeb
 <span>August 23, 2015</span>
 
 
-<span><a href="/2015/08/23/bitcoin-news-roundup-23-aug-2015/
         
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>An American startup unifies Internet of Things with the blockchain technology. As Stacey Higginbotham of <a href="http://fortune.com/2015/08/18/filament-blockchain-iot/">Fortune</a> reports, Filament has raised $5million in a Series A funding round led by Bullpen Capital to leverage blockchain for IoT. Filament has built Tap, a rugged sensor package and technology network that allows its sensors to conduct business even when they aren’t actually connected to the internet. Other investors that participated in the round included Haystack, Verizon Ventures, Samsung Ventures, Crosslink Capital, Working Lab Capital, Digital Currency Group and Techstars, among others.</p>

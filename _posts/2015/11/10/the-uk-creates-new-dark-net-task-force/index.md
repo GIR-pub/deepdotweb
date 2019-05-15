@@ -9,7 +9,7 @@ Posted by: Benjamin Vitáris </a></span>
 <span>November 10, 2015</span>
 
 
-</p>        
+       
 <p><a href="http://motherboard.vice.com/read/the-uk-will-police-the-dark-web-with-a-new-task-force">With the fear of the dark web expanding, the United Kingdom’s main intelligence agency, the GCHQ (Government Communications Headquarters) and the country’s top law enforcement apparatus, the National Crime Agency (NCA), have formed a brand new task force to battle dark net criminals.</a> An NCA press release that has been published on Friday goes by:</p>
 <p>“An NCA and GCHQ co-located Joint Operations Cell (JOC) opens officially today. The unit brings together officers from the two agencies to focus initially on tackling online child sexual exploitation.”</p>
 <p>The unit has been created on Friday, however, the task force has been in the “workshop” since a year. At the end of 2014, the Prime Minister of the United Kingdom, David Cameron announced the plan for the unit’s formation at the We Protect Children Online Global Summit. Back there, his official statement went by:</p>
@@ -22,7 +22,7 @@ Posted by: Benjamin Vitáris </a></span>
     
     
 
-<a href="/tag/creates/" rel="tag">creates</a> <a href="/tag/dark/" rel="tag">dark</a> <a href="/tag/force/" rel="tag">force</a> <a href="/tag/net/" rel="tag">net</a> <a href="/tag/task/" rel="tag">task</a> <a href="/tag/uk/" rel="tag">uk</a>Updated: 2015-11-10
+Updated: 2015-11-10
     
     
 

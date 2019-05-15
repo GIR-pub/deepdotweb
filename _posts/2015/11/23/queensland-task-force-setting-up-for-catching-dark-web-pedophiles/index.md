@@ -13,6 +13,6 @@ Posted by: Benjamin Vitáris
 <p>According to Premier Annastacia Palaszczuk, the new task force will be funded as part of a $3.2 million child protection package coming from the Commission of Inquiry into Organised Crime. Palaszczuk stated that the package will also include superior IT devices for task force members along with enhanced training for the regional officers and an increased storage capacity for police evidence databases.</p>
 <p>The Queensland government’s opposition has been obstructing the commission of inquiry, arguing on the matter that government was only using it as an excuse to scrap the former Newman Government&#8217;s anti-bikie legislation. John-Paul Langbroek, the leader of Deputy Opposition said that the inquiry’s hearings haven’t been held in public, despite the fact that the hearings have been originally meant to be public. According to Langbroek, the government was politicizing the report in order to use it for the announcement of Taskforce Orion.</p>
 <p>&#8220;As a parliamentarian I find them irresponsible; as a Queenslander I find them reckless; as a parent I find it abhorrent,&#8221; Langbroek said in his parliament speech.</p>
-</div>
- Updated: 2015-11-23
+
+Updated: 2015-11-23
 

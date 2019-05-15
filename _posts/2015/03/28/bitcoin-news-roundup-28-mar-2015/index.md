@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>March 28, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The British Banking Association (BBA) sees the bitcoin as a serious threat to the traditional banking system. Gola Yashu of <a href="http://www.newsbtc.com/2015/03/26/uk-treasury-report-government-to-curb-bitcoin-transactions/">NewsBtc</a> reports that, according to the latest UK Treasury Report, Chancellor George Osborne highlighted the need to accelerate the efforts to control criminal activity with the use of digital currencies. On the upside, the UK Government plans to spend GBP 10 million to research and understand how the blockchain technology works and how UK startups can comply with consumer protection laws by capitalizing on the bitcoin technology.</p>
 <p>The NASDAQ OMX Grouphas joined forces with Noble Markets to enable cryptocurrency trading by <strong>institutional investors. </strong>Maria Santos of <a href="http://99bitcoins.com/investors-trade-cryptocurrency-noble-markets-nasdaq-trading-technology/">99bitcoins</a> reports that, Noble Markets, the New York-based cryptocurrency startup will be provided with NASDAQ’s core trading technology as well as <strong>NASDAQ’s X-stream trading systemand marketing support </strong>in order to allow institutional investors to trade bitcoins and other digital currency assets.</p>

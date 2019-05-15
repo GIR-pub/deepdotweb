@@ -4,7 +4,7 @@ title: "Urgent PSA: Stop Doxxing Yourself!!"
 
 Posted by: DeepDotWeb 
 
-<span>March 30, 2015</span><a href="/category/news/" rel="category tag">News</a>, 
+<span>March 30, 2015</span>
 
 
 
@@ -18,7 +18,9 @@ Posted by: DeepDotWeb
 <li>Their picture</li>
 <li>Their social network profiles</li>
 </ul>
-<img src="imgs/2015/03/fruit.png">
+
+<img src="/imgs/2015/03/fruit.png">
+
 <strong>Whatever it is, WE DON&#8217;T WANT TO KNOW. <span style="text-decoration: underline;">PLEASE STOP</span>!</strong> For the seriously low hanging fruits among you, i will be more specific:</p>
 <ol>
 <li>Stop sending us mail with incriminating information about yourself from your personal GMAILS (they are being deleted immediately!)</li>

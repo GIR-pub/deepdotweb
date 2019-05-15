@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>September 5, 2015</span>
 
-
-
-
 <p><a href="http://www.couriermail.com.au/news/national/gambling-addict-daniel-andrew-atkinson-jailed-for-selling-drugs-on-the-dark-web/story-fnii5yv5-1227509794163">Daniel Andrew Atkinson, 30, an ecstasy vendor on (the old) Silk Road has been jailed for at least eight years.</a> Atkinson has been known as a gambling addict, he used Silk Road for selling Ecstasy in order to pay back his dept that he owed to shady people. According to Atkinson, these people who he owed debt to, have threatened him several times, including a drive-by shooting. He also fled the state where he was living in Australia to Adelaide, because of the physical threats he has received before.</p>
 <p>The DNM drug dealer has sold ecstasy worth hundreds of thousands dollars, however, David Edwardson, his attorney has told the court that Atkinson deserves leniency, because of his gambling habit.</p>
 <p>“What I am trying to impress on your Honour is that you do not have an evil drug dealer who has set upon, who has embarked upon a course of conduct for just pure greed and could not care less, if you like, about the potential consequences of that conduct,” said Edwardson.</p>

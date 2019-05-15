@@ -24,6 +24,6 @@ Posted by: DeepDotWeb
 <p>Speak for yourself.</p>
 </div>
 <p><em>See Original post and comments: <a href="https://www.thecthulhu.com/shoddy-dark-web-journalism/">https://www.thecthulhu.com/shoddy-dark-web-journalism/</a></em></p>
-</div>
-  Updated: 2015-06-25
+
+Updated: 2015-06-25
 

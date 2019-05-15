@@ -6,12 +6,11 @@ Posted by: DeepDotWeb
 
 <span>March 20, 2015</span>
 
-
-
-
-
 <p class="node-subtitle center">As it was published in a press release by <a href="http://www.justice.gov/usao-wdwa/pr/bellevue-man-who-sold-drugs-silk-road-internet-site-sentenced-drug-distribution">Justive.gov</a>:</p>
-<p class="node-subtitle center"><a href="/imgs/2015/03/920x12401.jpg">
+<p class="node-subtitle center">
+
+<img src="/imgs/2015/03/920x12401.jpg">
+
 <p class="node-subtitle center"><em>Top Seller on Silk Road Used Screen Name “Nod”</em></p>
 <blockquote><p>A 40-year-old Bellevue, Washington man who was a prolific drug dealer on the online marketplace “Silk Road,” was sentenced today in U.S. District Court in Seattle to five years in prison and four years of supervised release for conspiracy to distribute illegal drugs, announced Acting U.S. Attorney Annette L. Hayes.  STEVEN SADLER sold nearly a million dollars’ worth of cocaine, heroin and methamphetamine to people who ordered over the internet via the Silk Road site.  He shipped the drugs through the mail.  At sentencing U.S. District Judge Ricardo S. Martinez said he is “troubled by this new method, new frontier of drug dealing that is creating a new crop of victims.”</p>
 <p>“This defendant thought he could use the internet to spread the poison of illegal drugs far and wide,” said Acting U.S. Attorney Annette L. Hayes.  “We will not allow internet connectivity to be blatantly misused to harm public safety.  Moreover, as this and other prosecutions demonstrate, attempts to hide in the “dark net” will not succeed.”</p>

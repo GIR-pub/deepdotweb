@@ -6,10 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>August 5, 2015</span>
 
-
-
-
-
 <p><a href="https://news.vice.com/article/the-deep-dark-web-is-getting-some-company-soon-from-canadian-cops">The Canadian Police is investing in the development of a specific software that will search and monitor the darknet</a> for the most hidden content and services (which is, of course, highly illegal).</p>
 <p>The funding for the brand new deep web crawler is just a part of the Canadian government’s program. The funding source for the software is the Canadian Safety and Security Program (CSSP). The CSSP is providing funds to several projects that are in the category of public safety, policing and other military related stuff. This security research program of Canada has been successful in several projects. For example, they have developed a device that can detect drugs from their vapor, explosive detection equipment. The program has also provided funds for the training that will help the Canadian government to protect their energy infrastructure from possible cyber attacks.</p>
 <p>We have identified the funding source for the project, however, what we have not stated is which institution will be responsible for running the research for the dark web crawler. The government has authorized the Royal Canadian Mounted Police (RCMP) and two tech firms to research the software. The Canadian government stated: &#8220;The Royal Canadian Mounted Police will lead a project to develop and implement a web-crawler to explore anonymous and dark regions of the internet and identify content of interest to national security and law enforcement communities.&#8221;</p>
@@ -21,6 +17,3 @@ Posted by: Benjamin Vitáris
 <p>Knowing the usual LE intentions, the RCMP will most probably use the software for stopping or limiting the spread of darknet marketplaces, child pornography, and other websites that are offering either human trafficking or hitmen services. The crawler software could be also used by law enforcement authorities to find hidden hacker communities and websites that are offering hacking services.</p>
 <p>However, the only question about this brand new crawler, is that how this software will affect the privacy of deepnet users? David Fraser, a noted privacy expert has been asked about this issue. He stated that the police is free to research all sections of the internet.</p>
 <p>Fraser also states: &#8220;The complicated thing is what do they do when they get there and what do they do with what they find. If police are monitoring and tracking individual suspects online and using it to build a criminal case, they may be required to obtain a warrant. Police may also find themselves in trouble if they surveil entire subsections of the internet in the hopes of catching a handful of individuals.” He added that in the latter case „the impact on the privacy of Canadians and others is going to be affected in a way that is likely disproportionate to the law enforcement benefit.&#8221;</p>
-</div>
-</strong></div>
-

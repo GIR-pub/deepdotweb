@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>October 18, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>George Kerevan of the Scottish National Party is a strong advocate of the bitcoin. As Yessi Bello Perez of <a href="http://www.coindesk.com/scottish-mp-urges-party-to-consider-digital-currency/">Coin Desk</a> writes, the Scottish MP, speaking at the SNP conference in Aberdeen, has urged his party to consider a trial of the ScotPound, a national digital currency that would coexist with the pound sterling. According to Kerevan, should another independence debate come up, a digital currency would be a great alternative to boost the popularity of the SNP.</p>
 <p>Royal Bank of Scotland (RBS) is set to pilot a blockchain technology-based service in 2016. As Bryan Glick of <a href="http://www.computerweekly.com/news/4500255305/RBS-to-pilot-product-based-on-blockchain-technology-in-2016">Computer Weekly</a> reports, RBS is among the first banks to capitalize on the distributed ledger technology and offers its customers a relevant product. Although details have not been provided yet due to the sensitivity of the project, RBS Head of Strategy and Commercial Services, John Lyons states that the project is “on the fringes of payments” and will be ready by early 2016.</p>

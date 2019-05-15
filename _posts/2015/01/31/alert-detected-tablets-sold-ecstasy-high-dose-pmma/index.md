@@ -14,13 +14,18 @@ Posted by: DeepDotWeb
 <p>Adulteration of ecstasy tablets with PMMA is rare but extremely dangerous. The probability of serious or fatal poisoning by consuming PMMA is much higher than with MDMA or other amphetamine derivatives. Used in combination with other drugs, the risks of PMMA are even higher.</p>
 <p>PMMA is a substance that takes longer than MDMA to show effects, so users can take an additional dose thinking that the first one has not taken effect. This extra dose can cause an overdose of which the most serious symptom is a severe rise in body temperature.</p>
 <p>From Energy Control we earnestly recommend not consuming pills with these characteristics and send them for analysis to a drug checking program.</p>
-<p><b>We offer a free qualitative (not quantitative) test for these pills with Superman logo, contact EC for more info:  <span style="text-decoration: underline;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3f56514b5a4d515e4b5650515e537f5a515a4d58465c50514b4d505311504d58">[email&#160;protected]</a><a href="/cdn-cgi/l/email-protection#c0a9aeb4a5b2aea1b4a9afaea1ac80a5aea5b2a7b9a3afaeb4b2afaceeafb2a7" target="_blank"><br />
+<p><b>We offer a free qualitative (not quantitative) test for these pills with Superman logo, contact EC for more info:  <span style="text-decoration: underline;"><a href="#">
 </a></span>(<a href="http://energycontrol.org/noticias/528-international.html" target="_blank">link to the international info page</a>)</b></p>
 <p>Generally it&#8217;s not recommended for recreational drug users to consume substances without first knowing its composition. More information about testing of other substances can be found <a href="/2014/04/06/energy-control-drug-testing-service-for-deepweb-users" target="_blank">at this link</a>.</p>
 <p><em>Energy Control is a project from an NGO that emerged in 1997 as a pioneer project in Spain in the area of reducing the risks associated with recreational drug use, having since received recognition from numerous government administrations (European, state, community and local), health professionals and, most of all, users.</em></p>
 <p>Images of the pills:</p>
-<img src="imgs/2015/01/superman.jpg">
-</a> <a href="/imgs/2015/01/Superman2.jpg">
+
+<img src="/imgs/2015/01/superman.jpg">
+
+</a> 
+
+<img src="/imgs/2015/01/Superman2.jpg">
+
 
 Updated: 2015-01-31
 

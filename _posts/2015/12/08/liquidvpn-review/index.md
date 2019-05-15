@@ -6,11 +6,8 @@ Posted by: DeepDotWeb
 
 <span>December 8, 2015</span>
 
-
-
-
 <p>LiquidVPN solution is supported by a company that understands the difference between quantity and quality. They own a small network and don’t plan to develop worldwide as they believe that versatility and personalization are the best things to focus on right now. Also, they think that a smaller network means better speeds for their clients.</p>
-<p><a href="https://my.liquidvpn.com/aff.php?aff=129">
+
 <p>The LiquidVPN solution is quite young if it were to compare it with its top rivals on the market and it is located in Michigan, USA. The solution comes with a few very interesting features like an easily customizable software client, with a pretty inspired name (Liquid Viscosity), a few extra layers of security for users, and the Modulating IP technology (the IP changes continuously so it will make the identification very difficult).</p>
 <p>Customers interested in privacy and surfing the deep web may express their concerns in regards to this company’s location (US). Still, you shouldn’t worry about this as they implement a very strict “no logs” policy. They do so by using shared IP addresses and amazing encryption standards.</p>
 <p>LiquidVPN has servers installed in 10 different geographic locations that can be easily accessed and used. The entire network is made out of a few different types of servers that can offer a certain type of privacy and security services. Thus, there are:</p>

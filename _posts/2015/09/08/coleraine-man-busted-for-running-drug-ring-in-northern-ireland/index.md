@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 8, 2015</span>
 
-
-
-
 <p><a href="http://www.belfasttelegraph.co.uk/news/northern-ireland/dark-web-drug-network-run-from-coleraine-mans-bedroom-31503735.html">Richard Sinclair (32) and Kyle Hall (25), have been arrested for selling drugs.</a></p>
 <p>The police think that Sinclair was the ”mastermind” of the operation, he was running most of it. According to the police, the international drug dealer had a gambling problem. His defense counsel, Michael Boyd, has stated that the gambling problem could be the cause of the whole operation; he says Sinclair has started dealing drugs on the internet, because he had to cover the debts he had made before. The official statement from Boyd goes by:</p>
 <p>&#8220;He commenced this operation in an almost experimental way to provide himself with some extra money for his gambling habit. It simply mushroomed and got out of control,&#8221; Mr. Boyd said.</p>

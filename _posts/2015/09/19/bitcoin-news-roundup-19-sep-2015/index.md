@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 19, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web.</em></p>
 <p>Nine leading investment banks join forces on a blockchain startup. As Justin O’Connell of <a href="https://www.cryptocoinsnews.com/nine-major-banks-partner-block-chain-initiative/">CryptoCoins News</a>writes, Barclays, BBVA, Commonwealth Bank of Australia, Credit Suisse, JPMorgan, State Street, Royal Bank of Scotland, and UBS, all partnered to integrate the blockchain technology into their services. The initiative aims to launch new industry standards for the use of blockchain in the banking sector by offering high-end financial services to their customers. Additionally, a number of other institutions have expressed an interest on joining the scheme or integrating blockchain in banking.</p>
 <p>ARK Fund invests in BIT. As Giulio Prisco of <a href="https://bitcoinmagazine.com/21956/wall-steet-interest-bitcoin-grows-ark-fund-investing-silberts-bitcoin-investment-trust/">Bitcoin Magazine</a> reports. ARK Fund becomes the first ETF fund to invest in bitcoin by purchasing publicly traded shares of Silbert’s Bitcoin Investment Trust.The ARK Web x.0 ETF trades under the ticker ARKW on NYSE ARCA and includes cloud computing, social media, Internet of Things (IoT) and digital currencies-related securities. Cathie Wood, ARK’s CIO, believes that <em>“the bitcoin is a disruptive innovation, and, while still in its infancy, interest has been growing rapidly in Silicon Valley, Wall Street and Washington, D.C.”</em></p>

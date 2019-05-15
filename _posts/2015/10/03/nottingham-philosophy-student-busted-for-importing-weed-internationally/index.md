@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>October 3, 2015</span>
 
-
-
-
 <p><a href="http://www.nottinghampost.com/Nottingham-philosophy-student-caught-importing/story-27890513-detail/story.html">Benjamin Koops, a student studying philosophy at the University of Nottingham, has been busted for importing weed from the US.</a> The student has ordered the cannabis from DNMs, however, two of the packages have been intercepted by the National Crime Agency (NCA). According to the LE, the packages have been caught and been traced back to Koops. This could mean that the NCA or the local police has performed a controlled delivery on the philosophy student, this information is not confirmed, though.</p>
 <p>Koops pleaded guilty to supplying cannabis and to two charges of fraudulent evasion of prohibition regarding the importation of weed.</p>
 <p>The student got a pretty harsh sentence for his acts. According to LE, he imported a total of 100 grams of weed (that has been intercepted). Benjamin Koops’ sentence goes by 12 months in prison, suspended for two years from the University of Nottingham, a 20-day rehabilitation activity requirement, 250 hours of unpaid work and the sum of £800 as a payment.</p>

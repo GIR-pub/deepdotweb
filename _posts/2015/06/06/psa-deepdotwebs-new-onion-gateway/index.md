@@ -20,8 +20,11 @@ Posted by: DeepDotWeb
 <li>Hoping that this won&#8217;t be abused too much so we will be able to keep this gateway up and running.</li>
 <li>This is the <span style="text-decoration: underline;"><strong>only</strong></span> real URL:  <strong>http://rtz6kznga4anujwu.onion</strong></li>
 </ul>
-<div id="attachment_10614" style="width: 285px" class="wp-caption aligncenter"><a href="/imgs/2015/06/onionadd.png">
-<p>Found any technical issue? <a href="/contact-us/">please contact!</a></p>
+
+
+<img src="/imgs/2015/06/onionadd.png">
+
+
 
 Updated: 2015-06-06
 

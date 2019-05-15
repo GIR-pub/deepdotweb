@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>October 7, 2015</span>
 
-
-
-
 <p><a href="#">an interview</a> with its admins and since a lot have changed since than, we felt it might be nice to do a followup interview and see if we can learn something from the experience gathered since then. So here it is:</p>
 <p><strong>Who are you and what is your position on Outlaw?</strong></p>
 <p>(music: Dire Straits) I&#8217;m just an aged trouble-boy, in the drug-wars I used to play&#8230; I&#8217;ve called the tune, to many a wonderful experience&#8230;;-) Now they say I&#8217;m a net criminal and I&#8217;m fading away, DDW, please hear my confession: I&#8217;ve legalized drug deals and call it freedom&#8230;</p>

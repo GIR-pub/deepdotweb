@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>December 6, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Goldman Sachs files security settlement patent application for cryptocurrencies. As Jennifer Hughes of <a href="http://www.ft.com/cms/s/2/b0d8f614-997c-11e5-9228-87e603d47bdc.html#axzz3tTTE3U9X">The Financial Times</a> reports, the leading New York-based multinational investment bank has filed SETL Coin patent application with the U.S. Patent &amp; Trade Mark office in a move that highlights the bank’s belief that the blockchain technology could revolutionize global payments. SETL Coin is one of Goldman Sachs’ latest efforts to determine how to adopt the blockchain, while eliminating the need for intermediaries, including exchanges and clearing houses. Paul Walker and Phil J. Venables are listed as the inventors of the SETL Coin.</p>
 <p>PrivatBank accepts the bitcoin as a legal payment method. As Samburaj Das of <a href="https://www.cryptocoinsnews.com/ukraines-largest-bank-helps-integrate-bitcoin-as-a-payment/">CryptoCoins News</a> writes, Ukraine’s largest bank in terms of assets in now accepting the digital currency as a legal form of payment allowing online retailers to receive payments in bitcoins and convert them into hryvnyas, Ukraine’s national currency. The bank’s decision was announced by Head of E-Commerce Christina Karmazin at the <em>“Cross-border E-Commerce: The Import to Ukraine”</em> conference that was held on December 4th in Kiev. Privat Bank focuses “<em>not only within the Ukrainian market, but also the European market.”</em></p>

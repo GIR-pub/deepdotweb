@@ -43,11 +43,9 @@ Posted by: DeepDotWeb
 <p>More to come, as always!<br />
     Kind regards</p></blockquote>
 <p>Visit outlaw market using this link:  <a href="http://outfor6jwcztwbpd.onion/indxx1.php" target="_blank"><strong>http://outfor6jwcztwbpd.onion/indxx1.php</strong></a></p>
-<p>And don&#8217;t forget to review at the <a href="#">Outlaw market&#8217;s listing page</a>.</p>
-    
     
 
- <a href="/tag/outlaw/" rel="tag">outlaw</a> <a href="/tag/v5/" rel="tag">v5</a>Updated: 2015-12-17
+Updated: 2015-12-17
     
     
 

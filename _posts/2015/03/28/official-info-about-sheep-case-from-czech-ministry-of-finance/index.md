@@ -5,10 +5,6 @@ title: "Official Info About Sheep Case From Czech Ministry of Finance"
 Posted by: DeepDotWeb 
 
 <span>March 28, 2015</span>
-
-
-
-
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p><span style="text-decoration: underline;">Following this <a href="/2015/03/27/breaking-sheep-marketplace-owner-arrested/">article</a>. Source of the info is <a href="https://www.reddit.com/user/karelb">/u/karleb</a> from <a href="https://www.reddit.com/r/DarkNetMarkets/comments/30k8d8/a_little_official_info_about_sheep_case_from/">this thread</a>:</span></p>

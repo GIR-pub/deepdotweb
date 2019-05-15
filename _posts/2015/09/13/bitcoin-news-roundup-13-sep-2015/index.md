@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 13, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Scotland should launch its own digital currency. According to a report released by <a href="http://www.neweconomics.org/publications/entry/scotpound-digital-currency-for-the-common-good">The New Economics Foundation</a>, Scotland has all the potential to introduce the “ScotPound” and capitalize on the benefits of a digital currency. The independent economic committee thinks that such a scheme would create a new field for small startups and medium-sized businesses, boosting local economies and suggests a 250 ScotPound dividend per citizen.</p>
 <p>ShapeShift.ioraised US$1.6 million to expand its services. According to <a href="http://insidebitcoins.com/news/shapeshift-raises-another-us1-6m-in-funding/34713">Bitcoinist</a>, the round was led by Barry Silbert’s Digital Currency Group, whereas other participants included bitcoin entrepreneur Roger Ver and Bitfinex as well as leading angel investors, Bruce Fenton and Michael Terpin, among others. In July, the leading converter for digital currencies, has hit the US$2 million threshold in transaction volume. Now, the company focuses on improving its API service to offer a seamless customer experience.</p>

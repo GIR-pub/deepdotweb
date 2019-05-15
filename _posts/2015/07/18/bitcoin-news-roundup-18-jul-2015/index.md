@@ -8,10 +8,6 @@ Posted by: DeepDotWeb
     
 <span>July 18, 2015</span>
 
-
-<span><a href="/2015/07/18/bitcoin-news-roundup-18-jul-2015/
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The Digital Currency Council (DCC) favors the training and certification of professionals interested in the cryptocurrency economy. According to <a href="http://insidebitcoins.com/news/chamber-of-digital-commerce-and-dcc-partner-to-promote-digital-currencies/33696">Inside Bitcoins</a>, the DCC has joined forces with the Chamber of Digital Commerce aiming to educate and offer training opportunities to the members of the Chamber regarding the digital currencies as well as to connect its professionals with prospective clients.</p>
 <p>The first blockchain IPO will be launched in the UK. As Maria Santos of <a href="https://99bitcoins.com/bitcoin-company-coinsilium-launches-uk-first-blockchain-ipo/">99bitcoins</a> writes,</p>

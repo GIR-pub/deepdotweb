@@ -6,11 +6,9 @@ Posted by: Chris McCandless
 
 <span>October 30, 2015</span>
 
+<img src="/imgs/2015/10/fefe.jpg">
 
-
-
-<img src="imgs/2015/10/fefe.jpg">
-    Scamming has, and always will be, a huge issue for any Dark Net Market user. How do you know you’re going to receive the product that’s described in a listing? There are many trains of thought on this issue and many people have vocalized the simple solution “Don’t Finalize Early! Don’t give them money until you get your product!” which is a wonderful piece of advice. When placing an order on a marketplace, there will be an escrow system that holds onto your funds until you authorize the release to the seller.</p>
+<p>Scamming has, and always will be, a huge issue for any Dark Net Market user. How do you know you’re going to receive the product that’s described in a listing? There are many trains of thought on this issue and many people have vocalized the simple solution “Don’t Finalize Early! Don’t give them money until you get your product!” which is a wonderful piece of advice. When placing an order on a marketplace, there will be an escrow system that holds onto your funds until you authorize the release to the seller.</p>
 <p>It’s a classic system, one that has been used even since before Silk Road came to life – the trusted middleman holds onto the funds while the deal is taking place to avoid one person from pulling some kind of scam on the buyer/seller. However, there are still risks involved, and many ask themselves “Why do people <a href="/2014/03/02/deepdotwebs-darknet-dictionary/">finalize early</a>?”</p>
 <p>When it comes down to it, someone may be so inclined to finalize an order that hasn’t made it to them yet (or even worse, before the vendor even confirms the order) because of a foundation of trust. Putting your trust into a seller who has provided quality products and has quality feedback makes the escrow system look pointless. When a buyer is staring at 5/5 reviews, with hundreds of orders, there won’t be a single doubt in that buyers mind that anything could possibly happen.</p>
 <p>This is where the critical judgment error occurs. Exit scamming has turned into an art &#8211; a lucrative and manipulative one, at that. Let’s look back to the original Silk Road, and take a look at one vendor in particular – Tony76.</p>

@@ -6,16 +6,14 @@ Posted by: DeepDotWeb
 
 <span>August 26, 2015</span>
 
-<a href="/category/news/" rel="category tag">News</a>, 
-
-
-
 <p><a href="#">Agora</a>, the current largest market is about to pause its operations in order to deal with major security concerns before coming back, this will be done in a similar manner to what we have seen only in the BlackMarketReloaded case where the admins have notified the users prior to shutting down and did not &#8220;exit scam&#8221;. The admins have posted a signed message on the market explaining the situation (agorahooawayyfoe.onion/info/pausingoperations):</p>
-<div id="attachment_11360" style="width: 628px" class="wp-caption aligncenter"><a href="/imgs/2015/08/agora.png">
+
+
+<img src="/imgs/2015/08/agora.png">
+
     
----
-title: "--BEGIN PGP SIGNED MESSAGE---
-title: "--
+--------BEGIN PGP SIGNED MESSAGE--------
+
     Hash: SHA512
     
     Recently research had come that shed some light on vulnerabilities in Tor Hidden Services protocol which could help to deanonymize server locations. Most of the new and previously known methods do require substantial resources to be executed, but the new research shows that the amount of resources could be much lower than expected, and in our case we do believe we have interested parties who possess such resources.
@@ -40,9 +38,7 @@ title: "--
     Since our PGP key is nearing expiration date, here is a new PGP key which could be used to check authenticity of our messages in the future.
     
     
-    - ---
-title: "--BEGIN PGP PUBLIC KEY BLOCK---
-title: "--
+    - --------BEGIN PGP PUBLIC KEY BLOCK--------
     
     mQINBFXbhfUBEADwmNTkQPx8UCSx4HBnuj4XpAA5uIceXAa6dBAGnLdZ8XjpgqM2
     scPLqPd0DHLu5SPB9+zq1H/YoDeG+Ha1LfZ6kbl1PTZjieGiyhiRN2cctlOL6RKJ
@@ -91,12 +87,8 @@ title: "--
     /ZWI5iZjxSSQLEfxigeu9PE8LWzayTTW2DJR0SCaMVyCQG5XnjO2ozHRQX47KE8Z
     XhtwS0aE2SI6BE5V8EZ3euZ3ok/CeNQPLFYNJWbCuEMEd4NuktvzR2skh94I
     =xcF3
-    - ---
-title: "--END PGP PUBLIC KEY BLOCK---
-title: "--
-    ---
-title: "--BEGIN PGP SIGNATURE---
-title: "--
+    - --------END PGP PUBLIC KEY BLOCK--------
+    --------BEGIN PGP SIGNATURE--------
     
     iQIcBAEBCgAGBQJV3MOEAAoJELCkZxCnK9YVfToQAINT8hwQqTaYy1H24XaiWS5K
     VtTG6I38Taz4yJO/Oe7Co3M2lKn0qgIZYOD1CK9iKuKr2/jub+JtDUWEX06GwWmp
@@ -111,11 +103,9 @@ title: "--
     kmRT7I3mX8gTGIb+LUPIpeEN2zyupbc7vRpked5FRC9BcH+Uma0kc6MtzYShUEKe
     NghlKoNBPQruQt7EEejn
     =IIZh
-    ---
-title: "--END PGP SIGNATURE---
-title: "--</textarea></div>
+    --------END PGP SIGNATURE--------
 
-    Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
+Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
 <p><strong>So Where do we go now?</strong></p>
 <p>Well here&#8217;s what we have next in line:</p>
 <ul>

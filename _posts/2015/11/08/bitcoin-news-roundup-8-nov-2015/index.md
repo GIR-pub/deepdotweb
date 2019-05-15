@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>November 8, 2015</span>
 
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Santander launches blockchain challenge. As Nikhil Gupta of <a href="http://www.newsbtc.com/2015/11/05/santander-launches-blockchain-challenge/">NewsBtc</a> reports, via its fintech venture capital fund, Santander InnoVentures, Santander joins forces with OneVest investing and equity crowdfunding startup to launch a blockchain challenge. In detail, the bank is actively seeking for blockchain-based startups operating in mortgage processing, trade finance and asset leasing, and related technologies that could help Santander to bridge the gap between conventional payment systems to new generation transaction settlement networks. The winner of the “Santander InnoVentures Distributed Ledger Challenge” will receive US $15,000 and guaranteed investment from Santander Innoventures. Runner-ups will explore partnership opportunities with other venture capital funds and angel investors.</p>
 <p>Canadian blockchain technology startup gets listed in the Toronto Stock Exchange. As Joseph Young of <a href="http://cointelegraph.com/news/115564/first-blockchain-company-goes-public-on-toronto-stock-exchange">Coin Telegraph</a> writes, Blockchain Tech Ltd startup is successfully listed on the VentureBoard of the Toronto Stock Exchange, under the ticker TSXV:BTL. Blockchain Tech Ltd aims to alter the environment of “international fintech movement,” and provide assistance to banks and financial institutions to capitalize on the benefits of the blockchain technology to tie conventional payment systems and decentralized payment networks.</p>

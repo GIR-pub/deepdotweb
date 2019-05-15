@@ -21,7 +21,7 @@ Posted by: DeepDotWeb
 <li><a href="/2014/11/18/grams-torads/">Grams Grows with TorAds: First Advertising Network For Tor</a></li>
 </ul>
 <p><span style="text-decoration: underline;"><strong>The release, as it was provided to us by GramsAdmin:</strong></span></p>
-<p>Hi all, Every since <a href="/tag/operation-onymous/" target="_blank">Operation Onymous</a> , I have been working on a project to get the Tor project more donations. There was lots of rumors that Tor had been hacked and de-anonimized. Even though these rumors have turned out to be false and Tor is still secure, I think the Tor Project needs as much money as possible to help keep it that way. So I created my new site to give incentive to the people who use Tor the most to donate their extra bitcoins.</p>
+<p>Hi all, Every since <a href="#">Operation Onymous</a> , I have been working on a project to get the Tor project more donations. There was lots of rumors that Tor had been hacked and de-anonimized. Even though these rumors have turned out to be false and Tor is still secure, I think the Tor Project needs as much money as possible to help keep it that way. So I created my new site to give incentive to the people who use Tor the most to donate their extra bitcoins.</p>
 <p><strong>I present to you BitBall: </strong><span style="text-decoration: underline;">bitball6vducog3f.onion</span><strong><br />
 </strong></p>
 <p><strong> How it works?</strong></p>
@@ -36,12 +36,16 @@ Posted by: DeepDotWeb
 <li>Drawings are every Wednesday and Saturday night at 10:59 p.m. Eastern Time.</li>
 <li>Ticket buying will be suspended 1 hour before a drawing and resume 1 hour after.</li>
 </ul>
-<img src="imgs/2015/01/bitball.png">
+
+<img src="/imgs/2015/01/bitball.png">
+
 <p><strong>Winnings Claim</strong></p>
 <p>We made the winnings claim process easy. Winners can enter their ticket hashcode in the claim form and will be prompted for a bitcoin address. For the first couple of drawings I will be manually approving winnings payouts to check for fraud or bugs. During that time it could take up to 24 hours for winners to get their winnings. After that it will be an automatic process and winners will have their bitcoins within 20 minutes!</p>
-<img src="imgs/2015/01/claims.png">
+
+<img src="/imgs/2015/01/claims.png">
+
 <p><strong>All the proceeds get donated to the Tor Project</strong></p>
-<p>The donations will be given to the Tor Project once a week and displayed on the Bitball homepage. To prove the profits will be donated I already donated 2 BTC this week for the launch. You can verify the the transaction of the donation on the home page&#8217;s donations section. I know a transaction hash doesn&#8217;t prove I donated it, but anyone who doubts me can email the Tor project and ask if they received it. I made this donation, and will make all donations, under the email <strong><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="107762717d63507c757c717e647f633e7f6277">[email&#160;protected]</a></strong>.<br />
+<p>The donations will be given to the Tor Project once a week and displayed on the Bitball homepage. To prove the profits will be donated I already donated 2 BTC this week for the launch. You can verify the the transaction of the donation on the home page&#8217;s donations section. I know a transaction hash doesn&#8217;t prove I donated it, but anyone who doubts me can email the Tor project and ask if they received it. I made this donation, and will make all donations, under the email <strong><a href="#">
     I always see Reddit and forum posts from users asking what to do with their extra bitcoins. I think this will be an incentive for user to donate their spare bitcoins to Tor and maybe win big.</p>
 <p><strong>Grams Connection</strong></p>
 <p>The site is separate from Grams but if it takes off, as I think it will, I will be adding support for Grams&#8217; users to buy tickets directly from the bitcoins in their Grams&#8217; account. This will mean instant tickets without having to wait for blockchain confirmations. This will also make it easy to spend the extra bitcoins a user&#8217;s Grams account.</p>

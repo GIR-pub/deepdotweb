@@ -9,7 +9,8 @@ Posted by: DeepDotWeb
 
 
 <p>If you are a Sigaint email user you probably received this email last week:</p>
------BEGIN PGP SIGNED MESSAGE-----
+
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA1
     
     Hello SIGAINT user,

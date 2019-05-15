@@ -6,10 +6,8 @@ Posted by: pesa_mic
 
 <span>September 21, 2015</span>
 
+<img src="/imgs/2015/09/1.png">
 
-
-
-<img src="imgs/2015/09/1.png">
 <p>The long term price of bitcoin always stirs up a response from bitcoin speculators. In the past 5 years, the price has fluctuated wildly, up + 17,500% as of January 2014. In hindsight, it is an obvious a pattern &#8211; goes up a while, then down, then back up. However, the past 22 months of a bear market, with several attempts at recovery, have dashed moon speculators high high hopes. Any rebound back up for another bull price run, has to find a final a bottom first. Most bitcoiners agree the future price of Bitcoin is currently undervalued, with few saying exactly how much. The unknown is where and when the market hits bottom.</p>
 <p><strong>Price Projections </strong></p>
 <p>Today, it is down 80% from its 1175 peak, but still up by over 11,000% up since 2010.</p>
@@ -28,14 +26,20 @@ Posted by: pesa_mic
 <p><strong>“The Bottom is In, We’re Going up on a new cycle”</strong></p>
 <p>A 22 month bear is longer than most in the short history of bitcoin. Since dollar parity, a characteristic exponential pattern has repeated itself.</p>
 <p>There is technical analysis (TA) in favour of the end of the bear market and the beginning of a new cycle based on breaking out of of long term log downtrend from all time, coupled with a stable sideways trend in $ 200 &#8211; $300 range year to date.</p>
-<img src="imgs/2015/09/2.png">
+
+<img src="/imgs/2015/09/2.png">
+
 <p><em>“A perfect breakout of the downtrend, then backtest to support, then a weekly reversal to the upside on high volume. This is the ingredient for retesting the all-time highs in</em> <em>Bitcoin”</em></p>
 <p>Some Elliott Waves analysis inclined to bullish forecast, consider Historical wave II to have ended after bottoming at $166 and breaking out of downtrend channel. Typically, EW wave 3s are usually the largest and most powerful wave in a trend. As per this TA, we are now rising to Historical III, expected to break past the $1175 ATH to a new All time HIgh.</p>
-<img src="imgs/2015/09/3.png">
+
+<img src="/imgs/2015/09/3.png">
+
 <p>Of course this will not happen overnight, more likely anywhere from 3 &#8211; 5 years. Trading sideways for months would be within expectations, but $ 200 would hold and gradually, like from April 2012, price would move up.</p>
 <p>In addition, a major bitcoin block reward halving is expected sometime in July 2016; a fundamental event that directly affects supply. In previous years, halving induced rallies before or after the event. Back in 2012/2013, price bubbled from $ 13 to $ 266 a few months after the halving. In 2012 shown there was no any immediate market reaction, but, price had bubbled a few months earlier from $6 to $16.</p>
 <p><em>“the market does try to price in the halving effect but strongly underestimates it (even after having seen what happened before)”</em></p>
-<img src="imgs/2015/09/43.jpg">
+
+<img src="/imgs/2015/09/43.jpg">
+
 <p>Any positions predicated on this forecast</p>
 <p><em>“ [&#8230;] have to be considered an &#8220;aggressive&#8221; entry to the long side as there&#8217;s really very little confirmation that price won&#8217;t just continue following the previous momentum of the channeled price action.”</em></p>
 <p><strong>Heading to Lower Lows, Bear Market prevails</strong></p>
@@ -44,7 +48,9 @@ Posted by: pesa_mic
 <p>Mainstream bitcoin adoption, expected to bring in new money is not happening, and the audible silence from start ups in the space suggests there aren’t any new growth numbers to brag about. Certainly, funding into the space has been positive, but consumers aren’t using bitcoin as much as the ecosystem needs. This ultimately suppresses price, with no new momentum added to kick start a new cycle.</p>
 <p>Despite the Greek crisis, and Chinese stock market turmoil, price has not reacted as one would expected of a safe haven asset class. Gold is not also doing too well either despite facing a similar environment; in fact, gold forecasts point to lower prices in the coming year, as low as $ 700. Meanwhile, the US dollar seems like the safest asset for now, as it continues to get stronger. All these factors don’t bode well for the price of bitcoin in the near term.</p>
 <p>Technically, the $166 bottom from January was not the final bottom, as seen here. Typically, recovery from bottom dips occur in impulsive moves up. Instead, the last 7 months of a sideways trend resemble a correction in a much larger Elliott Wave count.</p>
-<img src="imgs/2015/09/53.jpg">
+
+<img src="/imgs/2015/09/53.jpg">
+
 <p>While there is broad consensus of the peak at $ 1175 as wave 1, the end of wave 2 is contested. As per Elliott Wave guidelines and rules, wave 2 can extend upto the beginning of wave 1. Although extremely unlikely, as per historical Mt. Gox charts, this implies all price ranges upto $ 0.05. This is too low a target considering progress today, but the range of prices between are certainly within reach.</p>
 <p>This chart illustrates wave count fractals within larger fractals. Sideways trend since $166 is an ABC flat correction, of a larger downtrend. Thin volumes and the size of the retracement from bottom 3 (23.6%) are common in wave 4’s. Thus, Wave 5 is set to follow and break below support at $ 200 from January; a psychological support level tested multiple times throughout 2015.</p>
 <p>Potential targets for wave 5 range between $ 100 &#8211; $ 63, over the next 6 months &#8211; January. The overall bear trend from $1175 ATH is an A wave, meaning we are still headed down towards Historical II.</p>

@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 22, 2015</span>
 
-
-
-
 <p><a href="#">Reddit</a>, the updates posted here to their request</p>
 
 <blockquote><p>To accommodate our growth we have made some additions you may find interesting</p>

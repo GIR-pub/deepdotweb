@@ -9,7 +9,7 @@ Posted by: Allen Hoffmann, JD
     
 <p><strong>Guilty of what?</strong></p>
 <ul>
-<li>More articles about the Silk road trial at this tag: <a href="/tag/SilkRoadTrial/">#SilkRoadTrial</a></li>
+<li>More articles about the Silk road trial at this tag: <a href="#">#SilkRoadTrial</a></li>
 </ul>
 <p>Since the first day of the trial of Ross William Ulbricht in a Manhattan federal courtroom, the defense has been prepared to concede that this was a man guilty of something, whether the jury wanted to regard it as guilt morally or ethically, if not at law; he had, indeed, established Silk Road. Sure, he had created it, but the defense has sought to proffer, elicit and advance the notion that after he had created the site both on its own motion and from witnesses. We have discussed previously the manner in which the defense has sought to exculpate Ross William Ulbricht as being an approach which does not seek to establish innocence, but rather, undermine the capacity of the prosecution to establish guilt beyond <a href="/2015/01/14/silk-road-trial1/" target="_blank">reasonable doubt</a>. Has this strategy backfired?</p>
 <p><strong>The alternate DPR defense narrative</strong></p>

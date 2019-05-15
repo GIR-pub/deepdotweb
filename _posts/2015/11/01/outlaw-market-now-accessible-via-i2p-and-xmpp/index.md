@@ -8,7 +8,8 @@ Posted by: DeepDotWeb
 
 
 <p><a href="#">Outlaw Market</a> now accessible via I2P (and XMPP), as the admin announced:</p>
------BEGIN PGP SIGNED MESSAGE-----
+
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Hello

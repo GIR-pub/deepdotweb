@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>June 24, 2015</span>
 
-
-
-/2015/06/24/new-features-on-alphbay-paid-advertisement-via-sticky-listings-sticky-topics/"></div>
 <p>Despite the recent massive FUD &amp; Ddos attacks on the market, <a href="#">Alphabay</a> admins showed no sign of slowing down and released some other new &amp; unique features:</p>
 <blockquote><p>We have now added support for Paid Advertisement via <b>Sticky Listings</b> &amp; <b>Sticky Topics</b>. The perfect opportunity for both new &amp; old vendors to promote their products &amp; services.</p>
 <p><b>Sticky Listings &#8211; In Marketplace:</b><br/>

@@ -21,98 +21,126 @@ Posted by: DeepDotWeb
 </ol>
 <p>And the most popular sites for the past 90 days and their trends are:</p>
 <h2>#1 &#8211; <a href="#">Agora</a></h2>
-<img src="imgs/2015/11/agora.png">
+
+<img src="/imgs/2015/11/agora.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 458,367</li>
 <li><strong>Number of keywords</strong>: 1000+  (Webmaster tools will not show more than 1000 keywords per query)</li>
 <li><strong>Notes &amp; Trends</strong>:  <span style="color: #ff0000;">Defunct</span> &#8211; Since around the time Agora admins <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">decided to shut down</a>, the decline in interest around this market is clear, although it still seem to generate few thousand searches per day this number is bound to decline as time passes, yet there is no doubt that Agora was the most popular market in recent times.</li>
 </ul>
 <h2>#2 &#8211; <a href="#">Abraxas</a></h2>
-<img src="imgs/2015/11/abraxas.png">
+
+<img src="/imgs/2015/11/abraxas.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 407,892</li>
 <li><strong>Number of keywords</strong>: 378</li>
 <li><strong>Notes &amp; Trends</strong>:  <span style="color: #ff0000;">Defunct</span> &#8211; Experienced a meteoric rise from nothing to full-on Agora popularity levels showing the mass migration to this market based only on its similar layout, Not very long after Agora admins <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">decided to shut down</a>, Abraxas admins exit scammed leaving us with nothing but speculation about their timing,  and the decline in popularity is already starting to show.</li>
 </ul>
 <h2>#3 &#8211; <a href="#">Alphabay</a></h2>
-<img src="imgs/2015/11/alphabay.png">
+
+<img src="/imgs/2015/11/alphabay.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 242,418</li>
 <li><strong>Number of keywords</strong>: 224</li>
 <li><strong>Notes &amp; Trends</strong>: While other market admins decide to exit scam, Alphabay is going strong from nearly nothing 3 month ago to a peak of around of around 10k impressions per day right after Abraxas decided to exit scam. Which poses it as the most popular active market currently.</li>
 </ul>
 <h2>#4 &#8211; <a href="#">Nucleus</a></h2>
-<img src="imgs/2015/11/nucleus.png">
+
+<img src="/imgs/2015/11/nucleus.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 235,842</li>
 <li><strong>Number of keywords</strong>: 283</li>
 <li><strong>Notes &amp; Trends</strong>: In a close fight and not far behind Alphabay, showing a pretty steady trend over the past 3 months with a few peaks and a slight rise in general interest after the recent Abraxas exit scam the only thing which differentiate Nucleus from Alphabay is the lack of upward trend, for now at least.</li>
 </ul>
 <h2>#5 &#8211; <a href="#">RAMP</a> (Russian Anonymous MarketPlace)</h2>
-<img src="imgs/2015/11/ramp.png">
+
+<img src="/imgs/2015/11/ramp.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 94,594</li>
 <li><strong>Number of keywords</strong>: 163</li>
 <li><strong>Notes &amp; Trends</strong>: This veteran Russian only forum is still going strong and rising, but far behind the Nucleus and Alphabay, a very notable trend which we&#8217;ll encounter with the next markets as well &#8211; showing who&#8217;s really getting the most business.</li>
 </ul>
 <h2>#6 &#8211; <a href="#">Middle Earth</a></h2>
-<img src="imgs/2015/11/middleearth.png">
+
+<img src="/imgs/2015/11/middleearth.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 84,138</li>
 <li><strong>Number of keywords</strong>: 180</li>
 <li><strong>Notes &amp; Trends</strong>: <span style="color: #ff0000;">Defunct</span> &#8211; Assumed as exit scammed until proven otherwise, Middle Earth market is starting to lose its newly gained popularity to other markets.</li>
 </ul>
 <h2>#7 &#8211; <a href="#">Silk Road 3</a></h2>
-<img src="imgs/2015/11/silkroad3.png">
+
+<img src="/imgs/2015/11/silkroad3.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 75,628</li>
 <li><strong>Number of keywords</strong>: 70</li>
 <li><strong>Notes &amp; Trends</strong>: We can like or dislike the use of the silk road brand, but this market is still generating some interest although it doesn&#8217;t seem to increase much over the recent events, and the general number is rather low, which means that its not considered as a popular alternative.</li>
 </ul>
 <h2>#8 &#8211; <a href="#">Dream Market</a></h2>
-<img src="imgs/2015/11/dreammarket.png">
+
+<img src="/imgs/2015/11/dreammarket.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 65,584</li>
 <li><strong>Number of keywords</strong>: 138</li>
 <li><strong>Notes &amp; Trends</strong>: Great &amp; stable market, been around since 2013, and only recently started gaining popularity, it will be interesting to check this chart in 3 months from now and see where it will be. According to the trend, users are considering it as a legitimate alternative to Abraxas / ME.</li>
 </ul>
 <h2>#9 &#8211; <a href="#">Silkkitie (Valhalla)</a></h2>
-<img src="imgs/2015/11/Silkkitie.png">
+
+<img src="/imgs/2015/11/Silkkitie.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 48,279</li>
 <li><strong>Number of keywords</strong>: 26</li>
 <li><strong>Notes &amp; Trends</strong>: The second non-english market in the top 10 list, recently turned English and rebranded as Valhalla &#8211; showing a mild growth in interest. (Note: the data is for &#8220;Silkkitie since there is not enough data available about &#8220;Valhalla&#8221;)</li>
 </ul>
 <h2>#10 &#8211; <a href="#">Dr. D&#8217;s Multilingual Market (Former Mr. Nice Guy)</a></h2>
-<img src="imgs/2015/11/mrnice.png">
+
+<img src="/imgs/2015/11/mrnice.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 43,105</li>
 <li><strong>Number of keywords</strong>: 139</li>
 <li><strong>Notes &amp; Trends</strong>: The <a href="/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">controversial market</a> which was recently re-branded and claimed to have changed ownership, and the only active market showing decline in interest over time (Note: the decline is not related to the rebranding as there is almost no data at all about the new name around 57 impressions total)</li>
 </ul>
 <h2>#11 &#8211; <a href="#">Crypto Market</a></h2>
-<img src="imgs/2015/11/crypto.png">
+
+<img src="/imgs/2015/11/crypto.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 7,177</li>
 <li><strong>Number of keywords</strong>: 142</li>
 <li><strong>Notes &amp; Trends</strong>: Far behind, we can find Silk road 3&#8217;s brother, Crypto market, showing a very negligible growth over time. (Note: showing data only for broad matches of &#8220;crypto market&#8221; since checking the term &#8220;crypto&#8221; will show everything related to cryptography and cryptocurrency as well)</li>
 </ul>
 <h2>#12 &#8211; <a href="#">Outlaw</a></h2>
-<img src="imgs/2015/11/outlaw.png">
+
+<img src="/imgs/2015/11/outlaw.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 6,083</li>
 <li><strong>Number of keywords</strong>: 38</li>
 <li><strong>Notes &amp; Trends</strong>: Very old and reliable market and one of my personal favorite markets, probably being held back by its UI. Will be interesting to review again once it changes. Regardless, showing mild growth following the recent exit scams.</li>
 </ul>
 <h2>#13 &#8211; <a href="#">DarkNet Heroes League</a></h2>
-<img src="imgs/2015/11/darknetheroesleague.png">
+
+<img src="/imgs/2015/11/darknetheroesleague.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 2,649</li>
 <li><strong>Number of keywords</strong>: 49</li>
 <li><strong>Notes &amp; Trends</strong>: This market is pretty new compared to the others. So a bit hard to measure.</li>
 </ul>
 <h2>#14 &#8211; <a href="#">East India Company</a> (EIC)</h2>
-<img src="imgs/2015/11/eastindia.png">
+
+<img src="/imgs/2015/11/eastindia.png">
+
 <ul>
 <li><strong>Total Impressions</strong>: 2,066</li>
 <li><strong>Number of keywords</strong>: 95</li>

@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>October 14, 2015</span>
 
-
-
-
 <p><a href="http://www.stuff.co.nz/entertainment/celebrities/72820355/Actors-image-used-to-sell-drugs-on-dark-web">Temuera Morrison has called for legal advice for a DNM vendor using the image of his classic Shortland Street character, “Dr Ropata”.</a> The New Zealand vendor who was using the actor’s image was called the same as the character Temuara Morrison had been playing in Shortland Street: Dr Ropata.</p>
 <p>Dr Ropata was selling cannabis, LSD, mushrooms, DMT, MDMA, crystal meth, as well as fake driver licenses that were made with a special printer. There has been an exclusive interview with the vendor, who claims that he has sold drugs on the darknet worth at least $40.000 and from at least 300 deals. Dr Ropata claims that he used the New Zealander character for marketing purposes. He made this statement too:</p>
 <p>&#8220;He&#8217;s a classic New Zealand character &#8230; I liked all the catchphrases and stuff I could use with it.&#8221;</p>

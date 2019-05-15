@@ -12,11 +12,17 @@ Posted by: DeepDotWeb
 <p>The market was announced simultaneously on DeepDotWeb &amp;  <a href="http://www.reddit.com/r/DarkNetMarkets/comments/312ph4/democratic_peoples_republic_of_korea_dark_market/" target="_blank">on Reddit</a> by its north Korean admin &#8211; <a class="author may-blank id-t2_mmt7p" href="https://pay.reddit.com/user/DPRKAdmin">DPRKAdmin</a>:</p>
 <blockquote><p>Hello citizens of the world. Today is a day to remember the good, huge Democratic People&#8217;s Republic of Korea entrance to the dark market internet.</p></blockquote>
 <p>The market is accessible at this url: <strong>http://dprk56755233hhfa.onion</strong></p>
-<img src="imgs/2015/04/koreamarket.png">
+
+<img src="/imgs/2015/04/koreamarket.png">
+
 <blockquote><p>We host our servers in the DPRK (Korea) and are immune to US imperialist interventionism. While we in the DPRK are communist; we have a mutual capitalist venture with our Southern imperialist counterparts in the Kaesong Industrial Region.</p></blockquote>
 <p>Currently there are not many vendors operating on the market but here is a quick view of the available products and categories:</p>
-<img src="imgs/2015/04/korea2.png">
-<img src="imgs/2015/04/korea3.png">
+
+<img src="/imgs/2015/04/korea2.png">
+
+
+<img src="/imgs/2015/04/korea3.png">
+
 <p>Features of the market includes:</p>
 <ul>
 <li>BTC price live on NK Wons</li>

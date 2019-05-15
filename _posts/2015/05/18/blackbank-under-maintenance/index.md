@@ -8,7 +8,8 @@ Posted by: DeepDotWeb
 
 
 <p><a href="#">BlackBank</a> is not gone:</p>
------BEGIN PGP SIGNED MESSAGE-----
+
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Howdy,

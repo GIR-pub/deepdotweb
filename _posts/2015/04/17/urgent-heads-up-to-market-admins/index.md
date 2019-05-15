@@ -15,7 +15,8 @@ Posted by: DeepDotWeb
 <p>All the best,<br/>
     TheRealDeal Market</p></blockquote>
 <p>The listing of the exploit on TheRealDeal:</p>
-<img src="imgs/2015/04/exploit.png" rel="lightbox"> 
+
+<img src="/imgs/2015/04/exploit.png" rel="lightbox"> 
 
 
 

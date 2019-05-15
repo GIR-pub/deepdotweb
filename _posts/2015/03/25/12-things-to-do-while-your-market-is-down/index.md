@@ -6,13 +6,12 @@ Posted by: DeepDotWeb
 
 <span>March 25, 2015</span>
 
+<p>After the <a href="#">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
 
+<img src="/imgs/2015/03/uptime.png">
 
-
-<p>After the <a href="/tag/evoscam/">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
-<img src="imgs/2015/03/uptime.png">
 <ol>
-<li>Donate to Peter Nash fund, the arrested silk road moderator <a href="/tag/SSBD/">SSBD</a> &#8211; this address: <a href="https://blockchain.info/address/12tyijNFQHiEppXymrC96DT692y5cFsEcr"><strong>12tyijNFQHiEppXymrC96DT692y5cFsEcr</strong></a> (details can be found <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2ym4il/ssbd_fundraiser_update_tuesday_march_10_were/">here</a>)</li>
+<li>Donate to Peter Nash fund, the arrested silk road moderator <a href="#">here</a>)</li>
 <li>Check other markets at our <a href="/dark-net-market-comparison-chart/">Dark Net markets comparison chart</a>.</li>
 <li><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Leave reviews for markets you have tried</a> &#8211; be honest!</li>
 <li>Check out new posts at the <a href="http://www.reddit.com/r/DarkNetMarkets/">/r/darknetmarkets sub</a></li>

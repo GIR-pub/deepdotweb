@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>October 7, 2015</span>
 
-
-
-
 <p>Have you ever wondered if there are DNM dealers on the darknet who are donating money to charities? Honestly, I have never ever imagined such thing, however, <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3ndeb7/drug_profits_donated_to_doctors_without_borders/">TripWithScience, a well-known vendor on DNMs has donated 4.392000 BTC (worth $973.50 at the moment when he has donated the funds) to the charity Doctors Without Borders.</a></p>
 <p>It is a great act from TripWithScience, in addition to that, he has done the donation twice. <a href="https://pay.reddit.com/r/DarkNetMarkets/comments/356kmu/psaarticle_dnm_profits_donated_to_nepal_relief/">He has donated 1 month’s earnings to the Red Cross to help the survivors of the Nepal earthquake in May 2015.</a> The amount the vendor was donating was 25 BTC ($5,848 at the time of donation).</p>
 <p>The first donation of TripWithScience was significantly more than the latter, however, the point is not how much do we give to charities, but the act itself. I personally think that if most people would be on the same point of view as TripWithScience, the world would be a much better place. No matter what you do and who you are, you can be a manager of a company, a gardener, a drug dealer or the president of the United States, the fact that you have donated funds to help people is enough.</p>

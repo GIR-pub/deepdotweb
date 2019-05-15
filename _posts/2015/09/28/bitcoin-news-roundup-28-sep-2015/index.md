@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 28, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Chief economist at The Bank of England (BoE) views the bitcoin as a replacement for cash. As Giulio Prisco of <a href="https://bitcoinmagazine.com/21999/bank-england-chief-economist-blockchain-based-digital-currency-issued-central-banks-replace-cash/">Bitcoin Magazine</a> writes, BoE’s chief economist, Andrew G Haldane, stated that the U.K. government might issue a digital currency to mitigate the failure of central banks to stimulate economic growth, thus compromising the success of monetary policy, the widely known Zero Lower Bound (ZLB) problem. Although Haldane’s views are not representing BoE, there are indicative of what the Bank considers.</p>
 <p>Australia&#8217;s major banks threaten to close corporate bitcoin accounts. As Paul Smith of <a href="http://www.afr.com/technology/big-banks-cut-off-accounts-of-bitcoin-companies-in-battle-for-the-future-of-payments-20150921-gjr7hu">The Australian Financial Review</a> writes, leading banks in Australia have sent warning letters to major Australian bitcoin startups and exchanges, including Bit Trade and Buyabitcoin, stating that their accounts will be closed, without further notice. The accounts of 13 bitcoin companies are already closed. This move is expected to put the viability of new business at risk.</p>

@@ -13,7 +13,10 @@ Posted by: DeepDotWeb
 <li><a href="https://www.walletexplorer.com/wallet/BlackBankMarket/addresses">Known Wallet addresses related to BlackBankMarket via Walletexplorer</a></li>
 <li><a href="https://www.walletexplorer.com/wallet/BlackBankMarket/addresses">BlackBank &#8220;Known&#8221; Wallet</a></li>
 </ul>
-<div id="attachment_10806" style="width: 741px" class="wp-caption aligncenter"><a href="/imgs/2015/06/drained.png">
+
+
+<img src="/imgs/2015/06/drained.png">
+
 <p>For everyone who lost money &#8211; sorry for your loss.  The stolen amount was an unknown amount of over <strong>606BTC</strong> (The sum contained in the KNOWN related wallets listed above, we can assume that there was more in other wallets &#8211; not linked to Blackbank via walletexplorer)</p>
 <p><strong>On a more positive note</strong>, check the sidebar of this site &#8211; there are more than enough <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">alternative markets</a>.</p>
 <p>Don&#8217;t forget to use our onion address: <strong>deepdot35wvmeyd5.onion</strong></p>

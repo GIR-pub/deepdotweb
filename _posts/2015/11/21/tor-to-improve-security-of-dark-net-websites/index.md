@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>November 21, 2015</span>
 
-
-
-
 <p>The recent news about the CMU helping the FBI made the Tor Project to realize, they need to improve the security of the domains on the dark web, As it was <a href="http://motherboard.vice.com/read/tor-is-trying-to-make-dark-web-sites-more-secure">reported by Jospeh Cox on motheboard.vice</a>  They have patched the vulnerability points the attackers took advantage of, however, according to them, there are still improvements to make. Tor is planning to launch several security tweaks to their infrastructure in order to keep the hidden .onion websites actually hidden in the network.</p>
 <p>“When a random person sets up a hidden service, they expect that hidden service to be hidden,&#8221; Tor developer, ‘d20’, who wants to remain pseudonymous since privacy reasons, made this statement. He also added:</p>
 <p>“The plan for the next generation of .onion services includes enhanced security as well as improved performance.” The attack, which has been denied by both the university and the FBI, was focused on the end nodes. “Guard nodes are the first hop of a Tor circuit and hence the only part of the network that can see the real IP address of a hidden service,” d20 said, describing the function of the nodes.</p>

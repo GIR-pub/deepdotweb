@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>November 28, 2015</span>
 
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Brave New Coin (BNC) launches the first blockchain-backed index for financial markets. According to <a href="http://www.finextra.com/news/announcement.aspx?pressreleaseid=62277">Finextra</a>, the New Zealand-based Data &amp; Research company has joined forces with Smartbit, a Melbourne-based company that develops blockchain-related digital currency tools, for the development of the BNC Bitcoin Liquid Index (BNC-BLX). The innovative partnership is expected to offer “provable market data” to investors by engaging in the Market Chaining process, where market indexes, quotes and trades will be secured onto the blockchain ledger. The BNC-BLX Index will be launched for settlement of bitcoin derivatives and is expected to satisfy the increasing demand for “proof of settlement”, a key implication of the Market Chaining process.</p>
 <p>Itis, Finland’s largest shopping mall, welcomes the first bitcoin ATM. As Erin Lace of <a href="http://cointelegraph.com/news/115743/the-first-btm-opens-in-finlands-largest-shopping-centre-itis">Coin Telegraph</a> writes, Bittiraha.fi and Bitcoinkaupat.com, two Finnish leading bitcoin companies, have opened the first bitcoin ATM (BTM) in Helsinki’s largest shopping center. Generally speaking, the Nordic countries have expressed an early interest in blockchain technology and particularly Finland is in the top-3 countries in bitcoin usage per capita globally. The establishment of the two- way BTM in Helsinki is expected to turn the Finnish capital into the bitcoin capital of Europe, but also to increase the interest of nearby merchants to accept the bitcoin.</p>

@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>August 1, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Mark Karperles, former Mt. Gox CEO, is facing charges of fraudulent system manipulation.According to Drew Cordell of <a href="http://bitcoinist.net/mark-karpeles-possibly-charged-suspicions-fraudulent-system-manipulation/">Bitcoinist</a>, Tokyo’s Metropolitan Police Department has charged Karperles with <em>“</em><em>fraudulently producing and using private electromagnetic records”</em>, with the aim to manipulate the exchange’s system and inflate the balance of fake bitcoin accounts. Although the authenticity of the information cannot be verified yet, if it is real, it is a relief for all those users who are trying to recover their funds from Mt. Gox.</p>
 <p>Following the Citi’s recent announcement about working on its own cryptocurrency (Citicoin), Fidelity seeks to launch Fidelitycoin. As P.H. Madore of <a href="https://www.cryptocoinsnews.com/one-worlds-largest-mutual-fund-2-trillion-aum-wants-trademark-fidelitycoin/">CryptoCoins News</a> writes, Fidelity, one of the leading mutual funds has filed an application with the US Patent Office and Trademark Office concerning “financial services, namely, financial exchange services for virtual currency; electronic wallets; charitable services in the nature of virtual currency.”Although Fidelity neither confirms nor denies that the fund experiments with its own cryptocurrency, spokesman Stephen Austin stated “<em>I can confirm the filing, we are always experimenting with emerging technologies.”</em></p>

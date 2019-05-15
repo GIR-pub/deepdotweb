@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>December 20, 2015</span>
 
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>IBM, Wells Fargo and LSE are enticed by the blockchain. As Matthew Leising and Jing Cao of <a href="http://www.bloomberg.com/news/articles/2015-12-17/blockchain-lures-ibm-wells-fargo-to-develop-">Bloomberg</a> report, finance and technology leaders are backing the blockchain as a means to simplify the recorded transactions. The innovative group works closely with the Linux Foundation, aiming to create a public block-based network, known as the Open Ledger Project, where related apps would be allowed to instantly communicate with each other. The open-source software is expected to <em>“transform the way business transactions are conducted”</em>. IBM is offering existing code lines to the initiative as well as intellectual property and skilled developers, whereas other participants involved in the effort are Accenture, ANZ Bank, Cisco Systems, Fujitsu, Intel Corp., Mitsubishi UFJ Financial Group Inc., State Street Corp., and Wells Fargo, among others.</p>
 <p>R3 Consortium now includes 42 banks. As Leon Pick of <a href="http://www.financemagnates.com/cryptocurrency/innovation/r3-12-more-banks-join-blockchain-consortium-exchanges-and-funds-coming/">Finance Magnates</a> reports, Banco Santander, BMO Financial Group, Danske Bank, Nomura, Scotiabank, Sumitomo Mitsui Banking Corporation, U.S. Bancorp and Westpac are some of the new participants that have joined the fintech startup R3 consortium. R3 is <em>“</em><em>now the financial sector’s largest and most diverse commitment and investment to applying blockchain technology to financial markets.”</em> According to David Rutter, R3 CEO, <em>“distributed ledger technology has the potential to impact the financial services sector the way the Internet changed media and entertainment.”</em></p>

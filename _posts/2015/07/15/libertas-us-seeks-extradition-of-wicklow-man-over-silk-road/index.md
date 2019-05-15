@@ -6,13 +6,11 @@ Posted by: DeepDotWeb
 
 <span>July 15, 2015</span>
 
-
-
-
-/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/"></div>
 <p>Wicklow man was an administrator of the Silk Road website which offered anonymity to those both selling and buying items including illegal drugs and hacking software.</p>
 <p>Gary Davis (<em>Note:</em> Alleged Silk road admin <a href="/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/">Libertas</a>), aged 27, of Johnstown Court, Kilpedder, Co Wicklow, is wanted for trial by US authorities on charges of conspiracy to distribute narcotics, conspiracy to commit computer hacking and conspiracy to commit money laundering.</p>
-<div id="attachment_11042" style="width: 477px" class="wp-caption aligncenter"><a href="/imgs/2015/07/image1.jpg" rel="lightbox"> 
+
+
+<img src="/imgs/2015/07/image1.jpg" rel="lightbox"> 
 <p>Today his counsel John O’Kelly SC said his client, who he described as being a “vulnerable person” suffers from both a form of autism known as Asperger’s Syndrome and depression, was opposing the extradition request on a number of grounds.</p>
 <p>The points of objection counsel said, include that due to his mental health condition he would, if extradited, be detained in the US in conditions that are inhuman and degrading. This would amount to breach of his rights, counsel said.</p>
 <p>Evidence would be put before the court that if he was extradited and subsequently found guilty by a US court  Davis would be sent to a medium security prison. Counsel said if imprisoned the effects over the long term on his client, given his mental health, could be “very serious.”</p>

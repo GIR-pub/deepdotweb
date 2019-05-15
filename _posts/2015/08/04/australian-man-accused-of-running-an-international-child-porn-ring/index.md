@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>August 4, 2015</span>
 
-
-
-
-
 <p>There have been quite some events regarding child pornography. If you can remember, there was a case when the <a href="http://www.reuters.com/article/2015/07/07/us-usa-crime-childporn-idUSKCN0PH24C20150707">FBI has busted a large CP website that had around 215.000 users</a>. Also, there has been a pretty weird case on a child pornography domain where the <a href="/2015/07/16/pedophiles-launch-dash-darkcoin-mining-crowdfunding-platform/">site admin has set up a system (crowdfunding platform) that allows members to mine Darkcoins in order to pay for the content</a>.</p>
 <p>However, the latest news around pedophiles has been an <a href="http://qntra.net/2015/08/australian-faces-88-charges-related-to-darknet-child-pornography-sites/">Australian man, named Matthew David Graham, who has been accused of 88 charges</a>, including the running and being the kingpin of an international child pornography. The CP ring included 12 websites that contained child pornography. He was also charged with giving advice on abducting, raping and killing a five-year-old girl in Russia.</p>
 <p>Graham has been also accused with the charge of by helping a man in Melbourne abusing a young girl. He helped the child abductor by providing a hand in concealing the pedophile’s identity. When the police have asked about the login details and password of the Melbourne man, Graham refused to provide these details to the law enforcement authorities. The latter event happened last year.</p>

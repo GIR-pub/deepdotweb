@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>December 30, 2015</span>
 
-
-
-
 <p>Instead of creating all the <a href="/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
 <p><strong>PRIVACY TIP FOR DEEP WEB USERS</strong>: Use a <a href="/vpn-comparison-chart/">VPN</a> with Tor. <a href="/vpn-comparison-chart/">Click here to find the best VPN for privacy on the Deep Web</a>.</p>
 <p><strong>VPN</strong></p>
@@ -26,7 +23,8 @@ Posted by: DeepDotWeb
 <p>You will need to use a browser configured to use Tor. Some people install and configure Tor and their browser separately, but the popular Tor Browser comes bundled with Tor and requires no configuration.</p>
 <ol type="1">
 <li>Download it <a href="https://www.torproject.org/projects/torbrowser.html.en">here</a>.
-<div style="width: 881px" class="wp-caption alignnone"><img src="/imgs/2014/01/126.png" alt="Tor" width="871" height="548" /><p class="wp-caption-text">Tor</p></div></li>
+<div style="width: 881px" class="wp-caption alignnone">
+<img src="/imgs/2014/01/126.png" alt="Tor" width="871" height="548" /><p class="wp-caption-text">Tor</p></div></li>
 <li>After the download is done, extract it into a folder (It is not installed &#8211; just extracted, and can be run from a USB drive)<br />
 
 <li>Run the &#8220;Start Tor Browser&#8221; shortcut. and you should see:<br />
@@ -35,7 +33,9 @@ Posted by: DeepDotWeb
 <h3>Disable JavaScript</h3>
 <p>After opening it, the first thing you&#8217;ll want to do is disable the use of JavaScript.</p>
 <p>1) In the top left corner, click the blue &#8220;S&#8221; icon, then click &#8220;Forbid Scripts Globally (advised)&#8221;.</p>
-<img src="imgs/2015/12/jsdis.png">
+
+<img src="/imgs/2015/12/jsdis.png">
+
 <p>Why is this needed? Since it increases your potential attack surface. For example: In August 2013, the FBI had hacked a server hosting provider named <a href="https://en.wikipedia.org/wiki/Freedom_Hosting">Freedom Hosting</a>. Freedom Hosting provided hosting for Tor hidden services, including some which served child porn.</p>
 <p>The FBI inserted some malicious JavaScript code in some of the pages served by the hidden services. The FBI was exploiting a vulnerability in a particular version of Firefox, which Tor Browser is based on. Vulnerable users who viewed the pages with JavaScript enabled had their real IP addresses exposed, and a number of arrests were made.</p>
 <h3>The Markets</h3>
@@ -57,10 +57,14 @@ Posted by: DeepDotWeb
 <h3>Your Profile</h3>
 <p>The prices displayed on the site might be in USD, or maybe BTC (Bitcoin). Most markets will allow you to navigate to your profile page and set it to your country&#8217;s currency.</p>
 <p>Example:</p>
-<img src="imgs/2015/12/currency.png">
+
+<img src="/imgs/2015/12/currency.png">
+
 <h3>Products</h3>
 <p>So you want to buy drugs online, bu what exactly are you interested in buying? Navigate to a product category, and then to a more specific subcategory. When browsing and searching for products, you&#8217;ll come across various sorting or filtering options on different markets, few examples from popular markets:</p>
-<img src="imgs/2015/12/sorting-options.png">
+
+<img src="/imgs/2015/12/sorting-options.png">
+
 <h3>Products &#8211; Domestic</h3>
 <p>Do you want a product from within your own country? Ordering a product (buying drugs online) domestically is the safest option.</p>
 <p>Ordering internationally is more risky because it means the product has to go through customs where it may be seized which could lead to you becoming the target of a subsequent police investigation.</p>
@@ -101,7 +105,9 @@ Posted by: DeepDotWeb
 <p>Tumbling is a form of laundering that attempts to break the public link between you and your Bitcoin. It works by transferring your Bitcoin to a wallet on the tumbling service&#8217;s website, and in turn receiving, to a different wallet, multiple separate transfers which together add up to the same amount you put in. The transfers are spaced over some variable length of time.</p>
 <p>Your Bitcoin will move from the <a href="https://localbitcoins.com/?ch=4v6y" target="_blank" rel="noopener noreferrer">LocalBitcoins</a> wallet to the tumbler wallet to the marketplace wallet.</p>
 <p>A number of tumbling services are:  <a href="http://bitblendervrfkzr.onion/?r=29404" target="_blank" rel="noopener noreferrer">Bitcoin Blender</a> (onion address)  and <a href="https://gramsflow.com/helixlight" target="_blank" rel="noopener noreferrer">Helix by Grams</a>.</p>
-<img src="imgs/2015/12/helix.png">
+
+<img src="/imgs/2015/12/helix.png">
+
 <h3>Tumbling: Grams Helix</h3>
 <p>As an example, here are the steps to using Grams Helix. It is very straightforward.</p>
 <p>Notes:</p>
@@ -181,7 +187,9 @@ Posted by: DeepDotWeb
 <p>Check it out and make sure it is everything you ordered. If there are no problems, hop back on to the market and go to the order page of your received product. Here you finalize the payment by releasing the funds from escrow (unless you chose to FE).</p>
 <h3>Receiving: Feedback</h3>
 <p>You should leave feedback. Choose the appropriate rating and leave a message referencing the delivery, the stealth and the product itself. This will be helpful for the vendor and other potential buyers.</p>
-<img src="imgs/2015/12/feedback.png">
+
+<img src="/imgs/2015/12/feedback.png">
+
 <h3>Receiving: Something&#8217;s wrong</h3>
 <p>If there&#8217;s a problem with the order, e.g. maybe the date is past the &#8220;latest date&#8221; given by the vendor but still hasn&#8217;t arrived yet, or maybe it is not what you ordered, then you should first message the vendor with your problem. In many cases a problem with the order will be due to an honest mistake and the vendor will reship or give you a refund.</p>
 <p>If you feel the vendor is being uncooperative and not trying to fix a mistake then you can open a dispute. A dispute will be created between you, a moderator and the vendor.</p>
@@ -192,7 +200,10 @@ Posted by: DeepDotWeb
 <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets<br />
 </a><a href="/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart<br />
 </a>Make sure you see the lock and <strong>HTTPS</strong>:<br />
-<a href="/imgs/2015/12/lock.png">
+
+
+<img src="/imgs/2015/12/lock.png">
+
 <li>Never enter your pin on a login page. If a login page requests your pin &#8211; its a phishing site.</li>
 <li>Always use PGP</li>
 <li>Use Multisig where available.</li>

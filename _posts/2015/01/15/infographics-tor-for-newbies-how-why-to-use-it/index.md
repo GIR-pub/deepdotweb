@@ -17,7 +17,10 @@ Posted by: DeepDotWeb
 <p>Welcome to the real TOR.</p>
 <p>Provided to us with the courtesy of <a href="http://www.whoishostingthis.com/blog/2014/11/13/tor-for-newbies/" target="_blank" rel="nofollow">Whoishostingthis</a></p>
 <p>(right click and view image for full size)<br />
-<a href="/imgs/2015/01/torfornewbiesDeepDotWeb.jpg">
+
+
+<img src="/imgs/2015/01/torfornewbiesDeepDotWeb.jpg">
+
 
 Updated: 2015-01-15
 

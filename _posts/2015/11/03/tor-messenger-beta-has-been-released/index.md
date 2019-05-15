@@ -2,13 +2,9 @@
 title: "Tor Messenger Beta Has Been Released"
 ---
 
-11
 Posted by: Benjamin Vitáris 
 
 <span>November 3, 2015</span>
-
-
-
 
 <p><a href="https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily">On October 29, the Tor Project released the beta version of the Tor Messenger.</a> The Tor Messenger is an anonymous cross-platform chat program that aims to be as secure as possible while being able to send and receive messages in real time. The Tor Messenger supports a wide variety of transport networks, such as Jabber (XMPP), IRC, Google Talk, Facebook Chat, Twitter, Yahoo, and many others. The program enables Off-the-Record (OTR) Messaging automatically and has an easy-to-use graphical user interface localized into multiple languages.</p>
 <p>The Tor Messenger is based on Instantbird, this is an instant messaging client developed by the Mozilla community. In the announcement of the Tor Messenger Beta, the developers say that they have been thinking whether to choose Instantbird or Pidgin for messaging client. They have chosen Instantbird for many reasons. The official statement goes by:</p>

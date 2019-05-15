@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>August 16, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Following 2 years of analysis of the cryptocurrency technology and its impact on the financial services, PricewaterhouseCoopers issues <em>“Money is no object: Understanding the evolving cryptocurrency market”</em> report. As SaadAsad of <a href="https://99bitcoins.com/pwc-report-cryptocurrencies-carry-groundbreaking-potential/">99bitcoins</a> writes, PwC’s 17-page report identifies the key benefits of the cryptocurrency as well as the major players in the emerging markets. According the global leading auditing company, sooner or later, the financial sector will be transformed by the digital money due to the security and transparency of transactions deriving from the decentralized blockchain.</p>
 <p>BitNexoconnects Chile and China using the bitcoin.Nikhil Gupta of <a href="http://www.newsbtc.com/2015/08/14/bitnexo-the-bitcoin-connect-between-china-and-chile/">NewsBtc</a> reports that The Chilean-based startup uses the digital currency to facilitate seamless transfers between Latin America and Asia while mitigating the volatility risk. Currently, more than $26 billion is transferred between Chile and China, mainly via SMEs with global operations between the two countries.</p>

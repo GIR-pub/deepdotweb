@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>August 2, 2015</span>
 
-
-
-
 <p>According to a <a href="http://www.interpol.int/News-and-media/News/2015/N2015-108">press release</a>:</p>
 <blockquote><p>SINGAPORE – Identifying the methods and strategies used by organized crime networks and individuals to avoid detection on the Darknet was the focus of a specialized training course hosted by the INTERPOL Global Complex for Innovation.</p>
 <p>As part of the training, the first of its kind, INTERPOL’s Cyber Research Lab created its own private Darknet network, private cryptocurrency and simulated marketplace, recreating the virtual ‘underground’ environment used by criminals to avoid detection.</p>

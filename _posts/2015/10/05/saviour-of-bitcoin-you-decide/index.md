@@ -6,10 +6,7 @@ Posted by: DeepDotWeb
 
 <span>October 5, 2015</span>
 
-
-
-
-<p><em>Guest Post by by Fred Rico – Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting <a href="/tag/bitwasp/">Bitwasp</a> (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past 2 years):</em></p>
+<p><em>Guest Post by by Fred Rico – Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting <a href="#">Bitwasp</a> (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past 2 years):</em></p>
 <p>Since 2009 many followers of the Bitcoin Crypto currency have searched for that illusive commercial platform which incorporates all the much publicized benefits of Bitcoin. <em>Namely Free, Transparent, secure and available to all</em>.</p>
 <p>Any medium that has not only lasted but been a change agent in humanities timeline has depended on one thing commerce.</p>
 <p>Recently we have seen that with the “App” Ecosystem, 20 years ago we saw that with the “Internet”, before that with Televisions, Radio and so on.</p>

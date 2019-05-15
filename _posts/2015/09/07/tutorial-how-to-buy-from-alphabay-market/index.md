@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 7, 2015</span>
 
-
-
-
 <p>With the news that <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> (Already gone now&#8230;) a large portion of its users have transitioned to <a href="#">AlphaBay</a>. You must be here to learn how to buy stuff from AlphaBay, then. Ensure that you read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
 <p>AlphaBay market listing and url can be found <a href="#">here</a>.</p>
 <p><strong>Part 1 – Preparing</strong></p>
@@ -61,42 +58,64 @@ Posted by: DeepDotWeb
 <p><strong>Part 4 – Creating an account</strong></p>
 <p>Hopefully, you have installed the proper tools, and have read over our basic tips. In order to buy from AlphaBay, you will need an account. You can register at <a href="#"><strong>http://pwoah7foa6au2pul.onion/register.php?aff=41211</strong></a></p>
 <p>Upon clicking the url, you should see this page:</p>
-<img src="imgs/2015/09/image1.png">
+
+<img src="/imgs/2015/09/image1.png">
+
 <p>It&#8217;s time to start filling out the required information. In the &#8216;Username&#8217; field, choose something which you haven&#8217;t used elsewhere in the past, but which is easy to memorize. This same thing goes for the password and PIN which protect your account and attached wallet from attacks. <a href="https://xkcd.com/936">XKCD has a great comic on creating secure, easy to remember passwords</a>. Setting a custom Login-Phrase is purely optional, but it is a good practice to ensure you are not being phished at any given time. In the box where your GPG Public-key goes, input your ASCII-armored output, there. Do not publish anything which could be used to link you to your real name, in the Profile-Text box.</p>
 <p>Once you have filled out all of the proper information, captcha included, and then clicked “Join the market,” keep your password and PIN in a safe place. Sign into the market, now.</p>
-    [Image goes here: <a href="/imgs/2015/09/ab21.png">
+
+
+<img src="/imgs/2015/09/ab21.png">
+
 <p><strong>Part 5 – Setting up your account</strong></p>
 <p><strong> </strong>Now that your account has been created, you will want to set it up completely. Click your username in the top-right corner.</p>
-<img src="imgs/2015/09/ab31.png">
+
+<img src="/imgs/2015/09/ab31.png">
+
 <p>Once we get to this page, all we really need to do is setup two-factor authentication with your GPG key. You will need to decrypt a message every time you login, using your private key, which prevents third parties from accessing your account without authorization. Go to the drop-down menu and choose to enable two-factor authentication, using your keypair to decrypt an encrypted message from the marketplace.</p>
 <p><strong>Part 6 – Choosing what to buy</strong></p>
 <p>Now that our account is finally setup, shopping can finally begin.</p>
 <p><strong>Searching</strong></p>
 <p>Searching is pretty straightforward on AlphaBay.</p>
-<img src="imgs/2015/09/search1.png">
+
+<img src="/imgs/2015/09/search1.png">
+
 <p>To make sure that only Escrowed listings appear in the results, skip down to the dropdown menu beneath “Payment type,” and choose “Escrow.” You can also choose to only show Multisig-protected listings, by going to the dropdown menu beneath “Multisig options,” and choosing “Show only multisig listings.”</p>
 <p><strong>FE vs No-FE</strong></p>
 <p>FE (finalize-early) is a procedure by which the vendor can retrieve the funds from a sale without going through escrow which is designed to ensure you receive your product. It is discouraged all over the darkweb community, due to inherent risks. Should you have been scammed by a vendor through a FE-enabled listing, no doubt it is that your funds are gone for good.</p>
 <p><strong>Buying from within your own country</strong></p>
 <p>Depending on how much risk you are willing to take, as well as the speed by which you are okay with it arriving, you can choose specific listings based upon their “Ship-From,” and “Ship-To” locations. Unfortunately, the search results themselves do not display these particularly significant details, and one must visit the listing page itself, to view from and to where it is shipped. Shipping from inside of your own country is safer as it does not require going through customs. Ordering from “hot” nations such as Pakistan, the Netherlands, and even Columbia are much riskier due to known trade practices in those places.</p>
 <p><strong>Judging the Vendor</strong></p>
-<img src="imgs/2015/09/santa1.png">
+
+<img src="/imgs/2015/09/santa1.png">
+
 <p>By clicking on the vendor&#8217;s name in any listing or any search result, you are brought to their profile page, as exemplified above. Each vendor has his or her GPG public-key and XMPP listed, here. All of their feedback is also listed, both positive and negative. Beware though, just because a vendor might have positive reviews does not make for a purely reliable seller. In a case such as this, avoiding a purchase would be wise if you do not know the vendor that well, because of FE being enabled.</p>
 <p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the market forums, this site&#8217;s <a href="#">Grams</a>.</p>
 <p><strong>Part 7 – Making your order</strong></p>
 <p>Once you&#8217;ve discovered a good listing from a reputable vendor, and are ready to make an order, let&#8217;s go ahead and start!</p>
 <p><strong>Adding funds to your wallet</strong></p>
-<img src="imgs/2015/09/Untitled201509071229441.png">
+
+<img src="/imgs/2015/09/Untitled201509071229441.png">
+
 <p>At the very top of the website, you can see what your balance is, in your wallet, and the current BTC to USD conversion rate is diagonally below it. In order to buy anything, you must add funds to your market wallet. Click on your [empty] balance, as seen in the image, at the top of the website.</p>
-<img src="imgs/2015/09/bal1.png">
+
+<img src="/imgs/2015/09/bal1.png">
+
 <p><strong>Ordering</strong></p>
 <p>Now that you have finally deposited some funds, it is time to buy that item you&#8217;ve always wanted.</p>
-<img src="imgs/2015/09/paybuy1.png">
-<p>In the box labeled “Qty,” fill out the amount of the item you want to order. Once you click “Buy now,” you should enter your shipping address (encrypted). Ensure you have filled out everything correctly, and confirm your purchase.<a href="/imgs/2015/09/order-confirm1.png">
+
+<img src="/imgs/2015/09/paybuy1.png">
+
+<p>In the box labeled “Qty,” fill out the amount of the item you want to order. Once you click “Buy now,” you should enter your shipping address (encrypted). Ensure you have filled out everything correctly, and confirm your purchase.
+
+<img src="/imgs/2015/09/order-confirm1.png">
+
 <p>&nbsp;</p>
 <p><strong>Statuses Explained</strong></p>
 <p>To check on the status of your order, click “Orders,” on the navigation bar. All processing or “Current” orders should show up, here. Processing means that your order is being processed currently, by the vendor handling it, but are not yet finalized</p>
-<img src="imgs/2015/09/order-status1.png">
+
+<img src="/imgs/2015/09/order-status1.png">
+
 <p>Once it is marked as shipped and escrow is finalized, it goes to “Archived Orders”.</p>
 <p>If your order is not delivered in the appropriate time as mentioned in the listing, circumstances considered, you may dispute the order while it is still inside of Escrow.</p>
 <p>If you need marketplace support at any time, contact the staff through the forums. This is the primary way of getting assistance. If, however, a dispute is opened, a moderator will contact you through the marketplace without any need to select and private-message one of them. Please do note, though, that a moderator or otherwise-employed staff member will never request your account details.</p>

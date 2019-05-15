@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>March 30, 2015</span>
 
-
-
-
-
 <p><strong>Karma is a bitch</strong>. From <a href="http://www.justice.gov/opa/pr/former-federal-agents-charged-bitcoin-money-laundering-and-wire-fraudhttp://" target="_blank">Justice.gov press release</a>:</p>
 <p style="text-align: center;"><strong>Former Federal Agents Charged With Bitcoin Money Laundering and Wire Fraud</strong><br />
 <em>Agents Were Part of Baltimore’s Silk Road Task Force</em></p>

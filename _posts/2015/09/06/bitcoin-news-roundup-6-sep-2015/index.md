@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>September 6, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>UBS envisions on making the virtual currency mainstream. According to Anna Irrera of <a href="http://blogs.wsj.com/digits/2015/09/03/ubs-building-virtual-coin-for-mainstream-banking/">The Wall Street Journal</a>, the leading Swiss bank is working on a “prototype virtual currency” that it will hopefully be used asa “utility settlement coin”. Even if two financial institutions that use different platforms built on blockchain technology, their transactions will besettled with the same utility coin. For the moment, UBS isn’t considering to issue its own digital currency, following the steps of Citibank, but it rather aspires to join forces with regulators and major market participants in order to release an industry-wide product.</p>
 <p>Barclays is not accepting bitcoins. As Justin O’Connell of <a href="https://www.cryptocoinsnews.com/barclays-will-not-accept-bitcoin-payment-bank-accounts/">CryptoCoins News</a> writes, the leading UK bank has denied the reports of The Sunday Times, Ars Technica and The Daily Mail that it will allegedly accept payments in bitcoins starting with charities. According to the reports, Barclays would join forces with a bitcoin exchange to facilitate charities’ payments into its accounts. However, Barclays Vice President of Group Media Relations, Candice Macdonald, stated <em>“No Bitcoin is travelling through Barclays systems.”</em></p>

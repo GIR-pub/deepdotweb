@@ -9,7 +9,6 @@ Posted by: DeepDotWeb
 <span>October 11, 2015</span>
 
 
-<span><a href="/2015/10/11/bitcoin-news-roundup-11-oct-2015/
         
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Gemini bitcoin exchange is live. As P.H Madore of <a href="https://www.cryptocoinsnews.com/gemini-bitcoin-exchange-launches-needs-no-bitlicense-fincen/">CryptoCoins News</a> writes, the Winklevoss Twins have announced in the company’s blog that their long-waited bitcoin exchange has officially opened its doors to institutional and retail investors on October 8<sup>th</sup>. Gemini offers the four pillars of business, product, security, licensing and compliance. Through the Gemini Trust Company, LLC, Gemini becomes a fiduciary, accepting customers under New York Banking Law, and it is exempted from registering with FinCEN for anti-money laundering.</p>

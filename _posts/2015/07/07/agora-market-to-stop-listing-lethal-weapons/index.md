@@ -29,7 +29,9 @@ Posted by: DeepDotWeb
     7b0uboq9MgQ1h+P1s30b<br />
     =u/KI<br />
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p></blockquote>
-<img src="imgs/2015/07/Agoraweapon.png">
+
+<img src="/imgs/2015/07/Agoraweapon.png">
+
 
 Updated: 2015-07-07
 

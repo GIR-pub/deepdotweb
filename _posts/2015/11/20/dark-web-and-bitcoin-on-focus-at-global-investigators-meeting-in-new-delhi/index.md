@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>November 20, 2015</span>
 
-
-
-
 <p><a href="http://gadgets.ndtv.com/internet/news/dark-web-on-the-agenda-of-global-investigators-meet-in-new-delhi-766303">The 6th Global Focal Point Conference on Asset Recovery will be hosted by Interpol in New Delhi.</a> According to the press, the main focus of the conference will be the dark web in general and Bitcoin. The Central Bureau of Investigation (CBI), India’s special police, made this statement about the dark net:</p>
 <p>”The Dark Web, which is commonly used by terror organisations and unscrupulous elements to communicate without getting intercepted by intelligence and security organisations has caused concerns in global security apparatusnet.”</p>
 <p>Devpreet Singh, the CBI’s spokesperson also added this about Bitcoin:</p>

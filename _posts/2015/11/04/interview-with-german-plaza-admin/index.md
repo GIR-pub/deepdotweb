@@ -9,7 +9,8 @@ Posted by: DeepDotWeb
 
 <p><a href="#">German-Plaza</a>,  Is a market focused at digital items, we recently conducted an interview with one of the admins. Here it is:</p>
 <p>Admin proof &#8211;</p>
------BEGIN PGP SIGNED MESSAGE-----
+
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Sending my Interview about German-Plaza in 10/31/2015.

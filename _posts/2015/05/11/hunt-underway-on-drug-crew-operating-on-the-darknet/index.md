@@ -12,7 +12,8 @@ Posted by: DeepDotWeb
 <blockquote><p>I think we missed this article because it is behind a soft pay wall:</p>
 <p><strong>Hunt underway on Drug crew operating on the Darknet</strong></p>
 <p><a href="http://www.telegraaf.nl/digitaal/23950163/__Jacht_op_drugsbende_met_online_verkoop__.html">http://www.telegraaf.nl/digitaal/23950163/__Jacht_op_drugsbende_met_online_verkoop__.html</a></p>
-<p>Picture of the Article: <a href="http://i.imgur.com/zObBHKL.png">http://i.imgur.com/zObBHKL.png</a></p>
+<p>Picture of the Article: <a href="http://i.imgur.com/zObBHKL.png">
+http://i.imgur.com/zObBHKL.png</a></p>
 <p>Source in Dutch: <strong><a href="http://paste2.org/KhfV5peC">http://paste2.org/KhfV5peC</a></strong></p>
 <hr/>
 <p>Very short summary:</p>
@@ -26,7 +27,8 @@ Posted by: DeepDotWeb
 <hr/>
 <p>I am at work so I have no time for a translation. Just wanted to make sure nobody missed this.</p></blockquote>
 <p>So LE are trying to warn dutch vendors to improve their OPSEC?  this press release seems a bit unusual as no busts were made and the investigation is ongoing.</p>
-<img src="imgs/2015/05/zObBHKL1.png" rel="lightbox"> 
+
+<img src="/imgs/2015/05/zObBHKL1.png" rel="lightbox"> 
 <p>* Will try and get a proper translation later. If you are reading this and you can translate from dutch, <a href="/contact-us/">contact</a>.</p>
 
 

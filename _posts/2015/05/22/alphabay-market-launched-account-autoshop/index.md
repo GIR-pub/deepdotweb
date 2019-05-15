@@ -12,7 +12,9 @@ Posted by: DeepDotWeb
 <p>We can confirm that the accounts autoshop is now live, as the their site say:</p>
 <blockquote><p>The autoshop now supports accounts, so you can buy Paypal / RDP / social media and other accounts from the vendors in the autoshop</p></blockquote>
 <p>Screenshot:</p>
-<img src="imgs/2015/05/accounts.png">
+
+<img src="/imgs/2015/05/accounts.png">
+
 
 Updated: 2015-05-22
 

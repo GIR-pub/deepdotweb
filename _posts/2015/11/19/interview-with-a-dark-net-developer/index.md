@@ -6,11 +6,10 @@ Posted by: DeepDotWeb
 
 <span>November 19, 2015</span>
 
-
-
-
 <p>Couple of days ago, an unusual thread was posted on the <a href="https://bitcointalk.org/index.php?topic=1251605.0" target="_blank">Bitcointalk</a> forum by a developer offering Darknet Market source code for sale, while this is something that we encountered before, it is not very common. We took the chance to do a short interview with the seller to learn more about his background, offer and intentions.</p>
-<img src="imgs/2015/11/dankroad.png">
+
+<img src="/imgs/2015/11/dankroad.png">
+
 <p><strong>Who are you?  (like type of person etc&#8230;)</strong></p>
 <p>Best way to describe me would be to say I&#8217;m a freedom loving nerd.  I&#8217;ve been involved with Bitcoin since it&#8217;s early days having read the whitepaper not long after its release and have been in love with the concept ever since.  I am also a avid cannabis user, so combining two of my passions seemed like a good idea.</p>
 <p><span class="im"><strong>You say you are into BTC from the very start, So i guess you did not buy back then&#8230;? (did not make early developer profits&#8230;)</strong></span></p>

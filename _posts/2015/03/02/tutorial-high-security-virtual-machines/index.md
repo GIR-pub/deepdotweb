@@ -6,9 +6,6 @@ Posted by: TR3X0R
 
 <span>March 2, 2015</span>
 
-
-
-
 <p><strong>Utilizing Virtualization to Increase Information Security</strong></p>
 <p>Anonymity, privacy and information security are issues that affect all people in today’s digital age, not just cyber-criminals and drug dealers. You might handle company secrets that competitors or hackers could use to wreak havoc upon your company and steal from your customers. You might work in a conservative setting in which your sexual orientation or political views would subject you to negative stereotyping. Perhaps you’re a medicinal cannabis user in a state with hostile laws surrounding the issue. Attorneys, doctors and accountants constantly face frivolous lawsuits that could destroy their careers, while journalists documenting governmental abuses could find themselves in all sorts of trouble before they know it. Maybe you simply value discretion in your personal relationships and communications, and expect a reasonable amount of privacy in your daily life.</p>
 <p>The bad news is that obtaining such a measure of privacy is increasingly difficult, and <em>uncommon</em>, in today’s technological landscape, and I have no turn-key solution for this problem. The good news is that I can provide several simple security measures that are easy to implement and go a very long way in defeating all but the most sophisticated intrusion attempts.</p>
@@ -39,31 +36,50 @@ Posted by: TR3X0R
 <p>For advanced users, <a href="https://www.whonix.org/"><strong>Whonix</strong> </a>is especially well-suited for virtualized high-security Tor portals and provides a convenient way to “torify” your primary OS’s traffic; the Whonix Gateway serves as the torifying layer, and the Whonix Workstation (an independent VM) can be used, or you can configure your primary OS to use the Whonix VM as a proxy. More on this topic in upcoming guides.</p>
 <p><strong>Screenshots for Instructions</strong></p>
 <p><span style="text-decoration: underline;">Step 1</span>: Download and install VirtualBox:</p>
-<img src="imgs/2014/12/virtuabox.png">
+
+<img src="/imgs/2014/12/virtuabox.png">
+
 <p><span style="text-decoration: underline;">Step 2</span>: Download Tails OS. Advanced users might consider Whonix:</p>
-<img src="imgs/2014/12/Tailsdown.png">
+
+<img src="/imgs/2014/12/Tailsdown.png">
+
 <p><span style="text-decoration: underline;">Step 3</span>: Create your VM. For smooth operation, one GB of RAM, and preferably two, is required. To further increase responsively add a second processor core.</p>
-<img src="imgs/2014/12/createvm.png">
+
+<img src="/imgs/2014/12/createvm.png">
+
 <p><span style="text-decoration: underline;">Step 4: </span>Select do not add a virtual hard drive:<span style="text-decoration: underline;"><br />
 </span></p>
-<img src="imgs/2014/12/harddrive.png">
+
+<img src="/imgs/2014/12/harddrive.png">
+
 <p>Ignore VirtualBox advising you your VM has no virtual disk; that’s exactly what we want in this case:</p>
-<img src="imgs/2014/12/ignore.png">
+
+<img src="/imgs/2014/12/ignore.png">
+
 <p>
 <p><span style="text-decoration: underline;">Step 6</span></p>
 <p>Again, unless you know exactly what you’re doing, it is best NOT to share network adapters between your VM and your regular desktop environment:</p>
-<img src="imgs/2014/12/adapters.png">
+
+<img src="/imgs/2014/12/adapters.png">
+
 <p><span style="text-decoration: underline;">Step 7</span></p>
 <p>Fire up your secure VM. Upon the first startup, you will be prompted to choose an ISO for your startup disk:</p>
-<img src="imgs/2014/12/fireupvm.png">
+
+<img src="/imgs/2014/12/fireupvm.png">
+
 <p><strong>If your VM ever complains it doesn</strong><strong>’</strong><strong>t have a bootable drive, simply configure the setting in the </strong><strong>“</strong><strong>Storage</strong><strong>”</strong> <strong>preferences:</strong></p>
-<p><strong><a href="/imgs/2014/12/storage.png">
+<p><strong>
+
+<img src="/imgs/2014/12/storage.png">
+
 </strong></p>
 <p><span style="text-decoration: underline;">Step 8</span></p>
 <p>Once you’ve got your VM fired up, click the USB icon in the lower right of the VirtualBox windowed display and connect your independent network adapter. Tails will automatically randomize the MAC address; if you’re on a different Linux, issuing a command such as</p>
 <p>#ifconfig wlan0 ether XX:XX:XX:XX:XX</p>
 <p>Will add an additional measure of security in that your NIC does not use a vendor-specific MAC address (ie your Ralink wifi adapter won’t announce itself as “Ralink”)</p>
-<img src="imgs/2014/12/tails.png">
+
+<img src="/imgs/2014/12/tails.png">
+
 <p>Stay tuned on how to configure higher security configurations, implement roving MAC addresses, etc.</p>
 
 Updated: 2015-03-02

@@ -6,9 +6,6 @@ Posted by: Jon Southurst
 
 <span>March 11, 2015</span>
 
-
-
-
 <p><strong><em>Ubiquitous surveillance offends our humanity and making us less secure, but all is not lost&#8230; yet.</em></strong></p>
 <p>Security and cryptography guru Bruce Schneier warns us of the many consequences the data trails our lives leave in his newly-released book <em>Data and Goliath</em>, but one is particularly alarming:</p>
 <p>In many parts of the world, your metadata can actually get you killed, without anyone knowing (or needing to know) your actual identity.</p>
@@ -27,7 +24,8 @@ Posted by: Jon Southurst
 <p><em> &#8220;Data is the exhaust of the information age.&#8221; </em></p>
 <p>You produce it with cell location and GPS use, credit cards and store loyalty points, mobile apps, social networks, word processors, web browsing, driving your car and simply walking around. It is collected, analyzed and stored by automated processes that often obviate any need for active monitoring by humans.</p>
 <p><em>&#8220;We tolerate a level of electronic surveillance online that we would never tolerate in the physical world, because it&#8217;s not obvious or advertised.&#8221;</em></p>
-<p>Or it&#8217;s made fun of. Jokes about President Obama <a href="https://averagejoenewsblog.files.wordpress.com/2013/06/obama-listening-in.jpg">listening to your phone calls</a> are often counter-productive to the debate, as a glib and inaccurate portrayal of how modern surveillance is done. &#8216;Data correlation&#8217; and pattern recognizing algorithms can paint a disturbingly accurate portrait of your life, your interests, work, illnesses and weaknesses. It can also be trivial to identify you as an individual.</p>
+<p>Or it&#8217;s made fun of. Jokes about President Obama <a href="https://averagejoenewsblog.files.wordpress.com/2013/06/obama-listening-in.jpg">
+listening to your phone calls</a> are often counter-productive to the debate, as a glib and inaccurate portrayal of how modern surveillance is done. &#8216;Data correlation&#8217; and pattern recognizing algorithms can paint a disturbingly accurate portrait of your life, your interests, work, illnesses and weaknesses. It can also be trivial to identify you as an individual.</p>
 <p>This is coupled this with a certain set of people in society who don&#8217;t seem to see anything wrong with tracking everyone all the time, even to the point of photographing high school students in their bedrooms (like the Lower Merion School District near Philadlephia <a href="http://www.nbcphiladelphia.com/news/local/School-Spies-on-Students-at-Home-with-Webcams-Suit-84712852.html">did in 2009</a>) to produce a chilling vision of the future.</p>
 <p>Schneier lays out the specific legal basis for most surveillance today. Emboldened by broad interpretations of sections 215 of 2001&#8217;s <a href="https://en.wikipedia.org/wiki/Patriot_Act">USA PATRIOT Act</a> and section 702 of 2008&#8217;s Foreign Intelligence Surveillance Act (FISA) <a href="https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008">Amendment Act</a>, in addition to Ronald Reagan&#8217;s <a href="https://en.wikipedia.org/wiki/Executive_Order_12333">Executive Order 12333</a>, intelligence services are vacuuming up an increasing amount of data on our lives and behavior.</p>
 <p>Given the clandestine nature of surveillance and the fact its extent has only been discussed after <a href="https://www.eff.org/nsa-spying/timeline">Snowden&#8217;s revelations</a> and numerous <a href="https://en.wikipedia.org/wiki/Room_641A">other leaks</a>, readers of <em>Data and Goliath</em> might wonder if law has any impact at all on security agency and law enforcement surveillance–or whether they are pushing the boundaries and then some with the technology available.</p>

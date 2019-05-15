@@ -17,7 +17,7 @@ Posted by: Allen Hoffmann, JD
 <p>“So, you, uh, have the bananas?&#8230;. Alright, and, ah, so, its $50 for… for each… for a banana, right?”</p>
 <p>Ask yourself &#8211; Who in the fuck pays $50 for a banana? Same goes for talking about any other ridiculous, nonsensical item, whether it’s a discussion about quarter inch tape (quarter ounce of MJ), 8 balls (1/8 ounce of blow) or elbows (pounds of MJ) of something with a dollar amount with it which doesn’t make sense, if your code does not correlate with either something plausible and relatable to your day to day, and tapes start getting played in court, you’re gonna have a hard time convincing a jury that you actually were talking about buying a back full of animal elbow joints or $50 bananas. Whilst that old maxim of ‘it ain’t what you know, its what you can prove’ still applies, you are making a prosecutor’s life a great deal easier by using a weak code which offers no genuine deniability.</p>
 <p>So those are the basics and the history lesson – what if you wanna go semi pro?</p>
-<p><strong>Read the other parts once published in the <a href="/tag/IntelPhone/">IntelPhone</a> Tag</strong></p>
+<p><strong>Read the other parts once published in the <a href="#">IntelPhone</a> Tag</strong></p>
 
 Updated: 2015-01-22
 

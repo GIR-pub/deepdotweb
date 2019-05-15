@@ -6,9 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>August 22, 2015</span>
 
-
-
-
 <p><a href="http://fox59.com/2015/08/18/exclusive-authorities-raid-several-indianapolis-homes-in-heroin-distribution-case-1-arrested/">On 18 Aug, Indianapolis, during a 6 house raid by federal agents and police regarding a heroin distribution ring, Lee Gray, aka Supremesmoke has been taken into custody</a>.</p>
 <p>On Tuesday morning, The Federal Drug Enforcement Administration led the search with assistance from Indianapolis police and U.S postal authorities. Investigators served a search warrant at Gray’s home around 6 a.m. He lives in a subdivision located on the 8400 block of Burket Way in Camby, Indiana. The LE authorities have been searching for Gray in his house with no luck, however, after a short period of time they have found him at his residence at Cloverleaf Apartments.</p>
 <p>According to Josh J. Minkler, the United States Attorney for the Southern District of Indiana, Supremesmoke was using Black Bank and other DNMs to sell heroin and other drugs.</p>

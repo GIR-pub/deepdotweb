@@ -5,6 +5,7 @@ title: "Possible Large-Scale DDOS Attacks on TOR Exit Nodes"
 Posted by: Chris McCandless 
 
 <span>November 14, 2015</span>
+
 <p>Recently, there have been several reports of DDOS attacks being directed at TOR exit nodes. While a few of these reports are consistent, it is often difficult to assess a threat via community interaction alone. One user has posted a PGP-signed message on November 9<sup>th</sup>, and contained the following warning:</p>
 <p><strong><em>“Hi,</em></strong> <strong><em>I am the operator of several exit nodes and would like to stay anonymous due to the nature of the given attacks. Since Thursday (05.11.2015 1800 UTC) I have seen large DDoS attacks on each of my exit nodes from a common /16 source. The attacks originate from UK.”</em></strong></p>
 <p>Along with this claim were several other coincidental connections made by users of the /r/darknetmarkets subreddit. Several website owners have made DDOS announcements, such as Quantik and ScamLogs.</p>

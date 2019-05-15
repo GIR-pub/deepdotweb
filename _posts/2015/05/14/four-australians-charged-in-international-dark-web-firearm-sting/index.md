@@ -9,7 +9,9 @@ Posted by: DeepDotWeb
 
 
 <p>According to <a href="https://www.reddit.com/r/DarkNetMarkets/comments/35ytiw/17_arrests_due_to_flipped_agora_seller_weaponsguy/">gwern</a> the busts are <a class="title may-blank loggedin" tabindex="1" href="/2015/04/07/is-vendor-weaponsguy-on-agora-atffbi/">due to flipped Agora seller &#8220;weaponsguy</a>. Press Release by <a href="http://www.afp.gov.au/media-centre/news/afp/2015/may/four-australians-charged-in-international-illegal-firearm-sting?source=rss">afp.gov.au</a>:</p>
-<img src="imgs/2015/05/QLD-guns1.jpg">
+
+<img src="/imgs/2015/05/QLD-guns1.jpg">
+
 <blockquote><p><em>This is a joint media release between the United States Homeland Security Investigations, Australian Federal Police, and Australian Customs and Border Protection Service</em></p>
 <p>A six-month joint operation has seen four people across Australia charged with attempting to purchase illegal firearms online.</p>
 <p>The arrests were made as a result of a joint investigation conducted by the United States Homeland Security Investigations (HSI), Australian Federal Police (AFP), and Australian Customs and Border Protection Service (ACBPS).</p>
@@ -34,7 +36,9 @@ Posted by: DeepDotWeb
     HSI Office of Public Affairs +1 (202)732 4213<br/>
     AFP National Media (02) 6131 6333<br/>
     Portfolio Media (02) 6264 2244</p></blockquote>
-<img src="imgs/2015/05/QLD-guns-311.jpg">
-</div>
- Updated: 2015-05-14
+
+<img src="/imgs/2015/05/QLD-guns-311.jpg">
+
+
+Updated: 2015-05-14
 

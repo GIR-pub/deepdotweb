@@ -5,13 +5,9 @@ title: "Evolution Market Background: Carding Forums, Ponzi Schemes &#038; Le"
 Posted by: DeepDotWeb 
 
 <span>March 18, 2015</span>
-
-
-
-
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
-<p><strong><em>Another artice in the <a href="/tag/evoscam/">#Evoscam</a> series &#8211; I have known this thread since it was posted originally by <a href="https://www.reddit.com/u/the_avid">/u/the_avid</a> in some private forum &#8211; but never wanted to stir any drama regarding <a href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution marketplace</a>, so i never posted it, but now seems like a good time to repost this and remind everyone where evolution came from and why this scam wasn&#8217;t such a big surprise to many people, some details were added by <a href="http://www.reddit.com/user/gwern">Gwern</a>, so here we go:</em></strong></p>
+<p><strong><em>Another artice in the <a href="#">Gwern</a>, so here we go:</em></strong></p>
 <p>On 15 March 2014, <a href="https://www.reddit.com/u/the_avid">/u/the_avid</a> posted a writeup of the historical background of English-speaking carding (fraud) forums and law enforcement&#8217;s practice of infiltrating, running, and after a long period, busting them, due to the Evolution black-market&#8217;s origins in an English-speaking carding forum. I thought it was a decent writeup and encouraged him to post it publicly, but he wanted to improve it. I pinged him several times after that, but it never happened, and he has not responded for several months at this point, so I&#8217;m taking it upon myself to repost it (which is ironic in part because Evolution staffers <a href="http://www.gwern.net/Blackmail#section-2">threatened to dox me</a> if I wouldn&#8217;t tell them what the_avid had written; well, here you go guys, I hope you think it was worth the trouble).</p>
 <hr />
 <p>Evolution Market is starting to get some traction. I first submitted the URL to <a href="https://www.reddit.com/r/Darknetmarkets">/r/DNM</a> around 2 months ago. There is a bit of background here that people should know, in terms of who is behind the site and where it came from.</p>
@@ -76,7 +72,9 @@ Posted by: DeepDotWeb
 <p>On around the 25th of January the thread starts fading out. The admins come back in and post that it isn&#8217;t their fault users got scammed with option 2 &#8211; they had only verified option 1! They also accepted no blame for not banning the user, and one admin admits that he himself had money tied up in the scheme.</p>
 <p>What happens next takes this story from a crazy ironic incidents where amateur scammers got scammed to something that is borderline sheer lunacy. There was a semi-known user on the forums called &#8216;Gold&#8217;. He was the type of user who would reply to almost any thread, just to get noticed and build up his post count. In 3 months he went from a nobody to being known on the forum, he sold stolen card data in the markets.</p>
 <p>This is what he posted on the 31st of January, about <strong><em>a week</em></strong> after the last ponzi scheme collapsed:</p>
-<img src="imgs/2015/03/28t9l6c1.png">
+
+<img src="/imgs/2015/03/28t9l6c1.png">
+
 <p>The <em>sheer audacity</em> of this guy &#8211; a week after the last ponzi scheme and another user who was obviously waiting his turn tries his hand at a similar scam.</p>
 <p>You&#8217;d think these users would be wary by now, but here are the first 3 replies &#8211; reproduced verbatim:</p>
 <blockquote><p>Vouch for this user, have worked with him on various things with big money involved. I think I might buy a few slots soon!</p></blockquote>

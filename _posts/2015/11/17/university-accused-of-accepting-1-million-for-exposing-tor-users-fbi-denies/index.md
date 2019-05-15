@@ -6,7 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>November 17, 2015</span>
 
-<span><a href="/2015/11/17/university-accused-of-accepting-1-million-for-exposing-tor-users-fbi-denies/
 
 
 <p><a href="http://www.telegraph.co.uk/technology/internet-security/11990717/Anonymous-web-browser-Tor-accuses-FBI-of-paying-Carnegie-Mellon-researchers-1m-to-expose-users.html">Researchers at the Carnegie Mellon University (CMU) have been accused by the Tor Project for accepting $1 million from the Federal Bureau of Investigation.</a> According to Tor, the researchers were helping the FBI to deanonymize users of the anonymous browser in order for the FBI to track them. <a href="/2015/11/15/university-helped-fbi-in-silk-road-2-and-child-porn-busts/">We already published an article about the busts (Silk Road 2 and a child porn case) that were potentially made with the help of the Carnegie Mellon University.</a></p>

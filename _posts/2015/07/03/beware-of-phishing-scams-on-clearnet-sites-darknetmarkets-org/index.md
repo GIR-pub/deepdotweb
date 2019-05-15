@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>July 3, 2015</span>
 
-<a href="/category/news/" rel="category tag">News</a>, 
+ 
 
 <p><strong>AVOID</strong>  &#8211; The Most recent scam list responsible for spreading phishing url to unsuspecting visitors has been located on this site:</p>
 <ul>
@@ -17,7 +17,9 @@ Posted by: DeepDotWeb
 <div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="true" data-embed-created="2015-07-02T20:55:40.646Z"><a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/csq5ntk">Comment</a> from discussion <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/">https://darknetmarkets.org/markets &lt;&lt; Scammer link</a>.</div>
 <p><script src="https://www.redditstatic.com/comment-embed.js" async=""></script></p>
 <p><strong>Screenshot of the phishing links:</strong></p>
-<img src="imgs/2015/07/Scam.png">
+
+<img src="/imgs/2015/07/Scam.png">
+
 <p>Clicking one of the shortlinks on that list:</p>
 GET /Agora HTTP/1.1
     Host: drk.li

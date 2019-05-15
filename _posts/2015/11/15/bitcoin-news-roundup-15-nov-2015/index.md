@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>November 15, 2015</span>
 
-
-<span><a href="/2015/11/15/bitcoin-news-roundup-15-nov-2015/
-
-
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Microsoft partners with ConsensYs to launch blockchain-based enterprise solution. As Jemima Kelly of <a href="http://www.reuters.com/article/2015/11/10/microsoft-tech-blockchain-idUSL8N1354JE20151110#z0w5bPZGSABvcIt8.97">Reuters</a> reports, the tech giant confirmed on Tuesday, November 10 the launch of a cloud-based blockchain platform to provide financial institutions with the tools to experiment with the decentralized ledger technology. The new platform will be available to banks and insurance companies that are already using Microsoft’s Azure platform. So far, four global financial institutions have signed up to the newly-launched service to lower costs and improve efficiency.</p>
 <p>The Royal Bank of Canada (RBC) seeks to roll out a blockchain-related loyalty program. As Robert Barba of <a href="http://www.americanbanker.com/news/bank-technology/legacy-systems-threaten-banks-more-than-startups-rbc-head-mckay-1077775-1.html?utm_medium=email&amp;ET=americanbanker:e5519242:3878862a:&amp;utm_source=newsletter&amp;utm_campaign=daily%20pdf-nov%2012%202015&amp;st=email&amp;eid=39d31f630245c3221274d20da0d72df7">American Banker</a> writes, following the recent trend of experimenting with blockchain technology, the leading Canadian bank is seeking to launch a loyalty program that would rely on blockchain for swift settlement and distributed system of recordkeeping by 2016. Dave McKay, chief executive of RCB, views the blockchain as a <em>“quantum innovation”</em>, however it is still <em>“a brand-new technology” </em>and integrating it into the RCB would be a hybrid step.</p>

@@ -6,12 +6,9 @@ Posted by: Benjamin Vitáris
 
 <span>November 5, 2015</span>
 
-
-
-
 <p><a href="http://www.southwales-eveningpost.co.uk/Gorseinon-man/story-28084851-detail/story.html">Jeffrey Paul Lloyd, a Gorseinon man, was jailed for six years for possessing an arsenal of illegal weapons that had been found in his home during a raid in March.</a> The law enforcement authorities have discovered a handcrafted pipe gun, a cache of ammunition and illegal pepper spray. Lloyd stated that he bought the weapons from Agora Marketplace (from the dark web).</p>
 <p>Lloyd told the police that he has an apocalyptic view of the world and he bought the weapons for survival purposes.</p>
-<p>After a tip-off from the Metropolitan Police in London, the local police officers also found an array of knives, an axe and a crossbow. Ian Wright from prosecution stated that the man bought the weapons from a dark net marketplace (<a href="/tag/agora/">Agora</a>):</p>
+<p>After a tip-off from the Metropolitan Police in London, the local police officers also found an array of knives, an axe and a crossbow. Ian Wright from prosecution stated that the man bought the weapons from a dark net marketplace (<a href="#">Agora</a>):</p>
 <p>&#8220;The different details were provided to the Met Police by a seller in Germany as a customer had purchased prohibited ammunition and firearms,&#8221; Wright said.</p>
 <p>Wright also stated that the local law enforcement authorities have immediately arrested and detained Lloyd at his house who showed them his bedroom where they found ammunition for a 9 mm pistol and 12 bore shotgun cartridges.</p>
 <p>Ian Wright made some other statements regarding the case:</p>

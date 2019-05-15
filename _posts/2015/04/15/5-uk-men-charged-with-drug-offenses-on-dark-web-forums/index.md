@@ -14,6 +14,6 @@ Posted by: DeepDotWeb
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>No Further details were provided.</p>
 <p>&nbsp;</p>
-</div>
- Updated: 2015-04-15
+
+Updated: 2015-04-15
 

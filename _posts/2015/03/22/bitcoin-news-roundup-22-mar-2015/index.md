@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>March 22, 2015</span>
 
-
-
-
-
 <p><em>Recapping the week’s biggest Bitcoins stories from around the web. </em></p>
 <p><strong>Will UK Bitcoin regulation get clearing banks on-board?</strong></p>
 <p>Probably the most notable piece of positive bitcoin news, The UK government’s commitment to injecting $ 14.6 million into research on digital currencies. The announcement was made by the UK treasury right about the same time as the annual budget speech by Chancellor of Exchequer.</p>

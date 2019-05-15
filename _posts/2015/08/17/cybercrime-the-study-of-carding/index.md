@@ -6,14 +6,13 @@ Posted by: DeepDotWeb
 
 <span>August 17, 2015</span>
 
-
-
-
-<div class="entry-content">
 <p><em>Post by <a href="https://twitter.com/Deku_shrub">@Deku_shrub</a> – Pirate Party UK and digital rights activist, transhumanist and systems administrator</em>:</p>
 <p>As someone whose used the internet for many years, the term ‘Carding’ was moderately familiar to me, a term used on unsavory forums and websites to describe the increasingly regimented process of stealing and laundering credit card information.</p>
 <p>Drafting a brief history on Wikipedia, I reached out to Reddit’s <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3gnqyt/putting_together_a_history_of_carding/">/r/DarkNetMarkets</a> forums for some pointers which has led to be writing the first ever almost-complete history of Carding.</p>
-<figure id="attachment_360" class="wp-caption alignright" style="width: 417px;"><a href="/imgs/2015/08/Carding_screenshot1.jpg">
+<figure id="attachment_360" class="wp-caption alignright" style="width: 417px;">
+
+<img src="/imgs/2015/08/Carding_screenshot1.jpg">
+
 <p>In my research, I found that the fundamentals of Carding are barely unchanged since the 80’s (thanks to some wonderful archives from textfiles.com), simply moving between payment services and improving the security of their forums and markets over time. Close links with hackers, as well as ongoing cyberwarfare between services themselves appear to be the norm on these underground markets, as do complex law enforcement investigations and informants.My research has led me to a somewhat unsettling conclusion that Carding isn’t going away any time soon. Commercial websites and networks are simply too insecure, credit card and personal information too valuable and money laundering methodologies too reliable for law enforcement to perform enough investigations and arrests to stem the financial impact this industry has.</p>
 <p>This confirms my suspicion that more secure and anonymous payment systems are required for day-to-day consumer use. Financial regulations should encourage the use of ‘Virtual Visa’ services</p>
 <ul>

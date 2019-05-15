@@ -6,10 +6,6 @@ Posted by: DeepDotWeb
 
 <span>December 10, 2015</span>
 
-
-
-
-
 <div id="parent-fieldname-text" class="plain">
 <p>According to a <a href="https://www.fbi.gov/pittsburgh/press-releases/2015/u.s.-citizen-deported-from-uganda-to-face-counterfeiting-charges-in-western-pennsylvania?utm_campaign=email-Immediate&amp;utm_medium=email&amp;utm_source=fbi-in-the-news&amp;utm_content=494572">press release from the FBI</a> and following <a href="/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/">last year&#8217;s bust</a> of Willy.Clock,  A well known dark web counterfeit currency vendor:  A United States citizen has been deported from the Republic of Uganda and brought to the Western District of Pennsylvania to face charges of leading an international counterfeit currency operation headquartered in that African nation. The announcement was made today by David Hickton, U.S. Attorney for the Western District of Pennsylvania and Eric Zahren, Special Agent in Charge of the U.S. Secret Service—Pittsburgh Field Office.</p>
 <p>Ryan Andrew Gustafson, aka Jack Farrel, aka Willy Clock, 28, is charged with conspiracy, conspiracy to launder money, and the passing and receiving of counterfeit money from December 2013 until December 2014. The indictment alleges more than $1.4 million in counterfeit Federal Reserve Notes have been seized and passed worldwide, both overseas and in the U.S. as part of this scheme.</p>

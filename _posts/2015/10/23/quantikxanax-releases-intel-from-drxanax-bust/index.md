@@ -6,10 +6,6 @@ Posted by: Chris McCandless
 
 <span>October 23, 2015</span>
 
-
-
-
-
 <p><strong>Update 26.10.15</strong>: Quantik just shared with us additional evidence:</p>
 <blockquote><p>Here is an audio file. it is the audio recording of the micro of my spy in drxanax team court room. I have over 4 hours, but for convenience i have only included Part 2 of 4, because it is where LE explains how they busted them in roughly 30-40 minutes</p>
 <p>its in french. <a href="https://infotomb.com/i2iba">The file can be found here</a></p></blockquote>

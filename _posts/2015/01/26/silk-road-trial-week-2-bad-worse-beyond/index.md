@@ -10,7 +10,7 @@ Posted by: Allen Hoffmann, JD
 
 <p><strong>The defense is now on the back foot.</strong></p>
 <ul>
-<li>More articles about the Silk road trial at this tag: <a href="/tag/SilkRoadTrial/">#SilkRoadTrial</a></li>
+<li>More articles about the Silk road trial at this tag: <a href="#">#SilkRoadTrial</a></li>
 </ul>
 <p>It would be a stretch to say the Ulrbicht defense effort suffered anything but a remarkably negative week last week; a major setback in the picture it had sought to paint for the jury regarding reasonable doubt as to DPR’s identity, combined with contextually strong evidence correlating Ulrbicht with the DPR identity mean that things are getting intense, in a wholly negative way, for the defense.</p>
 <p><strong>No more “Gox” as the DPR alternative.</strong></p>

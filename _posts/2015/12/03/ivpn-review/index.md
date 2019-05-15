@@ -6,9 +6,6 @@ Posted by: DeepDotWeb
 
 <span>December 3, 2015</span>
 
-
-
-
 <p>IVPN is the product of a team of information security specialists, founded in 2009 and developed continuously in order to become the one better providers of online security and privacy on the market. The development continues even today and the service and network are up to date with the latest open source technologies and security techniques. The company’s main purpose is to ensure clients have access to a transparent and easy to use service, whilst their data remain secure and private.</p>
 <p><a href="https://www.ivpn.net/aff.php?aff=1412" target="_blank">
 <p>The fact that the company managed to maintain its position in VPN solutions since 2009 offers them credibility in front of other, younger companies. Also, they promote transparency and communication using an easy to understand and browse interface on their site. Every piece of information is easy to find and everything is thoroughly explained.</p>

@@ -6,7 +6,6 @@ Posted by: Benjamin Vitáris
 
 <span>December 4, 2015</span>
 
-<span><a href="/2015/12/04/vpn-service-providers-with-port-forwarding-affected-by-ip-leak/
 
 
 <p>Perfect Privacy has discovered and <a href="https://www.perfect-privacy.com/blog/2015/11/26/ip-leak-vulnerability-affecting-vpn-providers-with-port-forwarding/">posted about</a> a potential attack vector on VPN service providers’ network that could be exploited by hackers or law enforcement agencies. “Port Fail”, if used by an attacker could result in the unmasking of the VPN user’s real IP address. The vulnerability point affects VPN service providers that offer the forwarding option and have no protection for this kind of specific attacks.</p>

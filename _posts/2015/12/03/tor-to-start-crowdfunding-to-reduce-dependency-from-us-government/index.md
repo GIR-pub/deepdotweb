@@ -2,7 +2,6 @@
 title: "Did Tor Start Crowdfunding To Reduce US Government Funding?"
 ---
 
-12422  
     
 Posted by: Benjamin Vitáris </a></span>
     
@@ -22,7 +21,7 @@ Posted by: Benjamin Vitáris </a></span>
     
     
 
-<a href="/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="/tag/dependency/" rel="tag">dependency</a> <a href="/tag/government/" rel="tag">government</a> <a href="/tag/reduce/" rel="tag">reduce</a> <a href="/tag/start/" rel="tag">start</a> Updated: 2015-12-03
+Updated: 2015-12-03
     
     
 

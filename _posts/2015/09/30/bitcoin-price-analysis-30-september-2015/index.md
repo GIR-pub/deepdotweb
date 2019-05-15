@@ -7,20 +7,26 @@ Posted by: pesa_mic
 <span>September 30, 2015</span>
 
 
+<img src="/imgs/2015/09/14.jpg">
 
-
-
-<img src="imgs/2015/09/14.jpg">
 <p>This week, bitcoin’s price broke out strongly to the upside, a scenario expected in last week’s analysis. $224 was the final bottom, a firm base for a thrust up to $233 from the downtrend channel preceding this low.</p>
 <p>Breaking out of the downtrend was ultimately to be followed by a short run up in price, seen here as another trend upwards. This uptrending channel encapsulates price action over the duration of this week. As of writing this, 1 bitcoin is trading at $ 236 on BitFinex, after a slight trend down from a 3 week peak at $ 241.</p>
-<img src="imgs/2015/09/25.jpg">
+
+<img src="/imgs/2015/09/25.jpg">
+
 <p>Last week’s downtrend broke to the upside as seen here, breaking past tight converging exponential moving averages &#8211; 30 and 50 day.</p>
-<img src="imgs/2015/09/34.jpg">
+
+<img src="/imgs/2015/09/34.jpg">
+
 <p>Price went on to pierce 100 EMA but was met by resistance, consolidating first, picking up momentum and bouncing off 30 and 50 day EMA support. This support was enough to thrust up to $241 where more resistance was met from 200 EMA.</p>
 <p>Right now, price is seemingly in a consolidation, similar to mid-week. I expect a similar pattern to play out, and force a breakthrough past 200 EMA. One caveat is how low it will drop to find support to bounce off. The convergence of EMAs (100, 50 and 30 day) at $235 is a likely zone, but, when it is too obvious, the market likes to shake things up a bit and surprise traders.</p>
-<img src="imgs/2015/09/45.jpg">
+
+<img src="/imgs/2015/09/45.jpg">
+
 <p>There is more to look out for, like resistance at $241 and $250, levels where price has failed to break this month.</p>
-<img src="imgs/2015/09/55.jpg">
+
+<img src="/imgs/2015/09/55.jpg">
+
 <p>The highlighted zone lies between 23% and 38% fibonacci levels, based on $316 high and $196 low peak to peak. Resistance at $241 is reinforced here after a test earlier this month. Question is whether a run up similar to June/July will occur on breakout.</p>
 <p><em>“I expect it to oscillate between 239 and 236 on Bitstamp, but with trend on my side, I do not think that there will be an upwards breakout yet. The bull has waned. More likely, I foresee a protracted decline over 2 days towards the key area of 234”</em></p>
 <p><strong>BITCOIN WEEKLY PRICE FORECAST</strong></p>

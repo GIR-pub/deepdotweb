@@ -9,7 +9,10 @@ Posted by: Joshua G.
 
 <p>As I have mentioned in my previous article about <a href="/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/">Russian communities and how they perceive the dark net</a>, I will be interviewing the biggest names in the deep web trading to understand more about their growth strategy, security and ultimately creating a big ranking and comparison table that can be used as orientation to users based on marketplace features, fees, products interest, credibility, security (and others).</p>
 <p>The reason why I chose <a href="#">in my previous article</a> , several Russian members were discussing where all of the fraud population went &#8211; AlphaBay. In addition, it was rumoured several big-time Russian vendors (of various products &amp; services) were going to open up shops at AlphaBay and be part of possibly the first merge of English fraud community with its Russian counterpart under the roof of this marketplace.</p>
-<div id="attachment_9882" style="width: 1265px" class="wp-caption aligncenter"><a href="/imgs/2015/04/5.jpg">
+
+
+<img src="/imgs/2015/04/5.jpg">
+
 <p>I first want to thank a friend of mine, which I have known for many years, that knew alpha02 and provided me with direct contact information via Jabber (admin consent) that enabled me to conduct this interview. The person I&#8217;m interviewing today is the main administrator at AlphaBay &#8211; alpha02.</p>
 <p>Bear in mind, timestamp was changed and the full jabber of the administrator was hidden and replaced with &#8220;alpha02&#8221;.</p>
 <p>### Interview Start</p>
@@ -19,7 +22,8 @@ Posted by: Joshua G.
 <p>alpha02: sure i am</p>
 <p>Joshua G.: can you provide pgp signed text with the words &#8220;verification&#8221; so that we can get the interview going!<br />
     alpha02:</p>
------BEGIN PGP SIGNED MESSAGE-----
+
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
     Verification

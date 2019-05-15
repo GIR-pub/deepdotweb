@@ -5,14 +5,22 @@ title: "Darkode Forum Seized by Cross-Borders Task Force"
 Posted by: DeepDotWeb 
 
 <span>July 15, 2015</span>
+
 <p>Over 60 &#8220;hackers&#8221; arrested in joint operation between FBI, NCA, Europol and other law enforcement agencies in global crackdown on cybercrime black market</p>
-<div id="attachment_11047" style="width: 810px" class="wp-caption aligncenter"><a href="/imgs/2015/07/banner1.jpg">
+
+
+<img src="/imgs/2015/07/banner1.jpg">
+
 <p>The &#8220;Notorious&#8221; cybercrime forum Darkode, frequented by Lizard Squad and other hacking groups, has been taken offline in a coordinated international law enforcement clampdown across 18 countries.</p>
-<img src="imgs/2015/07/darkode1.png">
+
+<img src="/imgs/2015/07/darkode1.png">
+
 <p>The site has been seized by authorities, which now displays a notice of the clampdown from the US Federal Bureau of Investigation (FBI), in conjunction with Europol and 17 other international law enforcement agencies including the UK’s National Crime Agency (NCA).</p>
 <p>Over 60 hackers were identified and arrested by the joint cyber operation, including Israel, Germany, the UK, Sweden, Denmark, India and Romania, where 16 individuals were arrested, <a class=" u-underline" href="http://www.acritica.net/noticias/pf-deflagra-operacao-internacional-para-prender-hackers-brasileiros/151990/" data-link-name="in body link" data-component="in-body-link">according to reports</a>.</p>
 <p>A NCA spokesperson confirmed the operation Wednesday to the Guardian, but details of its action were not yet available. It is understood that the FBI’s Pennsylvania field office led the operation.</p>
-<img src="imgs/2015/07/delegados1.png">
+
+<img src="/imgs/2015/07/delegados1.png">
+
 <p><strong>Black market</strong></p>
 <p>Darkode’s forum has been used by cybercriminals as a black market to trade stolen data, credit card information, email addresses, hacking tools and information on bugs and vulnerabilities used to coordinate attacks on companies, agencies and governments.</p>
 <p>Established in 2007, Darkode operated as a place to sell hacking tools. It was an invitation-only site, closed off from the outside world and hosted on so-called “bulletproof” web servers that resist law enforcement action.</p>
