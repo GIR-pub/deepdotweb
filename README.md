@@ -19,6 +19,8 @@ However, its clear that governments use the drug war to suppress their populous 
 I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
 
 
+![](/free_ross.jpg)
+
 ## Why Did I Build This Archive?
 
 Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://www.deepdotweb.com/), which begs the question: Why did I build this archive?
