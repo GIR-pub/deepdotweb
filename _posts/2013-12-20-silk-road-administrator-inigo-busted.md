@@ -30,7 +30,9 @@ title: "Silk Road Administrator &#8220;Inigo&#8221; Busted?!"
 <img src="/imgs/2013/12/warrant1.jpg" />
 
 <p>&nbsp;</p>
-<p>She added later on the Search Warrant which is signed by a judge (we blanked personal details and address):<a href="/imgs/2013/12/search-warrant-noadd.png"/>
+<p>She added later on the Search Warrant which is signed by a judge (we blanked personal details and address):
+
+<img src="/imgs/2013/12/search-warrant-noadd.png"/>
 <p>Cirrus, a silk road forum mod stated they they are looking into this matter:</p>
 <img src="/imgs/2013/12/cirrus.jpg" />
 

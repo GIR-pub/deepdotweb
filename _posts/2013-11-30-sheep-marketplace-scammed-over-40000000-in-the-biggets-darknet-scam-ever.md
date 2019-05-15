@@ -55,7 +55,9 @@ title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Eve
 <h3>So, wake up people! Don`t wait to loose your money on sheep market and rather go to another MarketPlace!</h3>
 <p style="text-align: center;"><span style="color: #ff0000;">========== End Of Quote===============</span></p>
 <p>&nbsp;</p>
-<p>A Screenshot showing the account page on the sheep marketplace with the fake counter and the withdraw button disabled:<a href="/imgs/2013/11/sheep-scam1.jpg"/>
+<p>A Screenshot showing the account page on the sheep marketplace with the fake counter and the withdraw button disabled:
+
+<img src="/imgs/2013/11/sheep-scam1.jpg"/>
 <p>Picture of the forum that is down at this moment:</p>
 <img src="/imgs/2013/11/sheep-forum.jpg" />
 

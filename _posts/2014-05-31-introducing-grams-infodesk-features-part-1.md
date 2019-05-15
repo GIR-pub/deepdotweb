@@ -22,7 +22,9 @@ Posted by: DeepDotWeb
 <li>Pgp Key</li>
 <li>Email address extracted for pgp key.</li>
 <li>Some of the emails the vendors use for their keys are fake, but the</li>
-<li>Some of the emails the vendors use for their keys are fake, but they pretty obvious to spot, for example – this fake email address from one key:<a href="/imgs/2014/05/g3q34.png"/>
+<li>Some of the emails the vendors use for their keys are fake, but they pretty obvious to spot, for example – this fake email address from one key:
+
+<img src="/imgs/2014/05/g3q34.png"/>
 <li>Grams reviews<br />
     Reviews form Grams&#8217; users</li>
 <li>Reddit reviews</li>
@@ -69,7 +71,9 @@ Posted by: DeepDotWeb
 
 <img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/verifyuserbutton.png" alt="Verify user" width="456" height="276" srcset="/imgs/2014/05/verifyuserbutton.png 690w, /imgs/2014/05/verifyuserbutton-300x182.png 300w" sizes="(max-width: 456px) 100vw, 456px" />
 
-<p><strong>Reviews</strong> &#8211; Users can review any of the vendors from the infodesk at anytime. They can also edit their reviews at anytime. The reviews are consist of a 1 to 5 star rating and also a short comment. The top vendors are displayed on the InfoDesk page. Their ranking is based on star rating and number of Grams reviews. Later, an option to rate any .onion site will be added as well.<a href="/imgs/2014/05/infodeskloggedin.png"/>
+<p><strong>Reviews</strong> &#8211; Users can review any of the vendors from the infodesk at anytime. They can also edit their reviews at anytime. The reviews are consist of a 1 to 5 star rating and also a short comment. The top vendors are displayed on the InfoDesk page. Their ranking is based on star rating and number of Grams reviews. Later, an option to rate any .onion site will be added as well.
+
+<img src="/imgs/2014/05/infodeskloggedin.png"/>
 <div id="attachment_5812" style="width: 438px" class="wp-caption aligncenter">
 
 <img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/reviewsample.png" alt="Review vendor" width="428" height="277" srcset="/imgs/2014/05/reviewsample.png 846w, /imgs/2014/05/reviewsample-300x194.png 300w" sizes="(max-width: 428px) 100vw, 428px" />

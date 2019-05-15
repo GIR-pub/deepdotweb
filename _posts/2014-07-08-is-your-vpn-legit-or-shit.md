@@ -39,6 +39,8 @@ Posted by: iBurnEZ </a></span>
 <p>You will note that there are VPN providers based in the USA on this list. It is a common misconception that US VPN services are legally required to log activity on their network. This simply isn’t true, but they are still required to cooperate with US law enforcement while other countries are not. Required cooperation is partly the reason they dutifully do not log activity on their networks. These companies cannot be held liable for withholding information they do not have. Choosing a VPN service, and which country it is based in, is up to you, but we do not want to discourage people from supporting small businesses in the US based on hearsay</p>
 <p>Anyone concerned with their privacy for any reason should consider one of the following VPN services. As a DDW Disclaimer: You shouldn’t rely on a VPN provider to protect you from the authorities. It’s really best if the authorities don’t have a reason to be looking for you at all.</p>
 <p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a><br />
-<a href="/imgs/2014/06/bestvpn.png"/>
+
+
+<img src="/imgs/2014/06/bestvpn.png"/>
 
 Updated: 2014-07-08

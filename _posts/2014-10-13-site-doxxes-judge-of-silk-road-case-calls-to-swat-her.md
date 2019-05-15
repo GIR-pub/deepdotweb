@@ -15,7 +15,9 @@ Posted by: DeepDotWeb
 <p>I would prefer not to have to dignify these threats with a comment, but obviously, and as strongly as possible, we condemn them.  They do not in any way have anything to do with Ross Ulbricht or anyone associated with him, or reflect his views or those of anyone associated with him.</p></blockquote>
 <p>To the person who created this page who might be reading this  &#8211; for the sake of every Tor user out there and for the sake of <a href="http://freeross.org/" target="_blank">freeross.org</a> &amp;  to prevent even more damage to Ulbricht&#8217;s case and family &#8211; please consider taking this page down. This will serve nothing but give Law Enforcement even reasons to go after Tor users in general.</p>
 <p><span style="text-decoration: underline;"><strong>Screenshot of the page (details removed obviously):</strong></span></p>
-<p><span style="text-decoration: underline;"><strong><a href="/imgs/2014/10/judge1.png"/>
+<p><span style="text-decoration: underline;"><strong>
+
+<img src="/imgs/2014/10/judge1.png"/>
 <blockquote>
 <p id="firstHeading" class="firstHeading" lang="en"><strong><span dir="auto">Dox &#8211; Katherine Bolan Forrest (Silk Road Judge)</span></strong></p>
 </blockquote>

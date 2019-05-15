@@ -6,7 +6,9 @@ Posted by: DeepDotWeb
 
 <span>November 19, 2014</span>
 
-<p>A bit late since it took time to get the proper translation &#8211; <a href="http://www.lematin.ch/suisse/Le-FBI-fait-interpeller-un-Vaudois-chez-lui/story/24253596">Lematin.ch</a> reported a few days ago that the Swiss police executed an arrest warrant against a Swiss computer expert, at the request of the United States Federal Bureau of Investigation, thus taking the expert into custody.<a href="/imgs/2014/11/topelement.jpg"/>
+<p>A bit late since it took time to get the proper translation &#8211; <a href="http://www.lematin.ch/suisse/Le-FBI-fait-interpeller-un-Vaudois-chez-lui/story/24253596">Lematin.ch</a> reported a few days ago that the Swiss police executed an arrest warrant against a Swiss computer expert, at the request of the United States Federal Bureau of Investigation, thus taking the expert into custody.
+
+<img src="/imgs/2014/11/topelement.jpg"/>
 <p>The Swiss computer expert is allegedly the administrator of a dark net site that sells weapons, illicit drugs, and false documents. The site, named &#8220;Black Market&#8221; (dgoega4kbhnp53o7.onion), which was a known scam site on the Tor network, was created by this alleged admin and offered mostly weapons for sale. Two weeks ago, the site was shut down during <a href="tag/operation-onymous/">Operation Onymous</a>.</p>
 <p>The site had listings for AK47 assault rifles plated with 24 karat gold, a kilo of cocaine with a purity of 94%, an Australian identity card, fake 50 euro notes, and a driver&#8217;s license from California, United States of America.</p>
 <p>The administrator&#8217;s arrest took place on the morning of November 6<sup>th</sup>, 2014, during Operation Onymous.</p>

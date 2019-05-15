@@ -14,7 +14,9 @@ Posted by: DeepDotWeb
 <p>So, We have teamed up with A great Reddit user by the name of <b><a href="http://www.reddit.com/user/Gabralkhan" target="_blank">Gabralkhan</a></b> &#8211; that you probably know from the DarknetMarkets Sub reddit who also conducted the reddit investigation regarding the <a href="/2013/12/27/the-sheep-bmr-and-maybe-tormarket-hacker-investigation/">Tormarket / BMR / Sheep Hacker</a> , who took a great Initiative &#8211; and contacted the FloMarket admin and offered him an interview to tell hes side of the story, this interview revolves around different topics about the darknet markets and being a hidden marketplace owner &#8211; who lost it all and gives us a rear insight of the market owners point of view regarding the events who led to the closure of the Flomarket.</p>
 <p>We of course cannot back up any the things he say, we can just prove that its really the admin by:</p>
 <p><span style="text-decoration: underline;"><strong>Proof 1#</strong></span>: Tor Chat window showing the same Torchat ID listed at the shutdown notice, confirming he had done this interview with us:</p>
-<p><span style="text-decoration: underline;"><strong><a href="/imgs/2014/01/Floattest2.jpg"/>
+<p><span style="text-decoration: underline;"><strong>
+
+<img src="/imgs/2014/01/Floattest2.jpg"/>
 <p><span style="text-decoration: underline;"><strong>Proof 2#</strong></span>: Just navigate to the Ex Flomarket Url here: http://fmkt3wixc772jxyj.onion/<br />
     And there should be a notice telling that this interview happened and linking to our article:</p>
 <img src="/imgs/2014/01/floproof1.png" />

@@ -66,7 +66,9 @@ Posted by: DeepDotWeb
 <p>&nbsp;</p>
 <img src="/imgs/2014/02/asasa.jpg" />
 
-<a href="/imgs/2014/02/333.jpg"/>
+
+
+<img src="/imgs/2014/02/333.jpg"/>
 <p>I think this is pretty conclusive re: this not being ketamine at all.</p>
 <p>As for what this product is; I am still working on it. I suspect MSG (monosodium glutamate) is present, from the rod-like crystals and that familar, kind-of-salty chinese smell. However there&#8217;s definitely some other things in there too &#8211; including at least one cut that is faintly psychoactive. I am inclined to agree with the assessment of one of the vendors that contacted me: the psychoactive is either a badly-fucked K process resulting in a new compounds, or it&#8217;s the drug 4-MEC. That&#8217;s a very unusual additive but it could definitely happen&#8230; especially if some lab got saddled with a bunch of it and decided to run a scam.</p>
 <p>4-MEC does not show those dark colors in both reagent tests, but this doesn&#8217;t mean much. Colors would occur if it was mixed with other things that DO react to Mandelin + Marquis &#8211; especially dark purple/black. In fact, many organic compounds would go black just from the concentrated sulfuric acid that is a major ingredient in both reagents. Many organic substances degrade to black when dissolved in sulfuric acid, for example human skin, many plastics, or even a piece of paper.</p>

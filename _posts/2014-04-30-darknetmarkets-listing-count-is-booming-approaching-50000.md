@@ -11,7 +11,9 @@ Posted by: DeepDotWeb
 <img src="/imgs/2014/04/dnm1.png" />
 
 <p>We can see the huge increase since the Silk Road 1 era, summarized in this (more accurate table:<br/>
-<a href="/imgs/2014/04/dnm2.png"/>
+
+
+<img src="/imgs/2014/04/dnm2.png"/>
 <p>In the explanation below this table its being said &#8211; this excludes at least other <strong><span style="text-decoration: underline;">25 markets and some vendor shops who are established (exists over ~2 months)</span>:</strong></p>
 <blockquote>
 <ul>

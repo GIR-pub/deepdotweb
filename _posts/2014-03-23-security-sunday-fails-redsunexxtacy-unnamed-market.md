@@ -57,7 +57,9 @@ title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
     
 <p>
     While on the other hand used Google to load scripts into the marketplace! Thank to the_avid again, for pointing this out, i was a bit busy and forgot to take a screenshot of this before it was patched (and i mean patched, not fixed):<br />
-<a href="/imgs/2014/03/Exxcay.png"/>
+
+
+<img src="/imgs/2014/03/Exxcay.png"/>
 <p>Even leaving the Generator tag in place:</p>
 <div id="crayon-5bd6e32fbc254584406626" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
 <div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>

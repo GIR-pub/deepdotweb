@@ -30,7 +30,9 @@ Posted by: DeepDotWeb
 <p>For Donations please visit: <a href="http://freeross.org">http://freeross.org</a></p>
 <p>You can follow the donation address here: <a href="https://blockchain.info/address/1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv">https://blockchain.info/address/1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</a></p>
 <p>And you can donate directly at this address:</p>
-<p style="text-align: center;"> <a href="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"/>
+<p style="text-align: center;"> 
+
+<img src="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"/>
 <p style="text-align: center;"><strong>1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</strong></p>
 
 Updated: 2014-07-07

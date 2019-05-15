@@ -34,15 +34,25 @@ Posted by: DeepDotWeb
 <p>You can find more information here:</p>
 <p>http://energycontrol.org/noticias/528-international.html</p>
 <p>Energy Control:<br />
-<a href="/imgs/2014/04/energy_control.jpg"/>
+
+
+<img src="/imgs/2014/04/energy_control.jpg"/>
     Drug Testing Results Page:<br />
-<a href="/imgs/2014/04/Sin-título.jpg"/>
+
+
+<img src="/imgs/2014/04/Sin-título.jpg"/>
     Drugs testing Process:<br />
-<a href="/imgs/2014/04/resultados_analisis.jpg"/>
+
+
+<img src="/imgs/2014/04/resultados_analisis.jpg"/>
     Drugs testing Process:<br />
-<a href="/imgs/2014/04/presentacion_analisis.jpg"/>
+
+
+<img src="/imgs/2014/04/presentacion_analisis.jpg"/>
     Drugs testing Process:<br />
-<a href="/imgs/2014/04/matraces.png"/>
+
+
+<img src="/imgs/2014/04/matraces.png"/>
 
 Updated: 2014-04-06
     
