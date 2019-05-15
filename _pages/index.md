@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Deep Dot Web Blog Archive - and Privacy Guide"
 description: "The world needs user-friendly access to the educational materials that were previously available on deepdotweb.com."
 header:
