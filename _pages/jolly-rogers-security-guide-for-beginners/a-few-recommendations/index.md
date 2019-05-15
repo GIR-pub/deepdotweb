@@ -1,5 +1,13 @@
 ---
 title: "A FEW RECOMMENDATIONS"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+
 ---
 
 <p>Here are a few recommendations that may slip by the average user on these forums.</p>

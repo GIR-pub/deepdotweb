@@ -1,5 +1,13 @@
 ---
 title: "How to chain socks with Tor"
+sidebar:
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "Blog Archive"
+    nav: "blognav"
+
 ---
 
 <p><strong>How to chain socks with Tor</strong></p>

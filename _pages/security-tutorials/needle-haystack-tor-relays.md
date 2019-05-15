@@ -1,5 +1,13 @@
 ---
 title: "Needle in a Haystack ~ Tor Relays"
+sidebar:
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "Blog Archive"
+    nav: "blognav"
+
 ---
 
 

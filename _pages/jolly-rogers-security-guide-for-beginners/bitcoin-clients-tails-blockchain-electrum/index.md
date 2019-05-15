@@ -1,7 +1,13 @@
 ---
 title: "BITCOIN CLIENTS IN TAILS &#8211; BLOCKCHAIN AND ELECTRUm"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
 ---
-4385
 
 
 <p>In this post I want to talk about 2 options for trading your Bitcoins.<br/>

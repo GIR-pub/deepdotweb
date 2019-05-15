@@ -1,5 +1,13 @@
 ---
 title: "AN EXAMPLE OF REALLY BAD OPSEC &#8211; SMARTEN UP!"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+
 ---
 
 

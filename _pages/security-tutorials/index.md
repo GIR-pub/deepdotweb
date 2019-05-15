@@ -34,3 +34,4 @@ sidebar:
 
 Updated: 2014-05-11
 
+![](free_ross.jpg)

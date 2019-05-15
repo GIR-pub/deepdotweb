@@ -1,7 +1,15 @@
 ---
 title: "AN INTRODUCTION TO AN EXPERT ON OPSEC, PLUS MD5 &#038; SHA-1 CHECKSUMs"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+
 ---
-4113
+
 
 
 <p>ers to people keeping themselves anonymous online. He goes by the online handle, &#8220;The Grugq&#8221;, and Grugq has his own blog which can be found at the following webpage.</p>

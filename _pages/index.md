@@ -96,3 +96,4 @@ However, once everything it set up, changing themes can be relatively trival.
 This was another reason I was concerned that I shouldn't leave it up to the Internet Archive to protect our ability to learn best practicees for privacy online.
 
 
+![](free_ross.jpg)
