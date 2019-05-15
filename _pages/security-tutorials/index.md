@@ -1,5 +1,11 @@
 ---
 title: "Security Tutorials"
+permalink: "/security-tutorials/"
+sidebar:
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
 ---
 
 <p>This page will serve as a compilation of the various security tutorials that can be found on several different forums. It has been hard to find and credit the people who originally created these guides, so let us know if you have written any of them! A good place to start is the <a href="/jolly-rogers-security-guide-for-beginners/">Jolly Roger’s Security Guide for Beginners.</a></p>

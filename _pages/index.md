@@ -6,10 +6,14 @@ header:
   image: "/free_ross.jpg"
   caption: "[freeross.org](https://freeross.org/)"
 toc: true
-sidebar:
-  nav: "jolly"
 permalink: /
 share: true
+sidebar:
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+
 ---
 
 

@@ -11,6 +11,24 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+security:
+  - title: "Security Tutorials"
+    children:
+      - title: "• Security Tutorials Index"
+        url: "/security-tutorials/"
+      - title: "• Lets Talk Security"
+        url: "/lets-talk-security/"
+      - title: "• Chain Socks Tor"
+        url: "/chain-socks-tor/"
+      - title: "• Encrypting Your Hard Drive With Truecrypt"
+        url: "/encrypting-hard-drive-truecrypt/"
+      - title: "• Securing Firefox"
+        url: "/securing-firefox/"
+      - title: "• Needle in a Haystack ~ Tor Relays"
+        url: "/needle-haystack-tor-relays/"
+      - title: "• Word of Warning &#8212; All versions of PGP are NOT created equally!"
+        url: "/warning-versions-pgp-not-created-equally/"
+
 jolly:
   - title: "Jolly Rogers Security Guide"
     children:

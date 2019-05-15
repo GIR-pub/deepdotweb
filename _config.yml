@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/info-GIR/deepdotweb"
+      url: "https://github.com/info-GIR"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -294,4 +294,9 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "blognav"
+        - title: "Blog Archive"
+          nav: "blognav"
+        - title: "Security Tutorials"
+          nav: "security"
+        - title: "Jolly Rogers Security Guide"
+          nav: "jolly"
