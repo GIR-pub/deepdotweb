@@ -15,7 +15,7 @@ share: true
 **Archive: Privacy Guides, and History from DeepDotWeb.**
 
 
-I was broken-hearted to recently find out that deepdotweb got seized.
+I was broken-hearted when I found out that deepdotweb got seized.
 
 The world should have user-friendly access to the educational materials that were previously available on deepdotweb.com.
 
@@ -24,6 +24,8 @@ I have never bought anything from the darkweb, and have no particular inclinatio
 However, its clear that governments use the drug war to suppress their populous and take massive profit on both sides.
 
 I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
+
+![](/free_ross.jpg)
 
 
 ## Why Did I Build This Archive?
