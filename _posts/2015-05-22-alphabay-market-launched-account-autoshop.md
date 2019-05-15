@@ -13,7 +13,7 @@ Posted by: DeepDotWeb
 <blockquote><p>The autoshop now supports accounts, so you can buy Paypal / RDP / social media and other accounts from the vendors in the autoshop</p></blockquote>
 <p>Screenshot:</p>
 
-<img src="/imgs/2015/05/accounts.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/05/accounts.png">
 
 
 Updated: 2015-05-22

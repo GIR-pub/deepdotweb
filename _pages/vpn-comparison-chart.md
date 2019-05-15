@@ -149,7 +149,10 @@ td.chart-col-410, td.chart-col-417, td.chart-col-411 {width:63px; }
 <tbody>
 <tr class="chart-row-620 row-1 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="CyberGhost VPN logo" href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChartmb" rel="nofollow" title="CyberGhostVPN"><img alt="" height="33" src="/imgs/charts/default/0001/01/CG.png" width="130" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/CG.png" width="130" />
+
 <h3 style="text-align: center;"><strong>$2.75</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourhalfstars.png" style="width: 124px; height: 23px;" /></p>
 <p style="text-align: center;"><a href="/2019/01/15/cyberghost-review/" style="text-align: center;">CyberGhost&nbsp;Review</a></p>
@@ -161,13 +164,19 @@ td.chart-col-410, td.chart-col-417, td.chart-col-411 {width:63px; }
 Fast Speeds<br />
 Torrents Allowed<br />
 45 Day Refund</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChartmb" rel="nofollow" style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p><img alt="" src="/imgs/charts/default/0001/01/rank1.png" style="width: 48px; height: 56px;" /></p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="CyberGhost Logo" href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChart" rel="nofollow" target="_blank" title="CyberGhostVPN"><img alt="" height="33" src="/imgs/charts/default/0001/01/CG.png" width="130" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/CG.png" width="130" />
+
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChart" rel="nofollow" target="_blank">&gt;&gt; Visit CyberGhost&nbsp;&lt;&lt;</a></strong></p>
 </td>
@@ -188,13 +197,19 @@ Torrents Allowed<br />
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>96%</strong></h1>
-<p style="text-align: center;"><a href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChart" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourhalfstars.png" style="width: 124px; height: 23px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-602 row-2 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="NordVPN logo" href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChar2&amp;aff_sub2=mb" rel="nofollow" title="NordVPN"><img alt="" height="28" src="/imgs/charts/default/0001/01/nordvpn.png" width="127" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/nordvpn.png" width="127" />
+
 <h3 style="text-align: center;"><strong>$11.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/12/26/nordvpn-review/" style="text-align: center;">NordVPN Review</a></p>
@@ -205,13 +220,19 @@ Torrents Allowed<br />
 Easy to set up<br />
 No Logs<br />
 No DCMA response</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChart&amp;aff_sub=mb" rel="nofollow" style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p><img alt="" src="/imgs/charts/default/0001/01/rank2.png" style="width: 48px; height: 56px;" /></p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="NordVPN logo" href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChart" rel="nofollow" target="_blank" title="NordVPN"><img alt="" height="28" src="/imgs/charts/default/0001/01/nordvpn.png" width="127" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/nordvpn.png" width="127" />
+
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChart" rel="nofollow" target="_blank">&gt;&gt; Visit NordVPN &lt;&lt;</a></strong></p>
 </td>
@@ -231,13 +252,19 @@ No DCMA response</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>91%</strong></h1>
-<p style="text-align: center;"><a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChart" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-605 row-3 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<h3 style="text-align: center;"><a alt="IPVanish" href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;chan=ipvmt&amp;data2=mb" rel="nofollow" title="IPVanish"><img alt="" src="/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" /></a></h3>
+<h3 style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" />
+
 <h3 style="text-align: center;"><strong>$10.00</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/11/17/ipvanish-vpn-review/" style="text-align: center;">IPVanish Review</a></p>
@@ -248,14 +275,20 @@ No DCMA response</p>
 Allows Torrents<br />
 Good Speed<br />
 DNS Leak Protect</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;chan=ipvmt&amp;data2=mb" rel="nofollow" style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p><img alt="" src="/imgs/charts/default/0001/01/rank3.png" style="width: 48px; height: 56px;" /></p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="IPVanish" href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;chan=ipvmt&amp;data2=dt" rel="nofollow" target="_blank" title="IPVanish"><img alt="" src="/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" />
+
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;a_bid=48f95966&amp;chan=ipvmt" rel="nofollow" target="_blank">&gt;&gt; Visit IPVanish &lt;&lt;</a></strong></p>
 </td>
@@ -274,16 +307,25 @@ DNS Leak Protect</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>88%</strong></h1>
-<p style="text-align: center;"><a href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;chan=ipvmt&amp;data2=dt" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="width: 100px; height: 19px;" /></p>
 <p style="text-align: center;">&nbsp;</p>
 </td>
 </tr>
 <tr class="chart-row-619 row-4 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt&amp;data1=mb" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" />
+
 <h3 style="text-align: center;"><strong>$10.00</strong></h3>
-<p style="text-align: center;"><a href="ttps://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt&amp;data1=mb"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" />
+
 <p style="text-align: center;"><a href="/2016/05/14/strong-vpn-review/" style="text-align: center;">Strong VPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
@@ -292,14 +334,20 @@ DNS Leak Protect</p>
 No Logs<br />
 Easy To Use<br />
 Unlimited Bandwidth</p>
-<p><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt&amp;data1=mb"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>4</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" />
+
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt" rel="nofollow" target="_blank">&gt;&gt; Visit StrongVPN &lt;&lt;</a></strong></p>
 </td>
@@ -318,13 +366,19 @@ Unlimited Bandwidth</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>OurScore:</strong></h4>
 <h1 style="text-align: center;"><strong>85%</strong></h1>
-<h1 style="text-align: center;"><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" /></a></h1>
+<h1 style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-609 row-5 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="TorGuard Logo" href="https://torguard.net/aff.php?aff=1562" rel="nofollow" target="_blank" title="TorGuard"><img alt="" src="/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" />
+
 <h3 style="text-align: center;"><strong>$9.99</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/11/30/torguard-vpn-review/" style="text-align: center;">TorGuard Review</a></p>
@@ -334,13 +388,19 @@ Unlimited Bandwidth</p>
 24/ Support<br />
 7 Day Trial<br />
 Pretty Good Speed</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://torguard.net/aff.php?aff=1562" rel="nofollow" style="text-align: center;" target="_blank"><img alt="Visit Tor Guard Official Site" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>5</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="TorGuard Logo" href="https://torguard.net/aff.php?aff=1562" rel="nofollow" target="_blank" title="TorGuard"><img alt="" src="/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" />
+
 <p>&nbsp;</p>
 <p><strong style="text-align: center;"><a href="https://torguard.net/aff.php?aff=1562" rel="nofollow" target="_blank">&gt;&gt; Visit TorGuard&nbsp;&lt;&lt;</a></strong></p>
 </td>
@@ -359,13 +419,19 @@ Pretty Good Speed</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>78%</strong></h1>
-<p style="text-align: center;"><a href="https://torguard.net/aff.php?aff=1562" rel="nofollow" target="_blank"><img alt="Visit Tor Guard Official Site" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-610 row-6 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="Proxy.sh Logo" href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" target="_blank" title="Proxy.sh"><img alt="" src="/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" />
+
 <h3 style="text-align: center;"><strong>$7.50</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/11/20/proxy-sh-vpn-review/" style="text-align: center;">Proxy.sh Review</a></p>
@@ -375,13 +441,19 @@ Pretty Good Speed</p>
 Unlimited Bandwidth<br />
 P2P Torrents<br />
 SafeJumper Feature</p>
-<p>&nbsp;<a href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>6</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="Proxy.sh Logo" href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" target="_blank" title="Proxy.sh"><img alt="" src="/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" />
+
 <p>&nbsp;</p>
 <p><strong style="text-align: center;"><a href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" target="_blank">&gt;&gt; Visit Proxy.sh &lt;&lt;</a></strong></p>
 </td>
@@ -400,13 +472,19 @@ SafeJumper Feature</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>73%</strong></h1>
-<p style="text-align: center;"><a href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-612 row-7 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="IVPN Logo" href="https://www.ivpn.net/aff.php?aff=1412" rel="nofollow" target="_blank" title="IVPN"><img alt="" src="/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" />
+
 <h3 style="text-align: center;"><strong>$8.33</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/12/03/ivpn-review/" style="text-align: center;">IVPN Review</a></p>
@@ -416,13 +494,19 @@ SafeJumper Feature</p>
 P2P Torrents<br />
 7-day money Guarantee<br />
 Multihop Feature</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.ivpn.net/aff.php?aff=1412" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>7</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="IVPN Logo" href="https://www.ivpn.net/aff.php?aff=1412" rel="nofollow" target="_blank" title="IVPN"><img alt="" src="/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="https://www.ivpn.net/aff.php?aff=1412"><strong>$8.33</strong></a></h3>
@@ -439,13 +523,19 @@ Multihop Feature</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>74%</strong></h1>
-<p style="text-align: center;"><a href="https://www.ivpn.net/aff.php?aff=1412" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
  </td>
 </tr>
 <tr class="chart-row-615 row-8 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="Liquid VPN Logo" href="https://my.liquidvpn.com/aff.php?aff=129" rel="nofollow" target="_blank" title="Liquid VPN"><img alt="" src="/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" />
+
 <h3 style="text-align: center;"><strong>$5.57</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/12/08/liquidvpn-review/" style="text-align: center;">LiquidVPN Review</a></p>
@@ -455,13 +545,19 @@ Multihop Feature</p>
 P2P torrents<br />
 3 OpenVPN Types<br />
 LiquidDNS&nbsp;Included</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://my.liquidvpn.com/aff.php?aff=129" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>8</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="Liquid VPN Logo" href="https://my.liquidvpn.com/aff.php?aff=129" rel="nofollow" target="_blank" title="Liquid VPN"><img alt="" src="/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="http://my.liquidvpn.com/aff.php?aff=129"><strong>$5.57</strong></a></h3>
@@ -478,13 +574,19 @@ LiquidDNS&nbsp;Included</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>70%</strong></h1>
-<p style="text-align: center;"><a href="https://my.liquidvpn.com/aff.php?aff=129" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-606 row-9 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="Private Internet Access VPN logo" href="https://www.privateinternetaccess.com/pages/buy-vpn/deepdotweb" rel="nofollow" target="blank" title="Private Internet Access VPN"><img alt="" src="/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" />
+
 <h3 style="text-align: center;"><strong>$6.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threestars.png" style="text-align: center; width: 104px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2016/01/05/private-internet-access-review/" style="text-align: center;">PIA&nbsp;Review</a></p>
@@ -494,13 +596,19 @@ LiquidDNS&nbsp;Included</p>
 Unlimited<br />
 SOCKS5 Proxy<br />
 No Logs</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="https://www.privateinternetaccess.com/pages/buy-vpn/deepdotweb" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>9</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="Private Internet Access VPN logo" href="https://www.privateinternetaccess.com/pages/buy-vpn/deepdotweb" rel="nofollow" target="blank" title="Private Internet Access VPN"><img alt="" src="/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="https://www.privateinternetaccess.com/pages/buy-vpn/deepdotweb"><strong>$6.95</strong></a></h3>
@@ -517,13 +625,19 @@ No Logs</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>67%</strong></h1>
-<p style="text-align: center;"><a href="https://www.privateinternetaccess.com/pages/buy-vpn/deepdotweb" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threestars.png" style="text-align: center; width: 104px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-616 row-10 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="Hide IP VPN logo" href="https://billing.hideipvpn.com/aff.php?aff=2096" rel="nofollow" target="_blank" title="Hide IP VPN"><img alt="" src="/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" />
+
 <h3 style="text-align: center;"><strong>$7.00</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars-1.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2015/12/10/hideipvpn-review/" style="text-align: center;">HideIP VPN Review</a></p>
@@ -533,13 +647,19 @@ No Logs</p>
 1 Day&nbsp;Trial<br />
 Unlimited Bandwidth</p>
 <p>&nbsp;</p>
-<p><a href="https://billing.hideipvpn.com/aff.php?aff=2096" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>10</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="Hide IP VPN logo" href="https://billing.hideipvpn.com/aff.php?aff=2096" rel="nofollow" target="_blank" title="Hide IP VPN"><img alt="" src="/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="https://billing.hideipvpn.com/aff.php?aff=2096"><strong>$7.00</strong></a></h3>
@@ -555,13 +675,19 @@ Unlimited Bandwidth</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>63%</strong></h1>
-<p style="text-align: center;"><a href="https://billing.hideipvpn.com/aff.php?aff=2096" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars-1.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-614 row-11 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="BolehVPN logo" href="https://portal.bolehvpn.net/affiliate/ref.php?id=162&amp;tid=BOMT1" rel="nofollow" target="blank" title="BolehVPN"><img alt="" src="/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" />
+
 <h3 style="text-align: center;"><strong>$6.67</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/3.png" style="text-align: center; width: 100px; height: 17px;" /></p>
 <p style="text-align: center;"><a href="/2016/01/11/bolehvpn-review/" style="text-align: center;">BolehVPN Review</a></p>
@@ -570,13 +696,19 @@ Unlimited Bandwidth</p>
 <p>Good Speed<br />
 Unlimited Bandwidth<br />
 1 Day Trail</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://portal.bolehvpn.net/affiliate/ref.php?id=162&amp;tid=BOMT1" rel="nofollow" style="text-align: center;" target="blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>11</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="BolehVPN logo" href="https://portal.bolehvpn.net/affiliate/ref.php?id=162&amp;tid=BOMT1" rel="nofollow" target="blank" title="BolehVPN"><img alt="" src="/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="https://portal.bolehvpn.net/affiliate/ref.php?id=162&amp;amp;tid=BOMT1"><strong>$6.67</strong></a></h3>
@@ -592,14 +724,20 @@ Unlimited Bandwidth<br />
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>60%</strong></h1>
-<p style="text-align: center;"><a href="https://portal.bolehvpn.net/affiliate/ref.php?id=162&amp;tid=BOMT1" rel="nofollow" target="blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/3.png" style="text-align: center; width: 100px; height: 17px;" /><br style="text-align: center;" />
 &nbsp;</p>
 </td>
 </tr>
 <tr class="chart-row-603 row-12 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="Mullvad logo" href="https://mullvad.net" rel="nofollow" target="blank" title="Mullvad"><img alt="" height="34" src="/imgs/charts/default/0001/01/mullvad.jpg" width="120" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/mullvad.jpg" width="120" />
+
 <h3 style="text-align: center;"><strong>$5.60</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
 <p style="text-align: center;"><a href="/2016/01/28/mullvad-review/" style="text-align: center;">Mullvad Review</a></p>
@@ -608,13 +746,19 @@ Unlimited Bandwidth<br />
 <p>Accepts Bitcoin<br />
 DNS Leak Protection<br />
 Token System</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://mullvad.net" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>12</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="Mullvad logo" href="https://mullvad.net" rel="nofollow" target="blank" title="Mullvad"><img alt="" height="34" src="/imgs/charts/default/0001/01/mullvad.jpg" width="120" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/mullvad.jpg" width="120" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="/wp-content/uploads/charts/default/0001/01/mullvad.jpg"><strong>$5.60</strong></a></h3>
@@ -631,13 +775,19 @@ Token System</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>59%</strong></h1>
-<p style="text-align: center;"><a href="https://mullvad.net" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-604 row-13 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="BTGuard logo" href="http://btguard.com/?a=ManagerVPN" rel="nofollow" target="_blank" title="BTGuard"><img alt="" src="/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" />
+
 <h3 style="text-align: center;"><strong>$9.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
 <p style="text-align: center;"><a href="/2016/01/25/btguard-review/" style="text-align: center;">BTGuard Review</a></p>
@@ -646,13 +796,19 @@ Token System</p>
 <p>256-bit AES encryption<br />
 P2P&nbsp;Torrents​<br />
 <span style="line-height: 20.8px;">No DCMA Response</span></p>
-<h1><a href="http://btguard.com/?a=ManagerVPN" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></h1>
+<h1>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>13</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="BTGuard logo" href="http://btguard.com/?a=ManagerVPN" rel="nofollow" target="_blank" title="BTGuard"><img alt="" src="/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="http://btguard.com/?a=ManagerVPN"><strong>$9.95</strong></a></h3>
@@ -669,13 +825,19 @@ P2P&nbsp;Torrents​<br />
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>56%</strong></h1>
-<h1 style="text-align: center;"><a href="http://btguard.com/?a=ManagerVPN" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></h1>
+<h1 style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
 </td>
 </tr>
 <tr class="chart-row-611 row-14 ">
 <td class="hideDesktop  hidePad  chart-col-421">
-<p style="text-align: center;"><a alt="VPN S logo" href="https://www.vpnsecure.me/?xyz=2387" rel="nofollow" target="_blank" title="VPN S"><img alt="" src="/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" />
+
 <h3 style="text-align: center;"><strong>$7.50</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 19px;" /></p>
 <p style="text-align: center;"><a href="/2016/02/16/vpn-secure-review/" style="text-align: center;">VPN Secure Review</a></p>
@@ -684,13 +846,19 @@ P2P&nbsp;Torrents​<br />
 <p>Good Speed<br />
 SmartDNS Included<br />
 $2 for&nbsp;2 day&nbsp;trial.</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.vpnsecure.me/?xyz=2387" rel="nofollow" style="text-align: center;" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
 <p>14</p>
 </td>
 <td class=" hideMobile   chart-col-409">
-<p><a alt="VPN S logo" href="https://www.vpnsecure.me/?xyz=2387" rel="nofollow" target="_blank" title="VPN S"><img alt="" src="/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" /></a></p>
+<p>
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" />
+
 </td>
 <td class=" hideMobile   chart-col-417">
 <h3><a href="/wp-content/uploads/charts/default/0001/01/vpn-s-logo.png"><strong>$7.50</strong></a></h3>
@@ -707,14 +875,18 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
 <h1 style="text-align: center;"><strong>54%</strong></h1>
-<p style="text-align: center;"><a href="https://www.vpnsecure.me/?xyz=2387" rel="nofollow" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 19px;" /></p>
 </td>
 </tr>
 </tbody>
 </table>
 <label for="show-more-29" style="display: none;"></label>
-<img src="/chart/show/29" width="1" height="1" />
+<img src="https://info-gir.github.io/deepdotweb/chart/show/29" width="1" height="1" />
+
 <script>try{wpCookies.set( '9c08330e901e764fd8ca3689c7cfffbf0e9ad39e', '29', 0, '/' );} catch (e) {}</script>
 </div>
 <p>There are a lot of misconceptions and false information about VPN’s. Hardly anyone is paying attention as to which VPN providers are best when it comes to privacy, anonymity and compatibility with Tor.</p>
@@ -811,6 +983,7 @@ Updated: 2015-10-09</span>
 <div class="alignleft">
 <a class="footer-logo" title="Deep Dot Web" href="https://www.deepdotweb.com/">
 <img src="https://www.deepdotweb.com/wp-content/themes/sahifa-child-new/images/deep-dot-web-logo.svg" alt="" />
+
 </a>
 </div>
 <div class="clear"></div>

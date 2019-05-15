@@ -12,12 +12,12 @@ Posted by: DeepDotWeb
 <p>“[These stun guns are] cheaper [than firearms] and can be easier to acquire over the internet,” Deputy Chief Constable David Thompson said. He is the national lead officer for firearms.</p>
 <p>In London, according to the Times newspaper, 249 stun guns were destroyed by Scotland Yard’s Central Exhibits Service in the last year, along with other weapons such as harpoons and cross bows.</p>
 
-<img src="/imgs/2015/12/Man-bought-iPhone-stun-gun1.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/Man-bought-iPhone-stun-gun1.jpg">
 
 <p>These stun guns, some appearing to look like regular Apple iPhone devices are popular amongst teens and gang members, because they cost anywhere between £20 to £200. It is also popular to find these guns in open market stalls throughout Asia selling for £70. Surrey police seized two guns disguised as mobile devices as well as two powerful JSJ 811 Tasers that were all from China.</p>
 <p>When entering the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">dark web markets</a> like the former market Middle Earth, and adding the level of anonymity with the untraceable Bitcoin currency, using these hidden sites allows buyers to acquire a deadly weapon and have it sent directly to their home or a local PO Box address.</p>
 
-<img src="/imgs/2015/12/Large-haul-of-dangerous-weapons1.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/Large-haul-of-dangerous-weapons1.jpg">
 
 <p>Because the Bitcoin has such a strong value too, sitting around $450 per coin, it is a hot asset to carry when shopping with <a href="#">dark web vendors</a>. It has become one of the main currencies used to buy lethal products, including these powerful stun guns.</p>
 <p>Of the stun guns seized by the Northumbria Police since 2014, 41 of them had been disguised as mobile phone, key fobs, and torches. One of these guns was deadly having a five million volt charge, which is 100 times more powerful than the average 50,000 volts Taser a policeman will carry.</p>

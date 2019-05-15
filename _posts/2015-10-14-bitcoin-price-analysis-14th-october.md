@@ -8,30 +8,30 @@ Posted by: pesa_mic
 
 <p><strong>BITCOIN MARKETS THIS WEEK</strong></p>
 
-<img src="/imgs/2015/10/12.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/12.jpg">
 
 <p>This week the price of bitcoin mostly trended sideways, after breaking resistance at $241 and heading up to a peak at $249. What followed was a consolidation, a counter reaction to the preceding sharp rise. A slow grind downtrend followed and found a bottom just above $242, reaffirming this level as strong support. The tweezer bottom, a candlestick pattern considered to be a short term bullish reversal pattern, is visibly clear. In hindsight, this was a bottom for the uptrend that followed up to $253. As I write this, price on Bitfinex sits at $250.</p>
 
-<img src="/imgs/2015/10/22.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/22.png">
 
 <p>Price has been trending up since the $224 bottom on September 21, along with the 21 day exponential moving average line providing support. Current price levels are teetering on key indicators. There is no clear signal as multiple indicators have converged around this zone &#8211; caution is advised, especially on any more upside.</p>
 <p><em>“Honestly, this whole move is ridiculously bizarre. Market participants just don&#8217;t have a fucking clue what to do right now.” </em></p>
 <p>On the one hand, $250 is a significant psychological barrier, but the break up to $253 should have gone up to $260 if indeed, there was real intent. But then, there is a reluctance to sell down below $250. Additionally, volume to justify this week’s run up is lacking</p>
 
-<img src="/imgs/2015/10/32.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/32.jpg">
 
 <p>The 200 simple moving average line is almost horizontal, and cuts across this $250 level. It would not surprise me to see price hug around this line. Sideways price action combined with choppy up and down movements &#8211; all centred around this line.</p>
 
-<img src="/imgs/2015/10/41.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/41.jpg">
 
 <p>Encircled 2 is a break or make point, largely due to moving average lines (MA) crossing right above current price levels. Last month (encircled 1), this same average line pushed back attempts at $316 and $293 to break above it. Even if price strongly breaks past this point, there is the matter of holding above it. A double top pattern, similar to encircled 1 in July and August, looks likely here.</p>
 
-<img src="/imgs/2015/10/5.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/5.jpg">
 
 <p>EMAs on the 3 day chart confirm a significant resistance at this level. (1 and 2) failed to break past 100 day EMA. Subsequently, 50 and 30 succumbed to selling pressure at (3). The current uptrend will require enough momentum and intent to break above both 50 and 30. Any further advance above this level will encounter more resistance at (5) &#8211; 100 EMA. Recall the run up to $316 was mounted on the back of Greece bailout crisis speculation.</p>
 <p>Where will similar momentum come from? I see unconvincing fundamental news or events to support a similar run up.</p>
 
-<img src="/imgs/2015/10/61.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/61.png">
 
 <p>Chart above offers more evidence supporting the significance of $ 250 zone. It is a similar &#8211; ish pattern comparable to June &#8211; July (1,2,3,4) and current 4 on the right.</p>
 <p><em>“The striking similarity in price action is that all the key levels marked 1-4 have basically been respected. Essentially what I&#8217;m looking for now is where price stalls number 4 far right and begins to retrace”</em></p>
@@ -39,12 +39,12 @@ Posted by: pesa_mic
 <p><strong>BITCOIN WEEKLY PRICE FORECAST</strong></p>
 <p>This week I am neutral to bearish. I expect a sideways price action; if any upside does occur, it will be limited. At this point, I am looking at lower prices and a resumption of the bear trend.</p>
 
-<img src="/imgs/2015/10/71.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/71.png">
 
 <p><strong><u>BITCOIN FUNDAMENTAL NEWS</u></strong></p>
 <p><strong>Impressive Global Bitcoin growth on P2P exchange Localbitcoins</strong></p>
 
-<img src="/imgs/2015/10/81.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/81.png">
 
 <p>This week, charts on BTC peer to peer exchange volumes were released, a pleasant surprise for many bitcoiners. Data from localbitcoins.com different countries of operation, exhibited growth globally and for many countries featured including the USA, Kenya, Venezuela and Russia. The US was an interesting data set showing a steady upward march with more and more volumes. 40,000 BTC on average were traded per day globally.</p>
 <p><em>“I am going to go out on a limb and say we are getting close to a major move up</em>”</p>

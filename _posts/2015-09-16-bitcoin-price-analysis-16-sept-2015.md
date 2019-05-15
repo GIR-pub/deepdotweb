@@ -8,17 +8,17 @@ Posted by: pesa_mic
 
 <p><strong>BITCOIN PRICE THIS WEEK</strong></p>
 
-<img src="/imgs/2015/09/12.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/12.jpg">
 
 <p>This week, bitcoin’s price gradually declined to a low of $ 227, from last week’s $ 240. It has been a slow grind down from the past 4 week high, $ 247. Trading is now ranging within the rectangle, on a sideways trend that almost always precedes a break out. Up or down?</p>
 <p><em>“If bulls can&#8217;t put together a significant rally up to at least $235 in the coming hours, I&#8217;d say a dump down to the mid $220s is on the horizon.”</em></p>
 <p>$ 233 is upper bound resistance for this range, and $ 230 the lower bound; sharp spikes on either side indicate there is market resistance to go lower (or higher). The market is consolidating, and will soon tip to either side.</p>
 
-<img src="/imgs/2015/09/22.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/22.jpg">
 
 <p>On the 12 h chart, a larger trading range is obvious. Peak to peak fibonacci retracement levels from $318 to $196, confirm this range flanked by 38% fib and 23% fib on the upper and lower bounds respectively. Resistance at $ 241 and 38% fib rejected attempts to break out of this channel,even after 6 days of sideways attempts. As of writing this, price at $228 sits slightly above the lower bound. I expect it to at least test this support at $224. Part of this may result in spikes as far down as $220. Question is will it hold or buckle?</p>
 
-<img src="/imgs/2015/09/32.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/32.jpg">
 
 <p>Short term trend from $318 has been trading within a downward sloping channel. Lateral support at $224 from fibonacci levels, and $220 a longer term support intersect, meaning the next week will be decisive. Either support holds and price jumps back up out of the channel, or it is broken and price dips lower.</p>
 <p><strong>Bitcoin exchange BTC China rebrands</strong></p>
@@ -32,13 +32,13 @@ Posted by: pesa_mic
 <p><em>“This is a first step, and is positive progress, but it is just one milestone toward our ultimate goal. Our mission is still to obtain a derivatives clearing organization license (DCO) to operate a federally regulated bitcoin derivatives exchange and clearing house. At this time, we do not intend to launch with only a SEF license.”</em></p>
 <p><strong>BITCOIN PRICE WEEKLY FORECAST</strong></p>
 
-<img src="/imgs/2015/09/42.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/42.jpg">
 
 <p>Overall, the market is split between the beginning of another bull cycle, or the threat of lower prices sub 200. $200 &#8211; $300 range has been difficult to get out of, as price keeps coming back to retest support at $ 200.</p>
 <p>&#8220;<em>Bitcoin hit our target of $246 and is now falling. I expect an impulsive drop to $226.43 then a 3 wave upward correction. That will be my signal to go short targeting below $150.&#8221;</em></p>
 <p>This week I am bearish and expect any recovery of price upward to be limited within current price and max price of $ 240. Low $200 prices could be re-tested here and this may be the final test that breaks below $200. $225 will be decisive depending on how strong it holds.</p>
 
-<img src="/imgs/2015/09/52.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/52.jpg">
 
 <p>At this point, looking at price projections in the mid -term is best, as the market is at a critical level. Look out for an analysis report on the midterm to long term price outlook, and the real possibility of $ 100 coins!</p>
 

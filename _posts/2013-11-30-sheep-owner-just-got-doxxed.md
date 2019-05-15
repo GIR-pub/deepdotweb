@@ -143,12 +143,14 @@ title: "Sheep Marketplace Owner just Got Doxxed?!"
 <div>
 <p>For those not on FB:</p>
 <p>him and his profile and some photos:</p>
-<p><a href="http://imgur.com/Atj08RF"><img src="http://i.imgur.com/Atj08RFh.png" alt="" width="618" height="662"/></a></p>
+<p><a href="http://imgur.com/Atj08RF"><img src="http://i.imgur.com/Atj08RFh.png" alt="" width="618" height="662" />
+
 <p>http://imgur.com/XOQi8cF (his gf apparently makes those &#8211; it seems a bit like the Sheep logo, don&#8217;t you think?)</p>
 <p>his &#8220;likes&#8221;</p>
 <p>http://imgur.com/PgJmnVB (see the Anonymous Trade?)</p>
 <p>his gf &#8211; maybe pregnant based on one of his statuses, but not sure if it is a joke or not</p>
-<p><a href="http://imgur.com/rwKubLs"><img src="http://i.imgur.com/rwKubLsh.png" alt="" width="618" height="698"/></a></p>
+<p><a href="http://imgur.com/rwKubLs"><img src="http://i.imgur.com/rwKubLsh.png" alt="" width="618" height="698" />
+
 <p>her website</p>
 <p>http://katua.me/</p>
 <p>his Google+</p>

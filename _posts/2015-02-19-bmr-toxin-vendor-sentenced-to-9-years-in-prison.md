@@ -17,7 +17,7 @@ Posted by: DeepDotWeb
 <p>John P. Woods, acting special agent in charge of HSI Newark, said. “HSI will maintain its unrelenting commitment to protecting our land borders as well as virtual borders from individuals like Korff. Anyone who mistakenly thinks that they can get away with these types of crimes by hiding in the endless depths of the internet must know that HSI will seek them out and bring them to justice.”</p>
 <p>“Jesse Korff acquired abrin and ricin, potentially lethal toxins, through an underground internet-based marketplace, so they could be used for deadly purposes,” Richard M. Frankel, FBI Special Agent in Charge, Newark, said. “Thankfully, with the coordinated efforts of our law enforcement partners, and the tactical and technical expertise of the FBI’s Joint Terrorism Task Force, he was intercepted and his potentially deadly threats did not become a reality.”</p>
 
-<img src="/imgs/2015/02/JesseWilliamKorff1.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/JesseWilliamKorff1.jpg">
 
 <p><strong>According to documents filed in this case and statements made in court:</strong></p>
 <p>Beginning in April 2013, HSI special agents in Newark launched an investigation of illicit sales activity on BMR. The website provided a platform for vendors and buyers to conduct anonymous online transactions involving the sale of a variety of illegal goods, including biological agents, toxins, firearms, ammunition, explosives, narcotics and counterfeit items.</p>

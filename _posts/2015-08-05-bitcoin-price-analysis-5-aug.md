@@ -20,22 +20,22 @@ Posted by: pesa_mic
 <p><em>“Gold has not reacted as a safe haven as it should. Greece should have sent the price soaring but it did not.”</em></p>
 <p>I found this interesting since Bitcoin did the exact opposite, going up 40% amidst Greek financial woes. It made me think about XBT (bitcoin) and XAU (gold) correlation in the past. Both have moved together since August last year as seen on this chart.</p>
 
-<img src="/imgs/2015/08/1.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/1.jpg">
 
 <p>Not always however, at times, they’ve exhibited inverse correlation. From what I observed, they eventually resolve and move in the same direction. Which makes me wonder how long the current decoupling of prices will last.</p>
 <p><em>“The chart showed they [XBT, XAU] are highly correlated. It showed their prices always return to agreement. Short-term opposite moves are negated and they move back into sync in their mutual downtrend.”</em></p>
 <p><strong>Bitcoin week of 29/07 to 5/08</strong></p>
 
-<img src="/imgs/2015/08/2.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/2.jpg">
 
 <p>This week bitcoin price action was dull, declining gradually from $ 298 on Tuesday, to a local bottom at $ 276. A double dip supported a gradual rise to $ 285 (as of writing). After a month and a half of an exciting run to $316, excitement in the bull has faltered, as hopes of finding a bottom echo in traders forums. So now, almost every trader is asking where is the bottom?</p>
 
-<img src="/imgs/2015/08/3.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/3.jpg">
 
 <p>A better perspective of this week’s pattern can be seen on a larger timeframe. Just like the first small retracement, price is shaping up in a similar form &#8211; sell off from the steep rise up to $ 316. The relative strength indicator (oversold and overbought above and below upper/lower bands) moves in tandem with price. As long as RSI remains within the band (30, 70), it should model the first retracement and settle question of a ‘where price will find a bottom’. Mostly, it’s day traders who have to put up with these stresses, for longer term traders, there is plenty of room to find a bottom.</p>
 <p>Depending on who you ask, locating this bottom is up to the unfolding technical patterns. For every technique there’s a name &#8211; the C&amp;H (cup and handle) bull pennant and elliot wave 4</p>
 
-<img src="/imgs/2015/08/4.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/4.jpg">
 
 <p>An elliott wave count from $ 213 up to $ 316 &#8211; (i), (ii), (iii), (iv), (v). ii and iv are retracements from the primary motive wave &#8211; Bullish motive in this case &#8211; and a retracement now looking for a bottom to reverse. A final wave v comes after in the general direction of wave i and iii. How far up v moves is upto the strength accompanying the final push.</p>
 <p>Some basic guidelines observing Wave iv form</p>
@@ -46,22 +46,22 @@ Posted by: pesa_mic
 </ul>
 <p><em>“if this is indeed a wave 4, then volume will resume after market hits a suitable target. Volume naturally falls with price in correction mode” </em></p>
 
-<img src="/imgs/2015/08/5.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/5.jpg">
 
 <p>The Cup with handle pattern theory also holds as the handle continues to form.Just like the ‘corrective’ wave form, it needs to find a bottom before advancing.</p>
 <p><em>“After the C&amp;H, looks like there&#8217;s a forming of a pennant, some more days to complete the triangle. What is needed for the kickstart you think?”</em></p>
 
-<img src="/imgs/2015/08/6.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/6.jpg">
 
 <p>Finally, a potential bull pennant also identified on 1 day chart is yet to break out of its wedge shape at a final apex price. They are continuation patterns representing brief consolidations before resuming previous moves.Volume also declines as pennant extends, observed on chart above.</p>
 <p><strong>Forecast</strong></p>
 <p>Overall, i am still bullish to neutral and my targets for another leg up remain at $320 &#8211; $335. It is a high probability search for a bottom, for a rebound to retest $320 or even a bullish long-term trend line from the inception of Bitcoin, now acting as resistance.</p>
 
-<img src="/imgs/2015/08/7.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/7.jpg">
 
 <p>Here, this line cuts above encircled price zone, testing it thrice. Zooming in at the circle</p>
 
-<img src="/imgs/2015/08/8.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/8.jpg">
 
 <p>Price retraced at $320, right at the resistance line, tested twice before in January, March and 2 weeks ago. A rebound and retest of $330 is likely at this point, especially with multiple expectations of a reversal back up. It is now a matter of when and from where price will head up.</p>
 <p><strong>Contact:</strong> <a href="mailto:pesabitmic@gmail.com">pesabitmic@gmail.com</a> for inquiries on price forecasts.</p>

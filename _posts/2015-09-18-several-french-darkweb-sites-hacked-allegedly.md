@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
 <blockquote><p>Friends from FDW, I have ALL databases</p></blockquote>
 <p>Said the blackmailer. To prove his infiltration, the hacker explained he obtained access to all internals and privates messages of staff members from these french onion sites: FDW (French Darkweb), FDP (French Dark Place), FDW-Market and Zangdar, and also databases of The French Hidden Wiki and some vendor shops like: chris_carter; walterwhite; raol; youryorlov75; texas.</p>
 
-<img src="/imgs/2015/09/FDW.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/FDW.png">
 
 <blockquote><p>« How can you stay trustworthy and manage this crappy place of pedophile »</p></blockquote>
 <p>Said the hacker. If this is true, this will be gold for authorities.</p>
@@ -21,7 +21,7 @@ Posted by: DeepDotWeb
 <p>According to the report &#8211; <a href="http://www.zataz.com/infiltration-dans-le-blackmarket-francophone/">ZATAZ.COM</a> were been able to access to some presumed proofs: screenshots from a privates messages section which belongs to one of the blackmarket admins.</p>
 <p>DeepDotWeb were not able to verify if these claims are indeed real &#8211; but able to confirm that some of these alleged hacked markets has been down for the past few days according to our stats.</p>
 
-<img src="/imgs/2015/09/fdw.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/fdw.png">
 
 
 Updated: 2015-09-18

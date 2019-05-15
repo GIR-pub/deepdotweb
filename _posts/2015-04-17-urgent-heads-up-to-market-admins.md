@@ -16,7 +16,7 @@ Posted by: DeepDotWeb
     TheRealDeal Market</p></blockquote>
 <p>The listing of the exploit on TheRealDeal:</p>
 
-<img src="/imgs/2015/04/exploit.png" rel="lightbox"> 
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/04/exploit.png" rel="lightbox"> 
 
 
 

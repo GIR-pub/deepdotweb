@@ -12,16 +12,16 @@ Posted by: DeepDotWeb
 </span></span></p>
 
 
-<img src="/imgs/2015/03/seized.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/seized.png">
 
 
 
-<img src="/imgs/2015/03/impressum.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/impressum.jpg">
 
 <p>The site <a href="http://www.l-iz.de/leben/faelle-unfaelle/2015/03/leipziger-ermittler-nehmen-drogenversand-shiny-flakes-hoch-78227">l-iz.de</a> reports that the bust was followed by other raids in other locations. The seized sites used to offer drugs s<span class="notranslate">uch as cocaine, crystal, LSD, speed and marijuana. More details will be released in a press release by the German police on Thursday (tommorow) &#8211;  If you ask us, its ridiculous to believe that a single 20 years old was the sole owner of a drug operation who owns 320kg of &#8220;hard drugs&#8221;, but we will be following and updating once we learn some new details..</span></p>
 <p>The former site:</p>
 
-<img src="/imgs/2015/03/shiny.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/shiny.jpg">
 
 
 Updated: 2015-03-11

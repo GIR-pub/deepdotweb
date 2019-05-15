@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 <p><a href="#">Agora</a>, the current largest market is about to pause its operations in order to deal with major security concerns before coming back, this will be done in a similar manner to what we have seen only in the BlackMarketReloaded case where the admins have notified the users prior to shutting down and did not &#8220;exit scam&#8221;. The admins have posted a signed message on the market explaining the situation (agorahooawayyfoe.onion/info/pausingoperations):</p>
 
 
-<img src="/imgs/2015/08/agora.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/agora.png">
 
     
 --------BEGIN PGP SIGNED MESSAGE--------

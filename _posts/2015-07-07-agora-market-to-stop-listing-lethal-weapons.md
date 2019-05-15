@@ -30,7 +30,7 @@ Posted by: DeepDotWeb
     =u/KI<br />
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p></blockquote>
 
-<img src="/imgs/2015/07/Agoraweapon.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/Agoraweapon.png">
 
 
 Updated: 2015-07-07

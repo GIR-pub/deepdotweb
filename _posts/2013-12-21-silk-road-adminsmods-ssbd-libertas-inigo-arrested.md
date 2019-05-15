@@ -42,7 +42,10 @@ title: "Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo"
 <p>The second assumption on the forums  was that Ross actually handed the information to the FBI, this (unconfirmed, obviously) assumption became even more popular when a <a href="http://www.reuters.com/article/2013/12/20/us-silkroad-indictment-idUSBRE9BJ14H20131220" target="_blank">Reuters</a> article mentioned that Ulbricht&#8217;s lawyer, Joshua Dratel, has been discussing a possible plea deal with prosecutors.</p>
 <p>Another interesting point was the last post on the vendor roundtable that was posted by one of the mods / vendor, (to be deleted by him later) suggesting that SR2.0 itself or DPR2 is Compromised to some extent this is the post as it was quoted by a Tormarket Member before it was deleted:</p>
 <blockquote>
-<div style="width: 747px" class="wp-caption alignnone"><a href="/imgs/2013/12/vrt.jpg"><img alt="vrt" src="/imgs/2013/12/vrt.jpg" width="737" height="375"/></a><p class="wp-caption-text">Quote of the post that was made by Mod / Vendor</p></div>
+<div style="width: 747px" class="wp-caption alignnone">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/vrt.jpg" width="737" height="375" />
+
 <p>Guys I was arrested yesterday and out on bond now. But something is fucked! I know I&#8217;m risking more warning you guys and my attorney doesn&#8217;t even want me on the internet but you guys need to know this. <span style="color: #ff0000;"><strong>When I was in the interview room they showed me all sorts of shit that they should not know or have access to including conversations I&#8217;ve had with buyers and even DPR. I don&#8217;t fucking understand.. and when I was in there I was at a loss for words. Something is definitely wrong and they have the ability to see things on here only mods or admins should like btc transfers and a dispute I had</strong>.</span> WHAT THE FUCK?</p></blockquote>
 <p>Which one is the correct one?  we cannot know, but this is a very strong indication that its not just a SR1 fallout but a potential security breach on Silk Road 2.0.</p>
 <p>Later, <a href="http://www.forbes.com/sites/andygreenberg/2013/12/20/feds-indict-three-more-alleged-employees-of-the-silk-roads-dread-pirate-roberts/">the forbes article that was published earlier</a> regarding this matter By Andy Greenberg was updated, stating:</p>

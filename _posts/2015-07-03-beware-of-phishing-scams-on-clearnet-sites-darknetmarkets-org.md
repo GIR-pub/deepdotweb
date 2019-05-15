@@ -18,7 +18,7 @@ Posted by: DeepDotWeb
 <p><script src="https://www.redditstatic.com/comment-embed.js" async=""></script></p>
 <p><strong>Screenshot of the phishing links:</strong></p>
 
-<img src="/imgs/2015/07/Scam.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/Scam.png">
 
 <p>Clicking one of the shortlinks on that list:</p>
 GET /Agora HTTP/1.1

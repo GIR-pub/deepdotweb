@@ -96,7 +96,7 @@ The after that, use this server (for US, for other country&#8217;s just google i
 <p>If it were me I would just restart the computer (to see if Tor and Privoxy are both installed and starting during the other init.d daemons.) but you could just restart the services, but you&#8217;re through the process now. To make sure you are safe, check out “<a href="http://www.ipchicken.com/">http://www.ipchicken.com</a>” or “<a href="https://www.whatismyip.com/">https://www.whatismyip.com</a>” and make sure both your current IP Address is masked as well as you&#8217;re ISP&#8217;s DNS is hidden as well. This is an example of a properly configured box:</p>
 
     
-<img src="/imgs/2015/05/privtor.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/05/privtor.png">
 
 
 Updated: 2015-09-05

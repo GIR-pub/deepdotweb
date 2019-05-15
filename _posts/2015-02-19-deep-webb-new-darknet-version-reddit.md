@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <p>PLEASE DO NOT USE SAME PASSWORD AS REDDIT &amp; MARKET ACCOUNTS.</p></blockquote>
 <p>Not the first time that a reddit clone is being launched as an onion site, will keep following and see how this develops. Hopefully it will be kept clean.</p>
 
-<img src="/imgs/2015/02/deeep.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/deeep.png">
 
 
 Updated: 2015-02-19

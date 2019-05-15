@@ -16,15 +16,15 @@ Posted by: DeepDotWeb
 <blockquote><p>Are you excited?</p></blockquote>
 <p>Maybe LE will get excited? who knows.</p>
 
-<img src="/imgs/2015/07/open1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/open1.png">
 
 <p>The Site offers instructions on how to mine the coins safely through a Tor connection:</p>
 
-<img src="/imgs/2015/07/safe3.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/safe3.png">
 
 <p>With clear instruction of how to unlock the &#8220;content&#8221; using miners for various operating systems:</p>
 
-<img src="/imgs/2015/07/unlock1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/unlock1.png">
 
 <p>Lets just hope that this will fail like the previous one and that this method will be used to achieve better goals.</p>
 

@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 </ul>
 
 
-<img src="/imgs/2015/06/drained.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/drained.png">
 
 <p>For everyone who lost money &#8211; sorry for your loss.  The stolen amount was an unknown amount of over <strong>606BTC</strong> (The sum contained in the KNOWN related wallets listed above, we can assume that there was more in other wallets &#8211; not linked to Blackbank via walletexplorer)</p>
 <p><strong>On a more positive note</strong>, check the sidebar of this site &#8211; there are more than enough <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">alternative markets</a>.</p>

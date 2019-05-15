@@ -58,16 +58,16 @@ Posted by: DeepDotWeb
 <p>Hopefully, you have installed the proper tools, and have read over our basic tips. In order to buy from Abraxas Market, you will need an account. You can register at Abraxas using this link: <a href="http://abraxasdegupusel.onion/register/JIYi9utdux" target="_blank"><strong>http://abraxasdegupusel.onion/register/JIYi9utdux</strong></a></p>
 <p>Upon clicking the referral url, you should see this page:</p>
 
-<img src="/imgs/2015/09/reg1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/reg1.png">
 
 <p>It&#8217;s time to start filling out the required information. In the &#8216;Username&#8217; field, choose something which you haven&#8217;t used elsewhere in the past, but which is easy to memorize. This same thing goes for the password and PIN which protect your account and attached wallet from attacks. <a href="https://xkcd.com/936">XKCD has a great comic on creating secure, easy to remember passwords</a>. Creating a custom &#8216;Greeting,&#8217; only you will recognize, is purely preference, but it is good practice to make sure you are not being phished in the future. Once you have filled out all of the proper information, captcha included, and then clicked “Create new account,” keep your password and PIN in a safe place. You will be automatically signed into the market, upon this submission.</p>
 
-<img src="/imgs/2015/09/tochoose1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/tochoose1.png">
 
 <p><strong>Part 5 – Setting up your account</strong></p>
 <p>Now that your account has been successfully created, we&#8217;ll need to completely set it up. Click the button labeled &#8216;Profile,&#8217; in the top-left corner of the website.</p>
 
-<img src="/imgs/2015/09/profileset1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/profileset1.png">
 
 <p>Optimally, you will want to input your GPG public-key. However, there is no option to enable two-factor authentication at this time. Setting your GPG public-key will be solely for communications.</p>
 <p><strong>Part 6 – Choosing what to buy</strong></p>
@@ -75,7 +75,7 @@ Posted by: DeepDotWeb
 <p><strong>Searching</strong></p>
 <p>Searching on Abraxas Market is really straightforward, yet it does not offer an option to filter out the FE-enabled listings on the search-results page, save for ordering them last.</p>
 
-<img src="/imgs/2015/09/Abraxas_htm_201509071504021.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/Abraxas_htm_201509071504021.png">
 
 <p><strong>FE vs No-FE</strong></p>
 <p>FE (finalize-early) is a procedure by which the vendor can retrieve the funds from a sale without going through regular or even multisig escrow which is designed to ensure you receive your product. It is discouraged in the darkweb community abroad, due to the risks one takes with this. Should you have been scammed by a vendor through a FE-enabled listing, there is absolutely no doubt that your funds are irretrievable. You can&#8217;t filter out the FE-enabled results through the Web UI, but you can make them show up last.</p>
@@ -85,7 +85,7 @@ Posted by: DeepDotWeb
 <p><strong><br />
 </strong> 
 
-<img src="/imgs/2015/09/vendor1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/vendor1.png">
 
 <p>By clicking on the vendor&#8217;s name in any listing or any search result, you are brought to their profile page, as displayed in the above. Each vendor has his or her GPG public-key listed here, as well as their received feedback. Be wary though, a vendor who might have positive reviews doesn&#8217;t make them bulletproof.</p>
 <p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the forums (abraxasgacelesox.onion) (you will need to use your forum token in the &#8216;Profile&#8217; page which was explained earlier). this site&#8217;s <a href="#">Grams</a>, which are conveniently linked on each Abraxas vendor&#8217;s profile-page.</p>
@@ -93,37 +93,37 @@ Posted by: DeepDotWeb
 <p>Once you&#8217;ve discovered a good listing from a reputable vendor, and are ready to make an order, let&#8217;s go ahead and start!</p>
 <p><strong>Adding funds to your wallet</strong></p>
 
-<img src="/imgs/2015/09/unt1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/unt1.png">
 
 <p>At the very top of the website, you can see how much bitcoin you have in your balance. Unfortunately, however, the relative current exchange rate is not displayed. In order to buy anything, one must add funds to one&#8217;s own market wallet. Click on the link labeled “Wallet,” as seen in the image, at the top-right corner of the site.</p>
 
-<img src="/imgs/2015/09/wallet1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/wallet1.png">
 
 <p>You need to generate a new wallet address after each deposit. Since this is your first time, it does not need to yet be initially generated. Be sure to deposit a little more than you plan to spend initially, due to the Bitcoin price&#8217;s common fluctuation. Once you have deposited your bitcoin, it takes a few confirmations on the blockcchain to show up in your balance. Be patient, and if it takes unusually too long, contact the staff at this page (abraxasdegupusel.onion/system/Abraxas).</p>
 <p>The staff&#8217;s GPG Public-key is shown here:</p>
 
-<img src="/imgs/2015/09/InfoAbraxa_9740772_187151111.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/InfoAbraxa_9740772_187151111.png">
 
 <p><strong>Ordering</strong></p>
 <p>Now that you have finally deposited some funds, it is time to buy that item you&#8217;ve always wanted.</p>
 
-<img src="/imgs/2015/09/listing1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/listing1.png">
 
 <p>In the box labeled as “Amount,” fill out the quantity of said item you are ordering. After you&#8217;ve click “Buy,” you should enter your shipping address or other appropriate data in its place (encrypted). Ensure you have filled out everything correctly, and confirm your purchase.</p>
 
-<img src="/imgs/2015/09/after1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/after1.png">
 
 <p><strong>Statuses Explained</strong></p>
 <p>To check on the status of your order, click “Orders,” at the top left-hand corner of the site. It should bring you to this page:</p>
 
-<img src="/imgs/2015/09/Untitled20_4293427_187150731.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/Untitled20_4293427_187150731.png">
 
 <p>Once the vendor marks the order as having been shipped, the item entry will no longer display &#8216;Pending&#8217; status. You can still cancel your order after 3 days have passed since you have placed the order. Auto-finalize is still a long while away.</p>
 
-<img src="/imgs/2015/09/shipped1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/shipped1.png">
 
 
-<img src="/imgs/2015/09/final.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/final.png">
 
 <p>If your order is not delivered in the listing&#8217;s stated time, all circumstances considered, you can dispute the order while it is still inside of Escrow.</p>
 <p>If you need marketplace support at any time, contact the staff through this page: abraxasdegupusel.onion/system/Abraxas , as outlined earlier. Their GPG key is linked on that page (abraxasdegupusel.onion/abraxas-pgp). This is the primary way of getting assistance. Please note that no staff member will ever, at all, request your sensitive details of your account.</p>

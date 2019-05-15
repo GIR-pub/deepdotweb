@@ -8,20 +8,20 @@ Posted by: pesa_mic
 
 
 
-<img src="/imgs/2015/10/1.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/1.jpg">
 
 <p>This week, Bitcoin markets settled at a bottom, $ 235.11 and has been trending up since to current high (as of writing this) at $243. The most recent leg up was a $ 6 move up following consecutive green candles attempting to break past resistance at $ 240. This upper resistance level, was last reached on September 9th, after breaking past $241 up to $248, before declining back below. A solid bottom at $227 preceded another go at breaking and holding above $241, presently unfolding.</p>
 
-<img src="/imgs/2015/10/2.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/2.jpg">
 
 <p>The first attempt to break higher. labelled 4, was not strong enough to change 30 and 50 day trends, after a double top failure at 30 and 50 day EMA resistance. Highlighted in rectangle 5, is the current attempt that has breached the 30 and 50 day, holding so far. The next logical target is 100 EMA at $ 245.</p>
 <p>It will take some time before a breach of $245 and a strong probability of $255 thereafter. Some retracement might be in order, after resistance at 100 EMA line, to find support lower at 50 day EMA or a convergence of both. This will be a base for a second go at breaking 100 day EMA. Alternatively, if the market has real intent, it may well break 100 EMA and continue up to $255.</p>
 
-<img src="/imgs/2015/10/3.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/3.jpg">
 
 <p>In my view, we are in a correction, similar to August (labelled 2,4) &#8211; only difference is 6,5,7,8 &#8211; a correction &#8211; will take a different form and last longer. 7,8 shows how high the short term bull trend may go up, but despite any higher highs, the general trend is a bear down. It is only a matter of time before limited upside succumbs to the general bear trend.</p>
 
-<img src="/imgs/2015/10/4.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/4.jpg">
 
 <p>Extrapolating fibonacci levels from extremes &#8211; peak to peak, $ 316 high and $196 low &#8211; the significance of $241 as an upper resistance is emphasized. Since August 18, price has been trending within a range bound by 23% lower fibonacci and an upper 38% fib line. It almost resembles a larger trend we have been in since January, oscillating between $ 200 and $ 300 on the weekly chart. Notably, volumes thin out, a characteristics of corrections (2,4). We are in for more of this correction.</p>
 <p>How the market reacts to this resistance at $241 will confirm prices breaking up 4, followed down by 5. Alternatively, if resistance proves strong, 6 down to 23% fibonacci.</p>

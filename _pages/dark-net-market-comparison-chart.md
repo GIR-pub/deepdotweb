@@ -331,10 +331,16 @@ http://cgmcoopwhempo6a5.onion/
 <p style="text-align: center;">Invite Only</p>
 </td>
 <td class="    chart-col-27">
-<p style="text-align: center;"><a href="/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/yes.png" />
+
 </td>
 <td class="    chart-col-28">
-<div align="center"><a href="/wp-content/uploads/2014/11/no-warning.png"><img align="none" alt="" height="22" src="/imgs/2014/11/no-warning.png" width="22" /></a></div>
+<div align="center">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/no-warning.png" width="22" />
+
 </td>
 <td class="    chart-col-29">
 <p style="text-align: center;">None</p>
@@ -346,10 +352,16 @@ http://cgmcoopwhempo6a5.onion/
 <p style="text-align: center;">None</p>
 </td>
 <td class="    chart-col-32">
-<p style="text-align: center;"><a href="/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/yes.png" />
+
 </td>
 <td class="    chart-col-33">
-<p style="text-align: center;"><a href="/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
+<p style="text-align: center;">
+
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/yes.png" />
+
 </td>
 <td class="    chart-col-34">
 <p style="text-align: center;">No</p>
@@ -478,7 +490,8 @@ http://cannazonceujdye3.onion
 </tr>
 </tbody>
 </table>
-<img src="/chart/show/2" width="1" height="1" />
+<img src="https://info-gir.github.io/deepdotweb/chart/show/2" width="1" height="1" />
+
 <script>try{wpCookies.set( 'b83ce7cb9612e869d7da403e2551a77fe0b651b3', '2', 0, '/' );} catch (e) {}</script>
 
 Updated: 2015-10-29

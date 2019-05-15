@@ -52,16 +52,16 @@ Posted by: DeepDotWeb
 <p>By now, it is hopeful that you&#8217;ve setup the digital tools of the trade, and&#8217;ve read through our elementary security tips. To purchase from a vendor on Dream Market, you must have an account. In order to register at Dream Market, use this link: <a href="http://lchudifyeqm4ldjj.onion/?ai=1675" target="_blank" rel="noopener"><strong>http://lchudifyeqm4ldjj.onion/?ai=1675</strong></a></p>
 <p>After you have clicked that referral, you&#8217;ll be landed onto the page in the image underneath:</p>
 
-<img src="/imgs/2015/09/dream_signup1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/dream_signup1.png">
 
 <p>It&#8217;s time to start filling out the required info in the registration form &#8211; note that the captcha is case sensitive. In the &#8216;Username&#8217; field, opt for anything you haven&#8217;t used elsewhere. This is an equally applicable theory to your password and PIN, designed to protect your account as well as its bitcoin wallet from bad guys. Once you&#8217;ve input all of the required info, then submitted, write your password and PIN down in an extraordinarily safe location. Now you can visit the marketplace.</p>
 
-<img src="/imgs/2015/09/homepage1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/homepage1.png">
 
 <p><strong>Part 5 – Setting up your account</strong></p>
 <p>Now that your account has been successfully registered, you should completely set the GPG key up. Click the button labeled your registered username, at the top-right reach of the site.</p>
 
-<img src="/imgs/2015/09/profile1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/profile1.png">
 
 <p>Optimally, you will want to input your GPG public-key. This will be for communicating.</p>
 <p><strong>Part 6 – Choosing what to buy</strong></p>
@@ -69,7 +69,7 @@ Posted by: DeepDotWeb
 <p><strong>Searching</strong></p>
 <p>Searching on Dream Market is really straightforward, and it offers the ability to, quite similar to other markets, filter out FE-enabled listings and narrow down the specified category, etc.</p>
 
-<img src="/imgs/2015/09/search3.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/search3.png">
 
 <p><strong>FE vs No-FE</strong></p>
 <p>FE (finalize-early) is a procedure by which the vendor can retrieve the payment from any sale without waiting for the escrow, which is designed to make sure you do receive your product, to release funds. It&#8217;s quite discouraged in this industry, due to the obvious risks involved. Will you encounter a scam on an FE listing, your funds are undoubtedly not recoverable</p>
@@ -77,7 +77,7 @@ Posted by: DeepDotWeb
 <p>Depending on how much risk you are willing to undergo, and how long you are willing to wait to truly receive your shipped order, you can choose a specific “Shipping From” location during the search process. Ordering from “hot” nations, for instance, such as Pakistan, the Netherlands, and even Columbia are much riskier due to known trade practices in those places.</p>
 <p><strong>Judging the Vendor</strong></p>
 
-<img src="/imgs/2015/09/vendor3.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/vendor3.png">
 
 <p>By clicking on the vendor&#8217;s name in any listing or while hovering above any search result, you will be brought directly to that vendor&#8217;s profile, as displayed above. Each vendor has his or her GPG key listed as well as the feedback they have received thus far. Just remember, a vendor having mostly positive reviews doesn&#8217;t make them bulletproof.</p>
 <p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the <a href="http://tmskhzavkycdupbr.onion/">marketplace boards</a>. this site&#8217;s <a href="#">Grams</a>.</p>
@@ -85,30 +85,30 @@ Posted by: DeepDotWeb
 <p>After you have finally discovered a nicely-looking listing from a vendor of reputation, and are finally ready to start ordering, let&#8217;s cover that right now!</p>
 <p><strong>Adding funds to your wallet</strong></p>
 
-<img src="/imgs/2015/09/zero1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/zero1.png">
 
 <p>At the very top of the website, you can see how much bitcoin you have in your balance. The current exchange rates of bitcoin to several fiat currencies are on the side of the website. In order to buy anything, you must of course deposit bticoins into your on-site wallet. Click on the link labeled “Account,” with your zeroed-balance next to it, as seen in the image, at the top-right area of the website.</p>
 
-<img src="/imgs/2015/09/wallet11.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/wallet11.png">
 
 <p>Be sure to deposit a little more than you plan to spend initially, due to the Bitcoin price&#8217;s common fluctuation. Once you have deposited your bitcoin, it takes a few confirmations on the blockcchain to show up in your balance. Be patient, and if it takes unusually too long, contact the staff at this <a href="http://lchudifyeqm4ldjj.onion/support">page</a>, as seen below:</p>
 
-<img src="/imgs/2015/09/supportcontact1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/supportcontact1.png">
 
 <p><strong>Ordering</strong></p>
 <p>Now that you&#8217;ve finally deposited some funds, it is time to buy that item you truly want.</p>
 
-<img src="/imgs/2015/09/listing3.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/listing3.png">
 
 <p>In the box labeled as “Amount,” fill out the quantity of said item you are ordering. After you&#8217;ve click “Buy,” you should enter your shipping address or other appropriate data in its place (encrypted). Ensure you have filled out everything correctly, and confirm your purchase.</p>
 
-<img src="/imgs/2015/09/confirm1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/confirm1.png">
 
 <p><strong>Statuses Explained</strong></p>
 <p>To check on the status of your order, click the shopping-cart clip-art at the right-hand side of the site.</p>
 <p>Once the vendor marks the order as having been shipped, the item needs to be finalized from this screen:</p>
 
-<img src="/imgs/2015/09/nowfinalize1.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/09/nowfinalize1.png">
 
 <p>If your order is not delivered in the appropriate time as mentioned in the listing, circumstances considered, you may dispute the order while it is still inside of Escrow.</p>
 <p>If you need marketplace support at any time, contact the staff through this <a href="http://lchudifyeqm4ldjj.onion/support">page</a>, as outlined earlier. This is the primary way of getting assistance. Please note that no staff member will ever, at all, request your sensitive details of your account.</p>

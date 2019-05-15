@@ -26,7 +26,7 @@ Posted by: DeepDotWeb
 </ul>
 <p>Some users would claim that this OS is not something you can use on a daily basis. To some extend that might be true. OS developers do not advise to use it every day, however stating that you have to start a new session for every task in order to have the best security.</p>
 
-<img src="/imgs/2015/07/1-tails.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/1-tails.png">
 
 <p><strong>Use VPN+TOR in Tails OS</strong></p>
 <p>Using VPN+TOR does not differ from using a stand alone VPN in any Linux-based system. We recommend utilizing OpenVPN protocol. Once OpenVPN daemon is installed, launch it to activate VPN connection. After that you can run Iceweasel and use Tor as if you were using just that. One major downside to this method is that both Tor and VPN go through the same channel, which might decrease your connection speed. You also do not isolate your VPN connection from Tor, which provides lower security level and gives additional loophole that can be used by an attacker.</p>
@@ -38,7 +38,7 @@ Posted by: DeepDotWeb
 </ul>
 <p>Tor gateway VM uses host OS&#8217;s network hardware and connect directly to Internet via NAT. Once connection is established it starts to force all traffic through Tor nodes and that&#8217;s what this is really all about. The Workstation VM is connected to Tor gateway VM and that&#8217;s the only way it gets Internet connectivity. So now we can route all our Internet traffic through Tor without Tor browser. The only downside to this is that you need to get a relatively powerful computer to actually make this work as you will be running 3 OS&#8217;s (1 host and 2 VM&#8217;s) at the same time.</p>
 
-<img src="/imgs/2015/07/2-whonix.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/2-whonix.jpg">
 
 <p><strong>VPN+TOR in Whonix</strong></p>
 <p>Unfortunately, we were not able to set up a reliable VPN+TOR connection on Whonix OS. The reason for that is Tor gateway VM that routes 100% of system traffic through Tor nodes. OS architecture does not provide the functionality to utilize both Tor and VPN at the same time. Activating VPN on a Workstation VM will most likely kill Internet connection. Whonix is still a great solution for Tor enthusiasts.</p>
@@ -46,7 +46,7 @@ Posted by: DeepDotWeb
 <p>There is a way to get a VPN to work with TOR without specific browsers, VM&#8217;s and OS&#8217;s. Great example is <a href="https://privatoria.net/vpn-tor/">Privatoria&#8217;s VPN plus TOR</a>. The way it works is simple that makes it a must-try.</p>
 <p>The request is sent from the user machine to the VPN server via secure encrypted channel. The VPN server routes that traffic through Tor net using random Tor nodes to provide optimal security.</p>
 
-<img src="/imgs/2015/07/3-vpn.jpg">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/3-vpn.jpg">
 
 <p>This scheme has a lot to offer, most notably:</p>
 <ul>
@@ -62,42 +62,42 @@ sudo apt-get install openvpn</textarea></div>
 <p>
 
 
-<img src="/imgs/2015/07/42.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/42.png">
 
 wget “https://my.privatoria.net/public/uploads/pr-openvpn.conf”</textarea></div>
 
 <p>
 
 
-<img src="/imgs/2015/07/51.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/51.png">
 
 sudo cp openvpn.conf /etc/openvpn/</textarea></div>
 
 <p>
 
 
-<img src="/imgs/2015/07/61.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/61.png">
 
 sudo nano /etc/openvpn/pr-openvpn.conf</textarea></div>
 
 <p>
 
 
-<img src="/imgs/2015/07/7.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/7.png">
 
 replace “privatoria.net” with “gateway-tornet.privatoria.net” , hit Ctrl+O and Ctrl+X</textarea></div>
 
 <p>
 
 
-<img src="/imgs/2015/07/8.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/8.png">
 
 sudo service openvpn restart</textarea></div>
 
 <p>
 
 
-<img src="/imgs/2015/07/9.png">
+<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/9.png">
 
 <p>Overall VPN+TOR is only getting it popularity. It is still a young technology, which means there is a room for improvement. This solution, however has more to offer that its components used alone. Therefore we do recommend that you give it a try a let us know about your experience.</p>
 
