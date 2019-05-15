@@ -5,4 +5,5 @@ layout: posts
 author_profile: false
 sidebar:
   nav: "blognav"
+classes: wide
 ---
