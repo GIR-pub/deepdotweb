@@ -3,7 +3,7 @@ layout: single
 title: "Deep Dot Web -UNOFFICIAL-Blog Archive - and Privacy Guide"
 description: "The world needs user-friendly access to the educational materials that were previously available on deepdotweb.com."
 header:
-  image: "deepdotweb-seized.png"
+  image: "/free_ross.jpg"
 toc: true
 sidebar:
   nav: "jolly"
@@ -25,7 +25,7 @@ However, its clear that governments use the drug war to suppress their populous 
 
 I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
 
-![](/free_ross.jpg)
+![](/deepdotweb-seized.png)
 
 
 ## Why Did I Build This Archive?
