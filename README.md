@@ -1,14 +1,16 @@
-# Deep Dot Web Blog Archive - and Privacy Guide
+# Deep Dot Web -UNOFFICIAL- Blog Archive and Privacy Guides
 
   > "The world needs user-friendly access to the educational materials that were previously available on deepdotweb.com."
 
-![](deepdotweb-seized.png)
+
+![](/free_ross.jpg)
 
 
 **Archive: Privacy Guides, and History from DeepDotWeb.**
 
 
-I was broken-hearted to recently find out that deepdotweb got seized.
+
+I was broken-hearted when I found out that deepdotweb got seized.
 
 The world should have user-friendly access to the educational materials that were previously available on deepdotweb.com.
 
@@ -18,8 +20,8 @@ However, its clear that governments use the drug war to suppress their populous 
 
 I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
 
+![](/deepdotweb-seized.png)
 
-![](/free_ross.jpg)
 
 ## Why Did I Build This Archive?
 
@@ -62,10 +64,20 @@ I used VSCode which has a really nice search and replace funtion that works with
 
 I also learned to use RegEx to put wildcards in my search query to make it even more powerful, and speed up the process.
 
-https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2019
+* [Using Regular Expression in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio)
 
 
 I also removed the market directory and forum. For space, and really it's not my interest to connect people with darknet markets. I firmly believe, however, that anyone who desires should have free access to information on how to protect your privacy online, and the history available in the blog-feed.
+
+* [Rename Files with Path Name](https://unix.stackexchange.com/questions/137419/renaming-files-with-its-path-name)
+
+There was also the matter of restructuring the format of the post title\directories to match that of Jekyll.
+
+Currently this site is being published with the [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+Mostly because it's the one I'm most familiar with at the moment. 
+
+However, once everything it set up, changing themes can be relatively trival.
 
 ## Internet Archive Asked to take down "Terrorist Content"
 

@@ -75,6 +75,16 @@ I also learned to use RegEx to put wildcards in my search query to make it even 
 
 I also removed the market directory and forum. For space, and really it's not my interest to connect people with darknet markets. I firmly believe, however, that anyone who desires should have free access to information on how to protect your privacy online, and the history available in the blog-feed.
 
+* [Rename Files with Path Name](https://unix.stackexchange.com/questions/137419/renaming-files-with-its-path-name)
+
+There was also the matter of restructuring the format of the post title\directories to match that of Jekyll.
+
+Currently this site is being published with the [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+Mostly because it's the one I'm most familiar with at the moment. 
+
+However, once everything it set up, changing themes can be relatively trival.
+
 ## Internet Archive Asked to take down "Terrorist Content"
 
 * [Archive.org hit with hundreds of false terrorist content notices from EU](https://www.google.com/amp/s/www.theverge.com/platform/amp/2019/4/11/18305968/eu-internet-terrorist-content-takedown-mistakes-internet-archive-org)
