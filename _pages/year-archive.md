@@ -4,5 +4,8 @@ permalink: /year-archive/
 layout: posts
 author_profile: false
 sidebar:
-  nav: "sidenav"
+  nav: 
+    - "blog2013"
+    - "blog2014"
+    - "blog2015"
 ---
