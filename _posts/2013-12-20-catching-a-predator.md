@@ -2,7 +2,7 @@
 title: "Catching a Predator"
 ---
 
-<iframe width="660" height="371" src="http://www.youtube.com/embed/7iqG7IhWTWU?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
+{% include video id="7iqG7IhWTWU" provider="youtube" %}
 
 <span>Posted by: <a href="/author/chrisk/" title="">Chris K. </a></span>
 <span>December 20, 2013</span>

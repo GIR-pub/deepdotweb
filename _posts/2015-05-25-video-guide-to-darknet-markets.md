@@ -2,7 +2,7 @@
 title: "Video Guide to DarkNet Markets"
 ---
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/nBS788BinNY?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
+{% include video id="nBS788BinNY" provider="youtube" %}
 
 Posted by: DeepDotWeb 
 

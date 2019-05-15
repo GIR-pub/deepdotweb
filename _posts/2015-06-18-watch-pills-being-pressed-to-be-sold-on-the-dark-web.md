@@ -3,7 +3,7 @@ title: "Watch: Pills Being Pressed To Be Sold On The Dark Web"
 ---
 
 
-<iframe width="507" height="380" src="https://www.youtube.com/embed/LcuZ5KQd0vU?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
+{% include video id="LcuZ5KQd0vU" provider="youtube" %}
 
 Posted by: DeepDotWeb 
 

@@ -3,7 +3,7 @@ title: "Airbitz &#038; Dark Wallet Win Bitcoin Hackathon with DarkMarket!"
 ---
 
 
-<iframe width="660" height="371" src="http://www.youtube.com/embed/lHVqH8XO1Pk?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
+{% include video id="lHVqH8XO1Pk" provider="youtube" %}
 Posted by: DeepDotWeb
 
 <span>April 22, 2014</span>

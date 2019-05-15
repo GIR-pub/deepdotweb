@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>September 17, 2014</span>
 
-<iframe width="660" height="371" src="http://www.youtube.com/embed/nWFemmRkRzw?feature=oembed" frameborder="0" allowfullscreen></iframe> 
+{% include video id="nWFemmRkRzw" provider="youtube" %}
 
 
 <p class="accordion-header active-header">A new service was <a href="https://bitcointalk.org/index.php?topic=784520.0">launched</a> by <a href="http://rogerver.com/">Roger Ver</a>  (<span class="st"><span dir="ltr">Bitcoin Angel Investor</span></span>) Called &#8220;Bitcoin Bounty Hunter&#8221;:</p>

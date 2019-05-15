@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>March 12, 2015</span>
 
 <p><strong>Update on the Shiny Flakes bust that we <a href="/2015/03/11/vendor-bust-shiny-flakes-unknown-dutch-vendor/">reported about yesterday</a></strong> &#8211; The <a href="http://www.finanznachrichten.de/nachrichten-2015-03/33080189-shiny-flakes-38-hausdurchsuchungen-nach-drogenfund-in-leipzig-003.htm">finanznachrichten.de</a> reports that following the arrest another 38 search warrants were executed in many locations across Germany <span class="notranslate">including Berlin, North Rhine-Westphalia, Bavaria and Mecklenburg-Vorpommern according to Leipzig police chief Bernd Merbitz who stated the above at a press conference showing the seized drugs:</span></p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/HIFXkswJcuY" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>{% include video id="HIFXkswJcuY" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
 
 <img src="/imgs/2015/03/1.jpg">
 

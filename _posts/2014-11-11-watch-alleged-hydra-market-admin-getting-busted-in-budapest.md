@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 <p>According to a report by <a href="http://index.hu/tech/2014/11/11/magyar_uzemeltette_a_sotet_web_egyik_drogpiacat/">index.hu</a> citing a statement from the Hungarian police,  a 26 year old man who is the <strong>alleged</strong> operator of Hydra marketplace who got seized during <a href="tag/silkroad2bust/">operation Onymous</a> &#8211; was arrested by TEK [local Hungarian SWAT], interrogated and later released (The released part is somewhat unclear yet) in Budapest, Hungary.</p>
 <p>The police claims, that he was the admin of Hydra marketplace, since march 2014 and that he collected 5% commission from the site sales. This is the video of the bust itself::</p>
-<p><iframe src="//www.youtube.com/embed/WHfEFbXoXZU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>{% include video id="WHfEFbXoXZU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
 <p>Special thanks to <a href="https://twitter.com/lazavagyok">Laza Balint</a>, the journalist who wrote the article for index.hu for translating the key points for us &amp; to Reddit user <a href="http://www.reddit.com/u/5730546a" target="_blank">5730546a</a> for giving us a TL;DR of the article.</p>
 <blockquote class="twitter-tweet" width="550">
 <p><a href="https://twitter.com/DeepDotWeb">@DeepDotWeb</a> he was arrested, Interrogated, after that relased. But he is the suspect.</p>

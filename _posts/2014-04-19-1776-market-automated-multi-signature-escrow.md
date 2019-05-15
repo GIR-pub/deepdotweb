@@ -13,7 +13,7 @@ Posted by: DeepDotWeb
 <strong>1776 Marketplace url: <span style="color: #ff0000;">http://n6tzonxy7sod7eqt.onion/Register?refid=AGGEHU</span></strong>
 </div></div>
 <p><span style="text-decoration: underline;"><strong>Video Tutorial:</strong></span></p>
-<p><iframe src="//www.youtube.com/embed/uzUFJZe0TkE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>{% include video id="uzUFJZe0TkE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>" provider="youtube" %}
 <p><span style="text-decoration: underline;"><strong>What is 1776?</strong> </span></p>
 <p>1776 is the answer to the Darknet Markets&#8217; most difficult business problem: theft and fraud.</p>
 <p>Many multisig escrow sites have popped up attempting to address this problem. Some require the buyer to get involved in the escrow process. All involve large amounts of fiddly, complicated work for the vendor.<br />

@@ -2,7 +2,7 @@
 title: "How The Silk Road Case Affects Us All"
 ---
 
-<iframe width="660" height="371" src="http://www.youtube.com/embed/osg2LqSxEeI?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
+{% include video id="osg2LqSxEeI" provider="youtube" %}
 Posted by: DeepDotWeb
 
 <span>July 8, 2014</span>

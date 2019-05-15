@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>May 13, 2014</span>
 
-<iframe width="660" height="371" src="http://www.youtube.com/embed/Xvg-IN6-cqQ?feature=oembed" frameborder="0" allowfullscreen></iframe> </div>
+{% include video id="Xvg-IN6-cqQ" provider="youtube" %}
 
 <p>U.S. POSTAL SERVICE to Consider using BITCOIN Could BITCOIN Save the Post Office?</p>
 
