@@ -293,6 +293,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc: true
       sidebar:
         - title: "Blog Archive"
           nav: "blognav"

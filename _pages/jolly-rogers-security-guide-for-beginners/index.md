@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Jolly Roger&#039;s Security Guide for Beginners - Deep Dot Web"
 permalink: "/jolly-rogers-security-guide-for-beginners/"
 sidebar:

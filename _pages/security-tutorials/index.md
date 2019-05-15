@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Security Tutorials"
 permalink: "/security-tutorials/"
 sidebar:
