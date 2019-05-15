@@ -9,7 +9,8 @@ Posted by: DeepDotWeb
 
 <p>The Sad (yet, funny) story of the latest 2 marketplaces who went down as described by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern </a>on Reddit, present a prime addition to the marketplaces wall of shame and a perfect example for the incompetence of some of the new bread of  marketplace developers that have nothing in front of them but pure greed, we just pasted the original reddit posts with the screenshots as their tombstones:</p>
 <p style="text-align: center;"><em>Only two things are infinite, the universe and human stupidity, and I&#8217;m not sure about the former  -Albert Einstein</em></p>
-<p><a href="/imgs/2014/02/goblin.png"/>
+<img src="/imgs/2014/02/goblin.png" />
+
 <p><span style="text-decoration: underline;"><strong><a tabindex="1" href="http://www.reddit.com/r/DarkNetMarkets/comments/1xeeni/black_goblin_obituary/">Black Goblin obituary</a></strong></span></p>
 <div>
 <div>
@@ -62,7 +63,8 @@ Posted by: DeepDotWeb
 <p>I mentioned it to some other people, they did some <code>nmap</code> probing and a simple correlation attack by DoSing the IP to see if the hidden service goes down simultaneously, and that was that. Black Goblin was toast.</p>
 <p>The self-signed HTTPS nonsense and all the well-meaning security advice and elaborate precautions aside, the site never stood a chance. Really, all these new black-markets are so incredibly bad &#8211; I&#8217;m not a web dev, much less a pen tester, and <em>I</em> managed to de-anonymize a market? (And there&#8217;s more in the offing&#8230;)</p>
 <p>RIP Black Goblin Market (3-4 February 2014).</p>
-<p><a href="/imgs/2014/02/cannabisroad.png"/>
+<img src="/imgs/2014/02/cannabisroad.png" />
+
 <p><span style="text-decoration: underline;"><strong><a tabindex="1" href="http://www.reddit.com/r/DarkNetMarkets/comments/1xe943/cannabisroad_obituary/">CannabisRoad obituary</a></strong></span></p>
 <div>
 <div>

@@ -19,7 +19,8 @@ Posted by: DeepDotWeb
 <p>This is still nothing like the layout you will be used to, and it is by no means perfect.  I debated whether or not to release this URL or wait until I was able to &#8216;beautify&#8217; the site a bit more, but decided that since the functionality is there it may as well be used.  Look for some graphical enhancements to the front page, as well as other new features and updates to come.</p>
 <p>I hope you all find it useful, a lot of hard work has gone into it.</p>
 <p><strong>http://hubsrf3plqrbuf4i.onion/</strong></p></blockquote>
-<p><a href="/imgs/2014/09/Srforumbackup.png"/>
+<img src="/imgs/2014/09/Srforumbackup.png" />
+
 
 Updated: 2014-09-04
     

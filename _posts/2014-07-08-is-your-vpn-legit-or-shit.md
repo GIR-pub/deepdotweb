@@ -27,7 +27,8 @@ Posted by: iBurnEZ </a></span>
 <p>An honorable mention must go out to VPN provider MULLVAD who do not even require an email address. Visitors to the website click “create account” and they are given an account number without entering any information at all.</p>
 <p><strong>VPN Providers to Avoid</strong></p>
 <p>If you intend to use a VPN to hide your p2p activity on the web or go to the other side of the great virtual divide we recommend that you steer clear of these VPN providers. We want to be fair, VPNs who make this list are not “bad” VPN providers but they do participate in logging activities that put their users at risk. These VPNs do not provide true privacy on the web.</p>
-<p><a href="/imgs/2014/06/badvpn.png"/>
+<img src="/imgs/2014/06/badvpn.png" />
+
 <p><strong>Privacy Focused VPN Providers</strong></p>
 <p>The following is a list of ten VPN providers who openly state that they do not log any information that may be used to identify anyone using their VPN service. To be considered as a privacy focused VPN provider the service must have the following qualifications:</p>
 <ol>

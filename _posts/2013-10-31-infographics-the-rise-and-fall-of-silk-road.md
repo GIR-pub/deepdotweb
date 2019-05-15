@@ -10,7 +10,8 @@ title: "Infographics: The Rise And Fall of Silk Road"
 
 <p>Created by the site <a href="http://drugabuse.com/">Drugabuse.com</a> an infographics describing the full timeline of the rise and fall of Silk road</p>
 
-<p><a href="/imgs/2013/10/silkroadinfographics.jpg"/>
+<img src="/imgs/2013/10/silkroadinfographics.jpg" />
+
 
 
 Updated: 2013-10-31

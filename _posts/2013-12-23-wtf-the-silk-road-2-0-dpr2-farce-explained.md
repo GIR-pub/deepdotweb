@@ -41,11 +41,16 @@ title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 <p style="text-align: left;">At this point, we think that the situation is clear and that every person should make their own decision whether this is a healthy situation or not, <strong>we will NOT be following up on this too much</strong>, unless there will be some major event popping up. the safety concerns are out there (both for your BTC and personal security). Everyone keep safe.</p>
 <p style="text-align: left;">See Oracle&#8217;s previous posts that were in the deleted thread, if you really want to.</p>
 <p style="text-align: left;"><a href="/imgs/2013/12/oracle3.png"/>
-<p><a href="/imgs/2013/12/oracle4.png"/>
-<p><a href="/imgs/2013/12/oracle5.png"/>
-<p><a href="/imgs/2013/12/oracle6.png"/>
-<p><a href="/imgs/2013/12/oracle7.png"/>
-<p><a href="/imgs/2013/12/oracle8.png"/>
+<img src="/imgs/2013/12/oracle4.png" />
+
+<img src="/imgs/2013/12/oracle5.png" />
+
+<img src="/imgs/2013/12/oracle6.png" />
+
+<img src="/imgs/2013/12/oracle7.png" />
+
+<img src="/imgs/2013/12/oracle8.png" />
+
 
 
 Updated: 2013-12-23

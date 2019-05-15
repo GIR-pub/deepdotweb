@@ -46,9 +46,11 @@ title: "A Dread Pirate Christmas"
     cents for our brothers and sisters abroad in their hour of need.</p>
 <p>Dread Pirate Roberts&#8221;</p></blockquote>
 <p>You Can Send Bitcoins to Help the Philippines <a href="https://bitme.com/donate" target="_blank">Here</a></p>
-<p><a href="/imgs/2013/12/1EvQV.jpg"/>
+<img src="/imgs/2013/12/1EvQV.jpg" />
+
 <p>For those interested in the success of this initiative, Mr. Roberts announced the following in his Dec. 6th press release:</p>
-<p><a href="/imgs/2013/12/statedpr.png"/>
+<img src="/imgs/2013/12/statedpr.png" />
+
 <p>So, Dread Pirate Roberts and crew just donated approximately $6,500 to the <a href="http://www.redcross.org.ph/" target="_blank">Philippine Red Cross</a>. Not bad for an internet pirate and a group of miscreants, eh?</p>
 <p>Of course, a leader as passionate and generous as the Dread Pirate Roberts couldn’t possibly be content with simply rescuing a handful of weather-beaten Filipino Christmas Orphans. In fact, in the spirit of Christmas (and more in-line with the topic of this article), he then went on to announce to his awe-struck community, that while Santa Claus was busy frantically ordering stimulants from his website in the run-up to the hardest night of his year (my words, not his), he would be adding his own glint of magic to the air with his (free to enter) $8,500 lottery – dubbed “The Silk Road Christmas Giveaway” (though, he did later that day dash spirits a little by announcing the temporary closure of Silk Road for the festive period – but we can forgive that in light of the $8,500 prize pot).</p>
 <p>Quote from Dread Pirate Roberts:</p>

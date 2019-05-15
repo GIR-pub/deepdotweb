@@ -64,7 +64,8 @@ Posted by: DeepDotWeb
 <p>Today I did a quick dissolve of 14g &#8220;K&#8221; in 100ml anhydrous isopropyl alcohol &#8211; covered, 2 hours at room temperature in a stirrer on light agitation. I filtered the solution though medium-flow filter paper under anhydrous conditions using gravity as a drip force (no vacuum or suction). I evaporated the resulting clear liquid in a Teflon pan at just below simmering point of the isopropyl (i.e. around 75 degrees Celsius) until almost gone, then removed from heat, let the remainder airdry for 1 hour, then dessicated in a 60 degree oven for 15 minutes. This is way too fast to result in huge crystals but will result in some crystallization, which I was curious to observe.</p>
 <p>The result: a mere 0.6g of little rod-like crystals, which are somewhat like ketamine in appearance but not really. Here are pictures I&#8217;ve uploaded to pix.ru &#8211; please feel free to visit them via Tor; it&#8217;s quite safe:</p>
 <p>&nbsp;</p>
-<p><a href="/imgs/2014/02/asasa.jpg"/>
+<img src="/imgs/2014/02/asasa.jpg" />
+
 <a href="/imgs/2014/02/333.jpg"/>
 <p>I think this is pretty conclusive re: this not being ketamine at all.</p>
 <p>As for what this product is; I am still working on it. I suspect MSG (monosodium glutamate) is present, from the rod-like crystals and that familar, kind-of-salty chinese smell. However there&#8217;s definitely some other things in there too &#8211; including at least one cut that is faintly psychoactive. I am inclined to agree with the assessment of one of the vendors that contacted me: the psychoactive is either a badly-fucked K process resulting in a new compounds, or it&#8217;s the drug 4-MEC. That&#8217;s a very unusual additive but it could definitely happen&#8230; especially if some lab got saddled with a bunch of it and decided to run a scam.</p>

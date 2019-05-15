@@ -33,7 +33,8 @@ Posted by: DeepDotWeb
 <p>Mr420<br/>
     Tips/Donations  1BSW4QD7gjfdSqh8tLJTHGkxaHbZcRfPDH</p>
 <p>Please feel free to contact me about any and all questions.</p></blockquote>
-<p><a href="/imgs/2014/05/marketing.png"/>
+<img src="/imgs/2014/05/marketing.png" />
+
     Obviously we cant tell if this is real or serious at all, but still its another fine example for the growing availability of marketing services in the Dark Net Markets scene, this is without a doubt an interesting insight about how &#8220;mainstream&#8221; and widespread its becoming slowely, we will of course keep following curiously, to see how this develops over time. If you have any interesting insights about this, feel free to share them with us.</p>
 
 Updated: 2014-05-14

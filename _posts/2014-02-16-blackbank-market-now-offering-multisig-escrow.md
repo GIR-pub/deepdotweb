@@ -12,7 +12,8 @@ Posted by: DeepDotWeb
 <p>You can discuss this new feature at their reddit thread here: www.reddit.com/r/DarkNetMarkets/comments/1y1twm/blackbank_market_small_updates_multisig_escrow/</p>
 <h2>Introduction</h2>
 <p>After researching several methods and implementations of Multi-Sig Escrow, there has been a compromise in terms of ease of use and security. In order to provide the best experience, Multi-Sig security applies only to Escrow, as this is the only time funds would be inaccessible. In every other case, BlackBank should not be used to store funds in the system.</p>
-<p><a href="/imgs/2014/02/1.jpg"/>
+<img src="/imgs/2014/02/1.jpg" />
+
 <ol>
 <li>Buyer deposits BTC into BlackBank and after 6 confirmations can make purchases.</li>
 <li>If the item has escrow, the Buyer enters a <b>public key</b>. At this point, the funds are not locked yet and can be cancelled and withdrawn at anytime.</li>
@@ -32,23 +33,28 @@ Posted by: DeepDotWeb
 <ul>
 <li><a href="http://brainwallet.org/" rel="nofollow">brainwallet.org</a></li>
 </ul>
-<p><a href="/imgs/2014/02/2.jpg"/>
+<img src="/imgs/2014/02/2.jpg" />
+
 <h2>Buyer&#8217;s Guide</h2>
 <h3>Making a Multi-Sig Escrow Purchase</h3>
 <h4>Purchasing an Item</h4>
 <p>After you have your public and private key pair, you will use your public key to make a purchase. Store your private key someplace safe; keep it with your public key for cross-reference. After selecting the options, enter your <b>public key</b> and <b>refund address</b> to purchase:</p>
-<p><a href="/imgs/2014/02/3.jpg"/>
+<img src="/imgs/2014/02/3.jpg" />
+
 <h4>Cancel Purchase</h4>
 <p>If a purchase has not been accept by the vendor yet, you can always cancel the purchase:</p>
-<p><a href="/imgs/2014/02/4.png"/>
+<img src="/imgs/2014/02/4.png" />
+
 <h4>Releasing Escrow</h4>
 <p>After you are satisfied with your item or service, you release your escrow by entering your private key:</p>
-<p><a href="/imgs/2014/02/5.jpg"/>
+<img src="/imgs/2014/02/5.jpg" />
+
 <h2>Guide for Vendors</h2>
 <h3>Handling Multi-Sig Purchases</h3>
 <h4>How to Accept a Purchase</h4>
 <p>When accepting a purchase, please enter your public key and a withdrawal address:</p>
-<p><a href="/imgs/2014/02/6.jpg"/>
+<img src="/imgs/2014/02/6.jpg" />
+
 <h4>Options after accepting a purchase</h4>
 <p>After a purchase is made, there will be additional details provided:</p>
 <ul>
@@ -56,7 +62,8 @@ Posted by: DeepDotWeb
 <li><b>Manual FE Code:</b> for manually finalizing outside of BlackBank</li>
 <li><b>Payment Address:</b> make sure this is correct as this is where the payment will go when the funds are released</li>
 </ul>
-<p><a href="/imgs/2014/02/7.jpg"/>
+<img src="/imgs/2014/02/7.jpg" />
+
 <h2>Finalizing Outside of BlackBank</h2>
 <p>In the event that BlackBank is unavailable to finalize an order, every step has been taken to make it easy for the buyer and vendor to finalize outside of the market. A finalize early code is provided to both the buyer and vendor. At this time, there is only a finalize to vendor code. If there is demand for a refund code, please let me know in the forum and I will implement it.</p>
 <h3>How to use the Manual FE Code</h3>
@@ -68,10 +75,12 @@ Posted by: DeepDotWeb
 </div>
 <p>2. Replace PRIVATE_KEY_A and PRIVATE_KEY_B with the <b>Buyer</b> and <b>Vendor</b> private keys.</p>
 <p>3. Using the official Bitcoin-QT Wallet Client, select <b>&#8220;Help&#8221;</b> followed by <b>&#8220;Debug window&#8221;</b>:</p>
-<p><a href="/imgs/2014/02/8.jpg"/>
+<img src="/imgs/2014/02/8.jpg" />
+
 <p>4. Select the &#8220;Console&#8221; tab and enter the code with the Private Keys from both Vendor and Buyer into the input box at the bottom and submit.</p>
 <p>5. You will get the following result:</p>
-<p><a href="/imgs/2014/02/9.jpg"/>
+<img src="/imgs/2014/02/9.jpg" />
+
 <p>6. If &#8220;complete&#8221; is <b>false</b>, this means that one of the Private Keys is incorrect. If complete is <b>true</b>, copy the &#8220;hex&#8221; portion of the code.</p>
 <div>
 <p><b>Ex.</b><br/>

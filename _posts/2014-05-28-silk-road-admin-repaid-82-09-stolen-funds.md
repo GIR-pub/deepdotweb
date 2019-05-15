@@ -44,7 +44,8 @@ Posted by: DeepDotWeb
 <p>On behalf of all users who lost funds in the attack: Thank you, recent buyers. Thank you, active vendors. Your good karma will surely bring you fortune in the months to come.</p>
 <p>Silk Road will always rise again due to your resilience. It is an honor to serve you.</p>
 <p>Defcon</p></blockquote>
-<p><a href="/imgs/2014/05/defc.png"/>
+<img src="/imgs/2014/05/defc.png" />
+
 <p>This announcement followed few previous announcements from Defcon about repaying 13% &#8211; 50% of the stolen funds.</p>
 <p>Although we were looking hard, we never had a single solid testimony from a large vendor, or a known buyer who lost substantial amounts of money in the so called hack telling us he was repaid, most of the testimonies were from unknown users telling about small amount of BTC repaid to them, so this information is pretty hard to confirm. We do hope that everyone will get their money back of course.</p>
 

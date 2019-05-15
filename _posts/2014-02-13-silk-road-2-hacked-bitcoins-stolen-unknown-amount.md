@@ -93,10 +93,13 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong>So who were the hackers?</strong></span></p>
 <p>Few hours before the announcement we at DeepDotWeb received a mail saying: &#8220;SilkRoad hacked, 150 BTC stolen, you heard it first from me&#8221; this was sent to us by a reddit user who claimed since yesterday he was going to hack SR and steal the sites money &#8211; we are trying to verify if this amount matches the amounts that were stolen by the &#8220;smaller&#8221; hackers that Defcon reported in his post, the others remain unknown.</p>
 <p>The Silk Road moderators ranged from pleading or threatening the hackers:</p>
-<p><a href="/imgs/2014/02/stealth1.png"/>
+<img src="/imgs/2014/02/stealth1.png" />
+
 <p>To a complete shock:</p>
-<p><a href="/imgs/2014/02/tang.png"/>
-<p><a href="/imgs/2014/02/docclu.png"/>
+<img src="/imgs/2014/02/tang.png" />
+
+<img src="/imgs/2014/02/docclu.png" />
+
 <p>The users reaction was not much different obviously and ranged between shocked / angry / desperate or accusing the sites admins to the thief&#8217;s themselves:</p>
 <blockquote><p>IS ANYONE ELSE BUYINGGGG THIS? !!! WE ARE FIXING ESCROW  WE ARE FIXING VENDOR REFUNDS? WE ARE DOING ALL WE CAN<br />
     THIS SHEEP !!!! STYLE FUCKING BY OUR TRUSTED SR GUYS ,</p>

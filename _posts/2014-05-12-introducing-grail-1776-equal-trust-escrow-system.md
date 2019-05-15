@@ -17,38 +17,49 @@ Posted by: DeepDotWeb
 <p>Equal Trust Escrow automatically creates a three-way multi-signature address between you, the site, and the vendor. It provides you with a very simple way to verify the legitimacy of that address, and you can check with the vendor yourself to ensure the public key provided is theirs, if you wish.</p>
 <p>Let&#8217;s go through the very simple (and quick, quicker than any other marketplace) order process.</p>
 <p>The layout of the site is a copy of the original Silk Road. The main reason for doing this was to easily support all the same (almost 250) categories of goods, with a layout that many if not most buyers already know. So let&#8217;s click on “Cannabis,” and choose an item: 5g of Chocolate Fondue.</p>
-<p><a href="/imgs/2014/05/1776_html_7acb98ec.jpg"/>
+<img src="/imgs/2014/05/1776_html_7acb98ec.jpg" />
+
 <p>Once we click through to the item, we have the usual description of the item, and we can select a quantity and shipping type if we plan to order. We will select the quantity and shipping and click the “Order with 3-Way Multisig Escrow” button.</p>
 <p>The system asks you to enter your address in to address fields rather than into a box, and encrypts your address automatically. The reason for breaking it out into fields is to be able to provide useful features for the vendors that I will mention later. If you want to encrypt the message yourself, just make a note in one of the fields that you will send the address by private message.</p>
-<p><a href="/imgs/2014/05/1776_html_324690be.jpg"/>
+<img src="/imgs/2014/05/1776_html_324690be.jpg" />
+
 <p>After clicking confirm, you&#8217;re taken to your orders page. This is where the unique Equal Trust Escrow functionality comes in.</p>
 <p>The system brings together a public key from the site, the vendor, and you on the spot to create a multi-sig wallet for the order. On the orders page, you are shown that address (they always start with a 3 instead of a 1) and the amount to pay. You simply go to your favorite wallet software and send the bitcoins to the address. Any wallet software will give you the transaction ID of a transfer of bitcoins. In Multi-Bit, you highlight the transaction and select the “Transaction Details” button at the bottom of the screen, then click a button to see the transaction at <a href="http://blockchain.info/" target="_blank">blockchain.info</a> or <a href="http://blockexplorer.com/" target="_blank">blockexplorer.com</a>. In most other wallets, you just right-click transactions and select “copy transaction ID.”</p>
-<p><a href="/imgs/2014/05/1776_html_70141d55.jpg"/>
+<img src="/imgs/2014/05/1776_html_70141d55.jpg" />
+
 <p>Here we are at our unpaid order. Click on the “Input TXID” button, and you&#8217;re taken to a form in which you can enter the ID:</p>
-<p><a href="/imgs/2014/05/1776_html_m28a96832.jpg"/>
+<img src="/imgs/2014/05/1776_html_m28a96832.jpg" />
+
 <p>Paste in the transaction ID, click “Submit,” and within a couple of seconds the system will verify the transaction and mark the order “Paid.”</p>
-<p><a href="/imgs/2014/05/1776_html_2b9599c0.jpg"/>
+<img src="/imgs/2014/05/1776_html_2b9599c0.jpg" />
+
 <p>You&#8217;ve just made an order in a small fraction of the time it usually takes, because you don&#8217;t have to wait for the funds to show up in a site escrow to make the payment, and you&#8217;re also completely assured against theft by hackers or the site administrators: they never control your bitcoins at any point along the order cycle. This is the Grail of Darknet shopping, and it only takes about five minutes, one time, to set up. After that, every order you make is totally secure, and lightening fast to boot.</p>
 <p>All you need to do is download and install <a href="https://bitcoin.org/en/download" target="_blank">Bitcoin Core</a>. It is available for Windows, Mac, and Linux. When you fire it up, it will start downloading the blockchain, which takes a long time. However, you don&#8217;t need to let it download at all, unless you have a dispute that requires you to sign a transaction. For now, we just need to get a “public key” from the wallet of the Bitcoin Core software. To do that, you simply go to the Help menu, then Debug Window. That brings up a window with three tabs- you select the “Console tab” and enter two commands:</p>
-<p><a href="/imgs/2014/05/1776_html_361e6414.jpg"/>
+<img src="/imgs/2014/05/1776_html_361e6414.jpg" />
+
 <p>Enter “getnewaddress” to generate a new wallet address. Then type in “validateaddress” and paste in the address you just created. Notice the list of properties that are output. The one we want is “pubkey.” Just copy that out and on the site, go to your “Account Settings” page and click on “Set Up Multisig Escrow.” You&#8217;ll be taken to a page that has a more extended form of these directions.</p>
-<p><a href="/imgs/2014/05/1776_html_m902a8eb.jpg"/>
+<img src="/imgs/2014/05/1776_html_m902a8eb.jpg" />
+
 <p>Paste it in and save it&#8211; and that&#8217;s it. You have the security of three-way escrow on every order you ever make on 1776 without doing anything more. Just make sure you back up that Bitcoin Core wallet.</p>
 <p>The site, if possible, is going to ask the vendor to sign the refund transaction in the case of a dispute, saving you the trouble. But if the vendor simply disappears, or refuses to cooperate, the process of getting your money back is really simple. For this, you will need the blockchain downloaded. You can speed that up a lot if you now how to use Bittorrent, you can download most of it very fast that way.</p>
 <p>What the site does is automatically create a hexidecimal transaction that sends the money to the “refund wallet” that every buyer has to specify in his Account Settings before he places his first order. It then signs it with the site&#8217;s private key, providing one of the two signatures necessary to make the transaction viable.</p>
 <p>Great care and planning was taken to make this process as absolutely dead simple as Bitcoin allows it to be. 1776 uses the older, more basic standard for multisigs for the reason that they are simpler to work with, but equally secure. With the 1776 multi-sigs, it can be (and is) reduced to a simple cut-and-paste operation between Bitcoin Core and the site. No other site offers that.</p>
 <p>Here&#8217;s the page for signing and sending a transaction:</p>
-<p><a href="/imgs/2014/05/1776_html_m70eab077.jpg"/>
+<img src="/imgs/2014/05/1776_html_m70eab077.jpg" />
+
 <p>At the top, you can see the command for creating the multi-signature address. This is so that your Bitcoin Core wallet will know what it is supposed to do when it is asked to sign the transaction. The first step is to copy that addmultisigaddress command into the console window. It will return the address of the escrow wallet that was used for this transaction. Then you just copy and paste the block of text starting with “signrawtransaction” into Bitcoin Core.</p>
-<p><a href="/imgs/2014/05/1776_html_86b7393.jpg"/>
+<img src="/imgs/2014/05/1776_html_86b7393.jpg" />
+
 <p>The software returns a longer hex string (the original, plus the signature with your private key), with a variable “complete” marked “true.” That tells you that you have successfully signed the transaction and it is ready to be broadcast to the Bitcoin network. It is possible for you to do that locally, but it is better for security and accounting reasons for you to let the site do it. Just double-click the hex string (it highlights just right as above when you do that) and copy it. Paste it back into the empty box as shown. If your wallet software is open, you will see the refund hit it within about two seconds after you click “submit.” Pretty easy, huh? And vendors, that&#8217;s all the more complex redeeming your finalized transactions ever gets. You could teach your grandmother to do it in five minutes, it&#8217;s the same every time, and it takes about ten seconds each transaction. That is one of the things that makes this pure-multisig site the most advanced in the world.</p>
 <p>Now I&#8217;d like to take a minute to talk to vendors about “Noob Escrow” and how it answers the business problems that multi-sig sites have represented up to now.</p>
 <p>I&#8217;ve been a vendor. And I&#8217;ve been in (other) business for quite a while. I understand the realities of this marketplace. It is all well and good to provide a technically workable multi-sig marketplace, but it isn&#8217;t going to do you, the vendor, any real good if you are only going to be able to reach the most sophisticated 10% (a guess) of current Darknet consumers, and next to no customers new to the Darknet. When I started writing this system a few days after Sheep disappeared, I realized that I needed to write a system that was going to address the realities of the marketplace, or it wasn&#8217;t going to work.</p>
 <p>Most buyers are here on the Darknet for one reason: they learned from a friend that they could get quality prohibited products at a good price, delivered to their door. Their first purchase with bitcoins probably came about a day after hearing the word “bitcoin” for the first time. Which of us would have conceptually understood the idea of multi-signature bitcoin addresses the day after we found out Bitcoin was a thing? It&#8217;s just too much to ask. So I invented a form of multisig-secured escrow I call “Noob Escrow” to answer this problem.</p>
 <p>Noob Escrow is an escrow held between the site and the vendor. When a new buyer comes to 1776 looking to purchase something, they click the “order” button, put in their shipping information, and are presented with a box a lot like the one for multi-sig orders. It looks like this:</p>
-<p><a href="/imgs/2014/05/1776_html_71a77255.jpg"/>
+<img src="/imgs/2014/05/1776_html_71a77255.jpg" />
+
 <p>This payment address is a unique payment address created expressly for this order. The buyer may or may not actually pay. If they don&#8217;t, you never see the order and it deletes out of the system after a few hours. If they do, they can immediately afterwards click “Check Status” and the system will inform them that their order is paid and awaiting approval. Recognition by the system of a payment takes a maximum of ten seconds. So, the bitcoins are received by the 1776 server, and as soon as they have a confirmation on them, they are sent right back out to the escrow held between the site and you. It is at this point that you are informed you have an order.</p>
-<p><a href="/imgs/2014/05/1776_html_2ad9b8a.jpg"/>
+<img src="/imgs/2014/05/1776_html_2ad9b8a.jpg" />
+
 <p>The transaction ID highlighted here is a hyperlink to <a href="http://blockchain.info/" target="_blank">blockchain.info</a> where you can confirm the funds exist in the escrow address as claimed.</p>
 <p>Not only was this order process simple for the buyer, it is the simplest one available on any market. They do not have to figure out funding their site account. They don&#8217;t have to go through the irritation of waiting an hour or two for those funds to show up in the site account and not really understanding why. They log in to the site, they pick your item, they enter the shipping info, they are shown an amount and an address, and they pay. It can all be done within a minute or two of visiting the site, no matter which type of escrow the buyer is involved with. That is worlds better than anything else on offer.</p>
 <p>Do YOU like waiting three hours on an escrow deposit when you know the post offices are going to close in the vendor&#8217;s time zone in a couple hours and there&#8217;s no way you&#8217;ll get what you&#8217;re ordering the day you were hoping? All that bullshit is eliminated. So we have a system that the new buyer is going to want to return to&#8211; and they can upgrade to three-way multisig any time they like.</p>

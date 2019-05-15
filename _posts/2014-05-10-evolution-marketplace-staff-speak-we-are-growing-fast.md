@@ -23,7 +23,8 @@ Posted by: DeepDotWeb
 </strong>Boogie: Yes. Verto is also the owner of TCF but keep in mind that Evo wasnt the solution to TCF being hijacked its been in the making long before that. TCF is its own site with its dealing, we try to keep evolution and tcf separate, as they have their own focuses</p>
 <p><strong>DeepDotWeb: Good thing that you say this cause its a common belief.</strong><br />
     Boogie: I know, and we try to explain but you know how people are. &#8220;they want to believe in that&#8221;.</p>
-<p><a href="/imgs/2014/05/evolution.png"/>
+<img src="/imgs/2014/05/evolution.png" />
+
 <p><strong> DeepDotWeb: What distinct Evolution from the so many other markets?</strong><br />
     Boogie: Evo wasn&#8217;t a fly-by-night operation. The one big thing that evo has I believe is a very strong community, if you check out the forums they are very very active.</p>
 <p><strong>DeepDotWeb: The TCF community migrated there?</strong><br />

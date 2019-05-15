@@ -43,7 +43,8 @@ Posted by: DeepDotWeb
 <p>We are open to any approach that makes escrow better and safer..!</p>
 <p>P2P sound nice, but how does it work? There must be moderation in some cases, both sides are anonymous&#8230; any escrow in Tor/Bitcoin offers trouble. P2P/Multisig sounds like a nice idea, but is it working? Nice terms, words, thought, but reality is different&#8230;</p>
 <p>The first thing: BOTH parties must agree on escrow. 90% of BIG vendors do not want any problems with not coming funds. We offer FE decision by ADMINS, not customers. When we check vendor and prove he is serious, he get&#8217;s FE and the customers can trust us, that we checked the vendors. Reputation is necessary and SR was so big, as it had a GOOD reputation. We want to get the BEST reputation on the market&#8230;.</p>
-<p><a href="/imgs/2014/01/outlaw.png"/>
+<img src="/imgs/2014/01/outlaw.png" />
+
 <p><strong>Any other upcoming features?</strong></p>
 <p>Besides the mentioned above features we have many other interesting features that we hope will please the community.</p>
 <ol>

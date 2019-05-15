@@ -26,7 +26,8 @@ Posted by: DeepDotWeb
 <p>&mdash; OTF | Mulato (@Queefyyy) <a href="https://twitter.com/Queefyyy/status/444323737593069569">March 14, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>What we have found as a potential candidate to take the hidden wiki&#8217;s place as a more friendly Tor directory is what The Hidden Wiki should have been all along and it goes by the name of WikiTor (http://wikitor74em2u6rq.onion<wbr />):</p>
-<p><a href="/imgs/2014/03/wikitor.png"/>
+<img src="/imgs/2014/03/wikitor.png" />
+
 <p>It is very thorough with a discussion page for each category allowing anyone to suggest new links or discuss existing links. This allows for scammers to be reported and investigated, while also allowing new websites to have their sites verified and added. What we like about this site is the frequent moderation of the links. All known scams and child porn links are not present and there are plenty of links to forums where you can investigated someone before doing business with them.</p>
 <p>The site is still young, and need to filled with more links, but the direction its going and the impression we had from its owners seems positive enough to gain our initial support for this project, with the hope that they will remain  honest and clean from all the stuff we did not want to see on the hidden wiki.</p>
 <p>The DNM community also appears to be behind the site with DarkNetMarkets (https://pay.reddit.com/r/<wbr />DarkNetMarkets/comments/<wbr />204otx/the_hidden_wiki_is_<wbr />dead_long_live/), a well respected sub-Reddit for trading on Tor, offering their support.</p>

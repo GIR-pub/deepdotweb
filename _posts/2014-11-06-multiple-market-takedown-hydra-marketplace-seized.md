@@ -9,9 +9,11 @@ Posted by: DeepDotWeb
 <p><strong>All new posts regarding this ongoing case will be in this <a href="tag/silkroad2bust/">Silk Road 2 bust Tag</a></strong></p>
 <p>Along with the Seized Silk Road 2 market &#8211; Another 2 Markets were confirmed as seized &#8211; Hydra &amp; Cloud 9 Marketplaces:<br />
 <a href="/imgs/2014/11/hydra.png"/>
-<p><a href="/imgs/2014/11/cloud9.png"/>
+<img src="/imgs/2014/11/cloud9.png" />
+
 <p>Cloud 9 admin, <a href="http://www.reddit.com/user/missy76">missy76 </a> seems to free,  as she logged into Reddit and posted a message confirming that one of her servers got seized:</p>
-<p><a href="/imgs/2014/11/missy.png"/>
+<img src="/imgs/2014/11/missy.png" />
+
 <ul>
 <li><span style="color: #ff0000;">Hydra 14:52 – Confirmed Seized</span></li>
 <li><span style="color: #ff0000;">Cloud 9 15:07 – Confirmed Seized</span></li>
@@ -23,7 +25,8 @@ Posted by: DeepDotWeb
 </ul>
 <p>&nbsp;</p>
 <p>Who Will be next?</p>
-<p><a href="/imgs/2014/11/down.png"/>
+<img src="/imgs/2014/11/down.png" />
+
     
 
 Updated: 2014-11-06

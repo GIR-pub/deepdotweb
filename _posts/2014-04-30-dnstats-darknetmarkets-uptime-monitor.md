@@ -50,7 +50,8 @@ Posted by: DeepDotWeb
 <p>Along with the previous service we were reported about &#8211; <a href="/2014/04/08/grams-darknetmarkets-search-engine/" target="_blank">Grams</a>, the DNM search engine, this is another service that we were expecting to and we really hope to see this one develops into a widget that we will be able to embed here fully on the site.</p>
 <p>Screenshots from the service:<br/>
 <a href="/imgs/2014/04/dnstat.png"/>
-<p><a href="/imgs/2014/04/btcfog.png"/>
+<img src="/imgs/2014/04/btcfog.png" />
+
 <p>To the developer &#8211; Thanks you! great contribution.</p>
 
 Updated: 2014-04-30

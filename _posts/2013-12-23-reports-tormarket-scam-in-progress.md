@@ -37,7 +37,8 @@ title: "Reports: Tormarket Scam In Progress?"
 
 <p>&nbsp;</p>
 <p>Since the Tormarket Forum itself went down, the discussion continued on a Silk Road 2.0 Forum Thread:</p>
-<p><a href="/imgs/2013/12/tm3.png"/>
+<img src="/imgs/2013/12/tm3.png" />
+
     This sure doesn&#8217;t look very encouraging for the Tormarket Situation,  as usual,  we will try to follow this as well and report once (anf if) we will have any solid information, so far it looks like the Sheep Sequel.</p>
 </div>
 <a href="/tag/progress/" rel="tag">progress</a> <a href="/tag/reports/" rel="tag">reports</a> <a href="/tag/scam/" rel="tag">scam</a> <a href="/tag/tormarket/" rel="tag">tormarket</a>

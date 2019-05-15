@@ -10,7 +10,8 @@ Zubair Muadh
 <a href="/2014/09/22/bitcoin-is-not-being-used-by-the-islamic-state/#respond">Leave a comment</a></span>
 </p>
 <p>The BBC recently aired a video <a href="http://www.bbc.co.uk/news/technology-29283124" target="_blank">about Dark Wallet</a> a new wallet application that promises to anonymise your Bitcoin transactions. The BBC video wasn’t without controversy. They attempted to smear Dark Wallet by associating it with the Islamic State and illegal use.</p>
-<p><a href="/imgs/2014/09/btcwrap.jpg"/>
+<img src="/imgs/2014/09/btcwrap.jpg" />
+
 <p><strong>The Author</strong></p>
 <p>The PDF that presented in the BBC article was written and posted on a <a href="https://alkhilafaharidat.files.wordpress.com">WordPress blog</a> by someone going by the Twitter username of <a href="https://twitter.com/amreekiwitness" target="_blank">@AmreekiWitness</a> his Twitter Bio mentioned: Dedicated to raising awareness of the upcoming conquest of the Americas and the benefits it has upon the American people. His Twitter account was later suspended by Twitter Support.</p>
 <p><strong>The PDF</strong></p>
@@ -29,13 +30,16 @@ Zubair Muadh
 <p>The Islamic State has a very tech savvy media team this is evident when you see their Hollywood-style action films that they release such as Flames of war and Salil Sawarim (Clanging of Swords).</p>
 <p>Despite their tech savvy media team there is no evidence of the Islamic State themselves understanding Bitcoin or even having an electronic army unlike the Syrian regime that has the Syrian Electronic Army. Talking to @AmreekiWitness and <a href="https://twitter.com/KhilafaHackers" target="_blank">@CaliphateHackers</a> (A Hacker Group) they’re both Islamic State supporters and not actual Islamic State fighters.</p>
 <p>Caliphate Hackers took down a Bitcoin donation address that they had on their bio. I asked them whether the Islamic State took Bitcoin Donations and they replied that it doesn’t:</p>
-<p><a href="/imgs/2014/09/caliphe2.png"/>
+<img src="/imgs/2014/09/caliphe2.png" />
+
 <p><strong>Amreeki Witness also known as Taqi’ulDeen Al Munthir</strong></p>
 <p>Since Amreeki had his twitter suspended we emailed him. He uses Bitmessage in addition to his Bitcoin/Dark Wallet article shows him to be well versed in cyrptocurrencies and decentralized systems in general. Below is the conversation that I had with him.</p>
-<p><a href="/imgs/2014/09/amerikee2.png"/>
+<img src="/imgs/2014/09/amerikee2.png" />
+
 <p>When asked whether he was an Islamic State fighter and weather ISIS accepted Bitcoin donations he replied no for both.</p>
 <p>In interesting it seems as though Amreeki doesn’t want the Islamic State to accept Bitcoin by to create their own CryptoCurrency and he named it eDinar and to have it traded for Bitcoin.</p>
-<p><a href="/imgs/2014/09/amreeki3.png"/>
+<img src="/imgs/2014/09/amreeki3.png" />
+
 <p>When asked whether he understood that his actions could damage Bitcoin’s public image he replied:</p>
 <blockquote><p><em>In the public eye, Bitcoin is a way to buy drugs and hire hitmen. How far of a stretch is it to say it finances terrorism as well?</em></p></blockquote>
 <p>An issue with trading Bitcoin for eDinar is that exchanges that facilitate such trades would most likely by attacked with DDOS attacks and be investigated by the US government and would be forced to stop facilitating the trade or most likely taken down.</p>

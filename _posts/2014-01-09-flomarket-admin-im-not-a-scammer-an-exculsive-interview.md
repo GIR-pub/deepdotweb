@@ -17,7 +17,8 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong><a href="/imgs/2014/01/Floattest2.jpg"/>
 <p><span style="text-decoration: underline;"><strong>Proof 2#</strong></span>: Just navigate to the Ex Flomarket Url here: http://fmkt3wixc772jxyj.onion/<br />
     And there should be a notice telling that this interview happened and linking to our article:</p>
-<p><a href="/imgs/2014/01/floproof1.png"/>
+<img src="/imgs/2014/01/floproof1.png" />
+
 </a>If you should believe him or not, you will be the one to decide. We doubt that a low life scammer would have taken the time to conduct 3 interviews over 3 days in order to tell hes side. Anyway this is an interesting document from a different point of view showing us the incentive everyone got after the demise of Silk Road &#8211; Money wise, to start new markets, and the risks involved with operating them, we bring you the chat logs as they are, unedited, just personal information that he provided was removed. and some other personal parts of the chat.</p>
 <p>Myself =  Gabralkhan<br />
     Flole = The market Admin.</p>

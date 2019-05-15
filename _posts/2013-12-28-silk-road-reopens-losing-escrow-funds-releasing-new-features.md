@@ -72,7 +72,8 @@ title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features"
 <p>Defcon<br/>
     &#8212;&#8211;End Quote&#8212;&#8211;</p>
 <p>The admin also released the timeline the implementation of new features with the re launch of the market:</p>
-<p><a href="/imgs/2013/12/featuers1.png"/>
+<img src="/imgs/2013/12/featuers1.png" />
+
 <p>The server is under extreme load, this community loves to refresh empty pages!</p>
 <p>I spent a lot longer time drafting the announcement than expected, so I am pushing back the launch to 23:45:00 to ensure that everything goes smoothly but no promises. Security comes first over meeting deadlines.</p>
 <p>Vendors: expect downtime between now and then.</p>

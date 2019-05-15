@@ -10,7 +10,8 @@ Posted by: DeepDotWeb
 <p>Following up our previous report &#8220;<a href="/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/">Silk Road Reopens: Losing Escrow Funds &amp; Releasing New Features</a>&#8220;, it seems that the Silk Road 2.0 Staff are Determined to prove their reliability and so far, are successful at this, just to recap &#8211; after the return of SR from the Christmas break and the disappearance of the DPR2 there was some unexpected technical problem resulting in the loss of their access keys to the Bitcoin wallets holding everyone’s funds currently in escrow (not account balances).</p>
 <p>Now, yesterday the new admin Defcon just announced the the problem is solved and they have contacted DPR2 and got the old keys to the escrow.Doesn&#8217;t matter really if this was the case or it was just a move to build further trust in the new administration, the bottom line is everyone getting their money back while other sites are scamming their revenues, so this should not be taken for granted.</p>
 <p>Defcons post:</p>
-<p><a href="/imgs/2014/01/defcon1.png"/>
+<img src="/imgs/2014/01/defcon1.png" />
+
 <p>Quote:</p>
 <p>========</p>
 <p>(NOTE: If you have been away, you should catch up on recent events: http://silkroad5v7dywlc.onion/index.php?topic=12055.0 )</p>
@@ -40,7 +41,8 @@ Posted by: DeepDotWeb
 <p>Defcon</p>
 <p>===End Quote===</p>
 <p>The Second post from Defcon confirming that all backlogged backlogged withdrawal orders have been processed successfully:</p>
-<p><a href="/imgs/2014/01/process.png"/>
+<img src="/imgs/2014/01/process.png" />
+
 <p>These messages were obviously accepted with great joy, and it seems that Silk Road is slowly overcoming the hardships it was experiencing the last few weeks, and slowly but surely building the trust that every marketplace should Strive for &#8211; trust that became a rear ingredient since the demise of SR1 and BMR.</p>
 <p>&nbsp;</p>
 </div>

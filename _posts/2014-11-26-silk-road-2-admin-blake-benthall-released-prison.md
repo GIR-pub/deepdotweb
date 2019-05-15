@@ -20,7 +20,8 @@ Posted by: DeepDotWeb
     Race: White<br/>
     Sex: Male<br/>
     Released On: 11/21/2014</p></blockquote>
-<p><a href="/imgs/2014/11/blake.png"/>
+<img src="/imgs/2014/11/blake.png" />
+
 <p>According to the <a href="http://www.bop.gov/inmateloc/about_records.jsp">BOP website</a> , Released status means:</p>
 <blockquote><p>&#8220;RELEASED&#8221; means the inmate is no longer in BOP custody.</p></blockquote>
 <p>This info was first published on this <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2nh6ie/wtf_blake_benthall_defcunt_has_been_released_from/">Reddit thread</a> by Reddit user <a href="http://www.reddit.com/user/horse_ploppies" target="_blank">/u/horse_ploppies</a> who wrote:</p>

@@ -20,7 +20,8 @@ title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
     ps. took minutes. I wouldn&#8217;t leave you in charge of watering a plant.</p></blockquote>
 </div>
 </div>
-<p><a href="/imgs/2014/03/VDMpbLU.png"/>
+<img src="/imgs/2014/03/VDMpbLU.png" />
+
 <ol>
 <li>redsun4lvjrxwwuy.onion/server-status</li>
 <li>redsun4lvjrxwwuy.onion/phpinfo.php</li>

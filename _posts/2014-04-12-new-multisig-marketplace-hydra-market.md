@@ -36,7 +36,8 @@ title: "New Multisig Marketplace: Hydra market"
 </div>
 </div>
 <p><span style="text-decoration: underline;"><strong>Guide in screenshots:</strong></span></p>
-<p><a href="/imgs/2014/04/msguide_page_001.jpg"/>
+<img src="/imgs/2014/04/msguide_page_001.jpg" />
+
 
 Updated: 2014-04-12
     

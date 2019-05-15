@@ -14,7 +14,8 @@ Posted by: DeepDotWeb
 <p>4. Which marketplaces tend to be down more than others?  (being attacked? busy?)</p>
 <p>5. For us – its a n easy way to check and clean dead markets from <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">our marketplace list</a>.</p>
 <p>Wellת now there is no need to look any further. thanks to the Dnstat creator, we have implemented a widget on the sidebar &#8211; showing at any given time the markets Uptime status and updating every 15 minutes. so no need to refresh the market every 2 minutes to know if its back, here it is:</p>
-<p><a href="/imgs/2014/05/uptime.png"/>
+<img src="/imgs/2014/05/uptime.png" />
+
 
 Updated: 2014-05-04
     

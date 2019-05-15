@@ -26,9 +26,11 @@ Posted by: DeepDotWeb
 <p>We search for new listings once a day. We update current listings every 3 days</p>
 <p>Search engine home:</p>
 <p>&nbsp;</p>
-<p><a href="/imgs/2014/04/grams.png"/>
+<img src="/imgs/2014/04/grams.png" />
+
 <p>Search engine results page:</p>
-<p><a href="/imgs/2014/04/grams1.png"/>
+<img src="/imgs/2014/04/grams1.png" />
+
 <p>Grams plans to run from <a href="/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">advertisements</a> which will pay for ongoing security and development costs, we wish the creators all the best and we hope to see this service develop into a fully functional search engine that indexes listings in from all the existing marketplaces. This can not only save people time, it could also improve safety.</p>
 <p>Added later: <a href="/grams-search-darknet-marketplaces/">For more info about Grams and its related services visit this url.</a></p>
 

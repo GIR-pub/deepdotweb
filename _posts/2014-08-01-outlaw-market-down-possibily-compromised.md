@@ -29,7 +29,8 @@ Posted by: DeepDotWeb
 <p>Try to give us your good karma and a good vibe, we need this in times like these.</p>
 <p>We apologize for any inconvenience.</p>
 <p>Love &#8211; Outlaw</p></blockquote>
-<p><a href="/imgs/2014/08/outlaw.png"/>
+<img src="/imgs/2014/08/outlaw.png" />
+
 <p>This site does not use online wallets so if money is lost it will be the escrow funds.  Hopefully the market will be back online with no losses.  This is just another chapter in the known competition between markets DDosing and attacking each other that we have seen before quite a few times now, like with <a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tormarket &amp; Silk Road</a> and <a href="/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/">Agora</a>, For quite a few times now, among some others.</p>
 
 
