@@ -2,12 +2,11 @@
 title: "Take Control of Your Bitcoins into Your Hands, Literally?"
 ---
 
-11903  tag-control tag-hands tag-literally
-Posted by: <a href="https://www.deepdotweb.com/author/kalyan/" title="">Koni 
+Posted by: Koni 
 
 <span>November 2, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/11/02/take-control-of-your-bitcoins-into-your-hands-literally/#comments">7 Comments</a></span>
+
 
 
 <p>Bitcoin is a decentralized currency which allows people to take control of their money into their own hands. Literally. A pair of body-hackers, people implementing computerized hardware into their bodies, was able to send a bitcoin payment through his computer, but without actually touching his computer. Seems implausible? Well, not anymore.</p>
@@ -17,7 +16,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/kalyan/" title="">Koni
 <p>But here also lies a problem with Lanhed’s and Tara’s invention: How many people are feel comfortable implementing computers with their bodies? Sure, one can think of them as nothing more than subdermal tattoos, but who can accurately forecast a world in which the human and machine become almost identical. Would that usher in a world of bio-theft, where hackers could gain access to internal compartments within the human body? Of course, this is the worst-case scenario kind of thinking, but at least it is something to mull-over on a gloomy, rainy day.</p>
 <p>But let’s focus on the beneficial implications of this revolutionary invention. This combination of NFC-technology and bio-hacking has many applications outside the realm of cryptocurrency or even finance in general. The duo named above have explicitly stated that they plan to develop bio-payment systems that can be used in stores. In an email to Motherboard, Tara wrote that his goal was to “expand the frontiers of bio-functionality.” And sure enough, they are already in the process of doing so. Lanhed has implemented the use of his chip as an ICE-tag, allowing first responders to scan an unconscious body and gain quick access to the medical records of the person.</p>
 <p>So the future goal of this technology, like all others, is to try to bring it to a broader scope. Due to the limited capacity of the available bio-chips, not much information can be stored, other than a few documents and a private key. But as the bio-chip industry matures, we hope to see chips capable to storing a multitude of data, including documents and maybe even different forms of multimedia. But, in order to accomplish this, the software needs to be developed, and so anyone who is able to, try to take up the challenge. Maybe a world where you can project a movie or video-game on the street corner and entertain yourself until the bus comes? The possibilities are endless, but the inventions of Lanhed and Tara have bolstered the communities confidence in the arrival of these advances. By utilizing existing technology, Tara and Lanhed have taken not only a step forward for the Bitcoin/bio-hacking community, but also a step forward for society.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/control/" rel="tag">control</a> <a href="https://www.deepdotweb.com/tag/hands/" rel="tag">hands</a> <a href="https://www.deepdotweb.com/tag/literally/" rel="tag">literally</a></span> 
-Updated: 2015-11-02<a href="https://www.deepdotweb.com/author/kalyan/" title="Posts by Koni" rel="author">Koni</a></strong></div>
+
+Updated: 2015-11-02
 

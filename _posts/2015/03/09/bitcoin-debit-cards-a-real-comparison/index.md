@@ -2,12 +2,11 @@
 title: "Bitcoin Debit Cards: A Real Comparison"
 ---
 
-8613  tag-cards tag-comparison tag-debit tag-real
-Posted by: <a href="/author/kyleseverance/" title="">Kyle Severance 
+Posted by: Kyle Severance 
 
 <span>March 9, 2015</span>
 
-<span><a href="/2015/03/09/bitcoin-debit-cards-a-real-comparison/#comments">12 Comments</a></span>
+
 
 
 <p>What are your real options for a Bitcoin-loaded debit card? How anonymous are these cards you find on the internet? Many people have grown restless waiting for their pre-ordered debit cards from sites such as Xapo. Others face financial restrictions as clients in the US due to bank restrictions. This article lists the status of all your major options.</p>
@@ -23,7 +22,6 @@ Posted by: <a href="/author/kyleseverance/" title="">Kyle Severance
 <p>For those who try to get extreme anonymity with a debit card, they usually turn to debit card resellers. These merchants offer debit cards under a random identity or provide prepaid debit card services. Some also provide prepaid credit cards. The first site I explored was <a href="http://prepaidvcard.com" target="_blank">PrePaidvCard</a>, which provides either a prepaid credit card through MasterCard and Visa; the site sells them in certain CAD denominations. They do not require any information besides the basic shipping info and a login. They accept Bitcoin and Litecoin as virtual currencies. There site seems to be riddled with error, so placing an order for a card is more difficult than it should be. The next site was <a href="http://www.second-card.com/" target="_blank">Second Card</a>. They offer an anonymous prepaid Visa debit card issued by Bank Zachodni WBK S.A. or mBANK S.A. The card does not require any verification and allows for online and POS transaction.</p>
 <p>The only fees associated with the card are the initial purchase of the card and ATM transactions. They accept bitcoin as a method for payment, but you must pay the initial card fee before you can apply to have the card shipped &#8211; two separate applications. I emailed the company for more information about the process, but they never replied to any of my emails.</p>
 <p>So why is it so hard to obtain an anonymous debit card? In reality a real debit card, by international law requires all cards to have an identity associated with them. These companies require documents to distribute anonymous cards for their security. The name on the card will not be yours in most cases, so whoever actually signed up for the card on your behalf is responsible for all possible crimes you could commit with the card &#8211; they want something to prove it is not them. These cards are perfectly legal, but they could get you in trouble when the name on the card does not match yours. It may insinuate a stolen card. No card service is perfect, but many of these services can provide you with a modest amount of anonymity.</p>
-</div>
-<a href="/tag/cards/" rel="tag">cards</a> <a href="/tag/comparison/" rel="tag">comparison</a> <a href="/tag/debit/" rel="tag">debit</a> <a href="/tag/real/" rel="tag">real</a></span> 
-Updated: 2015-03-09<a href="/author/kyleseverance/" title="Posts by Kyle Severance" rel="author">Kyle Severance</a></strong></div>
+
+Updated: 2015-03-09
 

@@ -2,13 +2,10 @@
 title: "Today&#8217;s Opioid Culture"
 ---
 
-10975  tag-culture tag-opioid tag-todays">
-Posted by: <a href="/author/lines_of_thought/" title="">Lines_of_Thought 
+Posted by: Lines_of_Thought 
 
 <span>July 30, 2015</span>
     
-<span><a href="/2015/07/30/todays-opioid-culture/#comments">13 Comments</a></span>
-</p>
 
     
 <p>For thousands of years opiates have been used in many different contexts. Going back to the pre-biblical times, Opium was used as a healing remedy, an anesthetic, ritual purposes and just to get high. During the 15<sup>th</sup> century opium use was widespread in China and then in the 18<sup>th</sup> century the British came in and used their opium habits to balance the economy as China was doing very well in that time period, which the British, obviously, did not want. Then towards the start of the 20<sup>th</sup> century opium and all opiate products were banned as their use had a high impact on the working class, which meant that less work was being done.</p>
@@ -129,8 +126,7 @@ Posted by: <a href="/author/lines_of_thought/" title="">Lines_of_Thought
 <p>There has been a lot of flak given to them recently as a rival nootropic company decided to test their compound and found a high majority of them to contain Taurine. However the results picked up differing amounts, showing some compounds with 96% Taurine, others with 94% Taurine, which was more than enough evidence to show that the remaining 4-6% were incredibly potent compounds sprayed onto a ‘blank’ material. The compounds I used helped me so much through this (would have been) difficult time that I have no reason to doubt any of their products, in fact I go as far as to say they are 10 years ahead of any other nootropic company out there. Everyone else is just struggling to catch up to them (as the Acetyl-Semax and Selanks show – again these are impressive compounds which have blown my mind more than any other nootropic I’ve tried).</p>
 <p>So to sum up the opioid culture of yesterday has hit a turning point. Opioids may now be used without the stigma of addiction when used in the right direction and, while the large Pharmaceutical Companies still dole out opioids like sweets, we are lucky enough to have other people around who care as much as to remove the addiction much simpler than ever before.</p>
 <p>We have hit our Golden Age.</p>
-</div>
-<a href="/tag/culture/" rel="tag">culture</a> <a href="/tag/opioid/" rel="tag">opioid</a> <a href="/tag/todays/" rel="tag">todays</a></span> 
+
 Updated: 2015-07-30
-<a href="/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
+
     

@@ -2,8 +2,7 @@
 title: "Bitcoin price analysis November 12"
 ---
 
-12091  tag-2688 tag-analysis tag-november tag-price">
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>November 12, 2015</span>
 
@@ -42,8 +41,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>A less probable alternative, is a series of impulsive moves all the way down to $ 200 &#8211; without a rebound.</p>
 <p>The 2 red arrows in the chart above indicate the 2 possible scenarios. Eventually, both result in a similar bearish forecast.</p>
 <p><em>“It&#8217;s difficult to remain patient when prices rise like this which creates lots of excitement and generates attention. I believe this is an important time to remain disciplined and plan your entries on pull backs. The best buying opportunity may still be coming&#8230;&#8221;</em></p>
-</div>
-<a href="/tag/12/" rel="tag">12</a> <a href="/tag/november/" rel="tag">november</a> 
+
 Updated: 2015-11-12
 
     

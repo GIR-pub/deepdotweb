@@ -2,14 +2,11 @@
 title: "TheRealDeal: This Long-Dead Market Was Just Relaunched!"
 ---
 
-12411  tag-longdead tag-relaunched tag-therealdeal">
 Posted by: DeepDotWeb 
 
 <span>December 1, 2015</span>
 
 
-<span><a href="/2015/12/01/therealdeal-this-dead-market-was-just-relaunched/#comments">32 Comments</a></span>
-</p>
 
     
 <p>Just when you think you&#8217;ve seen everything, the darknet scene surprises you again, this time its our old acquaintance from the <a href="/marketplace-directory/listing/therealdeal-market/">TheRealDeal market</a> who decided to put his market back online again. For those of you who don&#8217;t know what i&#8217;m talking about, TheRealDeal was a controversial market focused at <a href="/2015/04/08/therealdeal-dark-net-market-for-code-0days-exploits/">selling malwares and exploits</a> which gained extensive media exposure and was involved in some of the more prominent events we had last year such as:</p>
@@ -40,8 +37,7 @@ Posted by: DeepDotWeb
 <p>The previous most known &#8220;<a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bf5vm/realdealmarket_information_leak/">issue</a>&#8221; where one could see escrow addresses is absolute nonsense created by a failing market admin (he is known on your website as &#8216;inspector&#8217; and on reddit as a bunch of throw away coward users). Many blockchain indexing services out there know exactly which addresses are associated to which market. We will shut this after we done paying back the 5 BTC that got stuck in limbo &#8211; just for the sake of full disclosure.</p>
 <p><strong>Anything else you want to add?</strong></p>
 <p>911 was an inside job! (no, not really)</p>
-</div>
-<a href="/tag/longdead/" rel="tag">longdead</a> <a href="/tag/relaunched/" rel="tag">relaunched</a> <a href="/tag/therealdeal/" rel="tag">therealdeal</a></span> 
+
 Updated: 2015-12-01
 
     

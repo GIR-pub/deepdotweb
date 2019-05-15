@@ -2,12 +2,10 @@
 title: "Bitcoin Price Analysis 10th September"
 ---
 
-11491  tag-9th tag-analysis tag-price tag-september
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>September 10, 2015</span>
-<span>in 
-<span><a href="/2015/09/10/bitcoin-price-analysis-10th-september/#respond">Leave a comment</a></span>
+
 
 
 <p><strong>THIS WEEK ON BITCOIN</strong></p>
@@ -40,7 +38,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>This week I am neutral to bullish, with similar targets to last week $ 255. The recent high may require some sideways action from consolidating, and look to find firm support for a bounce back up. Potential support levels are EMAs and MAs (50 d and 30 d), at around $235 currently. Targets on upside rebounds are 200 EMA at $247, fib level at 50% &#8211; $ 255, and 200 MA at $ 260.</p>
 <p><a href="/imgs/2015/09/7.jpg"><img class="aligncenter size-full wp-image-11498" src="/imgs/2015/09/7.jpg" alt="7" width="1023" height="474" srcset="/imgs/2015/09/7.jpg 1023w, /imgs/2015/09/7-300x139.jpg 300w, /imgs/2015/09/7-272x125.jpg 272w" sizes="(max-width: 1023px) 100vw, 1023px"/></a></p>
 <p>I recommend caution as these are short term targets for the next 2 weeks. Breaking below $220 invalidates this bullish forecast. Medium to long term, I am bearish, and still expect sub &#8211; 200 prices. This long term trend channel chart points to a possible retest of lower trend line support. It is worth a keen look, as overall, price remains in limbo &#8211; whether we truly are past the bottom and long term bear trend, or just a temporary reprieve from a 22 month old bear market.</p>
-</div>
-<a href="/tag/9th/" rel="tag">9th</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+
 Updated: 2015-09-10
 

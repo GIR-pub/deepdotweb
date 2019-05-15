@@ -2,15 +2,12 @@
 title: "Interview: &#8220;Mr. Nice Guy&#8221; Market Admin Tells His Story"
 ---
 
-10575  tag-admin tag-ddos tag-guy tag-interview tag-nice tag-post
 Posted by: DeepDotWeb 
 
 <span>June 3, 2015</span>
     
-<span><a href="/2015/06/03/interview-with-mr-nice-guy-market-admin/#comments">43 Comments</a></span>
-</p>
 
-<p>Just a few days ago, Mr Nice Guy admin was exposed while <a href="http://www.deepdotweb.com/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">conspiring to ddos other markets</a>, After the story started to spread, he requested to conduct an interview where he could tell his side of the story, and i was happy to provide him with the stage to do so, i just asked question and let him answer freely, and you can be the judges:</p>
+<p>Just a few days ago, Mr Nice Guy admin was exposed while <a href="/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">conspiring to ddos other markets</a>, After the story started to spread, he requested to conduct an interview where he could tell his side of the story, and i was happy to provide him with the stage to do so, i just asked question and let him answer freely, and you can be the judges:</p>
 <p><strong>So whats your side of the story for:</strong><br/>
 <strong>Conspiring with the extortion ddoser to ddos other markets?</strong></p>
 <p>Competition has grown tremendously over the last years, at first (you will notice the dates in the conversation) I held out like other markets and refused to pay. I actually did make gains on building up the protection. But I needed more time as I am a single programmer dealing with issues on the site, with individual vendor sand other technical issues. The DDOS guys pushed that work load over the edge, I needed a break.</p>
@@ -113,8 +110,7 @@ Posted by: DeepDotWeb
 <p>With a ddos prevention at the directory node, this would render those tool useless, for now!</p>
 <p>But for ever more against less sophisticated third world countries, so programming it would still be worth while.</p>
 <p>I will shortly open a new forum section for dark net service security, so all peers from all markets are welcome to exchange ideas and info.</p>
-</div>
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/ddos/" rel="tag">ddos</a> <a href="/tag/guy/" rel="tag">guy</a> <a href="/tag/interview/" rel="tag">interview</a> <a href="/tag/nice/" rel="tag">nice</a> <a href="/tag/post/" rel="tag">post</a></span> 
+
 Updated: 2015-06-03
 
     

@@ -2,10 +2,6 @@
 title: "Meet The Market Admin Who Was Responsible For the Ddos Attacks"
 ---
 
-10492  tag-admin tag-attacks tag-ddos tag-meet tag-responsible
-    
-    
-        
 
 Posted by: DeepDotWeb
     
@@ -14,11 +10,9 @@ Posted by: DeepDotWeb
 
 
     
-<span><a href="/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/#comments">88 Comments</a></span>
-</p>
 
     
-<p>Without getting into too much details &#8211; a market was responsible to at least some if not most of the DDosing of the past 2 weeks, luckily the ddoser account got hacked by another market admin who was extorted by him (<a href="http://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market">TRD</a>), and all communication documented &#8211; its pretty much self explanatory, added some comments:</p>
+<p>Without getting into too much details &#8211; a market was responsible to at least some if not most of the DDosing of the past 2 weeks, luckily the ddoser account got hacked by another market admin who was extorted by him (<a href="/marketplace-directory/listing/therealdeal-market">TRD</a>), and all communication documented &#8211; its pretty much self explanatory, added some comments:</p>
 <p><em><strong>* Need to point out that he wasn&#8217;t responsible for the initial ddosing &#8211; but onlty after he was contacted by the ddoser</strong></em></p>
 <p>At first,  he was ddosed himself and was asked for a ransom to stop the attack:<br />
 <a href="/imgs/2015/05/ddos1.png"><img class="aligncenter size-full wp-image-10493" src="/imgs/2015/05/ddos1.png" alt="ddos1" width="1301" height="744" srcset="/imgs/2015/05/ddos1.png 1301w, /imgs/2015/05/ddos1-300x172.png 300w, /imgs/2015/05/ddos1-1024x586.png 1024w" sizes="(max-width: 1301px) 100vw, 1301px" /></a></p>
@@ -57,7 +51,6 @@ Posted by: DeepDotWeb
     
     
 
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/attacks/" rel="tag">attacks</a> <a href="/tag/ddos/" rel="tag">ddos</a> <a href="/tag/meet/" rel="tag">meet</a> <a href="/tag/responsible/" rel="tag">responsible</a></span>				
 Updated: 2015-05-31
 
     

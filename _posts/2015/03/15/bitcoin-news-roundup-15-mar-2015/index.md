@@ -2,13 +2,9 @@
 title: "Bitcoin News Roundup – 15 Mar.2015"
 ---
 
-9479  tag-1886 tag-mar2015 
 Posted by: DeepDotWeb 
 
 <span>March 15, 2015</span>
-
-
-<span><a href="/2015/03/15/bitcoin-news-roundup-15-mar-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -24,6 +20,5 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>T-Mobile in Poland accepts bitcoin. According to <a href="http://bitcoinexaminer.org/tmobile-clients-top-up-phones-bitcoin-poland/">Bitcoin Examiner</a>, Polska Telefonia Cyfrowa joined forces with InPay, a Polish bitcoin platform to accept the digital currency as a legal form of payment. The partnership will expand the use of bitcoin in the Polish market, and especially among prepaid telephone users.</p>
 <p>RedditMarket accepts bitcoin. As Yessi Bello Perez of <a href="http://www.coindesk.com/reddit-adds-bitcoin-payments-to-merchandise-store/">Coin Desk</a> reports, Reddit entered into a partnership with Coinbase to enable the processing of payments in its merchandise store with the use of bitcoin. Generally, the partnership is well-received and some users asked RedditMarket to include other virtual currencies as well such as the dogecoin.</p>
-</div>
-<a href="/tag/15/" rel="tag">15</a> <a href="/tag/mar2015/" rel="tag">mar2015</a>  </span> 
+
 Updated: 2015-03-15

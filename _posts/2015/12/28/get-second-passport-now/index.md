@@ -2,15 +2,14 @@
 title: "How &#8211; and Why &#8211; to Get a Second Passport Now"
 ---
 
-10534  tag-passport
-Posted by: <a href="https://www.deepdotweb.com/author/archer/" title="">Archer 
+Posted by: Archer 
 
 <span>December 28, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/12/28/get-second-passport-now/#comments">27 Comments</a></span>
 
 
-<p><em>**This is part two of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom. <a href="https://www.deepdotweb.com/2015/12/23/cashing-out-what-is-your-strategy/">Read the first post here</a>.</em></p>
+
+<p><em>**This is part two of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom. <a href="/2015/12/23/cashing-out-what-is-your-strategy/">Read the first post here</a>.</em></p>
 <h2>Why Everyone Needs a Second (or Third) Passport</h2>
 <p>We are living in a strange time. Hypocritical perverts are not arrested for child molestation and sexual abuse, instead they are indicted for<a href="http://www.wsj.com/articles/former-house-speaker-dennis-hastert-indicted-1432849134" target="_blank"> &#8216;structuring&#8217; withdrawals to pay blackmail to the victim</a>. And &#8216;lying to the government&#8217;.. about withdrawing his own money.</p>
 <p>Simply possessing any large amount of cash <a href="http://www.peoplespunditdaily.com/public-policy/2015/04/28/policing-for-profit-legal-stealing-government-civil-asset-forfeiture/" target="_blank">allows the government to confiscate it</a>. even if the owner is never charged with a crime. Essentially, carrying cash is illegal.</p>
@@ -51,7 +50,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/archer/" title="">Archer
 <p><strong>Malta, Croatia, Jamaica, and Cyprus</strong> are all either considering, or are in the process of enacting, &#8216;Citizenship by Investment&#8217; programs as well.</p>
 <p>Whatever plan you decide, you have to decide to make a plan. As GATCA begins to take effect in the next 2 years, anyone without a second passport, an established overseas bank account and hard assets put away from the grasp of your home country is going to be too late to escape. Take a minute and <a href="http://www.mondaq.com/x/388362/offshore+financial+centres/Dont+Get+Snowed+In+By+GATCA">learn about GATCA</a>, and see why you need a second passport, an offshore bank account and an established escape plan now, while you can.</p>
 <p><em>Up next, FATCA, GATCA, and how to keep your money and your freedom from being confiscated. Effective ways to convert cash and bitcoin into safe, anonymous and clean assets without going to jail.</em></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/passport/" rel="tag">passport</a></span> 
-Updated: 2015-12-28<a href="https://www.deepdotweb.com/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
+
+Updated: 2015-12-28
 

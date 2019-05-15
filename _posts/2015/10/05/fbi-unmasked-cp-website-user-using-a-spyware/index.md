@@ -2,12 +2,11 @@
 title: "FBI Unmasked CP Website User Using A Spyware"
 ---
 
-11672 tag-cp tag-spyware tag-unmasked tag-user tag-website
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>October 5, 2015</span>
 
-<span><a href="/2015/10/05/fbi-unmasked-cp-website-user-using-a-spyware/#comments">9 Comments</a></span>
+
 
 
 <p><a href="/2015/09/30/staten-island-man-busted-for-using-multiple-darkweb-cp-websites/">Do you remember Luis Escobosa?</a> He has been caught for accessing, using and downloading pictures and media files from different child porn websites. The FBI arrested the Staten Island man last Friday, however, this is not the interesting fact here, it is the case that the <a href="http://www.theregister.co.uk/2015/10/01/fbi_busted_malware_creep_on_dark_web/">FBI has uncovered how have they caught the CP user.</a></p>
@@ -16,7 +15,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>The process how the spyware works goes by this: a file, typically a Flash file, is hosted by a seized child porn website, and sent to web browsers when users of the site visit the hidden service via Tor. This Flash file is run in Adobe&#8217;s plugin and establishes a direct connection to an FBI-controlled server on the public internet without going through Tor. After these steps have been done, in most cases, the feds can read off the users’ IP addresses and catch the user for using CP websites.</p>
 <p>Regarding the case of Luis Escobosa, the spyware reported back he was using a computer in Staten Island via Verizon&#8217;s fiber service. After determining his home address from the internet service provider using a subpoena, FBI agents got a search warrant and snatched the man&#8217;s computers in late June.</p>
 <p>According to investigators, Escobosa thought he kept no copies of illegal content on his PC, but agents found 115 child sex abuse images stored in the thumbnail cache of his Tor browser – plus logs of IRC chats with other users of child porn websites. After he was arrested, Escobosa said nothing and demanded a lawyer, then admitted to the Feds he had surfed websites looking for images containing CP.</p>
-</div>
-<a href="/tag/cp/" rel="tag">cp</a> <a href="/tag/spyware/" rel="tag">spyware</a> <a href="/tag/unmasked/" rel="tag">unmasked</a> <a href="/tag/user/" rel="tag">user</a> <a href="/tag/website/" rel="tag">website</a></span> 
-Updated: 2015-10-05<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-10-05
 

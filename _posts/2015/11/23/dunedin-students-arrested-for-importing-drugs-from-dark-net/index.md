@@ -2,14 +2,11 @@
 title: "Dunedin Students Arrested For Importing Drugs From Dark Net"
 ---
 
-12246  tag-dark tag-dunedin tag-importing tag-net tag-students
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 23, 2015</span>
 
 
-<span><a href="/2015/11/23/dunedin-students-arrested-for-importing-drugs-from-dark-net/#comments">3 Comments</a></span>
-</p>
 
     
 <p><a href="http://www.odt.co.nz/news/dunedin/363444/students-arrested-raids">Two Otago University students (aged 23) have been arrested for importing drugs from dark net markets and selling them on the streets.</a> The police raid was a part of a joint action called Operation Albany, which was conducted at two properties located in the university area of Dunedin on November 16. The two drug-dealing students were granted name suppression by court after being charged with importing and supplying drugs from the dark web.</p>
@@ -25,8 +22,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>&#8221;We would rather see them qualify and finish at university and not finish by appearing in front of the courts.”</p>
 <p>&#8221;This is a national problem, not just an Otago University problem. It&#8217;s happening across the country at all universities. People think they can make easy money.&#8221;</p>
 <p>The two students are attending their court hearing today.</p>
-</div>
-<a href="/tag/arrested/" rel="tag">arrested</a>   <a href="/tag/dunedin/" rel="tag">dunedin</a> <a href="/tag/importing/" rel="tag">importing</a> <a href="/tag/net/" rel="tag">net</a> <a href="/tag/students/" rel="tag">students</a></span> 
+
 Updated: 2015-11-23
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

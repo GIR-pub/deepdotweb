@@ -35,68 +35,26 @@ Posted by: DeepDotWeb
 <p>In early 2014, Russian hackers gained access to Mtgox backend servers (possibly with the help of insiders) and released [<a href="magnet:?xt=urn:btih:b6545ecc7db8d44c8cbc4e93989edf8221af75f5&amp;dn=2014+Mt.+Gox+Leak&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A6969&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80&amp;tr=udp%%203A%2F%2Fopen.demonii.com%3A1337" target="_blank">a public torrent</a>] containing dumps of Mtgox databases up to December 2013 and held the rest back for sale. This is the leak which was used to produce <a href="https://willyreport.wordpress.com/">The Willy Report</a> and <a href="http://bitcoin.stamen.com/">The MtGox 500</a> Fortunately, that period covers the full lifetime of SR1.</p>
 <p>The email specifies that ‘The bitcoins (7393.49 BTC) were transferred to address AsUc3Lw1oDmwimWoGeCfBngzziS98FP5V (7393.49 BTC).’, which is an unusual number of BTC. We can search the torrent for that and find entry y, entry x is included as it served as direct confirmation of the account:</p>
 <p>x:</p>
-<div id="crayon-5c7ac0d308a07696403378" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     3fcf63cc-c7d9-4cd8-b630-9a7ac9ee4ff0,0f97bfa3-b1ad-404a-afb1-8ead63c8250b,"2013-05-06 11:09:31",withdraw,-8630
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a07696403378-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a07696403378-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a07696403378-1"><span class="crayon-cn">3fcf63cc</span><span class="crayon-o">-</span><span class="crayon-v">c7d9</span><span class="crayon-o">-</span><span class="crayon-cn">4cd8</span><span class="crayon-o">-</span><span class="crayon-v">b630</span><span class="crayon-o">-</span><span class="crayon-cn">9a7ac9ee4ff0</span><span class="crayon-sy">,</span><span class="crayon-cn">0f97bfa3</span><span class="crayon-o">-</span><span class="crayon-v">b1ad</span><span class="crayon-o">-</span><span class="crayon-cn">404a</span><span class="crayon-o">-</span><span class="crayon-v">afb1</span><span class="crayon-o">-</span><span class="crayon-cn">8ead63c8250b</span><span class="crayon-sy">,</span><span class="crayon-s">"2013-05-06 11:09:31"</span><span class="crayon-sy">,</span><span class="crayon-v">withdraw</span><span class="crayon-sy">,</span><span class="crayon-o">-</span><span class="crayon-cn">8630</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a07696403378-2">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     y:</p>
-<div id="crayon-5c7ac0d308a13164935093" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     3fcf63cc-c7d9-4cd8-b630-9a7ac9ee4ff0,521960b9-8524-4737-93a0-2411aaa5e20f,"2013-05-06 12:38:33",withdraw,-7393.49
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a13164935093-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a13164935093-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a13164935093-1"><span class="crayon-cn">3fcf63cc</span><span class="crayon-o">-</span><span class="crayon-v">c7d9</span><span class="crayon-o">-</span><span class="crayon-cn">4cd8</span><span class="crayon-o">-</span><span class="crayon-v">b630</span><span class="crayon-o">-</span><span class="crayon-cn">9a7ac9ee4ff0</span><span class="crayon-sy">,</span><span class="crayon-cn">521960b9</span><span class="crayon-o">-</span><span class="crayon-cn">8524</span><span class="crayon-o">-</span><span class="crayon-cn">4737</span><span class="crayon-o">-</span><span class="crayon-cn">93a0</span><span class="crayon-o">-</span><span class="crayon-cn">2411aaa5e20f</span><span class="crayon-sy">,</span><span class="crayon-s">"2013-05-06 12:38:33"</span><span class="crayon-sy">,</span><span class="crayon-v">withdraw</span><span class="crayon-sy">,</span><span class="crayon-o">-</span><span class="crayon-cn">7393.49</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a13164935093-2">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     That first part “3fcf63cc-c7d9-4cd8-b630-9a7ac9ee4ff0” is the UUID.</p>
 <p>We asked an ex-employee for assistance in going further. The insider provided the following excerpt from official logs not part of the lea k(after showing him the relevant leak logs):</p>
-<div id="crayon-5c7ac0d308a18541442625" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     "521960b9-8524-4737-93a0-2411aaa5e20f","3fcf63cc-c7d9-4cd8-b630-9a7ac9ee4ff0","22329","2013-05-06 12:38:33","withdraw","739349000000","806031","Bitcoin withdraw to
     1AsUc3Lw1oDmwimWoGeCfBngzziS98FP5V","(ip)","Money_Bitcoin_Block_Tx","ea309d42641b03ff0c41f1671a803db612d5c8c6f6ef183f197391ba969d2a78"
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a18541442625-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a18541442625-2">2</div><div class="crayon-num" data-line="crayon-5c7ac0d308a18541442625-3">3</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a18541442625-1"><span class="crayon-s">"521960b9-8524-4737-93a0-2411aaa5e20f"</span><span class="crayon-sy">,</span><span class="crayon-s">"3fcf63cc-c7d9-4cd8-b630-9a7ac9ee4ff0"</span><span class="crayon-sy">,</span><span class="crayon-s">"22329"</span><span class="crayon-sy">,</span><span class="crayon-s">"2013-05-06 12:38:33"</span><span class="crayon-sy">,</span><span class="crayon-s">"withdraw"</span><span class="crayon-sy">,</span><span class="crayon-s">"739349000000"</span><span class="crayon-sy">,</span><span class="crayon-s">"806031"</span><span class="crayon-sy">,</span><span class="crayon-s">"Bitcoin withdraw to</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a18541442625-2"><span class="crayon-s"> 1AsUc3Lw1oDmwimWoGeCfBngzziS98FP5V"</span><span class="crayon-sy">,</span><span class="crayon-s">"(ip)"</span><span class="crayon-sy">,</span><span class="crayon-s">"Money_Bitcoin_Block_Tx"</span><span class="crayon-sy">,</span><span class="crayon-s">"ea309d42641b03ff0c41f1671a803db612d5c8c6f6ef183f197391ba969d2a78"</span></div><div class="crayon-line" id="crayon-5c7ac0d308a18541442625-3">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     This shows the same UUID, and some additional information such as blockchain data relating to the withdrawal.</p>
@@ -105,24 +63,10 @@ Posted by: DeepDotWeb
 <p>The agent Der-Yeghiayan testifies on 20 January 2015 that they were focusing on what seems to have been a different account (<a href="http://antilop.cc/sr/files/2015_01_20_Ulbricht_trial_transcript_W2_D1.pdf">pg102-107</a>), perhaps explaining the general lack of LE interest in the other activities.</p>
 <p>The Mtgox insider, which is familiar with the legal side of things, commented on these transactions that the (bogus) identity information for 3fcf63cc had not drawn any notice and that 3fcf63cc was very active with <a href="https://mega.co.nz/#%212EAQSAyb%21N_YFfapZlJTRafvEIJI2OPI0naHGQ-qRK7csKmFgnPw">a number of transfers in/out</a>, a peak balance of 150k btc, and ~20,000 different trades of “(deposit, withdrawal, buy, sell, etc)” (consistent with the email’s description of the trading activity as ‘voluminous’). The 40,000 BTC withdrawal had caught our interest as this was the maximum amount of bitcoin that could be withdrawn within a day at the time, it also meant the user was verified as the limit for unverified users as the time was a mere 4000 BTC per day, the insider confirmed that the account had AML2 status (notarized verification).</p>
 <p>An example order from the leaked files:</p>
-<div id="crayon-5c7ac0d308a21677248391" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     1312614863842963,"2011-08-06 07:14:23",6534,NJP,sell,USD,29.70994053,292.03445,78.59413634758,22952.195381491,0.8761,78.59413634758,68.856322854115,0,0
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a21677248391-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a21677248391-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a21677248391-1"><span class="crayon-cn">1312614863842963</span><span class="crayon-sy">,</span><span class="crayon-s">"2011-08-06 07:14:23"</span><span class="crayon-sy">,</span><span class="crayon-cn">6534</span><span class="crayon-sy">,</span><span class="crayon-v">NJP</span><span class="crayon-sy">,</span><span class="crayon-v">sell</span><span class="crayon-sy">,</span><span class="crayon-v">USD</span><span class="crayon-sy">,</span><span class="crayon-cn">29.70994053</span><span class="crayon-sy">,</span><span class="crayon-cn">292.03445</span><span class="crayon-sy">,</span><span class="crayon-cn">78.59413634758</span><span class="crayon-sy">,</span><span class="crayon-cn">22952.195381491</span><span class="crayon-sy">,</span><span class="crayon-cn">0.8761</span><span class="crayon-sy">,</span><span class="crayon-cn">78.59413634758</span><span class="crayon-sy">,</span><span class="crayon-cn">68.856322854115</span><span class="crayon-sy">,</span><span class="crayon-cn">0</span><span class="crayon-sy">,</span><span class="crayon-cn">0</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a21677248391-2">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     Isolating all trade entries associated with the account, <a href="https://www.dropbox.com/s/j3bboteyufiudbo/mtgox_uuid_6534.csv">17,049 unique entries were found</a>. (Note that interpreting Mtgox trade records can be challenging; for example, the data is occasionally corrupt, and not all of these are separate orders since the exchange splits them into multiple orders in order to match them with various counter parties.) Looking at the entries, the easiest way to identify multiple trades as belonging to a single buy or sell order is to group them based on timestamps. Individual trades are visualized in this graph:</p>
@@ -157,27 +101,13 @@ Posted by: DeepDotWeb
 <p><strong>Anomalies &amp; Missing entries</strong></p>
 <p>EDIT: removed section about 3 missing rows. Appears to have been a glitch in downloading over HTTP or grepping the 2014 Mtgox leak, please disregard.</p>
 <p>An additional anomaly is the account-verification status. Mtgox required identification for very large withdrawals like the 40k BTC withdrawal on 6-9-2012 or the final withdrawal of 4933 BTC made by the putative hacker, and this identity verification is attested to in the government email. But nevertheless, the transaction records mark each transaction with the Mtgox code of &#8220;!!&#8221; for an unverified or untrustworthy account, from the beginning to the end:</p>
-<div id="crayon-5c7ac0d308a40141311066" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     1351795530115354,2012-11-01 18:45:30,6534,NJP,sell,USD,8.23742072,91.91536,79.874,7341.627,0.25736,79.874,20.556,0,0,!!,
     ...
     1367843632129978,"2013-05-06 12:33:52",6534,22fa9cb7-edfa-475e-a598-7b6b0d147ea5,45fe9a2df91b0b67779de6646a32fe42,NJP,buy,USD,134.13461537,16753.41346,98.063,
     1642892.307,0,98.063,0,0.40240385,4511.694,!!,
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a40141311066-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a40141311066-2">2</div><div class="crayon-num" data-line="crayon-5c7ac0d308a40141311066-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a40141311066-4">4</div><div class="crayon-num" data-line="crayon-5c7ac0d308a40141311066-5">5</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a40141311066-1"><span class="crayon-cn">1351795530115354</span><span class="crayon-sy">,</span><span class="crayon-cn">2012</span><span class="crayon-o">-</span><span class="crayon-cn">11</span><span class="crayon-o">-</span><span class="crayon-cn">01</span><span class="crayon-h"> </span><span class="crayon-cn">18</span><span class="crayon-o">:</span><span class="crayon-cn">45</span><span class="crayon-o">:</span><span class="crayon-cn">30</span><span class="crayon-sy">,</span><span class="crayon-cn">6534</span><span class="crayon-sy">,</span><span class="crayon-v">NJP</span><span class="crayon-sy">,</span><span class="crayon-v">sell</span><span class="crayon-sy">,</span><span class="crayon-v">USD</span><span class="crayon-sy">,</span><span class="crayon-cn">8.23742072</span><span class="crayon-sy">,</span><span class="crayon-cn">91.91536</span><span class="crayon-sy">,</span><span class="crayon-cn">79.874</span><span class="crayon-sy">,</span><span class="crayon-cn">7341.627</span><span class="crayon-sy">,</span><span class="crayon-cn">0.25736</span><span class="crayon-sy">,</span><span class="crayon-cn">79.874</span><span class="crayon-sy">,</span><span class="crayon-cn">20.556</span><span class="crayon-sy">,</span><span class="crayon-cn">0</span><span class="crayon-sy">,</span><span class="crayon-cn">0</span><span class="crayon-sy">,</span><span class="crayon-o">!</span><span class="crayon-o">!</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a40141311066-2"><span class="crayon-sy">.</span><span class="crayon-sy">.</span><span class="crayon-sy">.</span></div><div class="crayon-line" id="crayon-5c7ac0d308a40141311066-3"><span class="crayon-cn">1367843632129978</span><span class="crayon-sy">,</span><span class="crayon-s">"2013-05-06 12:33:52"</span><span class="crayon-sy">,</span><span class="crayon-cn">6534</span><span class="crayon-sy">,</span><span class="crayon-cn">22fa9cb7</span><span class="crayon-o">-</span><span class="crayon-v">edfa</span><span class="crayon-o">-</span><span class="crayon-cn">475e</span><span class="crayon-o">-</span><span class="crayon-v">a598</span><span class="crayon-o">-</span><span class="crayon-cn">7b6b0d147ea5</span><span class="crayon-sy">,</span><span class="crayon-cn">45fe9a2df91b0b67779de6646a32fe42</span><span class="crayon-sy">,</span><span class="crayon-v">NJP</span><span class="crayon-sy">,</span><span class="crayon-v">buy</span><span class="crayon-sy">,</span><span class="crayon-v">USD</span><span class="crayon-sy">,</span><span class="crayon-cn">134.13461537</span><span class="crayon-sy">,</span><span class="crayon-cn">16753.41346</span><span class="crayon-sy">,</span><span class="crayon-cn">98.063</span><span class="crayon-sy">,</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a40141311066-4"><span class="crayon-cn">1642892.307</span><span class="crayon-sy">,</span><span class="crayon-cn">0</span><span class="crayon-sy">,</span><span class="crayon-cn">98.063</span><span class="crayon-sy">,</span><span class="crayon-cn">0</span><span class="crayon-sy">,</span><span class="crayon-cn">0.40240385</span><span class="crayon-sy">,</span><span class="crayon-cn">4511.694</span><span class="crayon-sy">,</span><span class="crayon-o">!</span><span class="crayon-o">!</span><span class="crayon-sy">,</span></div><div class="crayon-line" id="crayon-5c7ac0d308a40141311066-5">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     It&#8217;s not 100% clear whether the &#8216;!!&#8217; notation refers to identify-verification or whether it might also here be referring to the account being accessed from multiple countries&#8217; IPs (which is certainly the case for SR1, which according to the <a href="https://t.co/8DZdRGIUYF">master server list document from Ulbricht&#8217;s laptop, exhibit GX-264</a>, bounced from country to country).</p>
@@ -195,24 +125,10 @@ Posted by: DeepDotWeb
 </ol>
 <p><strong>Code</strong></p>
 <p>The CSV file follows a schema like thus:</p>
-<div id="crayon-5c7ac0d308a4b403944761" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     Trade_Id,Date,User_Id,Japan,Type,Currency,Bitcoins,Money,Money_Rate,Money_JPY,Money_Fee,Money_Fee_Rate,Money_Fee_JPY,Bitcoin_Fee,Bitcoin_Fee_JPY
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a4b403944761-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a4b403944761-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a4b403944761-1"><span class="crayon-v">Trade_Id</span><span class="crayon-sy">,</span><span class="crayon-v">Date</span><span class="crayon-sy">,</span><span class="crayon-v">User_Id</span><span class="crayon-sy">,</span><span class="crayon-v">Japan</span><span class="crayon-sy">,</span><span class="crayon-v">Type</span><span class="crayon-sy">,</span><span class="crayon-v">Currency</span><span class="crayon-sy">,</span><span class="crayon-v">Bitcoins</span><span class="crayon-sy">,</span><span class="crayon-v">Money</span><span class="crayon-sy">,</span><span class="crayon-v">Money_Rate</span><span class="crayon-sy">,</span><span class="crayon-v">Money_JPY</span><span class="crayon-sy">,</span><span class="crayon-v">Money_Fee</span><span class="crayon-sy">,</span><span class="crayon-v">Money_Fee_Rate</span><span class="crayon-sy">,</span><span class="crayon-v">Money_Fee_JPY</span><span class="crayon-sy">,</span><span class="crayon-v">Bitcoin_Fee</span><span class="crayon-sy">,</span><span class="crayon-v">Bitcoin_Fee</span><span class="crayon-sy">_</span>JPY</div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a4b403944761-2">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     Or by column-number:</p>
@@ -234,48 +150,20 @@ Posted by: DeepDotWeb
 <li>Bitcoin_Fee_JPY</li>
 </ol>
 <p>Halfway through, the format changes to include a hash. It can be deleted like this:</p>
-<div id="crayon-5c7ac0d308a50424503236" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sed -i -e 's/22fa9cb7-edfa-475e-a598-7b6b0d147ea5,45fe9a2df91b0b67779de6646a32fe42\,//' mtgox.csv
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a50424503236-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a50424503236-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a50424503236-1"><span class="crayon-v">sed</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-v">i</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">e</span><span class="crayon-h"> </span><span class="crayon-s">'s/22fa9cb7-edfa-475e-a598-7b6b0d147ea5,45fe9a2df91b0b67779de6646a32fe42\,//'</span><span class="crayon-h"> </span><span class="crayon-v">mtgox</span><span class="crayon-sy">.</span><span class="crayon-i">csv</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a50424503236-2">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     The resulting file can be read into R and graphed:</p>
-<div id="crayon-5c7ac0d308a54464259752" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     hedging &amp;lt;- read.csv("mtgox_uuid_6534.csv", header=FALSE)
     hedging$Date &amp;lt;- as.Date(hedging$V2)
     hedgingDaily &amp;lt;- aggregate(V8 ~ V5 + Date, hedging, `sum`)
     with(hedgingDaily, qplot(Date, V8, color=V5))
 </textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c7ac0d308a54464259752-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a54464259752-2">2</div><div class="crayon-num" data-line="crayon-5c7ac0d308a54464259752-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c7ac0d308a54464259752-4">4</div><div class="crayon-num" data-line="crayon-5c7ac0d308a54464259752-5">5</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c7ac0d308a54464259752-1"><span class="crayon-v">hedging</span><span class="crayon-h"> </span><span class="crayon-o">&amp;</span><span class="crayon-v">lt</span><span class="crayon-sy">;</span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-v">read</span><span class="crayon-sy">.</span><span class="crayon-e">csv</span><span class="crayon-sy">(</span><span class="crayon-s">"mtgox_uuid_6534.csv"</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-v">header</span><span class="crayon-o">=</span><span class="crayon-t">FALSE</span><span class="crayon-sy">)</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a54464259752-2"><span class="crayon-v">hedging</span><span class="crayon-sy">$</span><span class="crayon-v">Date</span><span class="crayon-h"> </span><span class="crayon-o">&amp;</span><span class="crayon-v">lt</span><span class="crayon-sy">;</span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-st">as</span><span class="crayon-sy">.</span><span class="crayon-e">Date</span><span class="crayon-sy">(</span><span class="crayon-v">hedging</span><span class="crayon-sy">$</span><span class="crayon-v">V2</span><span class="crayon-sy">)</span></div><div class="crayon-line" id="crayon-5c7ac0d308a54464259752-3"><span class="crayon-v">hedgingDaily</span><span class="crayon-h"> </span><span class="crayon-o">&amp;</span><span class="crayon-v">lt</span><span class="crayon-sy">;</span><span class="crayon-o">-</span><span class="crayon-h"> </span><span class="crayon-e">aggregate</span><span class="crayon-sy">(</span><span class="crayon-v">V8</span><span class="crayon-h"> </span><span class="crayon-o">~</span><span class="crayon-h"> </span><span class="crayon-v">V5</span><span class="crayon-h"> </span><span class="crayon-o">+</span><span class="crayon-h"> </span><span class="crayon-v">Date</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-v">hedging</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">`</span><span class="crayon-v">sum</span><span class="crayon-sy">`</span><span class="crayon-sy">)</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c7ac0d308a54464259752-4"><span class="crayon-e">with</span><span class="crayon-sy">(</span><span class="crayon-v">hedgingDaily</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-e">qplot</span><span class="crayon-sy">(</span><span class="crayon-v">Date</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-v">V8</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-v">color</span><span class="crayon-o">=</span><span class="crayon-v">V5</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span></div><div class="crayon-line" id="crayon-5c7ac0d308a54464259752-5">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 
 Updated: 2015-01-25

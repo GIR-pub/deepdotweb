@@ -2,13 +2,12 @@
 title: "New Information Regarding The Shiny Flakes Bust"
 ---
 
-11289  tag-bust tag-flakes tag-information tag-shiny
 Posted by: DeepDotWeb 
 
 <span>August 17, 2015</span>
 
 
-<span><a href="/2015/08/17/new-information-regarding-the-shiny-flakes-bust/#comments">6 Comments</a></span>
+
 
 
 <p><a href="/2015/03/12/shiny-flakes-bust-38-houses-raided/">In March 2015, Shiny Flakes, a huge deepweb vendor, who also had its own website on both the darknet and clearnet, has been busted by the German police</a>. The police have found 320 KGs of drugs, including huge amounts of MDMA, speed, cocaine, LSD, hash and 49,000 Euro cash, precision scales and vacuum devices in the room of a Leipzig apartment. The apartment’s owner is the 20 year old Maximilian S, who’s trial will start on the 24th of August. The Leipzig Court accuses him as the leader of the whole operation and with the selling of 914 Kgs of drugs. The police have also found his Bitcoin wallet where he has stored 1197 Bitcoins, which could worth 325,000 Euros.</p>
@@ -17,6 +16,5 @@ Posted by: DeepDotWeb
 <p>Maximilian have made his mistakes, however, if we really look into the whole operation, he had protected himself pretty well. He used various SIM cards and cell phones for communication, he also had a tool that could create magnetic cards that he could use at packing stations without giving out his real identity. With these tools, he was well-equipped for global drug trade, which he did well for a time, until he was caught. Also, an interesting information, as he was living with his mother and stepfather in a house together, they haven’t even noticed anything that their son is doing. The whole operation of Maximilian was running in his room and stayed in there until the police have busted the place.</p>
 <p>In my opinion, Maximilian never ever expected to be arrested: He knew that the police would be neither able to read his PGP-encrypted e-mails, even to pursue his Bitcoin cash flows. He also knew how he was able to hire smart enough using the Tor network in digital distribution without unmasking himself. The URLs of his store sites were registered in Tonga and the Cocos Islands, the servers were in the Netherlands.</p>
 <p>It is a question what sentence would Maximilian get at his trial. By the German law, it could be possible that, since he is 20 years old, he would get a juvenile sentence, however, the drugs that have been found in his apartment are 15000 times more than the „minor amount”. This could lead to an adult sentence. If that could be implemented to his case, he would get a maximum of 15 years.</p>
-</div>
- <a href="/tag/flakes/" rel="tag">flakes</a> <a href="/tag/information/" rel="tag">information</a> <a href="/tag/shiny/" rel="tag">shiny</a></span> 
+
 Updated: 2015-08-17

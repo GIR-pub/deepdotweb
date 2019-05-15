@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis &#8211; 28th October"
 ---
 
-11868  tag-28th tag-analysis tag-october tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>October 28, 2015</span>
 
 
-<span><a href="/2015/10/28/bitcoin-price-analysis-28th-october/#respond">Leave a comment</a></span>
+
 
 
 <p>Bitcoin moved up higher this week, from a low at $ 262, to a high of $ 295. Here is this week’s 6H chart</p>
@@ -36,7 +35,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/10/52.jpg"><img class="aligncenter size-full wp-image-11873" src="/imgs/2015/10/52.jpg" alt="5" width="450" height="344" srcset="/imgs/2015/10/52.jpg 450w, /imgs/2015/10/52-300x229.jpg 300w" sizes="(max-width: 450px) 100vw, 450px"/></a></p>
 <p>Regardless of facts, the uncanny correlation with events is visible on charts, thus dismissing the idea is a sure way to get on the wrong end of a trade.</p>
 <p>China is pulling out all stops to rein in market instability, even going as far as <em>“launching a plan to inject pension funds into capital markets in 2016 with estimated size of 2 trillion RMB!” </em>&#8211; an announcement made today. What we are witnessing is an increasing number of bitcoin mentions in time of capital controls and economic crisis that forebodes the role it will play as a safe haven asset class in the coming years.</p>
-</div>
-<a href="/tag/28th/" rel="tag">28th</a>  
+
 Updated: 2015-10-28
 

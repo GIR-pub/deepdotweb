@@ -2,16 +2,13 @@
 title: "Meet Steven Ruijter: Utopia Market Developer Aka &#8220;CosaNostra&#8221;"
 ---
 
-10563  tag-cosanostra tag-story tag-tells tag-year
 Posted by: DeepDotWeb 
 
 <span>June 4, 2015</span>
     
-<span><a href="/2015/06/04/meet-steven-ruijter-utopia-market-developer-aka-cosanostra/#comments">5 Comments</a></span>
-</p>
 
 <p><strong>Update</strong>: At the 10th of June 2015 &#8211; <a href="/2015/06/10/utopia-market-developer-sentence-by-higher-courtroom-in-arnhem/">Steven was sentenced</a> to a lengthy Jail term along with 15K Euro fine, if you want to help feel free to donate to him via this address: <strong>12CogZNo4CFLZ6ViMZL5NcrwBA5svX<wbr/>i12V</strong></p>
-<p><a href="http://www.deepdotweb.com/?s=UTOPIA">Utopia</a> was one of the markets with <a href="http://www.deepdotweb.com/2014/02/11/utopia-marketplace-seized-by-dutch-police/">the shortest lifespan</a>, only one week before its founders, former staff member of BlackMarketReloaded were raided, arrested and sentenced to lengthy jail terms. Today for the first time, we are happy to publish an interview with one of the mods of BMR who was also the developer of Utopia &#8211;  Steven Ruijter AKA &#8220;CosaNostra&#8221; who was recently released after spending 1 year in prison, along with some more info from the legal documents of this case, presented here publicly for the first time.</p>
+<p><a href="/?s=UTOPIA">Utopia</a> was one of the markets with <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/">the shortest lifespan</a>, only one week before its founders, former staff member of BlackMarketReloaded were raided, arrested and sentenced to lengthy jail terms. Today for the first time, we are happy to publish an interview with one of the mods of BMR who was also the developer of Utopia &#8211;  Steven Ruijter AKA &#8220;CosaNostra&#8221; who was recently released after spending 1 year in prison, along with some more info from the legal documents of this case, presented here publicly for the first time.</p>
 <p><span style="text-decoration: underline;">Spoiler</span>: Nobody got something even remotely close to life without parole.</p>
 <p><strong>Who are you and whats your relation to BMR / Utopia?</strong></p>
 <p>My real name is Steven Ruijter, I was a user under the nickname CosaNostra.</p>
@@ -19,7 +16,7 @@ Posted by: DeepDotWeb
 <p>CosaNostra was a shared account like any mod account on BMR, it was not my personal account it was an account were i had access to.<br/>
     BMR was kinda smart designed on the background, to be honest there were no roles defined. A moderator is a moderator.</p>
 <div id="attachment_10566" style="width: 1021px" class="wp-caption aligncenter"><a href="/imgs/2015/06/utopiagun.png"><img class="size-full wp-image-10566" src="/imgs/2015/06/utopiagun.png" alt="A gun seized during the raids on the BMR / Utopia team." width="1011" height="693" srcset="/imgs/2015/06/utopiagun.png 1011w, /imgs/2015/06/utopiagun-300x206.png 300w" sizes="(max-width: 1011px) 100vw, 1011px"/></a><p class="wp-caption-text">A gun seized during the raids on the BMR / Utopia team.</p></div>
-<p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="http://www.deepdotweb.com/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
+<p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
 <p>I don&#8217;t know how backopy is doing at this moment. The judges asked me the same question, I told them he is doing fine&#8230; That&#8217;s kinda based on no thing , but i think he is really doing fine preparing for the next steps. Hope to hear from him in the future. I was jailed so didn&#8217;t notice the takedown of the BMR forum.. Why should anyone take down an discussion forum nothing going on there, but some east European country are retarded so its plausible.</p>
 <div id="attachment_10568" style="width: 908px" class="wp-caption aligncenter"><a href="/imgs/2015/06/mods.png"><img class=" wp-image-10568" src="/imgs/2015/06/mods.png" alt="From the time when BMR forums were used as a backup forums after The Takedown of Silk Road 1" width="898" height="452" srcset="/imgs/2015/06/mods.png 1412w, /imgs/2015/06/mods-300x151.png 300w, /imgs/2015/06/mods-1024x516.png 1024w" sizes="(max-width: 898px) 100vw, 898px"/></a><p class="wp-caption-text">From the time when BMR forums were used as a backup forums after The Takedown of Silk Road 1</p></div>
 <p><strong>Can you give us the full background of Utopia creation? (Why? By who, which mods? etc&#8230;) Did Backopy had any role there?</strong></p>
@@ -50,14 +47,13 @@ Posted by: DeepDotWeb
 <p><strong>Thanks Steven for this interview.</strong></p>
 <p>Background about Utopia bust and BMR:</p>
 <ul>
-<li class="post-box-title"><a title="Permalink to The Utopia Bust Details – Prosecution Announcement" href="http://www.deepdotweb.com/2014/02/12/the-utopia-bust-details-prosecution-announcement/" rel="bookmark">The Utopia Bust Details – Prosecution Announcement</a></li>
-<li class="post-box-title"><a title="Permalink to BMR Based Market: Utopia Market" href="http://www.deepdotweb.com/2013/12/31/new-bmr-based-market-utopia-market/" rel="bookmark">BMR Based Market: Utopia Market</a></li>
-<li class="post-box-title"><a title="Permalink to Utopia Marketplace Seized by Dutch Police – 5 Arrested" href="http://www.deepdotweb.com/2014/02/11/utopia-marketplace-seized-by-dutch-police/" rel="bookmark">Utopia Marketplace Seized by Dutch Police – 5 Arrested</a></li>
-<li class="post-box-title"><a title="Permalink to Black Market Reloaded Hacked – Around $200,000 Stolen" href="http://www.deepdotweb.com/2013/12/06/bmr-hacked-around-200000-stolen/" rel="bookmark">Black Market Reloaded Hacked – Around $200,000 Stolen</a></li>
-<li class="post-box-title"><a title="Permalink to BMR Is Shutting Down!" href="http://www.deepdotweb.com/2013/12/01/bmr-is-shutting-down/" rel="bookmark">BMR Is Shutting Down!</a></li>
+<li class="post-box-title"><a title="Permalink to The Utopia Bust Details – Prosecution Announcement" href="/2014/02/12/the-utopia-bust-details-prosecution-announcement/" rel="bookmark">The Utopia Bust Details – Prosecution Announcement</a></li>
+<li class="post-box-title"><a title="Permalink to BMR Based Market: Utopia Market" href="/2013/12/31/new-bmr-based-market-utopia-market/" rel="bookmark">BMR Based Market: Utopia Market</a></li>
+<li class="post-box-title"><a title="Permalink to Utopia Marketplace Seized by Dutch Police – 5 Arrested" href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/" rel="bookmark">Utopia Marketplace Seized by Dutch Police – 5 Arrested</a></li>
+<li class="post-box-title"><a title="Permalink to Black Market Reloaded Hacked – Around $200,000 Stolen" href="/2013/12/06/bmr-hacked-around-200000-stolen/" rel="bookmark">Black Market Reloaded Hacked – Around $200,000 Stolen</a></li>
+<li class="post-box-title"><a title="Permalink to BMR Is Shutting Down!" href="/2013/12/01/bmr-is-shutting-down/" rel="bookmark">BMR Is Shutting Down!</a></li>
 </ul>
-</div>
-<a href="/tag/cosanostra/" rel="tag">cosanostra</a> <a href="/tag/jail/" rel="tag">jail</a> <a href="/tag/story/" rel="tag">story</a> <a href="/tag/tells/" rel="tag">tells</a> <a href="/tag/year/" rel="tag">year</a></span> 
+
 Updated: 2015-06-04
 
     

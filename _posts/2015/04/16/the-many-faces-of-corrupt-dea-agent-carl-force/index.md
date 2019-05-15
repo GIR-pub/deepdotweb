@@ -2,15 +2,12 @@
 title: "Corruption: The many faces of corrupt DEA agent Carl Force (2)"
 ---
 
-9893  tag-srcorruption
 Posted by: Allen Hoffmann, JD
 
 <span>April 16, 2015</span>
     
-<span><a href="/2015/04/16/the-many-faces-of-corrupt-dea-agent-carl-force/#comments">4 Comments</a></span>
-</p>
 
-<p>All parts available at the #<a href="http://www.deepdotweb.com/tag/SRCorruption/">SRCorruption</a> Tag</p>
+
 <p>Carl Mark Force IV (I’ve used and seen some pseudonyms in my time, but god damn, that’s a real name…) was the lead DEA undercover on the Baltimore taskforce and assumed various approved undercover identities on Silk Road – the only one he was approved to use was ‘Nob’, a persona of a U.S. based drug smuggler. Just the sort of thing an infiltration operation would be attempting to pull, as opposed to the “back investigating” that the New York taskforce was playing. (Sidebar – that’s not to say other members of the Baltimore taskforce weren’t authorized to use other aliases).</p>
 <p>And its from here the misconduct starts…. For starters, the Government alleges at page 3 that Force took cash straight out of the undercover account he was authorized to be using, which we later learn was part of a sophisticated deception wherein a non existent federal employee named Kevin leaked some supposed intelligence information to DPR via Nob. DPR was meant to pay Nob 525 BTC for this – officially, Force states that no such payment was made. That’s contradicted by the sole unencrypted correspondence ever sent by DPR to Nob, indicating that he had infact paid that amount, and mysteriously, exactly that amount of BTC ends up being traced via the blockchain as eventually transferred to a wallet linked to Force… but it certainly doesn’t end there.</p>
 <p><strong>Encrypted conversations between Force and DPR are not recoverable, evidence is not documented.</strong></p>
@@ -27,9 +24,8 @@ Posted by: Allen Hoffmann, JD
 <p>We’ve not heard a great deal about Shaun Bridges from the USSS at this stage, so let’s get it up to speed; its alleged in the complaint that Shaun Bridges, also on the Baltimore taskforce with Force, drained the accounts of several Silk Road vendors. He then seeks assistance from Force to ask DPR, in his capacity as Nob, for information on how to convert the stolen BTC into cash, and liaises with Force in relation to BTC pricing. He sets up Quantum International Investments, LLC, and opens a bank account, into which he siphons $820K from Mt. Gox – about, oh, two whole days before his own affidavit seizes $2.1 Million from Mt. Gox, and about all of two weeks after the Silk Road thefts. Legit, right? Yep, doesn’t seem questionable to me either.</p>
 <p><strong>Force ready to flee.</strong></p>
 <p>When Force was turned over in late March, he had a passport, $5k in blank money orders, and an unregistered, loaded 9mm in his car, as per the petition to keep him in custody. Oh, and he had developed an exit plan document for escaping the US which listed a specific and feasible route from the U.S., to the Dominican Republic, to Panama, Morocco and ending up in Algeria. Whether that was something he threw together during the investigation or something he had worked up for his own use, who knows. But as a DEA agent with 15 years experience, sourcing a new gun and fleeing the country would most likely not challenge him too much. So its probably best he’s in custody.</p>
-<p>All parts available at the #<a href="http://www.deepdotweb.com/tag/SRCorruption/">SRCorruption</a> Tag</p>
-</div>
-<a href="/tag/srcorruption/" rel="tag">SRCorruption</a></span> 
+
+
 Updated: 2015-04-16
 
     

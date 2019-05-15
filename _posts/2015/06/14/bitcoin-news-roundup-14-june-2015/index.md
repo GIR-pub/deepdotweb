@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 14 June 2015"
 ---
 
-10707  tag-1826 tag-2524 tag-june 
 Posted by: DeepDotWeb 
 
 <span>June 14, 2015</span>
 
 
-<span><a href="/2015/06/14/bitcoin-news-roundup-14-june-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The Central Bank of Russia (CBR) may revoke bitcoin ban. According to Gola Yashu of <a href="http://www.newsbtc.com/2015/06/11/russians-planning-to-lift-ban-on-bitcoin-reportedly/">NewsBtc</a>, the Russian authorities are reconsidering the ban of the digital currency on the grounds of having acquired an improved idea regarding the blockchain technology and the benefits of its use. CBR is scheduled to meet with leading financial market representatives in order to decide the future role of the bitcoin in the Russian economy.</p>
@@ -23,8 +20,7 @@ Posted by: DeepDotWeb
 <p>Overstock launches the first cryptosecurity on blockchain. As Eliot Maras of <a href="https://www.cryptocoinsnews.com/overstock-com-launches-offering-worlds-first-cryptosecurity/">CryptoCoins News</a> reports, the leading online retailer has entered a partnership with Counterparty to capitalize on its blockchain technology towards the creation of a decentralized bond exchange within the Counterparty platform. The project is known as Medici and the bonds are expected to sell for a total of $25 million. Medici’s goal is to build a leading stock market by bringing to investors the first blockchain-based security.</p>
 <p>ShapeShift makes its platform available to Apple’s iPhone for bitcoin trading. As William Suberg of <a href="http://cointelegraph.com/news/114512/first-ever-iphone-app-for-trading-every-major-digital-currency-released">Coin Telegraph </a>writes, the Swiss bitcoin exchange is the first to offer an iOS app for trading major digital currencies, including the bitcoin. According to ShapeShift CEO Erik Voorhees <em>“Most exchanges hold customer funds and extract personal information, which is an archaic and insecure model,”</em>so this iOS app is expected to provide a higher level of security.</p>
 <p>BetChain launches “Free Spins Friday” promotion.As Ofir Beigel of <a href="http://99bitcoins.com/betchain-first-bitcoin-casino-offer-free-spins/">99bitcoins</a> reports, the global bitcoin casino with a long established reputation in terms of player experience and game offerings, is becoming the first bitcoin casino to automatically credit player with up to 50 free spins every Friday, giving them the opportunity to win bitcoins for free. This promotional offer is expected to place BetChain on top of the competition.</p>
-</div>
-<a href="/tag/13/" rel="tag">13</a>   </span> 
+
 Updated: 2015-06-14
 
     

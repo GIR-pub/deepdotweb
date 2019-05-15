@@ -2,12 +2,11 @@
 title: "Facebook To Help Tor Project Getting Official Recognition For .onion Addresses"
 ---
 
-11919  tag-official tag-onion tag-project tag-recognition  tag-websites
-Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 3, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/03/facebook-to-help-tor-project-getting-official-recognition-for-onion-addresses/#comments">4 Comments</a></span>
+
+
 
 
 <p><a href="http://www.pcworld.com/article/2999353/websites/facebook-helps-tor-project-to-get-official-recognition-for-onion-hidden-sites.html">Facebook officially announced that they are working with the Tor Project in order to get official recognition for .onion sites. Facebook and Tor (receiving help from other companies as well) has successfully petitioned the IETF (Internet Engineering Task Force) for them to designate website addresses that end with ”.onion” as special use domain names.</a> The Internet Engineering Task Force is the main organization on the internet that sets the standards for almost everything.</p>
@@ -15,7 +14,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benj
 <p>Facebook has created its own .onion domain for valid reasons. One of these would be that Facebook sees the whole ”social media on a .onion website project” as a possibility for people to connect from an anonymous network to their Facebook accounts and go public while remaining safe. Many users of the world’s first social media website would be able to profit from this. For example, where people are living under oppressive regimes or authorities, those people could use the website anonymously while doing it completely legally, so they won’t have to face local authorities.</p>
 <p>The official recognition of .onion sites means that websites on the dark and deep web can use official hosting companies for registering their domains. This will make the dark net safer and will, most probably, make that part of the internet more popular. This whole act will help to legitimize hidden sites and clarify their importance.</p>
 <p>As it was mentioned before, in last October, Facebook has managed to host its own .onion website with a valid certificate. However, the whole process was not that easy as it sounds. Alex Muffet, one of the engineers at Facebook, has described the situation. The company got the certificate using an ”arcane loophole” in the certificate system. After the social media website acquired its certificate on the dark web this loophole was meant to be closed on November 1, 2015. That means, if the loophole is closed, all websites or domains that had SSL certificates in it will become all invalid. The SSL certificate was a must-have for Facebook on the .onion site since it is on a part of the web, which is not secure and a certificate is needed in order for Facebook users to feel safe. So, if Facebook could not maintain the SSL, the .onion domain has to be closed. That’s why Facebook began its work with the Tor Project. They wanted to make the .onion websites recognized as special use domains, which they have succeeded in.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/facebook/" rel="tag">facebook</a> <a href="https://www.deepdotweb.com/tag/official/" rel="tag">official</a> <a href="https://www.deepdotweb.com/tag/onion/" rel="tag">onion</a> <a href="https://www.deepdotweb.com/tag/project/" rel="tag">project</a> <a href="https://www.deepdotweb.com/tag/recognition/" rel="tag">recognition</a>  <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> 
-Updated: 2015-11-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-11-03
 

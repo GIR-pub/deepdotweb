@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis 19th August"
 ---
 
-11303  tag-19th tag-analysis tag-august tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>August 19, 2015</span>
 
 
-<span><a href="/2015/08/19/bitcoin-price-analysis-19th-august/#respond">Leave a comment</a></span>
+
 
 
 <p><strong><u>Bitcoin Market Fundamentals</u></strong></p>
@@ -37,7 +36,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>This week I am bearish to sideways. I expect prices to retrace up gradually from today’s panic crash, upto $240 &#8211; $245 range. That might be it however, while it is too soon for price to collapse again,a sideways trend might be in order in the range between low 200s and mid 200s.</p>
 <p><a href="/imgs/2015/08/7.png"><img class="aligncenter size-full wp-image-11310" src="/imgs/2015/08/7.png" alt="7" width="1026" height="550" srcset="/imgs/2015/08/7.png 1026w, /imgs/2015/08/7-300x161.png 300w, /imgs/2015/08/7-1024x549.png 1024w" sizes="(max-width: 1026px) 100vw, 1026px"/></a></p>
 <p>Despite breaking out from the 18 month long bear trend dating back to December 2013, it doesn’t seem to have been convincing as can be seen above. The upper trend line sits squarely between current prices and heading back into the bear channel. Back into the channel would mean the last 2 months were a sharp projection out of the channel and not really a break out. The implications of a resumed bear trend would mean possible targets of $100 (bottom channel support). For now, we wait.</p>
-</div>
-<a href="/tag/19th/" rel="tag">19th</a>  
+
 Updated: 2015-08-19
 

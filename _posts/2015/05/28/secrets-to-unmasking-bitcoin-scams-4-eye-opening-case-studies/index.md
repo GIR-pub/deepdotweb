@@ -2,13 +2,10 @@
 title: "Secrets to Unmasking Bitcoin Scams &#8211; 4 Eye Opening Case Studies"
 ---
 
-10439  tag-case tag-eye tag-opening tag-scams tag-secrets tag-studies tag-unmasking
 Posted by: DeepDotWeb 
 
 <span>May 28, 2015</span>
     
-<span><a href="/2015/05/28/secrets-to-unmasking-bitcoin-scams-4-eye-opening-case-studies/#comments">8 Comments</a></span>
-</p>
 
 <p><em>Guest post by Ofir Beigel is the owner of <a href="http://99bitcoins.com/">99Bitcoins</a></em> &#8211; Bitcoin offers great opportunities for people to exchange money online instantly and anonymously. However, many sites take advantage of Bitcoin’s pseudo anonymous nature and use it in order to scam people out of their coins.</p>
 <p>I’m sure this is not something you didn’t already know. But here’s the kicker:</p>
@@ -84,8 +81,7 @@ Posted by: DeepDotWeb
 <p>Hopefully the tools demonstrated here will allow you to avoid giving your Bitcoins away to fraudulent websites and invest them in legit ones instead. If you have any other methods of separating Bling from Sting I’d love to hear about them in the comment section below.</p>
 <p><strong>Bio Box:</strong></p>
 <p>Ofir Beigel is the owner of <a href="http://99bitcoins.com/">99Bitcoins</a> and the Author of “<a href="http://99bitcoins.com/my-dirty-little-bitcoin-secret-lp/">My Dirty Little Bitcoin Secret</a>”. 99Bitcoins is a blog dedicated to helping people getting started with Bitcoins. My Dirty Little Bitcoin Secret is a book describing how Ofir managed to make over $100K in one year by taking advantage of the growing Bitcoin industry.</p>
-</div>
-<a href="/tag/case/" rel="tag">case</a> <a href="/tag/eye/" rel="tag">eye</a> <a href="/tag/opening/" rel="tag">opening</a> <a href="/tag/scams/" rel="tag">scams</a> <a href="/tag/secrets/" rel="tag">secrets</a> <a href="/tag/studies/" rel="tag">studies</a> <a href="/tag/unmasking/" rel="tag">unmasking</a></span> 
+
 Updated: 2015-05-28
 
     

@@ -2,13 +2,12 @@
 title: "NZ Underworld: &#8220;Catch Us if You Can&#8221;"
 ---
 
-11189  tag-catch
-Posted by: <a href="/author/johnnywalker/" title="">Johnny Walker 
+Posted by: Johnny Walker 
 
 <span>August 6, 2015</span>
 
 
-<span><a href="/2015/08/06/nz-underworld-catch-us-if-you-can/#comments">9 Comments</a></span>
+
 
 
 <p>These are the words ringing out from three Victoria University computer science students to the New Zealand Police who are investigating their &#8220;dark web&#8221; site trading in illegal and prescription drugs. Party drugs, painkillers, and fake doctors&#8217; scripts are for sale on this anonymous marketplace, called NZ Underworld.</p>
@@ -22,7 +21,6 @@ Posted by: <a href="/author/johnnywalker/" title="">Johnny Walker
 <p>Takedown history has shown us that it is not the technology that fails us, rather it is us that fail each other. Anonymity has no room for tardiness and requires dedication and due diligence. Facebook and Google are typically the sites you want to stay away from, especially when advertising an illegal trade.</p>
 <p><a href="/imgs/2015/08/image3.jpg"><img class="aligncenter size-full wp-image-11192" src="/imgs/2015/08/image3.jpg" alt="image3" width="620" height="460" srcset="/imgs/2015/08/image3.jpg 620w, /imgs/2015/08/image3-300x223.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a><br />
     This month a 20-year old student was jailed for seven years for importing a &#8220;supermarket of drugs&#8221; worth $167,000 from Silk Road via post office boxes around Dunedin. Another non related conviction went to a 31-year-old man who was jailed eight years for importing packages of methamphetamine, ecstasy and LSD ordered online from Las Vegas to his mother&#8217;s house according to local media.</p>
-</div>
-<a href="/tag/catch/" rel="tag">catch</a></span> 
-Updated: 2015-08-06<a href="/author/johnnywalker/" title="Posts by Johnny Walker" rel="author">Johnny Walker</a></strong></div>
+
+Updated: 2015-08-06
 

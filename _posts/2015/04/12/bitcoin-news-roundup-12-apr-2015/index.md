@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 12 Apr.2015"
 ---
 
-9929  tag-2688 tag-apr2015 
 Posted by: DeepDotWeb 
 
 <span>April 12, 2015</span>
 
 
-<span><a href="/2015/04/12/bitcoin-news-roundup-12-apr-2015/#comments">1 Comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Cavirtex, the Canadian virtual exchange that ceased operations in March due to compromised security information, is expected to re-launch operations following Coinsetter acquisition. As Yessi Bello Perez of <a href="http://www.coindesk.com/canadian-bitcoin-exchange-cavirtex-reopens-following-coinsetter-acquisition/">Coin Desk</a> writes, Coinsetter, the New York City-based bitcoin exchange, acquired Cavirtex following a negotiated agreement with its voting shareholders. The new CEO of both Coinsetter and Cavirtex, Jaron Lukasiewicz, stated that <em>“We feel strongly about our ability to protect customer funds and will keep minimal funds in hot wallets.”</em></p>
@@ -29,8 +26,7 @@ Posted by: DeepDotWeb
 <p><strong>Coinbase plans a regulated UK Bitcoin exchange</strong></p>
 <p>As one of the largest start ups in the bitcoin space, this bitcoin exchange and wallet service is planning a UK invasion. The UK is one of a few global financial centres, and has recently announced its commitment to digital currency innovation. CEO, Brian Armstrong spoke to <a href="http://cointelegraph.uk/news/113928/coinbase-set-to-be-the-first-uk-regulated-exchange">ibtimes</a> saying conversations with authorities had been on progress for “at least six months” and were “positive and moving in the right direction.” Strangely, this predates UK’s HM Treasury statement last month by 5 months.</p>
 <p>Back in December, NYSE, BBVA chipped into a $ 75 million series C funding into Coinbase. As of January 2015, it estimates it serves 2.1 million users across the United States plus 18 other countries in Europe.</p>
-</div>
-<a href="/tag/12/" rel="tag">12</a> <a href="/tag/apr2015/" rel="tag">apr2015</a>  </span> 
+
 Updated: 2015-04-12
 
     

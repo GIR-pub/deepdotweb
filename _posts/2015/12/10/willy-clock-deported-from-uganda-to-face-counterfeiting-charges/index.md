@@ -2,13 +2,12 @@
 title: "Willy.Clock: Deported from Uganda to Face Counterfeiting Charges"
 ---
 
-12525  tag-charges tag-counterfeiting tag-deported tag-face tag-uganda tag-willyclock
 Posted by: DeepDotWeb 
 
 <span>December 10, 2015</span>
 
 
-<span><a href="/2015/12/10/willy-clock-deported-from-uganda-to-face-counterfeiting-charges/#comments">2 Comments</a></span>
+
 
 
 <div id="parent-fieldname-text" class="plain">
@@ -27,6 +26,5 @@ Posted by: DeepDotWeb
 <p>Assistant U.S. Attorney Shardul S. Desai is prosecuting this case on behalf of the government.</p>
 <p>U.S. Attorney Hickton commended numerous agencies and organizations for conducting the investigation leading to charges in this case, including the Directorate of Public Prosecution, the Criminal Investigations and Intelligence Department, the Special Investigations and Intelligence Unit, and Stanbic Bank in Uganda; the U.S. Secret Service; the Federal Bureau of Investigation; the U.S. Postal Inspection Service; Homeland Security Investigations; U.S. Customs and Border Protection; and the National Cyber-Forensics &amp; Training Alliance.</p>
 </div>
-</div>
-<a href="/tag/charges/" rel="tag">charges</a> <a href="/tag/counterfeiting/" rel="tag">counterfeiting</a> <a href="/tag/deported/" rel="tag">deported</a> <a href="/tag/face/" rel="tag">face</a> <a href="/tag/uganda/" rel="tag">uganda</a> <a href="/tag/willyclock/" rel="tag">willyclock</a></span> 
+
 Updated: 2015-12-10

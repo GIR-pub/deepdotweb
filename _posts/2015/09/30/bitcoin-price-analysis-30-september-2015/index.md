@@ -2,13 +2,12 @@
 title: "Bitcoin price analysis 30 September 2015"
 ---
 
-11639  tag-2524 tag-1778 tag-analysis tag-price tag-september
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>September 30, 2015</span>
 
 
-<span><a href="/2015/09/30/bitcoin-price-analysis-30-september-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="/imgs/2015/09/14.jpg"><img class="aligncenter size-full wp-image-11640" src="/imgs/2015/09/14.jpg" alt="1" width="989" height="660" srcset="/imgs/2015/09/14.jpg 989w, /imgs/2015/09/14-300x200.jpg 300w, /imgs/2015/09/14-290x195.jpg 290w" sizes="(max-width: 989px) 100vw, 989px" /></a></p>
@@ -37,7 +36,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><em>“For now, it seems that a simple block-size limit increase to 2MB or 4MB is an area where many notable Bitcoin Core developers and contributors have found some common ground.”</em></p>
 <p><strong>SIDENOTE</strong></p>
 <p>2 articles i recommend reading. The Dollar Vigilante &#8211; Jeff Berwick’s <a href="https://www.dollarvigilante.com/blog/2015/09/26/if-you-havent-gotten-into-bitcoin-yet-now-is-your-chance.html">‘If You Haven’t Gotten Into Bitcoin Yet… Now Is Your Chance’ </a> and George Sammans <a href="https://ihb.io/2015-09-22/news/currency-wars-and-bitcoin-24342">‘Currency wars &#8211; Race to the Bottom’</a>. Both play up bitcoin as an alternative investment asset class in an increasingly debt fueled global economy. George looks at emerging markets currencies devaluing as the dollar strengthens. Jeff recommends bitcoin as a hedge against Central Banks fueled debt. The threat of financial crisis is real, and could unfold within the next 5 years according to gold bugs and bitcoin speculators.</p>
-</div>
- <a href="/tag/30/" rel="tag">30</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+
 Updated: 2015-09-30
 

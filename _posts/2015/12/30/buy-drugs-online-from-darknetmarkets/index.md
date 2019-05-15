@@ -2,12 +2,11 @@
 title: "How To Buy Drugs Online From DarknetMarkets?"
 ---
 
-12789  tag-buy tag-buy-drugs-online  tag-online
 Posted by: DeepDotWeb 
 
 <span>December 30, 2015</span>
 
-<span><a href="/2015/12/30/buy-drugs-online-from-darknetmarkets/#comments">67 Comments</a></span>
+
 
 
 <p>Instead of creating all the <a href="/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
@@ -73,7 +72,7 @@ Posted by: DeepDotWeb
 <p>On the market, vendors will have a feedback score and messages from buyers that you can read through. On the market&#8217;s forums and elsewhere on the internet you can find reviews of vendors and their products written by buyers.</p>
 <ul>
 <li>Google your vendor&#8217;s name and also search for reviews on the market&#8217;s forums and on reddit</li>
-<li>Use <a href="http://www.deepdotweb.com/2014/05/31/introducing-grams-infodesk-features-part-1/" target="_blank" rel="noopener noreferrer">Grams infodesk</a>.</li>
+<li>Use <a href="/2014/05/31/introducing-grams-infodesk-features-part-1/" target="_blank" rel="noopener noreferrer">Grams infodesk</a>.</li>
 <li>Decide if you want to risk finalizing early</li>
 <li>If ordering internationally, read the product page and vendor profile page carefully and make sure that the vendor ships to your location and what are their terms for the case of failed shipments and non-arrivals.</li>
 </ul>
@@ -148,7 +147,7 @@ Posted by: DeepDotWeb
 <li><a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">PGP Tutorial For Newbs (Kleopatra &#8211; Gpg4Win)</a></li>
 <li><a href="/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/">PGP Tutorial For Newbs Gpg4usb</a></li>
 <li><a href="/2015/02/17/basic-guide-pgp-linux/">Basic Guide to PGP On Linux</a></li>
-<li><a href="http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/">PGP Tutorial for OSX</a></li>
+<li><a href="/2015/02/20/pgp-tutorial-os-x/">PGP Tutorial for OSX</a></li>
 </ul>
 <p>After you&#8217;ve read those, you might want to practice encrypting and decrypting messages. A reddit subreddit is here to help you do this: https://www.reddit.com/r/GPGpractice</p>
 <p>After you have a public and private key and they are both backed up somewhere, like on an encrypted USB drive, you will need to add your public key to your market profile so a vendor can send you messages.</p>
@@ -199,8 +198,7 @@ Posted by: DeepDotWeb
 <li>Use Multisig where available.</li>
 </ul>
 <p>Before you decide to buy drugs online from the dark net markets &#8211; use common sense!</p>
-</div>
-<a href="/tag/buy-drugs-online/" rel="tag">buy drugs online</a>   </span> 
+
 Updated: 2015-12-30
 
     

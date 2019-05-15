@@ -2,13 +2,12 @@
 title: "QuantikXanax Releases Intel from DrXanax Bust"
 ---
 
-11839  tag-bust tag-drxanax tag-intel tag-quantikxanax tag-releases
-Posted by: <a href="/author/chrismccandless/" title="">Chris McCandless 
+Posted by: Chris McCandless 
 
 <span>October 23, 2015</span>
 
 
-<span><a href="/2015/10/23/quantikxanax-releases-intel-from-drxanax-bust/#comments">5 Comments</a></span>
+
 
 
 <p><strong>Update 26.10.15</strong>: Quantik just shared with us additional evidence:</p>
@@ -32,7 +31,6 @@ Posted by: <a href="/author/chrismccandless/" title="">Chris McCandless
 <p>Quantik says “we had our lawyers contact their colleagues for more intel.”</p>
 <p>Some have claimed that this intel could potentially just be marketing material for QuantikXanax, and some even question his possible involvement in the arrests made. However, current information does appear to be consistent with <a href="http://www.cbc.ca/news/canada/montreal/simon-davidson-christian-davidson-ian-davidson-laval-drug-ring-1.3262486">other reports detailing the bust.</a></p>
 <p>As for the vendor QuantikXanax, he has yet to reopen shop after this bust, leading many to question his future role in the Dark Net Xanax scene. Other vendors have begun to spring up, attempting to fill the position of bulk Xanax distribution, yet Quantik appears to be very hopeful and optimistic for the future, saying in a Reddit comment <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3piw0r/this_is_crazy_but_we_need_a_site_to_place_a_bet/cw7wj6x?context=3">“I bet I will still be there in 1 year. :)”</a></p>
-</div>
- <a href="/tag/drxanax/" rel="tag">drxanax</a> <a href="/tag/intel/" rel="tag">intel</a> <a href="/tag/quantikxanax/" rel="tag">quantikxanax</a> <a href="/tag/releases/" rel="tag">releases</a></span> 
-Updated: 2015-10-23<a href="/author/chrismccandless/" title="Posts by Chris McCandless" rel="author">Chris McCandless</a></strong></div>
+
+Updated: 2015-10-23
 

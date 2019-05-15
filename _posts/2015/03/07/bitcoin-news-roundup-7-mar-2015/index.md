@@ -2,13 +2,9 @@
 title: "Bitcoin News Roundup – 7 Mar.2015"
 ---
 
-9396  tag-mar2015 
 Posted by: DeepDotWeb 
 
 <span>March 7, 2015</span>
-
-
-<span><a href="/2015/03/07/bitcoin-news-roundup-7-mar-2015/#respond">Leave a comment</a></span>
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -29,6 +25,5 @@ Posted by: DeepDotWeb
 <p>The International Ripple Business Association (IRBA) is back in business. Drew Cordell of <a href="http://bitcoinist.net/international-ripple-business-association-reopens/">Bitcoinist</a> reports that,by having certified fifteen gateways,the IRBA will know who operates each gateway and if the guidelines set by the Association are followed through. Additionally, Ripple Labs joined the International Payments Framework Association (IFPA). Yessi Bello Perez of <a href="http://www.coindesk.com/ripple-labs-joins-cross-border-payments-association/">Coin Desk</a> reports that joining IFPA provides Ripple with guidelines on how to improve cross-border payments.</p>
 <p>Bitcoin enters the fresh food business. As Elliot Maras of <a href="https://www.cryptocoinsnews.com/overstock-coms-farmers-market-adds-home-delivery-fresh-food-accepts-bitcoin/">CryptoCoins News</a> writes, Farmer’s Market, Overstock’s online fresh food delivery service accepts bitcoins, thus becoming one of the few online fresh food retailers that accept the digital currency as a legal form of payment. GM of Farmer’s Market,</p>
 <p>Shelly Olsen, states that <em>“local delivery is currently available to about 35 percent of the U.S. and growing.</em>”</p>
-</div>
-<a href="/tag/mar2015/" rel="tag">mar2015</a>  </span> 
+
 Updated: 2015-03-07

@@ -2,12 +2,11 @@
 title: "Gorseinon Man Jailed For Possessing Illegal Weapons"
 ---
 
-12039 tag-gorseinon tag-illegal tag-jailed tag-man tag-possessing tag-weapons">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 5, 2015</span>
 
-<span><a href="/2015/11/05/gorseinon-man-jailed-for-possessing-illegal-weapons/#comments">1 
+
 
 
     
@@ -28,8 +27,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>&#8220;He says that the weapon was made only for himself.&#8221;</p>
 <p>Judge Peter Heywood sentenced Lloyd for six years of prison. The judge stated that the pipe gun is considered as a deadly and serious weapon, which could cause injury or death. He added this statement:</p>
 <p>&#8220;In my view you would be considered a danger to the public. You have an antecedent history that shows that you have used violence to members of the public in the past. That is a significant concern.&#8221;</p>
-</div>
-<a href="/tag/gorseinon/" rel="tag">gorseinon</a> <a href="/tag/illegal/" rel="tag">illegal</a> <a href="/tag/jailed/" rel="tag">jailed</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/possessing/" rel="tag">possessing</a> <a href="/tag/weapons/" rel="tag">weapons</a></span> 
+
 Updated: 2015-11-05
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

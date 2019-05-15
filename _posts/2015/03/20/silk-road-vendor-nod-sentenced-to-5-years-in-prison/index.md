@@ -2,13 +2,12 @@
 title: "Silk Road Vendor NOD Sentenced To 5 Years In Prison"
 ---
 
-9586  tag-prison tag-sentenced tag-vendor tag-years
 Posted by: DeepDotWeb 
 
 <span>March 20, 2015</span>
 
 
-<span><a href="/2015/03/20/silk-road-vendor-nod-sentenced-to-5-years-in-prison/#comments">7 Comments</a></span>
+
 
 
 <p class="node-subtitle center">As it was published in a press release by <a href="http://www.justice.gov/usao-wdwa/pr/bellevue-man-who-sold-drugs-silk-road-internet-site-sentenced-drug-distribution">Justive.gov</a>:</p>
@@ -23,6 +22,5 @@ Posted by: DeepDotWeb
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/225695260/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_14296" frameborder="0"></iframe></p>
 <p>Judgement:<br />
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/259369292/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_54664" frameborder="0"></iframe></p>
-</div>
- <a href="/tag/prison/" rel="tag">prison</a>  <a href="/tag/sentenced/" rel="tag">sentenced</a> <a href="/tag/vendor/" rel="tag">vendor</a> <a href="/tag/years/" rel="tag">years</a></span> 
+
 Updated: 2015-03-20

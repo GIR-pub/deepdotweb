@@ -2,12 +2,11 @@
 title: "Op-Ed: Agora: The site we all wanted"
 ---
 
-11417  tag-agora tag-site tag-wanted
-Posted by: <a href="/author/cipher/" title="">Cipher 
+Posted by: Cipher 
 
 <span>September 3, 2015</span>
 
-<span><a href="/2015/09/03/op-ed-agora-the-site-we-all-wanted/#comments">11 Comments</a></span>
+
 
 
 <p>I must register that I never once in my life used Silk Road. I was, like many, late to the game. What I knew is that, for reasons of health, access to certain anti-anxiety medication was necessary in relation to the stringent laws my country had placed on them. To treat my condition I have tried everything: Xanax, Ativan, and all manner of downers designed to take the edge off life. In turn, I have used many nootropic drugs to force myself to write, my work, after all. I do not consider it beyond the realms of possibility that without these my life would be a far more horrendous exercise. Certainly I may have found a way of existing where, perhaps through alcohol or some other method, I could calm myself and not wake up in such intolerable mental pain. Before I had ever heard of darknet markets I was prescribed, as many are, with Xanax to calm me down. This was a world of 0.25mg doses where, to be honest, I may as well have been drinking tea to calm my nerves.</p>
@@ -18,7 +17,6 @@ Posted by: <a href="/author/cipher/" title="">Cipher
 <p>In this regard, we must begin to consider whether it is time to consider the effects of the constant migration from market to market. For most of us what is desired is the maintenance of a consistent relationship to a vendor. There are, I suspect, few cases where users of such marketplaces veer between vendors. Once one has found a solid supplier there is, as in normal life, a tendency to stick with them. Again there are inherent dangers to this logic, but it how the human mind works: someone supplies what you want three or four times and you will return to them. Likely you will even build a relationship of communication. Not friends, <em>per se</em>, but the kind of service where you will be getting your product shipped fast and have extras included. This brings us to a deeper question. Are we doomed to face these interruptions forever?</p>
 <p>This is, perhaps, the question we are all doomed to face. Should we find a market as solid as Agora again? One cannot be certain. Contingency and the deep web are intertwined. In essence, we are beholden not to vendors, from whom we may develop relationships of a sort, but rather to the more mysterious admins from whom we cannot either ask too much (since they take on so much risk knowing the rewards, of course).Sound Opsec ensures we will never quite know who runs these sites unless, as with Silk Road, they go on trial. Here we face a dilemma: we do not wish to expose those who run a site as well-run as those running Agora and yet there is no assurance ever that we can trust this is not a scam. That is the nature of the deep web. Nonetheless, we ought to give a nod to Agora for filling a void when Silk Road collapsed. To their return we can only hope. Until then, recognition.</p>
 <p><em>This article is rhe other side or a counter article for the previously published &#8220;<a title="Permalink to OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?" href="/2015/08/31/op-ed-agora-wheres-my-btc-and-your-consistency-bitch/" rel="bookmark">OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?&#8221;</a></em></p>
-</div>
-<a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/site/" rel="tag">site</a> <a href="/tag/wanted/" rel="tag">wanted</a></span> 
-Updated: 2015-09-03<a href="/author/cipher/" title="Posts by Cipher" rel="author">Cipher</a></strong></div>
+
+Updated: 2015-09-03
 

@@ -2,20 +2,14 @@
 title: "Nottingham Man Jailed For Attempting To Buy A Gun From Dark Web"
 ---
 
-12553  tag-attempting tag-buy tag-dark tag-gun tag-jailed tag-man tag-nottingham tag-web
-    
-    
-        
 
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+Posted by: Benjamin Vitáris </a></span>
     
     
 <span>December 14, 2015</span>
 
 
     
-<span><a href="/2015/12/14/nottingham-man-jailed-for-attempt-to-buy-a-gun-from-dark-web-to-protect-against-terrorist-attack/#comments">3 Comments</a></span>
-</p>
 
     
     
@@ -32,9 +26,8 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
     
     
 
-<a href="/tag/attempting/" rel="tag">attempting</a>  <a href="/tag/gun/" rel="tag">gun</a> <a href="/tag/jailed/" rel="tag">jailed</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/nottingham/" rel="tag">nottingham</a> <a href="/tag/web/" rel="tag">web</a></span>				
 Updated: 2015-12-14
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     
     
 

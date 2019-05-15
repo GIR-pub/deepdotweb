@@ -2,13 +2,12 @@
 title: "Grimsby Man Jailed For Selling Ketamine On DNMs"
 ---
 
-11652  tag-dnms tag-grimsby tag-jailed tag-ketamine tag-man tag-selling
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>October 1, 2015</span>
 
 
-<span><a href="/2015/10/01/grimsby-man-jailed-for-selling-ketamine-on-dnms/#comments">9 Comments</a></span>
+
 
 
 <p><a href="http://www.mirror.co.uk/news/technology-science/technology/dark-web-drug-dealer-jailed-6546740">Alex Middleton (20), living in Grimsby in the UK, has been jailed for 2 years and 4 months for selling Ketamine on Silk Road 2 under the vendor name MaximusDecimus.</a></p>
@@ -18,7 +17,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>On 10 June 2015, Middleton pleaded guilty to 5 charges, including &#8220;the possession, importation and intent to supply of Class B and C drugs&#8221;.</p>
 <p>He was sentenced at Leeds Crown Court on September 30 for 2 years and 4 months.</p>
 <p>Official Press release from NCA regarding this arrest can be <a href="http://www.nationalcrimeagency.gov.uk/news/716-dark-web-drug-dealer-selling-super-strength-ketamine-jailed">found here</a>.</p>
-</div>
-<a href="/tag/dnms/" rel="tag">dnms</a> <a href="/tag/grimsby/" rel="tag">grimsby</a> <a href="/tag/jailed/" rel="tag">jailed</a> <a href="/tag/ketamine/" rel="tag">ketamine</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/selling/" rel="tag">selling</a></span> 
-Updated: 2015-10-01<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-10-01
 

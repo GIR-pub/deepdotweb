@@ -2,13 +2,12 @@
 title: "Australian Man Accused Of Running An International Child Porn Ring"
 ---
 
-11176  tag-accused tag-australian tag-child tag-international tag-man tag-porn tag-ring tag-running
 Posted by: DeepDotWeb 
 
 <span>August 4, 2015</span>
 
 
-<span><a href="/2015/08/04/australian-man-accused-of-running-an-international-child-porn-ring/#comments">15 Comments</a></span>
+
 
 
 <p>There have been quite some events regarding child pornography. If you can remember, there was a case when the <a href="http://www.reuters.com/article/2015/07/07/us-usa-crime-childporn-idUSKCN0PH24C20150707">FBI has busted a large CP website that had around 215.000 users</a>. Also, there has been a pretty weird case on a child pornography domain where the <a href="/2015/07/16/pedophiles-launch-dash-darkcoin-mining-crowdfunding-platform/">site admin has set up a system (crowdfunding platform) that allows members to mine Darkcoins in order to pay for the content</a>.</p>
@@ -31,6 +30,5 @@ Posted by: DeepDotWeb
 </ol>
 <p>The Matthew David Graham case has greatly affected the laws of Victoria State. <a href="http://www.bendigoadvertiser.com.au/story/3255387/victoria-to-double-online-sex-fiend-jail-terms-introduce-new-laws-to-combat-child-porn/?cs=7">The Victorian Government has decided to double the prison terms for accessing child pornography</a>. They have also set up offense categories. There will be three new categories: administering a child pornography website, encouraging the use of a website to deal with child pornography, providing assistance to another person about avoiding apprehension for a child pornography offense. These changes in Victorian Law will try to discourage people from watching or possessing child pornography.</p>
 <p>The Graham case continues and returns to court on August 25.</p>
-</div>
-<a href="/tag/accused/" rel="tag">accused</a> <a href="/tag/australian/" rel="tag">australian</a> <a href="/tag/child/" rel="tag">child</a> <a href="/tag/international/" rel="tag">international</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/porn/" rel="tag">porn</a> <a href="/tag/ring/" rel="tag">ring</a> <a href="/tag/running/" rel="tag">running</a></span> 
+
 Updated: 2015-08-04

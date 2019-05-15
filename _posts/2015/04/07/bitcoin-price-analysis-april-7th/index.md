@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis April 7th"
 ---
 
-9885  tag-7th tag-analysis tag-april tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>April 7, 2015</span>
 
 
-<span><a href="/2015/04/07/bitcoin-price-analysis-april-7th/#comments">1 Comment</a></span>
-</p>
 
 <p>Will this market crash today or tomorrow?</p>
 <p>This past week, bitcoin’s price action did not exhibit much change from last week’s price analysis. Besides an attempt to break out from a range on 6H charts, prices moved mostly sideways. $262 has been the highest price in what seems like channel breakout. However, prices are still held within a range with $240s acting as lower support and upper resistance at $255.</p>
@@ -42,8 +39,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/04/5.png"><img class="aligncenter size-full wp-image-9890" src="/imgs/2015/04/5.png" alt="5" width="972" height="591" srcset="/imgs/2015/04/5.png 972w, /imgs/2015/04/5-300x182.png 300w" sizes="(max-width: 972px) 100vw, 972px"/></a></p>
 <p>This correction is complex and identifying its top is key. Once a high fails to materialize, then prices can only go down. The highest point of this trend will be C, thereafter I expect a sharp drop &#8211; Wave 3. So how do you know what high points to watch for possible reversals?</p>
 <p>Resistance levels going up are critical areas to observe. Around $255 is a resistance level, the next one at $270 and another at $280. Wave 2s typically do not retrace 100% of wave 1. Therefore, as long as we are still below $280, then a move down is not invalidated. Watch out for this levels on any uptrends for potential reversals.</p>
-</div>
-<a href="/tag/7th/" rel="tag">7th</a>  
+
 Updated: 2015-04-07
 
     

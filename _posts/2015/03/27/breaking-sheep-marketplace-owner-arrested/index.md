@@ -2,19 +2,18 @@
 title: "Breaking: Sheep Marketplace Owner Arrested"
 ---
 
-9698  tag-breaking tag-owner tag-sheep
 Posted by: DeepDotWeb 
 
 <span>March 27, 2015</span>
 
 
-<span><a href="/2015/03/27/breaking-sheep-marketplace-owner-arrested/#comments">54 Comments</a></span>
 
 
-<p>Better late than never, but justice has been served &#8211; According to a report in <a href="http://archiv.ihned.cz/c1-63752430-jak-se-praly-bitcoiny-miliony-z-ciziny-vila-napsana-na-dedecka">archiv.ihned.cz</a>,  The owner of Sheep Marketplace <span class="notranslate">Thomas</span> <span class="notranslate">Jiřikovský </span>&#8211; who was responsible to one the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">biggest exit scam in Dark net history</a> of around $40M at the time (when the Bitcoin value was extremely high)  was arrest for money laundering after purchasing a luxury house and trying to launder the stolen money, after converting it from BTC, using fake companies and transferring it to his girlfriend account.</p>
+
+<p>Better late than never, but justice has been served &#8211; According to a report in <a href="http://archiv.ihned.cz/c1-63752430-jak-se-praly-bitcoiny-miliony-z-ciziny-vila-napsana-na-dedecka">archiv.ihned.cz</a>,  The owner of Sheep Marketplace <span class="notranslate">Thomas</span> <span class="notranslate">Jiřikovský </span>&#8211; who was responsible to one the <a href="/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">biggest exit scam in Dark net history</a> of around $40M at the time (when the Bitcoin value was extremely high)  was arrest for money laundering after purchasing a luxury house and trying to launder the stolen money, after converting it from BTC, using fake companies and transferring it to his girlfriend account.</p>
 <div id="attachment_9704" style="width: 610px" class="wp-caption aligncenter"><a href="/imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg"><img class="size-full wp-image-9704" src="/imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg" alt="Here are the Stolen BTC - the house Thomas Bought." width="600" height="338" srcset="/imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg 600w, /imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1-300x169.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Here are the Stolen BTC &#8211; the house Thomas Bought.</p></div>
 <p><span style="text-decoration: underline;"><strong>Full Translation of the Czech article:</strong></span></p>
-<p><span style="text-decoration: underline;">Credit for the translation and the notes: <a href="http://www.reddit.com/user/karelb">/u/karelb</a>  &#8211; who was also among the first investigators <a href="http://www.deepdotweb.com/2013/11/30/sheep-owner-just-got-doxxed/">to identify</a> Thomas as the owner of sheep, shortly after the scam (Eva&#8217;s denial can be found <a href="http://www.reddit.com/r/SheepMarketplace/comments/1rxjsc/ji%C5%99ikovsk%C3%BDs_girlfriend_made_a_statement_on_her/">here</a>).</span></p>
+<p><span style="text-decoration: underline;">Credit for the translation and the notes: <a href="http://www.reddit.com/user/karelb">/u/karelb</a>  &#8211; who was also among the first investigators <a href="/2013/11/30/sheep-owner-just-got-doxxed/">to identify</a> Thomas as the owner of sheep, shortly after the scam (Eva&#8217;s denial can be found <a href="http://www.reddit.com/r/SheepMarketplace/comments/1rxjsc/ji%C5%99ikovsk%C3%BDs_girlfriend_made_a_statement_on_her/">here</a>).</span></p>
 <p><span style="text-decoration: underline;">Notes about the translation:</span></p>
 <p><em>The article is a bit confused, mixing narratives together &#8211; mixing official &#8220;sheep market&#8221; narrative (meaning, someone external stole it) with Tomáš&#8217;s official narrative (&#8220;I had nothing to do with it, it was on my server by acciddent&#8221;) and with police story (&#8220;he has the money, we proved it&#8221;). It also doesn&#8217;t really mention it was darknet marketplace with drugs, it only mentions that it was &#8220;an online marketplace&#8221;, and it says that Tomáš was the hacker that stole the money &#8211; but again it&#8217;s a confused article in general. So at times it doesn&#8217;t make that much sense; I think that&#8217;s because the reporter didn&#8217;t really follow the case that well and mixed stuff together. Anyway, let&#8217;s do this.</em></p>
 <p><strong>How the bitcoins were laundered: millions from abroad, a house written* on granddad</strong></p>
@@ -52,12 +51,11 @@ Posted by: DeepDotWeb
 <p>The worldwide trend of dirty money ending in bitcoin more and more is confirmed by the Ministry of Finance specialists.</p>
 <p>&#8220;We detected a growth of suspicious trades, where the gains from criminal activity end up in virtual currency,&#8221; warned last year annual report of Financial Analytical Office.</p>
 <p>&#8212;&#8211;End&#8212;-</p>
-<p>Full details about the Sheep marketplace scam can be <a href="http://www.deepdotweb.com/?s=sheep+dox">found here</a> (among some other details)</p>
+<p>Full details about the Sheep marketplace scam can be <a href="/?s=sheep+dox">found here</a> (among some other details)</p>
 <p>This was the doxxed owner of sheep that turned out to be the real person behind the market:</p>
 <p><a href="/imgs/2015/03/Atj08RFh1.png"><img class="aligncenter size-full wp-image-10867" src="/imgs/2015/03/Atj08RFh1.png" alt="Atj08RFh[1]" width="860" height="921" srcset="/imgs/2015/03/Atj08RFh1.png 860w, /imgs/2015/03/Atj08RFh1-280x300.png 280w" sizes="(max-width: 860px) 100vw, 860px" /></a></p>
 <p>In Dec-2013, during a media interview &#8211; <a href="http://translate.google.com/translate?sl=cs&amp;tl=en&amp;js=n&amp;prev=_t&amp;hl=cs&amp;ie=UTF-8&amp;u=http%3A%2F%2Fbyznys.lidovky.cz%2Fobral-drogove-dealery-o-miliony-cech-jsem-nevinny-brani-se-programator-1md-%2Ffirmy-trhy.aspx%3Fc%3DA131206_112108_firmy-trhy_mev&amp;act=url">Thomas denied</a> being the person responsible for the Sheep Marketplace scam, Thomas was never arrested until know, even though that his name details were well known and reported to the Czech police soon after the scam.</p>
 <p>Some more pictures of the house he bought using the stolen BTC:</p>
 <p><a href="/imgs/2015/03/house1.jpeg"><img class="aligncenter size-full wp-image-9709" src="/imgs/2015/03/house1.jpeg" alt="house1" width="1000" height="750" srcset="/imgs/2015/03/house1.jpeg 1000w, /imgs/2015/03/house1-300x225.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="/imgs/2015/03/house2.jpeg"><img class="aligncenter size-full wp-image-9710" src="/imgs/2015/03/house2.jpeg" alt="house2" width="1000" height="750" srcset="/imgs/2015/03/house2.jpeg 1000w, /imgs/2015/03/house2-300x225.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a> <a href="/imgs/2015/03/house3.jpeg"><img class="aligncenter size-full wp-image-9711" src="/imgs/2015/03/house3.jpeg" alt="house3" width="1000" height="750" srcset="/imgs/2015/03/house3.jpeg 1000w, /imgs/2015/03/house3-300x225.jpeg 300w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
-</div>
-<a href="/tag/arrested/" rel="tag">arrested</a> <a href="/tag/breaking/" rel="tag">breaking</a> <a href="/tag/marketplace/" rel="tag">marketplace</a> <a href="/tag/owner/" rel="tag">owner</a> <a href="/tag/sheep/" rel="tag">sheep</a></span> 
+
 Updated: 2015-03-27

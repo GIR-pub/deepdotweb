@@ -2,13 +2,12 @@
 title: "BitFinex FlashCrash &#8211; Post-Mortem Analysis"
 ---
 
-11326  tag-analysis tag-bitfinex tag-flashcrash tag-postmortem
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>August 24, 2015</span>
 
 
-<span><a href="/2015/08/24/bitfinex-flashcrash-post-mortem-analysis/#respond">Leave a comment</a></span>
+
 
 
 <p>On August 16th, just before midnight (UTC), Bitcoin markets were in a moment of temporary panic, about 30 minutes after a flash crash incidence on one of the world’s largest exchange (by liquidity) BitFinex. Wikipedia describes it as</p>
@@ -48,7 +47,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Under normal circumstances, circuit breakers are enforced to limit market movements over 10%, however, this measure is triggered in cases of single manipulated order events. This was not the case on this day, hence why the triggers did not kick in despite the huge swing.</p>
 <p>Trader’s Block conducted their own <a href="https://tradeblock.com/blog/bitfinex-flash-crash-analysis">post-event analysis</a>, which seemed to back up Potter assertions.</p>
 <p><em>“Over the one-hour trading period highlighted above, ~70k bitcoin changed hands at Bitfinex; this compares with an average daily volume of 20k bitcoin at Bitfinex over the past month. Bitfinex was not only trading in excess of 10% away from the rest of the market, but also with a multi-point bid/ask spread, leading to significant jumps between ticks”</em> &#8211; Trader’s Block</p>
-</div>
-<a href="/tag/bitfinex/" rel="tag">bitfinex</a> <a href="/tag/flashcrash/" rel="tag">flashcrash</a> <a href="/tag/postmortem/" rel="tag">postmortem</a></span> 
+
 Updated: 2015-08-24
 

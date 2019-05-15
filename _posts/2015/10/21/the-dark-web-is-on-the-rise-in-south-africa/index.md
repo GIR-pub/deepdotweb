@@ -2,13 +2,12 @@
 title: "The Dark Web Is On The Rise In South Africa"
 ---
 
-11822  tag-africa tag-dark tag-rise tag-south tag-web
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>October 21, 2015</span>
 
 
-<span><a href="/2015/10/21/the-dark-web-is-on-the-rise-in-south-africa/#comments">17 Comments</a></span>
+
 
 
 <p><a href="http://www.iol.co.za/news/south-africa/dark-web-thriving-in-sa-1.1931641#.ViaUy37hAdW">According to current metrics published by Tor, the daily dark web users in South Africa has increased to 8000 users per day.</a> This involves activities such as purchasing drugs from darknet markets, visiting child porn sites, carding forums, and so on.</p>
@@ -33,5 +32,5 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>“However, it is not a ‘silver bullet’; we still lack the skills to catch cyber criminals,” said Corregedor.</p>
 <p>&nbsp;</p>
 </div>
-<a href="/tag/africa/" rel="tag">africa</a>  <a href="/tag/rise/" rel="tag">rise</a> <a href="/tag/south/" rel="tag">south</a> Updated: 2015-10-21<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+</strong></div>
 

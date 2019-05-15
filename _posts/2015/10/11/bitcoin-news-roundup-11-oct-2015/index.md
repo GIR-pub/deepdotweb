@@ -2,10 +2,6 @@
 title: "Bitcoin News Roundup – 11 Oct. 2015"
 ---
 
-11741  tag-1879 tag-2524  tag-oct
-    
-    
-    
 
 Posted by: DeepDotWeb
     
@@ -30,8 +26,7 @@ Posted by: DeepDotWeb
     
     
 
-<a href="/tag/11/" rel="tag">11</a>   <a href="/tag/oct/" rel="tag">oct</a> </span>				
-Updated: 2015-10-11
+ Updated: 2015-10-11
     
     
 

@@ -2,13 +2,10 @@
 title: "Tutorial: XMPP/Jabber OTr"
 ---
 
-9313  tag-otr tag-tutorial tag-xmppjabber
-Posted by: <a href="/author/dave/" title="">Dave 
+Posted by: Dave 
 
 <span>May 17, 2015</span>
     
-<span><a href="/2015/05/17/tutorial-xmppjabber-otr/#comments">19 Comments</a></span>
-</p>
 
 <p>Hey guys. Dave here again, back to teach you how to chat safely and securely via the XMPP/Jabber messaging protocol. This tutorial will be done on Windows 7, but the same idea should be transferred across Linux distros and Mac OSX.</p>
 <p>The first thing you are going to want to download the XMPP client called Pidgin. This can be downloaded <a href="https://www.pidgin.im/download/" target="_blank">here</a>. Once it is downloaded, go ahead with the install to completion.</p>
@@ -30,8 +27,7 @@ Posted by: <a href="/author/dave/" title="">Dave
 <p>Once you have done all of this, you need to add your buddy and get in a chat with him or her. I will be using a fake account for this example, but the same actions transfer over to when you chat with a real account. All you need to do is click on the &#8220;OTR&#8221; button in the chat room, and click &#8220;Start a Private Conversation&#8221;. Wait a few seconds, and just like that, you are chatting securely via XMPP.</p>
 <p><a href="/imgs/2015/02/snKrfky1.png"><img class="aligncenter size-full wp-image-9321" src="/imgs/2015/02/snKrfky1.png" alt="snKrfky[1]" width="382" height="422" srcset="/imgs/2015/02/snKrfky1.png 382w, /imgs/2015/02/snKrfky1-272x300.png 272w" sizes="(max-width: 382px) 100vw, 382px"/></a></p>
 <p>I hope this tutorial has been helpful, and as always, if you have any questions or problems, feel free to post a comment, and I will do my best to help. Thank you so much.</p>
-</div>
-<a href="/tag/otr/" rel="tag">otr</a> <a href="/tag/tutorial/" rel="tag">tutorial</a> <a href="/tag/xmppjabber/" rel="tag">xmppjabber</a></span> 
+
 Updated: 2015-05-17
-<a href="/author/dave/" title="Posts by Dave" rel="author">Dave</a></strong></div>
+
     

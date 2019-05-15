@@ -2,8 +2,7 @@
 title: "VPN Service Providers With Port Forwarding Affected By IP Leak"
 ---
 
-12468 tag-affected tag-forwarding tag-ip tag-leak tag-port tag-providers tag-vpn">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 4, 2015</span>
 
@@ -41,8 +40,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <li>On Client connect set server side firewall rule to block access from Client real ip to portforwardings that are not his own.”</li>
 </ul>
 <p>According to Perfect Privacy, all of their users are protected from such attacks.</p>
-</div>
-<a href="/tag/affected/" rel="tag">affected</a> <a href="/tag/forwarding/" rel="tag">forwarding</a> <a href="/tag/ip/" rel="tag">ip</a> <a href="/tag/leak/" rel="tag">leak</a> <a href="/tag/port/" rel="tag">port</a> <a href="/tag/providers/" rel="tag">providers</a> <a href="/tag/vpn/" rel="tag">vpn</a></span> 
+
 Updated: 2015-12-04
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

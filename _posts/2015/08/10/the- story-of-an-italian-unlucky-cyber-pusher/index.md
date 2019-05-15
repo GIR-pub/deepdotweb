@@ -2,12 +2,11 @@
 title: "The  Story of an Italian Unlucky Cyber Pusher"
 ---
 
-11197  tag-cyber tag-italian tag-pusher tag-story tag-unlucky
-Posted by: <a href="/author/unluckycyberpusher/" title="">Unluckycyberpusher 
+Posted by: Unluckycyberpusher 
 
 <span>August 10, 2015</span>
 
-<span><a href="/2015/08/10/the-%e2%80%8astory-of-an-italian-unlucky-cyber-pusher/#comments">12 Comments</a></span>
+
 
 
 <p class="graf--p"><em>The article has been contributed by its author &#8211; Ex-SR1 &amp; BMR vendor &#8220;Fuckthepolice137&#8221;, profile:<br />
@@ -127,7 +126,6 @@ Posted by: <a href="/author/unluckycyberpusher/" title="">Unluckycyberpusher
 <p id="5482" class="graf--p" data-align="center">Namecoin: N7LkY4tNCSXirreXmsUZaLVbRPwJ1dMMig</p>
 <p id="5f24" class="graf--p" data-align="center">Peercoin: PVjwUHxFsr4Ld1ShaibdmVvLh96nvoUfQE</p>
 <p id="4969" class="graf--p graf--last" data-align="center">Blackcoin: BdyYjvTMpdbtnJw9FbZfRnYpKoxCEr6UTH</p>
-</div>
-<a href="/tag/cyber/" rel="tag">cyber</a> <a href="/tag/italian/" rel="tag">italian</a> <a href="/tag/pusher/" rel="tag">pusher</a> <a href="/tag/story/" rel="tag">story</a> <a href="/tag/unlucky/" rel="tag">unlucky</a></span> 
-Updated: 2015-08-10<a href="/author/unluckycyberpusher/" title="Posts by Unluckycyberpusher" rel="author">Unluckycyberpusher</a></strong></div>
+
+Updated: 2015-08-10
 

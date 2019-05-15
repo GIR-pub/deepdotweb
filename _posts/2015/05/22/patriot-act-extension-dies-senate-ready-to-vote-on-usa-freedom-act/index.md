@@ -2,14 +2,11 @@
 title: "Patriot Act extension Dies; Senate ready to vote on USA Freedom Act"
 ---
 
-10350  tag-act tag-dies tag-extension tag-freedom tag-mcconnells tag-patriot tag-ready tag-senate tag-usa tag-vote
-Posted by: <a href="/author/timothyjones/" title="">Timothy Jones 
+Posted by: Timothy Jones 
 
 <span>May 22, 2015</span>
 
 
-<span><a href="/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/#comments">1 Comment</a></span>
-</p>
 
 <p>As Section 215 of the Patriot Act&#8217;s <span class="aBn" tabindex="0" data-term="goog_997457443"><span class="aQJ">June 1st</span></span> deadline approaches the Senate will vote this week on the USA Freedom Act which tightens up some key NSA powers.</p>
 <p>This will be the first time the US government has scaled back government surveillance in quite some time.</p>
@@ -37,8 +34,7 @@ Posted by: <a href="/author/timothyjones/" title="">Timothy Jones
 <p>We&#8217;ll be posting more about this story as it unfolds.</p>
 <p><em>The Candidate is a weekly columnist at DeepDotWeb</em><br />
 <em>Reach him by email at <a href="/cdn-cgi/l/email-protection#91e5f9f4f2f0fff5f8f5f0e5f4d1fee1f4fffcf0f8fdf3fee9bffee3f6" target="_blank"><span class="__cf_email__" data-cfemail="8bffe3eee8eae5efe2efeaffeecbe4fbeee5e6eae2e7e9e4f3a5e4f9ec">[email&#160;protected]</span></a></em></p>
-</div>
-<a href="/tag/act/" rel="tag">act</a> <a href="/tag/dies/" rel="tag">dies</a> <a href="/tag/extension/" rel="tag">extension</a> <a href="/tag/freedom/" rel="tag">freedom</a> <a href="/tag/mcconnells/" rel="tag">mcconnells</a> <a href="/tag/patriot/" rel="tag">patriot</a> <a href="/tag/ready/" rel="tag">ready</a> <a href="/tag/senate/" rel="tag">senate</a> <a href="/tag/usa/" rel="tag">usa</a> <a href="/tag/vote/" rel="tag">vote</a></span> 
+
 Updated: 2015-05-22
-<a href="/author/timothyjones/" title="Posts by Timothy Jones" rel="author">Timothy Jones</a></strong></div>
+
     

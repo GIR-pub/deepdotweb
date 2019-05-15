@@ -2,13 +2,10 @@
 title: "Op-Ed: Why Ulbricht Needed to Get Life"
 ---
 
-10520  tag-life tag-needed tag-oped tag-ulbricht
 Posted by: Allen Hoffmann, JD
 
 <span>June 2, 2015</span>
     
-<span><a href="/2015/06/02/op-ed-why-ulbricht-needed-to-get-life/#comments">21 Comments</a></span>
-</p>
 
 <p><strong>Which side are you on?</strong></p>
 <p>Whilst life is a spectrum of grey, rather than being black or white, formative years can, in some instances, give us a clue as to which side we’ll end up being on or who we’ll be. There are plenty of kids who enjoyed reading and became writers or lawyers, and others who enjoyed vinegar and baking soda volcanoes to such an extent that we end doctors, lab techs, pharmacists (or perhaps, with a couple of years of organic science behind them, and looking at a way to retire early, meth cooks). Your path may’ve been chosen for you, coming from a family of brick layers or bakers. Some of us grew up with something of a white knight complex. Perhaps a military movie’s leading man or woman in uniform made an impression on us during our teens, perhaps a cop let us hold their hat (or loaded gun) as a child. Others found themselves consistently rooting for the bad guy; maybe we really liked the idea of being Tony Montana, a Bond villain, or Hank Scorpio from The Simpsons, for as long as we can remember. Most grow out of it and lead normal lives. Maybe it was at the careers fair, maybe it was upon getting into college, but people’s paths change. Some will learn about it in a practical manner, only to find the drudgery of policing, or the various pitfalls of full time crime, are far removed from what media had us believe. For those who did take it further, perhaps it was in the first week of the academy, or during one’s first visit to central booking. There’s a certain mystique to playing cops and robbers on an epic scale, and some people persist with it.</p>
@@ -21,8 +18,7 @@ Posted by: Allen Hoffmann, JD
 <p>One of the primary, underlying motivations of Ulbricht’s two life sentences is a concept known in law as ‘general deterrence’ – essentially, “kill the chicken to scare the monkey”, seek to intimidate others against pursuing a similar course of action. Without spending hours philosophically debating the federal sentencing guidelines and the submissions made by both sides as to how sentencing should have played out for Ross Ulbricht, there is one point which is undeniable. Whether you regard Silk Road as a resounding demonstration of the fallacy which is the war on drugs, a harbinger of doom which may well have facilitated your innocent children’s descent into Reefer Madnes had it been left unchecked, or just a solid place to source your MDMA, Ulbricht achieved what he achieved as the ‘kingpin’ of a ‘drug empire’ (do forgive the hyperbole) in an astonishingly short timeframe, and with limited specific expertise or skillsets. No multiple years spent as a foot soldier, dealing on the street, in a larger organization, looking to rise through the ranks and get indoors. None of the ducking and weaving from competitors and law enforcement, which results in a high rate of attrition through incarceration or death.</p>
 <p><strong>General deterrence winning the day</strong></p>
 <p>Can two life sentences for this kind of conduct be justified on this basis? If we were ignoring the various other aspects considered in the Ulbricht trial, it wouldn’t be as quite easy to say yes – obviously, a good deal of other materials came out at trial, the spurious murders for hire all being a big part of the story. Right now, law enforcement world wide is up against a wholly new animal, and the aim is to disrupt all those who issue a challenge, and put Ulbricht’s head on a pike is part of the game plan; for just as easily as you too maybe the next DPR, the Government would like you to pause and consider that, you too, may just as easily spend the rest of your life in a federal penitentiary.</p>
-</div>
-<a href="/tag/life/" rel="tag">life</a> <a href="/tag/needed/" rel="tag">needed</a> <a href="/tag/oped/" rel="tag">oped</a> <a href="/tag/ulbricht/" rel="tag">ulbricht</a></span> 
+
 Updated: 2015-06-02
 
     

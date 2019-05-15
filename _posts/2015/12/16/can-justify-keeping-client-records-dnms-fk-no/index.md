@@ -2,14 +2,9 @@
 title: "Can you justify keeping client records on DNMs? F**k no."
 ---
 
-10871  tag-client tag-dnms tag-fk tag-justify tag-keeping tag-records">
 Posted by: Allen Hoffmann, JD
 
 <span>December 16, 2015</span>
-    
-<span><a href="/2015/12/16/can-justify-keeping-client-records-dnms-fk-no/#comments">16 Comments</a></span>
-</p>
-
     
 <p>From the very first day of Silk Road, the word from atop mount DPR was clear and non negotiable; thou shalt not retain client information after processing orders.</p>
 <p>So, it’s a little concerning that word has been getting around the DNMs recently that a vendor may have leaked an annoyed client’s first initial, after threatening, jokingly or not, to send a large quantity of drugs <a href="http://www.reddit.com/r/DarkNetMarkets/comments/252z99/ace_has_doxxed_a_the_user_who_posted_about_a/">to that client’s home</a>. No doubt, some will say “ayyyy, she probably deserved it”, whilst others will be aghast that, shock and horror of all horrors, their vendor of choice maybe isn’t, in fact, getting rid of their details straight after the order ships. The title of DNM vendor is not in any way similar to a lawyer-client relationship, where one risks being unceremoniously stripped of the right to earn an income by the peak regulator, if one were to break the rules; indeed, there is really no effective punitive manner in which marketplaces can enforce, or audit, compliance with the ‘no keeping client records’ rule. Get kicked off one market for a data breach? Simple – head to another market, and change your name, or maybe even don’t change your name. Not a very effective disincentive, is it?</p>
@@ -20,8 +15,7 @@ Posted by: Allen Hoffmann, JD
 <p>Even if you don’t hint at the fact that you’re holding onto client data, you need to take a risk averse approach and consider worst case scenario if you want to be anything approaching professional; LE is at your door and ripping out the dry wall, and somehow, perhaps using some James Bond, “TEMPEST” shit, managed to snag a copy of the password protecting your ‘business files’. This belies a better approach &#8211; If you don’t have client files, THEY CAN’T BE RECOVERED, James Bond shit or not.</p>
 <p>So leaving aside the practicalities, let’s look at it from the ethics side of things. Your clientele is rewarding you, the vendor, with both their trust and their cash; let’s be realistic, there’s a high degree of probability that your operation is not the only show in town at which they can buy what you’re selling. If you’re vending on most DNMs, you’ve agreed as a component of their terms and conditions, in a non legally enforceable context (seeing as they ARE regarded as criminal enterprises, after all) that you aren’t going to hold on to client data. Agora, for example, set the bar high on this point – client privacy is sacrosanct. If clients can’t trust you, clients can’t, in theory, trust other vendors, or that whole marketplace, or, indeed, the whole DNM concept as a whole.</p>
 <p>Keeping records of your clientele, whatever the reason, is deplorable. But there’s one little thing that holding onto client details gives vendors, which they effectively don’t have any other way… and for that reason, its likely to stay. It may be their only available doorway to coercion, and I’ll talk about it in depth next time.</p>
-</div>
-<a href="/tag/client/" rel="tag">client</a> <a href="/tag/dnms/" rel="tag">dnms</a> <a href="/tag/fk/" rel="tag">fk</a> <a href="/tag/justify/" rel="tag">justify</a> <a href="/tag/keeping/" rel="tag">keeping</a> <a href="/tag/records/" rel="tag">records</a></span> 
+
 Updated: 2015-12-16
 
     

@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 7 June 2015"
 ---
 
-10630  tag-2524 tag-june 
 Posted by: DeepDotWeb 
 
 <span>June 7, 2015</span>
 
 
-<span><a href="/2015/06/07/bitcoin-news-roundup-7-june-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Bitcoin Cloud Services (BCS) is likely involved in a Ponzi scheme. As Kyle Torpey of <a href="https://bitcoinmagazine.com/20702/exclusive-possible-500000-bitcoin-cloud-mining-ponzi-scheme-uncovered/">Bitcoin Magazine</a>writes, following several cloud mining scams recently exposed, BCS, one of the leading cloud-mining providers, may be involved in a bitcoin scam. One of the two owners, Esteban Amador Soto Martinez, is associated withthe bitcoincloudhashing.com Ponzi scheme, an information that raises a red flag regarding the legitimacy of BCS.</p>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>Bitfinex partners with BitGotowards multi-signature protection to bitcoin users. According toKatherine Fletcher of <a href="https://coinreport.net/bitfinex-bitgo-partner-worlds-first-real-time-proof-reserve-bitcoin-exchange/">Coin Report</a>, Bitfinex, the global bitcoin exchange, has joined forces with BitGo in order to be able to provide customized multi-signature wallets that will allow customers to source their funds on the blockchain. This development minimizes the event of compromising the security of Bitfinexwallets. Bitfinex Director of Community &amp; Product Development, Zane Tackett, states that “<em>With the help of BitGo’s multi-signature technology, the Bitfinex team is very excited to be the first exchange in the world to automate Bitcoin settlements using ‘On-Blockchain’ customer segregated wallets.</em><em>”</em></p>
 <p>Apple’s Game of Birds allows bitcoin tipping. As William Suberg of <a href="http://cointelegraph.com/news/114444/apple-approves-new-game-of-birds-app-with-bitcoin-tipping">Coin Telegraph</a> writes, the game involves a bitcoin tipping tool that allows players to receive rewards while playing. The tool has been set up as a result of the partnership with Coinbase, but Apple considers to expand its use to any wallet address. Christian Moss, the Game of Birds developer explains that <em>“the game’s wallet balance is supplied by sponsors in exchange for advertising space in the app, more advertising revenue results in more bitcoin that can be sent to the player.”</em></p>
-</div>
-  </span> 
+
 Updated: 2015-06-07
 
     

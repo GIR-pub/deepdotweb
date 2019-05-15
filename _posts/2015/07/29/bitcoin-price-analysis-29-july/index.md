@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis 29 July"
 ---
 
-11146  tag-1995 tag-analysis tag-july tag-price">
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>July 29, 2015</span>
 
 
-<span><a href="/2015/07/29/bitcoin-price-analysis-29-july/#comments">2 Comments</a></span>
-</p>
 
     
 <p><a href="/imgs/2015/07/14.jpg"><img class="aligncenter size-full wp-image-11147" src="/imgs/2015/07/14.jpg" alt="1" width="600" height="436" srcset="/imgs/2015/07/14.jpg 600w, /imgs/2015/07/14-300x218.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
@@ -43,8 +40,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>As I scrolled through comment sentiment, I saw people are divided on whether this is a realistic expectation of a nascent cryptocurrency which ‘checks all the boxes’. One thing we all seem to agree on, its properties as a feasible commodity</p>
 <p>“&#8230;<em>with slight intrinsic value, artificial scarcity, production limited by the economics of mining. Bitcoin does serve to a high degree as medium of exchange, and to a somewhat lesser degree as store of value.” </em></p>
 <p>It is massively undervalued in my opinion, regardless of its prospects as a world currency.</p>
-</div>
-<a href="/tag/29/" rel="tag">29</a>  
+
 Updated: 2015-07-29
 
     

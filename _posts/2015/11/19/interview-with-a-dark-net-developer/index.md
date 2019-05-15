@@ -2,12 +2,11 @@
 title: "Interview With a Dark Net Market Developer"
 ---
 
-12260  tag-dark tag-developer tag-interview tag-net
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>November 19, 2015</span>
 
-<span><a href="https://www.deepdotweb.com/2015/11/19/interview-with-a-dark-net-developer/#comments">7 Comments</a></span>
+
 
 
 <p>Couple of days ago, an unusual thread was posted on the <a href="https://bitcointalk.org/index.php?topic=1251605.0" target="_blank">Bitcointalk</a> forum by a developer offering Darknet Market source code for sale, while this is something that we encountered before, it is not very common. We took the chance to do a short interview with the seller to learn more about his background, offer and intentions.</p>
@@ -45,6 +44,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p><strong>Had people interested so far? How many?</strong></p>
 <p>There has been some interest, but nothing significant.  There are 2-3 people who seem genuinely interested in purchasing this, but until the first staged payment is made then the offer still on the table and open to bids.</p>
 <p><strong>Ok Thanks for your time and good luck with the sale!</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/developer/" rel="tag">developer</a> <a href="https://www.deepdotweb.com/tag/interview/" rel="tag">interview</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> 
+
 Updated: 2015-11-19

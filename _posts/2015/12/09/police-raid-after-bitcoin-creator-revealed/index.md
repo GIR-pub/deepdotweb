@@ -2,12 +2,11 @@
 title: "Police Raid After Bitcoin &#8216;Creator&#8217; Revealed"
 ---
 
-12517  tag-creator tag-police tag-raid tag-revealed
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>December 9, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/09/police-raid-after-bitcoin-creator-revealed/#comments">8 Comments</a></span>
+
+
 
 
 <p>Hours after <a href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/" target="_blank">Wired</a> &amp; <a href="http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692?rev=1449615811696" target="_blank">Gizmodo</a> magazines claimed bitcoin was created by an &#8220;unknown Australian genius&#8221; called Craig Wright, his home is raided.</p>
@@ -36,6 +35,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p>&#8220;Too many already know secrets, the world does not need to know. There are other means to lead change than to be a dictator.&#8221;</p>
 <p>He eventually said he would consider a request for a meeting, before ending all contact.</p>
 <p><strong>Article source</strong>: <a href="http://news.sky.com/story/1602546/police-raid-after-bitcoin-creator-revealed" target="_blank">http://news.sky.com/story/1602546/police-raid-after-bitcoin-creator-revealed</a></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/creator/" rel="tag">creator</a> <a href="https://www.deepdotweb.com/tag/police/" rel="tag">police</a> <a href="https://www.deepdotweb.com/tag/raid/" rel="tag">raid</a> <a href="https://www.deepdotweb.com/tag/revealed/" rel="tag">revealed</a></span> 
+
 Updated: 2015-12-09

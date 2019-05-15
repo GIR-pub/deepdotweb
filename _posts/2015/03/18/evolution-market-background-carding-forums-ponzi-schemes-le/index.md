@@ -2,17 +2,16 @@
 title: "Evolution Market Background: Carding Forums, Ponzi Schemes &#038; Le"
 ---
 
-9540 tag-evoscam
 Posted by: DeepDotWeb 
 
 <span>March 18, 2015</span>
-<span>in <a href="/category/articles/" rel="category tag">Articles</a></span>
-<span><a href="/2015/03/18/evolution-market-background-carding-forums-ponzi-schemes-le/#comments">8 Comments</a></span>
+
+
 
 
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
-<p><strong><em>Another artice in the <a href="http://www.deepdotweb.com/tag/evoscam/">#Evoscam</a> series &#8211; I have known this thread since it was posted originally by <a href="https://www.reddit.com/u/the_avid">/u/the_avid</a> in some private forum &#8211; but never wanted to stir any drama regarding <a href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution marketplace</a>, so i never posted it, but now seems like a good time to repost this and remind everyone where evolution came from and why this scam wasn&#8217;t such a big surprise to many people, some details were added by <a href="http://www.reddit.com/user/gwern">Gwern</a>, so here we go:</em></strong></p>
+<p><strong><em>Another artice in the <a href="/tag/evoscam/">#Evoscam</a> series &#8211; I have known this thread since it was posted originally by <a href="https://www.reddit.com/u/the_avid">/u/the_avid</a> in some private forum &#8211; but never wanted to stir any drama regarding <a href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution marketplace</a>, so i never posted it, but now seems like a good time to repost this and remind everyone where evolution came from and why this scam wasn&#8217;t such a big surprise to many people, some details were added by <a href="http://www.reddit.com/user/gwern">Gwern</a>, so here we go:</em></strong></p>
 <p>On 15 March 2014, <a href="https://www.reddit.com/u/the_avid">/u/the_avid</a> posted a writeup of the historical background of English-speaking carding (fraud) forums and law enforcement&#8217;s practice of infiltrating, running, and after a long period, busting them, due to the Evolution black-market&#8217;s origins in an English-speaking carding forum. I thought it was a decent writeup and encouraged him to post it publicly, but he wanted to improve it. I pinged him several times after that, but it never happened, and he has not responded for several months at this point, so I&#8217;m taking it upon myself to repost it (which is ironic in part because Evolution staffers <a href="http://www.gwern.net/Blackmail#section-2">threatened to dox me</a> if I wouldn&#8217;t tell them what the_avid had written; well, here you go guys, I hope you think it was worth the trouble).</p>
 <hr />
 <p>Evolution Market is starting to get some traction. I first submitted the URL to <a href="https://www.reddit.com/r/Darknetmarkets">/r/DNM</a> around 2 months ago. There is a bit of background here that people should know, in terms of who is behind the site and where it came from.</p>
@@ -122,6 +121,5 @@ Posted by: DeepDotWeb
 <p>Never trust any market with your funds.</p>
 </div>
 </div>
-</div>
-<a href="/tag/evoscam/" rel="tag">Evoscam</a></span> 
+
 Updated: 2015-03-18

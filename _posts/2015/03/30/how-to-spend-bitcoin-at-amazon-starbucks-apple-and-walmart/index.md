@@ -2,12 +2,11 @@
 title: "Spending Bitcoins: The Right Way"
 ---
 
-8287  tag-amazon tag-apple tag-spend tag-starbucks tag-walmart
-Posted by: <a href="/author/kyleseverance/" title="">Kyle Severance 
+Posted by: Kyle Severance 
 
 <span>March 30, 2015</span>
 
-<span><a href="/2015/03/30/how-to-spend-bitcoin-at-amazon-starbucks-apple-and-walmart/#comments">5 Comments</a></span>
+
 
 
 <p>The excitement of spending Bitcoin is limited; very few online retailers accept Bitcoin as a payment method. Your best option to pay directly with Bitcoins is any merchant who accepts Bitcoin and is fulfilled by Amazon. A few other options are Overstock.com and a handful of Etsy vendors. Many people claim that you can spend Bitcoin freely, but they require third party sites to do so. Many countries or companies require verification for shipment of certain goods and services &#8211; this would require some sort of identification, something Bitcoin does not provide.</p>
@@ -19,7 +18,6 @@ Posted by: <a href="/author/kyleseverance/" title="">Kyle Severance
 <p>Many people turn to purchasing gift cards online with their Bitcoins. A large retailer is <a href="http://www.gyft.com/"><em>gyft.com</em></a>, which allows its users to purchase any of their gift cards with Bitcoin (and also earning a bonus 3% rewards points on their site). They are not an online auction site; it is a company that directly fulfills all orders and there are no bidding wars or selected discounts on their products. The upside to this method is that you have no need to worry about scammers or long waits for product fulfillment. The company emails you the gift card in a reasonable amount of time after receiving payment. The site is based off of their iOS and Android apps which act like a virtual gift card wallet, holding all your gift cards in a single spot. They offer over 200 different retailers and offer denominations up to $2000.</p>
 <p><a href="/imgs/2014/12/egifter.png"><img class="aligncenter size-full wp-image-8672" src="/imgs/2014/12/egifter.png" alt="egifter" width="336" height="140" srcset="/imgs/2014/12/egifter.png 336w, /imgs/2014/12/egifter-300x125.png 300w" sizes="(max-width: 336px) 100vw, 336px"/></a><br/>
 <a href="https://www.egifter.com/"><em>eGifter.com</em></a> is another site that sells gift cards purchasable with Bitcoin; they offer apps for your mobile device to house your virtual gift cards as well. They offer gift cards for the United States, France, Germany, and the United Kingdom &#8211; only offering Amazon gift cards to European countries however. Some of the cards are offered as an in-store, physical option as well; similar denominations compared to gyft.com. They also have a points program that allows them to spend their earned points on gift cards. These points can be picked up by spending Bitcoin or using PayPal to purchase gift cards on their site. These points can be multiplied if you can become an “insider” &#8211; a part of their VIP program. Becoming an insider is difficult; you must be invited to the program by other users. Insiders can invite two other users to become insiders (the only way to become part of the program at this point). It offers a 15% percent discount for each dollar spent, so for people who purchase a lot of gift cards, the savings can really add up.</p>
-</div>
-<a href="/tag/amazon/" rel="tag">amazon</a> <a href="/tag/apple/" rel="tag">apple</a> <a href="/tag/spend/" rel="tag">spend</a> <a href="/tag/starbucks/" rel="tag">starbucks</a> <a href="/tag/walmart/" rel="tag">walmart</a></span> 
-Updated: 2015-03-30<a href="/author/kyleseverance/" title="Posts by Kyle Severance" rel="author">Kyle Severance</a></strong></div>
+
+Updated: 2015-03-30
 

@@ -2,12 +2,11 @@
 title: "2014 Was The Worst Year In Drug Overdose Fatalities According To CDc"
 ---
 
-12735 tag-1779 tag-cdc tag-fatalities tag-overdose tag-worst tag-year
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 25, 2015</span>
 
-<span><a href="/2015/12/25/2014-was-the-worst-year-in-drug-overdose-fatalities-according-to-cdc/#comments">2 Comments</a></span>
+
 
 
 <p><a href="http://www.modernreaders.com/cdc-warns-of-worst-ever-year-for-drug-overdose-deaths-in-america/35958/ed-jones">The Centers for Disease Control and Prevention (CDC), which is the leading national public health institute of the United States, conducted a report, in which they found out that 2014 was the worst year in drug overdose deaths in the US.</a> According to them, ”things are apparently spiraling out of control” and currently, there’s a ”drug death epidemic” in the United States.</p>
@@ -28,7 +27,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>“The sharp increase in deaths involving synthetic opioids, other than methadone, in 2014 coincided with law enforcement reports of increased availability of illicitly manufactured fentanyl, a synthetic opioid.”</p>
 <p>“These findings indicate that the opioid overdose epidemic is worsening. There is a need for continued action to prevent opioid abuse, dependence, and death, improve treatment capacity for opioid use disorders, and reduce the supply of illicit opioids, particularly heroin and illicit fentanyl.”</p>
 <p>“More persons died from drug overdoses in the United States in 2014 than during any previous year on record. From 2000 to 2014 nearly half a million persons in the United States have died from drug overdoses. In 2014, there were approximately one and a half times more drug overdose deaths in the United States than deaths from motor vehicle crashes.”</p>
-</div>
-<a href="/tag/2014/" rel="tag">2014</a> <a href="/tag/cdc/" rel="tag">cdc</a>  <a href="/tag/fatalities/" rel="tag">fatalities</a> <a href="/tag/overdose/" rel="tag">overdose</a> <a href="/tag/worst/" rel="tag">worst</a> <a href="/tag/year/" rel="tag">year</a></span> 
-Updated: 2015-12-25<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-12-25
 

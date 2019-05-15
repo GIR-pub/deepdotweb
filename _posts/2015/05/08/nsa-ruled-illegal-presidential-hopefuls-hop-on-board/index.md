@@ -2,14 +2,11 @@
 title: "NSA Ruled Illegal; Presidential Hopefuls Hop on Board"
 ---
 
-10225  tag-board tag-hop tag-hopefuls tag-illegal tag-nsa tag-presidential tag-ruled
 Posted by: DeepDotWeb 
 
 <span>May 8, 2015</span>
 
 
-<span><a href="/2015/05/08/nsa-ruled-illegal-presidential-hopefuls-hop-on-board/#comments">6 Comments</a></span>
-</p>
 
 <p><span class="aBn" tabindex="0" data-term="goog_98097150"><span class="aQJ">On Thursday</span></span> a New York federal appeals court ruled the mass collection of phone metadata, granted under Section 215 of The Patriot Act, is illegal.</p>
 <p>The 97-page brief, <a href="http://pdfserver.amlaw.com/nlj/NSA_ca2_20150507.pdf" target="_blank">available here</a>, outlines the decision of the court.</p>
@@ -40,8 +37,7 @@ Posted by: DeepDotWeb
 <p>&#8220;Now that a court of appeal has rejected the government&#8217;s arguments supporting its secret shift to mass surveillance, we look forward to other courts—including the Ninth Circuit in EFF&#8217;s<a href="https://www.eff.org/cases/smith-v-obama" target="_blank"> Smith v. Obama</a> case—rejecting mass surveillance as well,&#8221; said EFF Legislative Analyst Mark Jaycox. &#8220;With the deadline to reauthorize section 215 looming, we also call on Congress to both expressly adopt the interpretation of the law given by the court and to take further steps to rein in the NSA and reform the Foreign Intelligence Surveillance Court.&#8221;</p>
 <p>One thing is certain; we’ll be hearing a lot more about the NSA in the upcoming weeks.</p>
 <p>The Candidate is a contributor and you can reach him by email at <a href="mailto:thecandidate@openmailbox.org" target="_blank">thecandidate@openmailbox.org</a></p>
-</div>
-<a href="/tag/board/" rel="tag">board</a> <a href="/tag/hop/" rel="tag">hop</a> <a href="/tag/hopefuls/" rel="tag">hopefuls</a> <a href="/tag/illegal/" rel="tag">illegal</a> <a href="/tag/nsa/" rel="tag">nsa</a> <a href="/tag/presidential/" rel="tag">presidential</a> <a href="/tag/ruled/" rel="tag">ruled</a></span> 
+
 Updated: 2015-05-08
 
     

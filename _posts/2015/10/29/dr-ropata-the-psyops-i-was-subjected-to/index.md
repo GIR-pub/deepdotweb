@@ -2,12 +2,11 @@
 title: "Vendor &#8220;Dr Ropata&#8221;: The PsyOps I was Subjected To"
 ---
 
-11851  tag-dr tag-psyops tag-ropata tag-subjected tag-vendor
 Posted by: DeepDotWeb 
 
 <span>October 29, 2015</span>
 
-<span><a href="/2015/10/29/dr-ropata-the-psyops-i-was-subjected-to/#comments">26 Comments</a></span>
+
 
 
 <p><a href="/2015/10/14/dnm-vendor-dr-ropata-using-actors-image-for-marketing-purposes/">Ollie bassweight</a>, is an electronic musician, blogger and internet activist from new Zealand who has done many notable things including: doxing himself on reddit to expose flaws on market-places and forums and tackling the problem of drug prohibition around the world . This inadvertently propelled him to also tackle internet security and privacy issues. As a result has was subject to a PSYOP and Defamation Campaign by his country’s government in order to hide its illegal activities. I think that it is courageous of Ollie to take on governments and expose their wrongdoings. He had a blog, but took it down due to <a href="http://willtherealropataplzstandup.org/">privacy and legal issues</a>.</p>
@@ -35,6 +34,5 @@ Posted by: DeepDotWeb
 <p>Just last Thursday the 15th, I was doxed on reddit again, and the police listed with their dox a scan of my passport and my email address. This email address i have only sent 1 email from and that was my IPCA Complaint. Why would the police ever put that up? I am currently not going anywhere near police until they start telling some truth or media brings light to this mess. Take it or leave it. I will reveal the truth, and I don’t care what others think of me. I have started a blog that will compile a lot of relevant info for those interested, I hope this info can help someone one day.</p>
 <p>Think for yourself: http://fearuncertaintydoubt.net/</p>
 <p>Question Authority</p>
-</div>
-<a href="/tag/dr/" rel="tag">dr</a> <a href="/tag/psyops/" rel="tag">psyops</a> <a href="/tag/ropata/" rel="tag">ropata</a> <a href="/tag/subjected/" rel="tag">subjected</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2015-10-29

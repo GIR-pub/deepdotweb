@@ -2,13 +2,10 @@
 title: "Snoopers&#8217; Charter: the Most Spied on Country in the World Is About to Get Worse"
 ---
 
-10293  tag-charter tag-country tag-snoopers   
-Posted by: <a href="/author/politech/" title="">Politech 
+Posted by: Politech 
 
 <span>May 14, 2015</span>
     
-<span><a href="/2015/05/14/snoopers-charter-the-most-spied-on-country-in-the-world-is-about-to-get-worse/#comments">2 Comments</a></span>
-</p>
 
 <p>Long before Edward Snowden was a household name, the United Kingdom was already <a href="http://www.telegraph.co.uk/news/uknews/1533054/Britain-the-most-spied-on-nation-in-the-world.html">frequently cited</a> as the most spied on country in the world. It&#8217;s easy to see why. If you want to sit down for a cream tea outside the watchful gaze of CCTV you could be looking for a long time. But ubiquitous cameras are only the most visible component of this surveillance state, and certainly not the worst.</p>
 <p>When the first slides from Snowden&#8217;s cache were published by journalists, jaws dropped globally at the scale of the NSA&#8217;s collection of data through, among other methods, court orders to phone companies and covert taps of cables linking the data centres of internet giants like Yahoo and Google. For the UK, though, this was not enough.</p>
@@ -18,8 +15,7 @@ Posted by: <a href="/author/politech/" title="">Politech
 <p>So what new powers would the Charter grant and to what extent would it simply encode DRIP&#8217;s powers into law on a permanent basis? We don&#8217;t yet know what the new Snoopers&#8217; Charter will contain, but we can guess based on the existing drafts. In response to a request for comment on this issue, the British civil liberties organisation Open Rights Group responded: “DRIP forces ISPs to keep data for 12 months or more that they would normally use for business purposes for a much shorter time. The CDB is likely to oblige ISPs and other communications providers to collect and retain a much broader range of data that they would not otherwise create or need. This could include people we communicate with on third party services (e.g. lists of Facebook friends) and when we communicate with them. Powerful analytics tools, to map individuals and their activities, are also likely to be part of the bill. This is likely to be made available to a wide range of public authorities.”</p>
 <p>The Open Rights Group <a href="https://wiki.openrightsgroup.org/wiki/Communications_Data_Bill#Collecting_entities_covered">wiki</a> clarifies the services on which the Draft Communications Data Bill places obligations. The broad definitions of “apparatus” as including “any equipment, machinery or device and any wire or cable” and “communications” as “anything comprising speech, music, sounds, visual images or data of any description, and signals serving either for the impartation of anything between persons, between a person and a thing or between things or for the actuation or control of any apparatus” means that ISPs or mobile ISPs, VPN providers, website operators, and Tor node operators are all at risk of being swept up by the Bill.</p>
 <p>Jim Killock, the Executive Director of ORG condemns the Snoopers&#8217; Charter as follows: “Open Rights Group would oppose any new legislation that would force telecom companies to expand the data they collect and keep from their customers. The Snooper’s Charter was rejected during the last Parliament because it was intrusive and treated all British citizens as suspects. We hope that MPs from all parties, who care about civil liberties, will oppose any further attempt to reintroduce this fundamental threat to our freedoms.”</p>
-</div>
-<a href="/tag/charter/" rel="tag">charter</a> <a href="/tag/country/" rel="tag">country</a> <a href="/tag/snoopers/" rel="tag">snoopers</a> <a href="/tag/spied/" rel="tag">spied</a> <a href="/tag/world/" rel="tag">world</a> <a href="/tag/worse/" rel="tag">worse</a></span> 
+
 Updated: 2015-05-14
-<a href="/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
+
     

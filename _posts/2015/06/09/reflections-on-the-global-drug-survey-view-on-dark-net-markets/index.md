@@ -2,13 +2,10 @@
 title: "Reflections on the Global Drug Survey view on Dark Net Markets"
 ---
 
-10645  tag-dark tag-global tag-net tag-reflections tag-survey tag-view
 Posted by: Allen Hoffmann, JD
 
 <span>June 9, 2015</span>
     
-<span><a href="/2015/06/09/reflections-on-the-global-drug-survey-view-on-dark-net-markets/#comments">2 Comments</a></span>
-</p>
 
 <p>The recent release of the <a href="http://www.globaldrugsurvey.com/the-global-drug-survey-2015-findings/">Global Drugs Survey</a>, which it is claimed “was the biggest survey of current drug use ever conducted”, covered all aspects of the drug world, whether your poison is a pint, a pack of smokes, or something more nefarious. In addition, the report has highlighted issues as far as shopping on dark net markets versus shopping with your friendly local drug connection, be it the hippies at the end of the street growing weed, the organic chemistry major who makes a little meth on the side, or the friendly local Crips or Bloods from whom you buy bricks of Columbia’s finest. For all you know, that’s still from whom you’re buying.</p>
 <p>Some stuff is not surprising, but some of it is. There are notable gaps between DNM users and traditional buyers in favor of DNMs when it comes to being stressed about threats to personal safety, which is not surprising in the slightest considering DNMs remove the face to face/hand to hand component of the transaction, and product availability, quality and pricing. One thing DNMs have given the buying world is a much more direct and precise way to share info on who is selling both bunk gear and the good stuff; no more vague description of particular bags, or the corner you can get ‘em on. Its also a little harder to spend money you don’t have, taking drugs for use or sale on credit, when no one on the internet is going to front you, for the simple fact that they can’t send a big guy around to your PO box with a wrench if you fall behind. All of that seems quite logical, doesn’t it?</p>
@@ -17,8 +14,7 @@ Posted by: Allen Hoffmann, JD
 <p>The article makes an interesting statement, and one which LE would probably not be comfortable having to concede; that DNMs represent “the biggest challenge to drug laws and their enforcement in a century”. The thing is, I’m inclined to agree. Ross Ulbricht changed the landscape in terms the way in which illicit drugs are distributed to users and ‘retailers’ in a fundamental, and likely enduring way, whether anyone’s prepared to admit it or not Solid statement, and interesting insights aside, I have one concern with this study – it relies on self reporting, and self enrollment.</p>
 <p>Sure, it gets a push on various drug use and harm reduction forums, including Bluelight.org and over at Reddit, but the question is, is this truly an indicative sample? The Survey concedes in its methodology that “those who respond are likely to be ‘more web-savvy and active online’, and so may not be representative of the wider population”. Forget that for a moment; What if you’re a drug user who is not engaged with the online communities through which drug use as a shared interest? Not everybody is concerned with either harm reduction or the academic study of an illicit commodity or the means by which those commodities are moved. People have their own agendas… What about the tens of thousands of other DNM users (and drug users on the whole) who are no doubt actively avoiding engaging with a survey which would, at face value, seem to represent all drug users? After all, for some, that’s the whole allure of using a DNM – utter anonymity and disengagement. How do we know users didn’t take the survey multiple times, or misrepresent facts? How about users who don’t have English as a language with which they’re particularly conversant? What about LE engaging in a concerted effort to slant figures? This last potential issue is pure speculation, but if you could manipulate the survey to indicate a preference to certain drugs, could you not also then use this as evidence to support a push for increased resources?</p>
 <p>The information the survey provides is instructive, its interesting… but without information which can be correlated to corroborate the self reported data furnished, its by no means definitive, or indeed, representative of the whole world’s drug, or DNM, users. Let’s see where it pops up in citations in the near future.</p>
-</div>
-  <a href="/tag/global/" rel="tag">global</a> <a href="/tag/net/" rel="tag">net</a> <a href="/tag/reflections/" rel="tag">reflections</a> <a href="/tag/survey/" rel="tag">survey</a> <a href="/tag/view/" rel="tag">view</a></span> 
+
 Updated: 2015-06-09
 
     

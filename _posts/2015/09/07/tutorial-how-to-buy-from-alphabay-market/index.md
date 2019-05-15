@@ -2,15 +2,14 @@
 title: "Tutorial: How To Buy From AlphaBay Market?"
 ---
 
-11443  tag-alphabay tag-buy tag-tutorial
 Posted by: DeepDotWeb 
 
 <span>September 7, 2015</span>
 
-<span><a href="/2015/09/07/tutorial-how-to-buy-from-alphabay-market/#comments">52 Comments</a></span>
 
 
-<p>With the news that <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> (Already gone now&#8230;) a large portion of its users have transitioned to <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a>. You must be here to learn how to buy stuff from AlphaBay, then. Ensure that you read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
+
+<p>With the news that <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">Agora will be gone</a> (Already gone now&#8230;) a large portion of its users have transitioned to <a href="/marketplace-directory/listing/alphabay">AlphaBay</a>. You must be here to learn how to buy stuff from AlphaBay, then. Ensure that you read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
 <p>AlphaBay market listing and url can be found <a href="/marketplace-directory/listing/alphabay">here</a>.</p>
 <p><strong>Part 1 – Preparing</strong></p>
 <p><strong>USE A VPN SERVICE</strong>. You can find one <a href="/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market. Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider. This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
@@ -60,7 +59,7 @@ Posted by: DeepDotWeb
 <li>An occasionally troublesome captcha.</li>
 </ul>
 <p><strong>Part 4 – Creating an account</strong></p>
-<p>Hopefully, you have installed the proper tools, and have read over our basic tips. In order to buy from AlphaBay, you will need an account. You can register at <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a> with this link: <a href="http://pwoah7foa6au2pul.onion/register.php?aff=41211" target="_blank"><strong>http://pwoah7foa6au2pul.onion/register.php?aff=41211</strong></a></p>
+<p>Hopefully, you have installed the proper tools, and have read over our basic tips. In order to buy from AlphaBay, you will need an account. You can register at <a href="/marketplace-directory/listing/alphabay">AlphaBay</a> with this link: <a href="http://pwoah7foa6au2pul.onion/register.php?aff=41211" target="_blank"><strong>http://pwoah7foa6au2pul.onion/register.php?aff=41211</strong></a></p>
 <p>Upon clicking the url, you should see this page:</p>
 <p><a href="/imgs/2015/09/image1.png"><img class="aligncenter wp-image-11444" src="/imgs/2015/09/image1.png" alt="Alphabay Reg" width="579" height="682" srcset="/imgs/2015/09/image1.png 966w, /imgs/2015/09/image1-255x300.png 255w, /imgs/2015/09/image1-869x1024.png 869w" sizes="(max-width: 579px) 100vw, 579px" /></a></p>
 <p>It&#8217;s time to start filling out the required information. In the &#8216;Username&#8217; field, choose something which you haven&#8217;t used elsewhere in the past, but which is easy to memorize. This same thing goes for the password and PIN which protect your account and attached wallet from attacks. <a href="https://xkcd.com/936">XKCD has a great comic on creating secure, easy to remember passwords</a>. Setting a custom Login-Phrase is purely optional, but it is a good practice to ensure you are not being phished at any given time. In the box where your GPG Public-key goes, input your ASCII-armored output, there. Do not publish anything which could be used to link you to your real name, in the Profile-Text box.</p>
@@ -110,6 +109,5 @@ Posted by: DeepDotWeb
 <p><strong>Part 9 – Conclusion</strong></p>
 <p>So as long as you follow the guidelines in this tutorial, you should be ordering quite adequately, on AlphaBay to start off. There is, of course, a bit more to learn, but it&#8217;s much more worthwhile to learn how to do the rest on your own. Stay safe and enjoy shopping!</p>
 <p>&nbsp;</p>
-</div>
-<a href="/tag/alphabay/" rel="tag">alphabay</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+
 Updated: 2015-09-07

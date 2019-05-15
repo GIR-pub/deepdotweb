@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis May 5th"
 ---
 
-10199  tag-5th tag-analysis tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>May 5, 2015</span>
 
 
-<span><a href="/2015/05/05/bitcoin-price-analysis-may-5th/#respond">Leave a comment</a></span>
-</p>
 
 <p><strong><span style="text-decoration: underline;">Bitcoin Markets this week</span></strong></p>
 <p><a href="/imgs/2015/05/1.jpg"><img class="aligncenter size-full wp-image-10200" src="/imgs/2015/05/1.jpg" alt="1" width="623" height="463" srcset="/imgs/2015/05/1.jpg 623w, /imgs/2015/05/1-300x223.jpg 300w" sizes="(max-width: 623px) 100vw, 623px"/></a>This week, prices continued a trend up, after last week’s bottom at $213. Red support line shows how far up this week’s action was, topping out at $243. Admittedly, my forecast of a retest of $200 lows (and possibly lower) has been delayed. Short term market sentiment is now bullish, after a midweek green candlestick spiked up to $240. $240 top resistance level has now been tested twice &#8211; both times unsuccessful.</p>
@@ -39,8 +36,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Finally, perspective on an even longer term chart, dating back to 2013, offers insights on a long term support level that has been tested multiple times in the past. Recently, $166 flirted with this line, bouncing back up. For long term trend reversal, this line is handy, now that we’ve struck it once already.</p>
 <p><a href="/imgs/2015/05/6.png"><img class="aligncenter  wp-image-10205" src="/imgs/2015/05/6.png" alt="6" width="640" height="308" srcset="/imgs/2015/05/6.png 1824w, /imgs/2015/05/6-300x144.png 300w, /imgs/2015/05/6-1024x492.png 1024w" sizes="(max-width: 640px) 100vw, 640px"/></a></p>
 <p><strong>TLDR</strong>: Short term price up. Watch out for $240s, $255 and $270 else, medium term forecast still bearish. Test of $200/$210 possibly $185 later on.</p>
-</div>
-<a href="/tag/5th/" rel="tag">5th</a> 
+
 Updated: 2015-05-05
 
     

@@ -2,13 +2,10 @@
 title: "Despicable trio &#8211; Whitey Bulger, Osama &#038; Ulbricht &#8211; Enemies of the State"
 ---
 
-11124  tag-bin tag-bulger tag-despicable tag-enemies tag-laden  tag-state tag-trio tag-ulbricht tag-whitey">
-Posted by: <a href="/author/mo_drugs/" title="">Mo_Drugs 
+Posted by: Mo_Drugs 
 
 <span>July 27, 2015</span>
     
-<span><a href="/2015/07/27/despicable-trio-whitey-bulger-bin-laden-ross-ulbricht-enemies-of-the-state/#comments">7 Comments</a></span>
-</p>
 
     
 <p><em>Contributed by the article author</em> &#8211; There are indications that that DPR&#8217;s home for the next 50 years or so until he dies will be The United States Penitentiary, Coleman II</p>
@@ -47,8 +44,7 @@ Posted by: <a href="/author/mo_drugs/" title="">Mo_Drugs
 <p>Most in the legal world (save for perhaps Judge Foster) were aware of the tricky spot the US has found itself in (yet again) where we are seen by the entire world as a nation of hypocrisy filled barbarians and spies with draconian drug laws and prison warehousing &#8211; yet also the nation that accounts for 60% of global demand. Legal-types figured things would end up on a more rational note when sentencing day arrived. Instead, a collective gasp screamed from Lady Liberty when the sentence was read aloud. The mutterings in the courthouse were screamed whispers of disbelief that any civil society could reconcile this prison sentence as &#8220;Justice Served&#8221;.</p>
 <p>Ross had told them he did not want anything from his cell that day. While he knew they would not hold it for him, he was left with an inexorable feeling he would soon be back.</p>
 <p>If you are looking down on me, Mom &amp; Dad don’t be disappointed. When you instilled those values I believed you because they held TRUE. My only regret to your memories is that I was unable to carry these values and beliefs you taught me to the next generation. Maybe your great-grandkids will see and feel this pride someday if this generation can fix things.. It was really fucking cool to be a proud American!!</p>
-</div>
-<a href="/tag/bin/" rel="tag">bin</a> <a href="/tag/bulger/" rel="tag">bulger</a> <a href="/tag/despicable/" rel="tag">despicable</a> <a href="/tag/enemies/" rel="tag">enemies</a> <a href="/tag/laden/" rel="tag">laden</a> <a href="/tag/ross/" rel="tag">ross</a> <a href="/tag/state/" rel="tag">state</a> <a href="/tag/trio/" rel="tag">trio</a> <a href="/tag/ulbricht/" rel="tag">ulbricht</a> <a href="/tag/whitey/" rel="tag">whitey</a></span> 
+
 Updated: 2015-07-27
-<a href="/author/mo_drugs/" title="Posts by Mo_Drugs" rel="author">Mo_Drugs</a></strong></div>
+
     

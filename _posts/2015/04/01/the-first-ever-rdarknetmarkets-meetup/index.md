@@ -2,14 +2,11 @@
 title: "The First Ever r/DarkNetMarkets Meetup!"
 ---
 
-9812  tag-meetup tag-rdarknetmarkets
 Posted by: DeepDotWeb 
 
 <span>April 1, 2015</span>
 
 
-<span><a href="/2015/04/01/the-first-ever-rdarknetmarkets-meetup/#comments">23 Comments</a></span>
-</p>
 
 <p>DeepDotWeb is proud to take part in publicizing the first <a href="http://www.reddit.com/r/DarkNetMarkets/comments/310jb0/the_first_ever_rdarknetmarkets_meetup_come_hang/">r/DarkNetMarkets</a> Meetup, <strong>we will donate 5 tickets to the top commenters on this site &amp; Another 5 tickets to the top commenters in the Reddit thread, </strong>Details:</p>
 <div class="usertext-body may-blank-within md-container">
@@ -39,12 +36,11 @@ Posted by: DeepDotWeb
 <h2 class="section-heading">Sponsors</h2>
 <ul>
 <li class="lead">This is all possible thanks to our many great sponsors&#8230;</li>
-<li class="lead">DeepDotWeb.com, <a href="http://cryptdesign.com/">CryptDesign</a>, <a href="https://darknetsolutions.com/">Darknet Solutions</a>, <a href="http://www.deepdotweb.com/grams-search-darknet-marketplaces/">Grams Darknet SE</a>, Middle Earth, Best Korea Market, Bailey Jay, Black Bank, Kimble and Verto, and /r/darknetmarkets Mods!</li>
+<li class="lead">DeepDotWeb.com, <a href="http://cryptdesign.com/">CryptDesign</a>, <a href="https://darknetsolutions.com/">Darknet Solutions</a>, <a href="/grams-search-darknet-marketplaces/">Grams Darknet SE</a>, Middle Earth, Best Korea Market, Bailey Jay, Black Bank, Kimble and Verto, and /r/darknetmarkets Mods!</li>
 </ul>
 </div>
 </div>
-</div>
-<a href="/tag/meetup/" rel="tag">meetup</a> <a href="/tag/rdarknetmarkets/" rel="tag">rdarknetmarkets</a></span> 
+
 Updated: 2015-04-01
 
     

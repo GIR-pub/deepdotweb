@@ -2,12 +2,11 @@
 title: "Bitcoin News Roundup – 8 Nov. 2015"
 ---
 
-12043  tag-2524  tag-nov
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>November 8, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/08/bitcoin-news-roundup-8-nov-2015/#respond">Leave a comment</a></span>
+
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -21,6 +20,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p>eCoin.eu integrates social media to facilitate transactions. According to <a href="http://insidebitcoins.com/news/ecoin-eu-trading-platform-integrates-social-media-and-fiat-withdrawal/35641">Bitcoinist</a>, the Panama-registered digital currency platform that operates under the Wallet Capital Group, Inc. has decided to proceed with the integration of social media into its platform so that users can directly withdraw fiat currency to their accounts. More specifically, eCoin.eu has integrated Facebook registration, one of the leading social media network with the aim of capitalizing on Facebook’s huge customer base and providing new traders with a convenient way of joining its platform. For registered traders, trading fees are waived, while eCoin.eu increases its social media exposure, while increasing traffic to its website.</p>
 <p>Bitwala enables bitcoin transfer to PayPal accounts. According to a <a href="http://about.bitwa.la/send-bitcoin-to-paypal-account/">blog post</a> on the Bitwala website, the Germany-based bitcoin payment platform launches a feature that will enable users to directly transfer bitcoins to their PayPal account by simply using their email address. Transaction fees are at 0.5% of the transacted amount. Currently, the platform is guaranteeing transfers to PayPal accounts in Euros, but it’s working towards topping up PayPal accounts in any currency.</p>
 <p>ChangeTip launches mobile app to facilitate bitcoin tipping. According to <a href="http://www.pymnts.com/news/2015/changetips-new-app-enables-bitcoin-tips/">PYMNTS</a>, the new iOS app will enable users to tip anyone around the world in bitcoin or USD via the Change Tip social tipping and micropayments platform. In fact, any user with a phone number, email address, or a Facebook or Twitter account will be able to send or receive online payments internationally by using the newly-launched mobile app. The funds are sent in real-time to top off the users’ accounts in a seamless way.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2015-11-08

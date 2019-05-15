@@ -2,13 +2,10 @@
 title: "FBI Claims Messages That Were Sent By ISIS Can’t Be Read Due To Encryption"
 ---
 
-12551 tag-claims tag-due tag-encryption tag-isis tag-messages tag-read">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 14, 2015</span>
 
-<span><a href="/2015/12/14/fbi-claims-messages-that-were-sent-by-isis-cant-be-read-due-to-encryption/#comments">8 Comments</a></span>
-</p>
 
     
 <p><a href="http://www.breitbart.com/texas/2015/12/11/109-encrypted-messages-sent-jihadi-failed-texas-terrorist-attack-unreadable-says-fbi/">The Federal Bureau of Investigation is still unable to decipher the 109 encrypted messages that were sent by the attackers who opened fire outside the Muhammad Art Exhibit in Garland, Texas, back in May.</a> According to FBI Director James Comey, Elton Simpson (one of the attackers) exchanged the messages with an overseas terrorist from the Islamic State. Comey released this information to the Congress after the San Bernardino massacre happened. He made this statement:</p>
@@ -18,8 +15,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>NBC reported that the encrypted messages were exchanged on the dark web. In order to successfully read the messages, the Federal Bureau of Investigation needs more cooperation from technology firms and new laws to provide more tools. This case regarding privacy has always been a tough question for both the people and the government. However, Class noted a need to find a balance between protecting privacy rights and protecting the safety of citizens.</p>
 <p>Comey also pointed out that due to the current encryption technology and privacy options (such as the Tor Browser), the FBI is one step backward terrorists and they need help to fix this. The director also made a statement regarding Simpson and Garland:</p>
 <p>“We have no idea what he said because those messages were encrypted. And to this day, I can’t tell you what he said with that terrorist 109 times the morning of that attack. That is a big problem. We have to grapple with it.”</p>
-</div>
-<a href="/tag/claims/" rel="tag">claims</a> <a href="/tag/due/" rel="tag">due</a> <a href="/tag/encryption/" rel="tag">encryption</a> <a href="/tag/isis/" rel="tag">isis</a> <a href="/tag/messages/" rel="tag">messages</a> <a href="/tag/read/" rel="tag">read</a></span> 
+
 Updated: 2015-12-14
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

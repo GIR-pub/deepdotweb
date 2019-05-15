@@ -2,12 +2,11 @@
 title: "DNM Vendor Dr.Xanax Busted"
 ---
 
-11751 tag-busted tag-dnm tag-drxanax tag-vendor
 Posted by: DeepDotWeb 
 
 <span>October 13, 2015</span>
 
-<span><a href="/2015/10/13/dnm-vendor-dr-xanax-busted/#comments">10 Comments</a></span>
+
 
 
 <p><a href="http://www.cbc.ca/news/canada/montreal/simon-davidson-christian-davidson-ian-davidson-laval-drug-ring-1.3262486">In Laval, Montreal, the law enforcement authorities raided DNM vendor Dr.Xanax’s place last Tuesday.</a> Laval Police has seized around 2 million counterfeit Xanax pills, $200.000 cash, a bulletproof vest, three handguns and seven press machines that has been used for the pressing of the Xanax bars. According to official documents, these machines could produce 20000 pills per hour.</p>
@@ -23,6 +22,5 @@ Posted by: DeepDotWeb
 <p lang="en" dir="ltr">Laval police shows off a million counterfeit Xanax pills and machinery. 5 arrests made. <a href="http://t.co/9JWYqGpEm9">pic.twitter.com/9JWYqGpEm9</a></p>
 <p>&mdash; Stephane Giroux (@SGirouxCTV) <a href="https://twitter.com/SGirouxCTV/status/652176781399752704">October 8, 2015</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-</div>
- <a href="/tag/dnm/" rel="tag">dnm</a> <a href="/tag/drxanax/" rel="tag">drxanax</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2015-10-13

@@ -2,17 +2,14 @@
 title: "NSA Mass Phone Collection &#8220;Winding Down,&#8221; as Senate Fails to Find a Solution"
 ---
 
-10404  tag-collection tag-fails tag-find tag-mass tag-nsa tag-phone tag-senate tag-solution tag-winding
 Posted by: DeepDotWeb 
 
 <span>May 26, 2015</span>
 
 
-<span><a href="/2015/05/26/nsa-mass-phone-collection-winding-down-as-senate-fails-to-find-a-solution/#comments">1 Comment</a></span>
-</p>
 
 <p>The Senate was busy <span class="aBn" tabindex="0" data-term="goog_1895992815"><span class="aQJ">on Friday</span></span> in a session that ran late into the night ultimately failing to come up with a solution to the <span class="aBn" tabindex="0" data-term="goog_1895992816"><span class="aQJ">June 1st</span></span> expatriation date of section 215 of the Patriot Act. The session ran into the early morning where all attempts to extend fell short.</p>
-<p>The USA Freedom act, <a href="http://www.deepdotweb.com/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/" target="_blank">which we covered here</a>, narrowly failed to earn the 60 necessary votes it needed to gather to pass in the Senate. The Act failed with a 57 – 42 vote.</p>
+<p>The USA Freedom act, <a href="/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/" target="_blank">which we covered here</a>, narrowly failed to earn the 60 necessary votes it needed to gather to pass in the Senate. The Act failed with a 57 – 42 vote.</p>
 <p><strong>Rand Paul and his Filibuster</strong></p>
 <p>Kentucky Senator Rand Paul, a steady critic of the NSA, performed a filibuster of sorts. Paul purposely used up critical time on the floor to delay much needed debate. After the session Paul took twitter to congratulate himself and remind his followers his fight isn&#8217;t over.</p>
 <blockquote class="twitter-tweet" lang="en">
@@ -34,8 +31,7 @@ Posted by: DeepDotWeb
 <p>The Senate reconvenes <span class="aBn" tabindex="0" data-term="goog_1895992818"><span class="aQJ">on Sunday</span></span> and will have one last attempt to have a plan in order before Section 215 of the Patriot Act expires on <span class="aBn" tabindex="0" data-term="goog_1895992819"><span class="aQJ">June 1st</span></span>.</p>
 <p><em>The Candidate is a weekly columnist at DeepDotWeb</em><br/>
 <em>Reach him by email at <a href="mailto:thecandidate@openmailbox.org" target="_blank">thecandidate@openmailbox.org</a></em></p>
-</div>
-<a href="/tag/collection/" rel="tag">collection</a> <a href="/tag/fails/" rel="tag">fails</a> <a href="/tag/find/" rel="tag">find</a> <a href="/tag/mass/" rel="tag">mass</a> <a href="/tag/nsa/" rel="tag">nsa</a> <a href="/tag/phone/" rel="tag">phone</a> <a href="/tag/senate/" rel="tag">senate</a> <a href="/tag/solution/" rel="tag">solution</a> <a href="/tag/winding/" rel="tag">winding</a></span> 
+
 Updated: 2015-05-26
 
     

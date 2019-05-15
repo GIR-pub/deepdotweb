@@ -2,13 +2,12 @@
 title: "In a Surprising Turn Of The Case: &#8220;Shiny Flakes&#8221; Confessed"
 ---
 
-11658  tag-case tag-confessed tag-flakes tag-shiny tag-surprising tag-turn
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>October 2, 2015</span>
 
 
-<span><a href="/2015/10/02/in-a-surprising-turn-of-the-case-shiny-flakes-confessed/#comments">8 Comments</a></span>
+
 
 
 <p><a href="/2015/03/12/shiny-flakes-bust-38-houses-raided/">Do you remember the Shiny Flakes case?</a> If you don’t, let me remind you: Maximilian S. AKA Shiny Flakes has been busted early this year and the German police have found huge amounts of drugs at this stash. Since Maximilian is 20 years old, it is still a question whether he could be considered as an adult or is he considered as an underaged by the court. He both sold drugs on DNMs and clearnet (he had his own marketplace).</p>
@@ -18,7 +17,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>According to Maximilian S. and his lawyer, Shiny Flakes was also concerned about the quality of the drugs he sold. He watched and commented on forum posts and reviews about his stuff in order to get the opinion of his buyers. Also, a quite rare step that most of the DNM vendors do not take, he sent his drugs (especially coke) for testing. He did regular drug tests both legally and illegally. The legal tests were conducted at ”<a href="/2014/04/06/energy-control-drug-testing-service-for-deepweb-users/">Energy Control</a>” in Spain or at Switzerland at ”Safer Party”. However, Shiny Flakes also sent his drugs for testing to the University of Munich for high-tech testing of his products. He paid the researchers (test conductors) with a proportion of his Cocaine.</p>
 <p>All of the time there was a ”mentor” who helped Maximilian in his darknet deals, the mysterious mentor provided him general information on how to get things done, but most importantly, he or she provided Shiny Flakes a contact list that has been pretty useful in Maximilian S.’s operation.</p>
 <p>Another interesting information about the whole project of Shiny Flakes is that Maximilian has worked quite hardly on his operation. According to him, there have been days when he worked at least 16 hours. During this time, he did not spend time for his social life, he spent all his time dealing drugs and making his drug trafficking ring even better.</p>
-</div>
-<a href="/tag/case/" rel="tag">case</a> <a href="/tag/confessed/" rel="tag">confessed</a> <a href="/tag/flakes/" rel="tag">flakes</a> <a href="/tag/shiny/" rel="tag">shiny</a> <a href="/tag/surprising/" rel="tag">surprising</a> <a href="/tag/turn/" rel="tag">turn</a></span> 
-Updated: 2015-10-02<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-10-02
 

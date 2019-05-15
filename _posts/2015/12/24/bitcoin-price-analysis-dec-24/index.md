@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis Dec. 24"
 ---
 
-12738  tag-1898 tag-analysis tag-dec tag-price">
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>December 24, 2015</span>
 
 
-<span><a href="/2015/12/24/bitcoin-price-analysis-dec-24/#comments">1 
+
 
 
     
@@ -48,8 +47,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/12/6.jpg"><img class="aligncenter size-full wp-image-12744" src="/imgs/2015/12/6.jpg" alt="6" width="1600" height="751" srcset="/imgs/2015/12/6.jpg 1600w, /imgs/2015/12/6-300x141.jpg 300w, /imgs/2015/12/6-1024x481.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px"/></a></p>
 <p>While it could break either up or down, as per this chart, my bias is bearish down.</p>
 <p><a href="/imgs/2015/12/71.jpg"><img class="aligncenter size-full wp-image-12745" src="/imgs/2015/12/71.jpg" alt="7" width="1316" height="863" srcset="/imgs/2015/12/71.jpg 1316w, /imgs/2015/12/71-300x197.jpg 300w, /imgs/2015/12/71-1024x672.jpg 1024w" sizes="(max-width: 1316px) 100vw, 1316px"/></a></p>
-</div>
-<a href="/tag/24/" rel="tag">24</a> <a href="/tag/dec/" rel="tag">dec</a> 
+
 Updated: 2015-12-24
 
     

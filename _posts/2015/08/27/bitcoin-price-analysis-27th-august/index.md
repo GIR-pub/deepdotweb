@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis 27th August"
 ---
 
-11372  tag-27th tag-analysis tag-august tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>August 27, 2015</span>
 
 
-<span><a href="/2015/08/27/bitcoin-price-analysis-27th-august/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="/imgs/2015/08/14.jpg"><img class="aligncenter size-full wp-image-11374" src="/imgs/2015/08/14.jpg" alt="1" width="877" height="592" srcset="/imgs/2015/08/14.jpg 877w, /imgs/2015/08/14-300x203.jpg 300w, /imgs/2015/08/14-290x195.jpg 290w" sizes="(max-width: 877px) 100vw, 877px" /></a></p>
@@ -35,7 +34,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>If indeed the market has been in a correction state since January, then by that measure, we are still in a bear trend. I had put off my calls for lower prices in June after the Greece run up, but, at the back of my mind, I ruminate over this correction as a real possibility. I will elaborate this in a future post dedicated to a long term view and the real possibility of $100 prices (or not). For now, a look at what to expect in the short term.</p>
 <p><a href="/imgs/2015/08/55.jpg"><img class="aligncenter size-full wp-image-11378" src="/imgs/2015/08/55.jpg" alt="5" width="1023" height="357" srcset="/imgs/2015/08/55.jpg 1023w, /imgs/2015/08/55-300x105.jpg 300w" sizes="(max-width: 1023px) 100vw, 1023px" /></a></p>
 <p>This week I am bullish to sideways. From the $316 top, we are in a sloping trend that has held well so far. After looking at EMA’s, $240 looks a reasonable target for a top. I expect prices to continue going up on this move and possibly pushed down at the $240 level back to range within the rectangle. Because of time estimates, this week might see both up and a return to within the rectangular trend. Huge moves such as Mondays take time to consolidate, thus, a sideways trend similar to 2 other indicate seems likely.</p>
-</div>
-<a href="/tag/27th/" rel="tag">27th</a>  
+
 Updated: 2015-08-27
 

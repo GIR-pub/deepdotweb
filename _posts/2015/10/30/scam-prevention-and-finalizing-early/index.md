@@ -2,12 +2,11 @@
 title: "Scam Prevention and Finalizing Early"
 ---
 
-11876  tag-early tag-finalizing tag-prevention tag-psa tag-scam
-Posted by: <a href="/author/chrismccandless/" title="">Chris McCandless 
+Posted by: Chris McCandless 
 
 <span>October 30, 2015</span>
 
-<span><a href="/2015/10/30/scam-prevention-and-finalizing-early/#comments">22 Comments</a></span>
+
 
 
 <p><a href="/imgs/2015/10/fefe.jpg"><img class="aligncenter size-full wp-image-11877" src="/imgs/2015/10/fefe.jpg" alt="fefe" width="630" height="363" srcset="/imgs/2015/10/fefe.jpg 630w, /imgs/2015/10/fefe-300x173.jpg 300w" sizes="(max-width: 630px) 100vw, 630px"/></a><br/>
@@ -19,7 +18,6 @@ Posted by: <a href="/author/chrismccandless/" title="">Chris McCandless
 <p>Needless to say, Tony disappeared after a massive sale and took his customers Bitcoin with him, never to return, never to ship another package. This is quite an elaborate exit scam, in the sense that it was the “long-con”, make everyone think exactly what you want them to think over the course of a few months and run. This is relevant now more than ever, as there are many FE-only vendors popping up with excellent prices.</p>
 <p>History tends to, and will, repeat itself. Don’t get your money stolen by somebody you only know through the internet – it’s silly and when it happens you’ll ask yourself how you could have made such an error. Granted, the escrow system does have its flaws. What if the market goes down, or gets seized, what happens to your money? It’s gone. That’s the inherent risk of Dark Net Markets, and you must always be prepared for the worst. An alternative to this is taking advantage of marketplaces which use <a href="/marketplace-directory/categories/multisig-and-trusted/">multisig escrow</a>, for maximum buyer/seller security, which is implemented on several markets.</p>
 <p>Many people will still choose to finalize orders on their own terms, and as long as you know what risk you’re taking by trusting an anonymous vendor, than it’s your call. Stay safe, everyone.</p>
-</div>
-<a href="/tag/early/" rel="tag">early</a> <a href="/tag/finalizing/" rel="tag">finalizing</a> <a href="/tag/prevention/" rel="tag">prevention</a> <a href="/tag/psa/" rel="tag">psa</a> <a href="/tag/scam/" rel="tag">scam</a></span> 
-Updated: 2015-10-30<a href="/author/chrismccandless/" title="Posts by Chris McCandless" rel="author">Chris McCandless</a></strong></div>
+
+Updated: 2015-10-30
 

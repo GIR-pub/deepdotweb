@@ -2,12 +2,11 @@
 title: "Irish Dark Net Market Vendor Couple Pleaded Guilty"
 ---
 
-12718  tag-couple tag-dark tag-guilty tag-irish tag-net tag-pleaded tag-vendor
-Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 21, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/21/irish-dark-net-market-vendor-couple-pleaded-guilty/#comments">4 Comments</a></span>
+
+
 
 
 <p><a href="http://www.irishtimes.com/news/crime-and-law/courts/circuit-court/dublin-pair-plead-guilty-to-selling-drugs-on-dark-net-1.2471344">Neil Mannion (34) and Richard O’Connor (34), from Dublin, pleaded guilty for dark net related drug charges.</a> The pair has been selling drugs on Agora and Silkroad and were in possession of €143,000 worth of drugs at a garda raid in south Dublin in October 2014.</p>
@@ -20,7 +19,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benj
 <p>Counsel described his client, Mannion, as “not a very mature person” who had been using cocaine and alcohol at the time. He submitted that his client had not made any significant money from drug dealing or had lived an ”extravagant lifestyle”.</p>
 <p>Guerin, defending O’Connor, added the fact that O’Connor had a drug dependency at the time, however, he is now clean and could have a “bright future” in the film industry.</p>
 <p>Judge Martin Nolan said he will think about the case over the weekend and make a decision on Monday. Both men stay in custody until then. The sentence is still yet to be heard by the judge.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/couple/" rel="tag">couple</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a>  <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/pleaded/" rel="tag">pleaded</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
-Updated: 2015-12-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-12-21
 

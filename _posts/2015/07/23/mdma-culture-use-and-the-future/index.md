@@ -2,13 +2,10 @@
 title: "MDMA: Culture, Use and the Future"
 ---
 
-10972  tag-culture tag-future tag-mdma
-Posted by: <a href="/author/lines_of_thought/" title="">Lines_of_Thought 
+Posted by: Lines_of_Thought 
 
 <span>July 23, 2015</span>
     
-<span><a href="/2015/07/23/mdma-culture-use-and-the-future/#comments">1 Comment</a></span>
-</p>
 
 <p>MDMA is one of the most popular drugs of the past few decades. It began in 1912 when a Merck chemist named Anton Kollisch. The discovery of the compound was a freak occurrence in the search for a substance that could prevent internal bleeding. The compound was only an intermediate in the synthesis to Methylhydrastinine and as such it&#8217;s effects were never seen. However a patent was filed and in it was the synthesis.</p>
 <p>It was then promptly forgotten about until 1927 when a chemist named Max Oberlin studied it&#8217;s pharmacological effects on smooth muscles and related it&#8217;s effects to ephedrine. However again it was lost to the sands of time until the &#8217;50s.</p>
@@ -25,8 +22,7 @@ Posted by: <a href="/author/lines_of_thought/" title="">Lines_of_Thought
 <p>So as you can see there is a huge amount of analogues that could be produced. Each one untested but waiting for that one guinea pig to find the right combinations to produce some gems. In my opinion this one; [2-amino-1-(1-fluoro-4-hydroxy-1H-inden-5-yl)-1-hydrogeniyliumprop-2-en-1-yl]hydrogenylium (or FHDV-API) would be wonderful.</p>
 <p>The deoxygenated ring would make it more similar to 5-APDI however with a double bond along one side (lightening psychedelic and empathogenic effects as too much could be dangerous). The fluorine could decrease potency however it could enhance either euphoric or psychedelic effects. The hydroxy at 5, being fairly lightweight would increase potency and psychedelic effects, the dideuterium bond at the beta position should smoothen the compound out so that any bodyload that could occur would be eliminated and the alpha-vinyl bond could decrease potency and reduce stimulant effects or it could do the complete opposite. We&#8217;ve not seen either the Fluorine or the Vinyl at these positions before in pharmacology so their effects are somewhat unknown, except via SAR (Structure Activity Relationship) study. Use of an NMDA antagonist, such as Memantine or Huperzine A may be needed for protection from neurotoxicity when first being tested.</p>
 <p>The future is now and as we enter new realms of being we should adapt to this new environment. This means change from the old ways. Nothing was ever accomplished by living in the past so let&#8217;s live in a new world. A world that&#8217;s bright, euphoric and with a few more fluorines!</p>
-</div>
-<a href="/tag/culture/" rel="tag">culture</a> <a href="/tag/future/" rel="tag">future</a> <a href="/tag/mdma/" rel="tag">mdma</a></span> 
+
 Updated: 2015-07-23
-<a href="/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
+
     

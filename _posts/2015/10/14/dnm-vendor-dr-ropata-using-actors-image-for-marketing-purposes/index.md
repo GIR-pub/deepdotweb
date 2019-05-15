@@ -2,12 +2,11 @@
 title: "DNM Vendor Dr Ropata Using Actor’s Image For Marketing Purposes"
 ---
 
-11773 tag-actors tag-dnm tag-dr tag-image tag-marketing tag-purposes tag-ropata tag-vendor
 Posted by: DeepDotWeb 
 
 <span>October 14, 2015</span>
 
-<span><a href="/2015/10/14/dnm-vendor-dr-ropata-using-actors-image-for-marketing-purposes/#comments">4 Comments</a></span>
+
 
 
 <p><a href="http://www.stuff.co.nz/entertainment/celebrities/72820355/Actors-image-used-to-sell-drugs-on-dark-web">Temuera Morrison has called for legal advice for a DNM vendor using the image of his classic Shortland Street character, “Dr Ropata”.</a> The New Zealand vendor who was using the actor’s image was called the same as the character Temuara Morrison had been playing in Shortland Street: Dr Ropata.</p>
@@ -18,6 +17,5 @@ Posted by: DeepDotWeb
 <p>&#8220;In fact we are shocked at the news and offended by the inference that there is any association. No permission was sought after or granted for the use of either the character name &#8216;Dr Ropata&#8217; or the use of Temuera&#8217;s image.&#8221;</p>
 <p>According to law enforcement authorities, a Fairfax investigation has located the drug dealer behind the Dr Ropata pseudo name, however, they could not openly verify all their claims. On August 11, the DNM vendor has handed over himself to the Palmerston North police and confessed that he was selling drugs on the darknet. However, last week police have refused to confirm whether he was investigated for the DNM drug sales. What has been confirmed is that he was charged only with breaching community work for a previous conviction of cultivating cannabis, as well as what the vendor has called a &#8220;trumped-up charge” of aggravated robbery. He pleaded guilty to the charge of breaching community work but not guilty to aggravated robbery.</p>
 <p>He remanded in custody on September 1 and was charged with remaining after a burglary, willful damage, procuring and possessing cannabis. For all these charges, the former DNM vendor Dr Ropata has pleaded not guilty. He was released on bail in the Nelson area, however, he did not appear in front of the court when he was due to on October 5. He claimed that he was evading law enforcement. He also stated when asked about his sales, that this whole thing was a social experiment and he aimed to prove that selling drugs on DNMs is much safer than buying them on the streets, and this is the reason why selling drugs on the darknet should be legal. He also considers himself as an online activist. The former DNM vendor also claimed that the money he made was donated to different charities, such as the National Organisation for the Reform of Marijuana Laws (NORML).</p>
-</div>
-<a href="/tag/actors/" rel="tag">actors</a> <a href="/tag/dnm/" rel="tag">dnm</a> <a href="/tag/dr/" rel="tag">dr</a> <a href="/tag/image/" rel="tag">image</a> <a href="/tag/marketing/" rel="tag">marketing</a> <a href="/tag/purposes/" rel="tag">purposes</a> <a href="/tag/ropata/" rel="tag">ropata</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2015-10-14

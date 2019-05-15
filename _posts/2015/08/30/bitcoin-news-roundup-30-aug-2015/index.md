@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 30 Aug. 2015"
 ---
 
-11385  tag-2524 tag-1778 tag-aug 
 Posted by: DeepDotWeb 
 
 <span>August 30, 2015</span>
 
 
-<span><a href="/2015/08/30/bitcoin-news-roundup-30-aug-2015/#comments">3 Comments</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -22,6 +21,5 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>CardCash offers the bitcoin payment option via gift cards. As Christie Harkin of <a href="https://bitcoinmagazine.com/21743/cardcash-adds-bitcoin-payments-gift-cards-thousands-us-retail-stores/">Bitcoin Magazine</a> writes, the US-based online company that offers discounted gift cards from thousands of U.S. retailers is accepting bitcoin payments. According to Elliot Bohm, CEO, CashCard seeks to capitalize on the growing acceptance of the digital currency from retailers as well. Consumers already use the bitcoin for their purchases at Overstock or Dell, but CardCash offering will take the digital currency a step further. Furthermore, in September a mobile app will be launched that will allow users with bitcoin wallets to buy and use their gift cards online.</p>
 <p>Coinbase offers 3D Secure-enabled cards to its users. As Nikhil Gupta of <a href="http://www.newsbtc.com/2015/08/28/coinbase-allows-buyers-to-use-3d-secure-cards-to-buy-bitcoin/">NewsBtc</a> writes, the digital currency leading company is offering to its Spanish and UK consumers the option to use 3D Secure-enabled credit and debit cards for their bitcoin transactions. The new 3D cards enable the two-way authentication and allows the instant purchase of bitcoins in EUR or GBP with credit and debit cards, without requiring prefunding Coinbase account with a bank transfer.</p>
-</div>
- <a href="/tag/30/" rel="tag">30</a> <a href="/tag/aug/" rel="tag">aug</a>  </span> 
+
 Updated: 2015-08-30

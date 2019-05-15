@@ -2,20 +2,14 @@
 title: "Bitcoin Price Analysis 24th June"
 ---
 
-10894  tag-24th tag-analysis tag-june tag-price
-    
-    
-        
 
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic </a></span>
+Posted by: pesa_mic </a></span>
     
     
 <span>June 24, 2015</span>
 
 
     
-<span><a href="/2015/06/24/bitcoin-price-analysis-24th-june/#respond">Leave a comment</a></span>
-</p>
 
     
 <p><strong>BITCOIN MARKETS THIS WEEK. . .</strong></p>
@@ -51,7 +45,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic </a></span>
     
     
 
-<a href="/tag/24th/" rel="tag">24th</a> <a href="/tag/price/" rel="tag">price</a></span>				
 Updated: 2015-06-24
 
     

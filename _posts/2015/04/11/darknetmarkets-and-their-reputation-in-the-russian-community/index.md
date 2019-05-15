@@ -2,13 +2,10 @@
 title: "Darknetmarkets And Their Reputation in The Russian Community"
 ---
 
-9875  tag-community  tag-reputation tag-russian
-Posted by: <a href="/author/joshuag/" title="">Joshua G. 
+Posted by: Joshua G. 
 
 <span>April 11, 2015</span>
     
-<span><a href="/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/#comments">11 Comments</a></span>
-</p>
 
 <p>The part of the Russian community that deals with cyber fraud, sale of personal information, and malware among other things, distrusts the deep web. Although several Russian vendors have joined over the past few months, the majority of them have yet to come to register to darknet marketplaces like Agora, AlphaBay, Nucleus, BlackBank etc. because with the bigger base of customers, there are more risks involved &#8211; under covers, media exposure. The risk increases even more if the website is focused on an English-speaking audience. Currently many Russian vendors simply refuse to serve English-speaking customers not because they do not understand, but because there is less risk involved, and it has now become a business practice.</p>
 <div id="attachment_9880" style="width: 1096px" class="wp-caption aligncenter"><a href="/imgs/2015/04/3.jpg"><img class="wp-image-9880 size-full" src="/imgs/2015/04/3.jpg" alt="" width="1086" height="432" srcset="/imgs/2015/04/3.jpg 1086w, /imgs/2015/04/3-300x119.jpg 300w, /imgs/2015/04/3-1024x407.jpg 1024w" sizes="(max-width: 1086px) 100vw, 1086px"/></a><p class="wp-caption-text">Topic in a Russian forum with additional information about Silk Road founder</p></div>
@@ -26,8 +23,7 @@ Posted by: <a href="/author/joshuag/" title="">Joshua G.
 <p>Stay tuned for articles in relation to darknet market growth &amp; security taken by the biggest names in the deep web trading.</p>
 <p>Yours truly,<br/>
     Joshua G.</p>
-</div>
-<a href="/tag/community/" rel="tag">community</a>  <a href="/tag/reputation/" rel="tag">reputation</a> <a href="/tag/russian/" rel="tag">russian</a></span> 
+
 Updated: 2015-04-11
-<a href="/author/joshuag/" title="Posts by Joshua G." rel="author">Joshua G.</a></strong></div>
+
     

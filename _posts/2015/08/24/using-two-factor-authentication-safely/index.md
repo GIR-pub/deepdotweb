@@ -2,12 +2,11 @@
 title: "Using Two Factor Authentication Safely"
 ---
 
-9726  tag-authentication tag-factor tag-safely
-Posted by: <a href="/author/panicmoon/" title="">Panic Moon 
+Posted by: Panic Moon 
 
 <span>August 24, 2015</span>
 
-<span><a href="/2015/08/24/using-two-factor-authentication-safely/#comments">7 Comments</a></span>
+
 
 
 <p>Darknet markets would not exist without Bitcoin but theft is rampant. Exchanges protect individual accounts by providing or even requiring two factor authentication. They are safer than markets, but how do you do this when you don’t want to give up an actual phone number? There is a solution, as long as your computer has the processor and ram needed to run VirtualBox.</p>
@@ -43,7 +42,6 @@ Posted by: <a href="/author/panicmoon/" title="">Panic Moon
 <p>A: Cryptography for Android expects to have access to ARM processor, but you’re running an emulation on an AMD or Intel architecture chip. There are some gamer oriented packages for Genymotion that supposedly fix the missing ARM instructions, we’ve tried a few, and never got them to behave for cryptographic apps. Even if you could do this, the host OS is the right place to have your VPN.</p>
 <p>Q: Why didn’t we use TAILS to get the first email? Is there something wrong with it?</p>
 <p>A: TAILS is great, as you can see we have the latest, we recommend it highly, and use it all the time, but you should use the right tool for the job. The Whonix dual gateway/workstation setup is even more resistant to de-anonymizing attacks than TAILS, it just needs more resources to accomplish that. Any machine that can run Genymotion will have enough ram and the right processor to run Whonix.</p>
-</div>
-<a href="/tag/authentication/" rel="tag">authentication</a> <a href="/tag/factor/" rel="tag">factor</a> </span> 
-Updated: 2015-08-24<a href="/author/panicmoon/" title="Posts by Panic Moon" rel="author">Panic Moon</a></strong></div>
+
+Updated: 2015-08-24
 

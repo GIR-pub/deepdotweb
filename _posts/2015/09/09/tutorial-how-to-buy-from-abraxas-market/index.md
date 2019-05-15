@@ -2,10 +2,6 @@
 title: "Tutorial: How to Buy From Abraxas Market?"
 ---
 
-11468  tag-abraxas tag-buy tag-tutorial
-    
-    
-    
 
 Posted by: DeepDotWeb
     
@@ -13,7 +9,7 @@ Posted by: DeepDotWeb
 <span>September 9, 2015</span>
 
     
-<span><a href="/2015/09/09/tutorial-how-to-buy-from-abraxas-market/#comments">8 Comments</a></span>
+
 </p>        
 <p>It&#8217;s about time that we present to you a tutorial on how to buy stuff from Abraxas. Ensure that you&#8217;ve read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
 <p>The <a href="/marketplace-directory/listing/abraxas-market">Abraxas Market listing and URL can be found</a> here.</p>
@@ -114,7 +110,6 @@ Posted by: DeepDotWeb
     
     
 
-<a href="/tag/abraxas/" rel="tag">abraxas</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span>				
 Updated: 2015-09-09
     
     

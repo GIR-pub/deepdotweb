@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 16 Aug.2015"
 ---
 
-11286  tag-1887 tag-aug2015 
 Posted by: DeepDotWeb 
 
 <span>August 16, 2015</span>
 
 
-<span><a href="/2015/08/16/bitcoin-news-roundup-16-aug-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -24,6 +23,5 @@ Posted by: DeepDotWeb
 <p>Coinsetter files for BitLicense. According to Jessie Willms of <a href="https://bitcoinmagazine.com/21555/coinsetter-exchange-applies-bitlicense-plans-stay-new-york/">BitcoinMagazine</a>, Coinsetter is following a different path than Kraken, BitFinex, Poloniex,BitQuick and Local Bitocoins that all decided to stop catering to New York residents because of BitLicense. Jaron Lukasiewicz, Coinsetter CEO, stated that the company aims to “<em>make sure New York residents continue to have a high-quality bitcoin exchange available to them.”</em></p>
 <p><strong>Payments</strong></p>
 <p>Coinify acquires Coinzone. As Duncan Riley of <a href="http://siliconangle.com/blog/2015/08/13/bitcoin-merchant-services-provider-coinify-picks-up-competitor-coinzone-in-psp-play/">Silicon Angle</a> writes, Coinify, the Danish-based bitcoin payment processing platform, has been focusing on the European market since 2014 aiming to deliver a seamless experience in bitcoins transactions both for users and merchants. Coinzone, the Amsterdam-based leading bitcoin payment solution provider has gained an early mover’s advantage in the European bitcoin community by protecting all transactions under European Data Privacy Laws. The price of the acquisition remained undisclosed.</p>
-</div>
-<a href="/tag/16/" rel="tag">16</a> <a href="/tag/aug2015/" rel="tag">aug2015</a>  </span> 
+
 Updated: 2015-08-16

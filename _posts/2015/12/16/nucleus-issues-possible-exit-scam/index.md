@@ -2,14 +2,10 @@
 title: "Nucleus: Issues &#038; Possible Exit Scam?"
 ---
 
-12579  tag-exit s tag-nucleus tag-scam">
 Posted by: DeepDotWeb 
 
 <span>December 16, 2015</span>
 
-
-<span><a href="/2015/12/16/nucleus-issues-possible-exit-scam/#comments">23 Comments</a></span>
-</p>
 
     
 <p><strong>#4th Update on Nucleus</strong>: Seems to be back up: <a href="/marketplace-directory/listing/nucleus-market/">Nucleus Market</a>.</p>
@@ -24,20 +20,19 @@ Posted by: DeepDotWeb
 <p>Either way, if it goes back up &#8211; you should avoid any deposits to the market until the issues with the locked out vendors are cleared.</p>
 <p>Until then, remember, exit scams are part of the dark net markets game, here are some alternatives:</p>
 <ul>
-<li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">AlphaBay</a></strong></li>
-<li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/dream-market/">Dream market </a></strong></li>
-<li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market/"> Outlaw Market</a></strong></li>
-<li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie/">Valhalla (Silkkitie)</a></strong></li>
+<li class="ok"><strong><a href="/marketplace-directory/listing/alphabay/">AlphaBay</a></strong></li>
+<li class="ok"><strong><a href="/marketplace-directory/listing/dream-market/">Dream market </a></strong></li>
+<li class="ok"><strong><a href="/marketplace-directory/listing/outlaw-market/"> Outlaw Market</a></strong></li>
+<li class="ok"><strong><a href="/marketplace-directory/listing/silkkitie/">Valhalla (Silkkitie)</a></strong></li>
 <li class="ok"><strong><a href="/marketplace-directory/listing/hansa-market/">Hansa Market</a></strong></li>
 <li class="ok"><strong><a href="/marketplace-directory/listing/python-market/">Python Market</a></strong></li>
 <li class="ok"><strong><a href="/marketplace-directory/listing/acropolis-market/">Acropolis Market</a></strong></li>
-<li class="ok"><strong><a href="http://www.deepdotweb.com/marketplace-directory/listing/mr-nice-guy/">Dr. D&#8217;s Multilingual Market </a></strong></li>
+<li class="ok"><strong><a href="/marketplace-directory/listing/mr-nice-guy/">Dr. D&#8217;s Multilingual Market </a></strong></li>
 <li class="ok"><strong><a href="/marketplace-directory/listing/acas-market/">ACAS Market</a></strong></li>
 </ul>
 <p>Currently uptime issues are also being reported on Cryuserv which is hosting several vendor shops.</p>
 <p>Since Agora was shut down, it became the season of exit scams when, as expected, the next &#8220;default&#8221; markets in line took advantage of the massive agora refugees traffic and exit scammed. So far we had Abraxas and middle earth, maybe now Nucleus? who will be next&#8230; only time will tell.</p>
-</div>
-<a href="/tag/exit/" rel="tag">exit</a> <a href="/tag/issues/" rel="tag">issues</a> <a href="/tag/nucleus/" rel="tag">nucleus</a> <a href="/tag/scam/" rel="tag">scam</a></span> 
+
 Updated: 2015-12-16
 
     

@@ -2,12 +2,11 @@
 title: "PSA: The DNMAvengers Harm Reduction and Drug Testing Forum"
 ---
 
-12304  tag-dnmavengers tag-forum tag-harm tag-psa tag-reduction tag-testing
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>November 21, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/21/psa-the-dnmavengers-harm-reduction-and-drug-testing-forum/#comments">3 Comments</a></span>
+
+
 
 
 <p>Provided by the forum admins: For those of you who don&#8217;t know it, The DNMAvengers started as a subreddit but moved over to an .onion forum recently. We are a forum dedicated to harm reduction and testing of drugs ordered on the Dark Net Markets. We run on community donations and aim to democratize drug testing by allowing users to send their drugs off to a lab and then paying them back once they submit verified results.</p>
@@ -16,6 +15,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p>Now we have the ability to use certified labs with advanced scientific equipment to verify what a vendor says, and that is as high on the harm reduction scale as one can get. We have how-to guides for sending test results to labs, major thanks to KamajiTheBoiler. What we offer in addition to that is reimbursing any user, in full, that sends in a substance for testing. We have had over of 18 BTC donated to help reimburse users that send in samples. This is our greatest asset because the fee to get a sample tested is around $85 USD. We have a fun, unbiased and helpful community with active moderators. Even if you don&#8217;t have a sample to submit right now, we still want you to join and help us grow!</p>
 <p>The DNMAvengers forum is available at this url: <strong>http://avengerfxkkmt2a6.onion/</strong></p>
 <p>If you would like to help us out, we have a BTC community wallet for donations: 12wWGGS74QpKdigWY4GWVxPivJ8pKN<wbr/>EgU2</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dnmavengers/" rel="tag">dnmavengers</a>  <a href="https://www.deepdotweb.com/tag/forum/" rel="tag">forum</a> <a href="https://www.deepdotweb.com/tag/harm/" rel="tag">harm</a> <a href="https://www.deepdotweb.com/tag/psa/" rel="tag">psa</a> <a href="https://www.deepdotweb.com/tag/reduction/" rel="tag">reduction</a> <a href="https://www.deepdotweb.com/tag/testing/" rel="tag">testing</a></span> 
+
 Updated: 2015-11-21

@@ -2,12 +2,11 @@
 title: "Middle Earth Downtime Update: MAJOR Attack Happening"
 ---
 
-9694 tag-attack tag-downtime tag-earth tag-happening tag-major tag-middle tag-update
 Posted by: DeepDotWeb 
 
 <span>March 27, 2015</span>
 
-<span><a href="/2015/03/27/middle-earth-market-admin-updates/#comments">15 Comments</a></span>
+
 
 
 <p>Middle Earth market admin updates regarding the Recent Downtime:</p>
@@ -28,6 +27,5 @@ Posted by: DeepDotWeb
     uHriAa5rz9977yn4Y0KYF32GBnvfA+D8T8vAYtImzbZltvfJBLf4gOFP8zIf8lQ=<br/>
     =BJtJ<br/>
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p></blockquote>
-</div>
-<a href="/tag/attack/" rel="tag">attack</a> <a href="/tag/downtime/" rel="tag">downtime</a> <a href="/tag/earth/" rel="tag">earth</a> <a href="/tag/happening/" rel="tag">happening</a> <a href="/tag/major/" rel="tag">major</a> <a href="/tag/middle/" rel="tag">middle</a> <a href="/tag/update/" rel="tag">update</a></span> 
+
 Updated: 2015-03-27

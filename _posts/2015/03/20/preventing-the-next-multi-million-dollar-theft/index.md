@@ -2,16 +2,15 @@
 title: "Preventing the Next Multi-Million Dollar Theft"
 ---
 
-9560  tag-dollar tag-multimillion tag-preventing tag-theft
 Posted by: DeepDotWeb 
 
 <span>March 20, 2015</span>
 
-<span><a href="/2015/03/20/preventing-the-next-multi-million-dollar-theft/#comments">21 Comments</a></span>
 
 
-<p>Guest Post By Nadav Ivgi &#8211; Founder of <a href="https://www.bitrated.com/">Bitrated</a>  (Our previous interview with Nadav can be <a href="http://www.deepdotweb.com/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">found here</a>)</p>
-<p>This week, a huge story broke about yet another “underground” marketplace that ran away with all user funds in escrow. Evolution, one of the biggest underground marketplaces, has now shut down after their admins pulled off one of <a href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">the biggest heists to date</a> &#8211; currently estimated between 40,000 BTC and <a href="http://www.deepdotweb.com/2015/03/18/interview-with-nswgreat-evolution-staff-member/">130,000</a> BTC (12 to 35 million USD).</p>
+
+<p>Guest Post By Nadav Ivgi &#8211; Founder of <a href="https://www.bitrated.com/">Bitrated</a>  (Our previous interview with Nadav can be <a href="/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">found here</a>)</p>
+<p>This week, a huge story broke about yet another “underground” marketplace that ran away with all user funds in escrow. Evolution, one of the biggest underground marketplaces, has now shut down after their admins pulled off one of <a href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">the biggest heists to date</a> &#8211; currently estimated between 40,000 BTC and <a href="/2015/03/18/interview-with-nswgreat-evolution-staff-member/">130,000</a> BTC (12 to 35 million USD).</p>
 <p>This is not the first time this has happened and unfortunately it probably won’t be the last, unless the Bitcoin community establishes (and enforces) more secure payment methods that don’t involve trusting centralized entities to hold large sums of money in escrow.</p>
 <p>But all is not lost. A solution has existed in the Bitcoin scripting language for quite some time now, in the form of arbitration contracts based on 2-of-3 multi-signature transactions. Multi-signature was standardized as <a href="https://github.com/bitcoin/bips/blob/master/bip-0011.mediawiki">BIP 11</a> back in 2011, with one of the early references to the potential usage for arbitration contracts made by Mike Hearn at his <a href="https://www.youtube.com/watch?v=mD4L7xDNCmA#t=303">Bitcoin London 2012 presentation</a>.</p>
 <p>With multi-signature, a trusted third party can be nominated by the buyer and seller, giving him the authority to resolve disputes and decide which party is right and should receive funds in case of dispute. The third party arbitrator does not hold funds in escrow and does not control them, and therefore cannot “run away” with them either.</p>
@@ -30,6 +29,5 @@ Posted by: DeepDotWeb
 <p>One of the primary design goals for the Bitrated v2 system is to make it <a href="https://www.bitrated.com/security#trustless-server-model">as trustless as possible</a>. While it is operated as a web service, everything is backed by public-key cryptography. Each identity is represented by a public key, which is used to sign statements and actions made by the user, such as contracts, ratings and profile data. This means that even Bitrated itself cannot post ratings on behalf of users, or claim that they agreed to a contract that they didn’t agree to.</p>
 <p>Needless to say, all private keys and cryptographic operations are managed using client-side technology. Private keys never touch our servers, not even in encrypted form. Bitrated cannot touch user funds, sign transactions or intervene in the arbitrator’s decision. You can read more about our security on the <a href="https://www.bitrated.com/security">security page</a>. If you’re a security researcher, we welcome security audits and offer a <a href="https://www.bitrated.com/bounty">bug bounty program</a>.</p>
 <p>Bitrated just re-launched recently and are eager to hear the community’s feedback. If you have any ideas, suggestions or questions &#8211; please <a href="https://www.bitrated.com/contact">reach out to us</a>!</p>
-</div>
-<a href="/tag/dollar/" rel="tag">dollar</a> <a href="/tag/multimillion/" rel="tag">multimillion</a> <a href="/tag/preventing/" rel="tag">preventing</a> <a href="/tag/theft/" rel="tag">theft</a></span> 
+
 Updated: 2015-03-20

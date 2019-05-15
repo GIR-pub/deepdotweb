@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis March 31st"
 ---
 
-9805  tag-31st tag-analysis tag-march tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>March 31, 2015</span>
 
 
-<span><a href="/2015/03/31/bitcoin-price-analysis-march-31st/#comments">1 Comment</a></span>
+
 
 
 <p>This week the market was mostly in a correction, consolidating sideways while gradually retracing from the bottom in what I observe to be a corrective wave. The last impulsive drop from $280 and $270 exhibited a similar pattern. A 3 wave motive move to the bottom, with intermittent corrections. Retracement up from $247 to $271 was a 50% retracement &#8211; typical of corrective waves. The current price range, is a correction of an impulsive wave from $271 to $235. A 50% retracement level lies at around $254. So far, prices are within reasonable range of a corrective description.</p>
@@ -28,7 +27,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/03/4.png"><img class="aligncenter size-full wp-image-9809" src="/imgs/2015/03/4.png" alt="4" width="859" height="588" srcset="/imgs/2015/03/4.png 859w, /imgs/2015/03/4-300x205.png 300w" sizes="(max-width: 859px) 100vw, 859px" /></a>As per Elliot Wave analysis, a basic corrective wave contains 3 sub waves &#8211; a, b and c. Therefore, the impulsive move down from $280, down to $235, was all part of one impulsive wave <strong>i.</strong> Since impulsive waves are followed by a correction, A-B-C is a corrective wave. The price levels experienced in the past 3 days since $235, are seemingly part of a correction. and quite possibly B. Following this pattern, the short rally up to $251 was likely wave C, up from B bottom. If not, expect a rally up to test upper resistance at $ 255 and possibly pierce it up to $260. However, this will be short lived, as wave <strong>ii</strong> of a larger wave count. Wave <strong>iii</strong> should follow after, impulsively taking prices to lower $ 215 support levels.</p>
 <p>A pattern akin to this Elliott wave count illustration below.</p>
 <p><a href="/imgs/2015/03/51.png"><img class="aligncenter size-full wp-image-9810" src="/imgs/2015/03/51.png" alt="5" width="620" height="376" srcset="/imgs/2015/03/51.png 620w, /imgs/2015/03/51-300x182.png 300w" sizes="(max-width: 620px) 100vw, 620px" /></a>Alternatively, a slim chance of a bull reversal will have to break past $ 271 to invalidate this recent move up as a wave <strong>ii </strong>count. Overall, the bear market since January 2014 is still playing out and a definitive bottom is yet to be confirmed. Bar any abrupt bullish news, next week we should expect lower levels than today.</p>
-</div>
-<a href="/tag/31st/" rel="tag">31st</a>  
+
 Updated: 2015-03-31
 

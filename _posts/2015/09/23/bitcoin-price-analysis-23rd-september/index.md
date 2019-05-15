@@ -2,13 +2,12 @@
 title: "Bitcoin Price analysis 23rd September"
 ---
 
-11588  tag-23rd tag-analysis tag-price tag-september
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>September 23, 2015</span>
 
 
-<span><a href="/2015/09/23/bitcoin-price-analysis-23rd-september/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="/imgs/2015/09/13.jpg"><img class="aligncenter size-full wp-image-11589" src="/imgs/2015/09/13.jpg" alt="1" width="1134" height="664" srcset="/imgs/2015/09/13.jpg 1134w, /imgs/2015/09/13-300x176.jpg 300w, /imgs/2015/09/13-1024x600.jpg 1024w" sizes="(max-width: 1134px) 100vw, 1134px"/></a></p>
@@ -41,7 +40,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>My outlook for the mid term is still bearish, irrespective of any upside we might see in the next 3 weeks. I explained my thoughts in an article early this week, <a href="/2015/09/21/bitcoin-medium-term-price-outlook/">Bitcoin Medium Term Price Outlook</a>.</p>
 <p><a href="/imgs/2015/09/8.jpg"><img class="aligncenter size-full wp-image-11596" src="/imgs/2015/09/8.jpg" alt="8" width="904" height="492" srcset="/imgs/2015/09/8.jpg 904w, /imgs/2015/09/8-300x163.jpg 300w" sizes="(max-width: 904px) 100vw, 904px"/></a></p>
 <p>Overall, the market is on fickle territory, trading just above a long term trendline and bouncing off it 6 times since 2012, including twice in 2015. Traders are keenly watching whether 200 WMA and this trendline will continue to hold and maintain its trading range between $ 200 and $300.</p>
-</div>
-<a href="/tag/23rd/" rel="tag">23rd</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+
 Updated: 2015-09-23
 

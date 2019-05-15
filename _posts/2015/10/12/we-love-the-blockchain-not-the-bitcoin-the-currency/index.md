@@ -2,12 +2,11 @@
 title: "We love the blockchain, not the bitcoin the currency"
 ---
 
-11718  tag-banks tag-blockchain tag-ledgers
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>October 12, 2015</span>
 
-<span><a href="/2015/10/12/we-love-the-blockchain-not-the-bitcoin-the-currency/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="/imgs/2015/10/11.jpg"><img class="aligncenter size-full wp-image-11719" src="/imgs/2015/10/11.jpg" alt="1" width="1024" height="576" srcset="/imgs/2015/10/11.jpg 1024w, /imgs/2015/10/11-300x169.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
@@ -40,7 +39,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>My point is, there is a real need for designing a permissioned ledger, that captures key benefits of the blockchain &#8211; settlement finality (irreversible), without the added risks and costs of censorship resistance. Offchain assets in form of securities, titles and fiat are more suited to this type of system.</p>
 <p><strong>Censorship resistance as a desired quality</strong></p>
 <p>In all this talk however, bitcoin still remains the only censorship resistant digital bearer asset in the world. Regardless of all the discussion on ‘blockchains’, censorship resistance is an extremely valuable quality for an asset in today’s financial global system. Bitcoin (the currency) will play a crucial role in the next fiat crisis. I am yet to see any solid arguments against this characteristic. Which is why, I am bullish on bitcoin in the medium and long term.</p>
-</div>
-<a href="/tag/banks/" rel="tag">banks</a> <a href="/tag/blockchain/" rel="tag">blockchain</a> <a href="/tag/ledgers/" rel="tag">ledgers</a></span> 
+
 Updated: 2015-10-12
 

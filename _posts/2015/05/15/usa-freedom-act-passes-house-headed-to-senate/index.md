@@ -2,14 +2,11 @@
 title: "USA Freedom Act passes House, headed to Senate"
 ---
 
-10311  tag-act tag-freedom tag-headed tag-house tag-passes tag-senate tag-usa
-Posted by: <a href="/author/timothyjones/" title="">Timothy Jones 
+Posted by: Timothy Jones 
 
 <span>May 15, 2015</span>
 
 
-<span><a href="/2015/05/15/usa-freedom-act-passes-house-headed-to-senate/#comments">2 Comments</a></span>
-</p>
 
 <p>With critical provisions of the Patriot Act scheduled to expire in June congress is rushing to come up with a solution. They may have just found it. The US House of Representatives approved the USA Freedom Act with a strong 338 to 88 vote.</p>
 <p>The bill is a step toward ending the mass collection of data by the National Security Administration, but many privacy advocates believe there is still much to be desired.</p>
@@ -31,8 +28,7 @@ Posted by: <a href="/author/timothyjones/" title="">Timothy Jones
 <p>Rand Paul, another Republican Senator and presidential candidate, has a completely different approach. Paul has already <a href="http://thehill.com/policy/technology/241635-rand-paul-threatens-patriot-act-filibuster" target="_blank">threatened a filibuster</a> to re authorizations of the Patriot Act.</p>
 <p><em>&#8220;I&#8217;m going to lead the charge in the next couple of weeks as the Patriot Act comes forward,&#8221; the GOP presidential candidate told the New Hampshire Union Leader. &#8220;We will be filibustering. We will be trying to stop it. We are not going to let them run over us. And we are going to demand amendments and we are going to make sure the American people know that some of us at least are opposed to unlawful searches.&#8221;</em></p>
 <p>Now the USA Freedom Act heads to the Senate. With the June deadline right around the corner, we should be seeing action on it immediately.</p>
-</div>
-<a href="/tag/act/" rel="tag">act</a> <a href="/tag/freedom/" rel="tag">freedom</a> <a href="/tag/headed/" rel="tag">headed</a> <a href="/tag/house/" rel="tag">house</a> <a href="/tag/passes/" rel="tag">passes</a> <a href="/tag/senate/" rel="tag">senate</a> <a href="/tag/usa/" rel="tag">usa</a></span> 
+
 Updated: 2015-05-15
-<a href="/author/timothyjones/" title="Posts by Timothy Jones" rel="author">Timothy Jones</a></strong></div>
+
     

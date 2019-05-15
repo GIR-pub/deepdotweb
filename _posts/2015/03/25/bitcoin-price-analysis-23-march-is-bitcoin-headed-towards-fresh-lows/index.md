@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis 25 March: Is Bitcoin Headed Towards Fresh Lows?"
 ---
 
-9627  tag-2706 tag-analysis tag-fresh tag-headed tag-lows tag-march tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>March 25, 2015</span>
 
 
-<span><a href="/2015/03/25/bitcoin-price-analysis-23-march-is-bitcoin-headed-towards-fresh-lows/#comments">3 Comments</a></span>
+
 
 
 <p><a href="/imgs/2015/03/price1.png"><img class="aligncenter size-full wp-image-9628" src="/imgs/2015/03/price1.png" alt="price1" width="628" height="356" srcset="/imgs/2015/03/price1.png 628w, /imgs/2015/03/price1-300x170.png 300w" sizes="(max-width: 628px) 100vw, 628px"/></a></p>
@@ -40,7 +39,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Bar any news, two key levels are decisive. $ 236 as support should hold well for a convincing bottom. Buyers are aware of the bargain at these levels and i would expect a battle at this level. Any weakness below $ 236 will reaffirm monthly downtrend, meaning weekly uptrend would be failing and a massive sell-off would follow. The market’s memories of these levels are fresh from January’s capitulation. Traders would sell off and pick a bottom for long entry positions. $166 may well be broken.</p>
 <p>On the other hand, a slim chance of rebounding would have to hold strong at $ 236/ $ 243 levels and invalidate resistance at $ 275.</p>
 <p>This week I am bearish.</p>
-</div>
-<a href="/tag/23/" rel="tag">23</a> <a href="/tag/fresh/" rel="tag">fresh</a> <a href="/tag/headed/" rel="tag">headed</a> <a href="/tag/lows/" rel="tag">lows</a>  
+
 Updated: 2015-03-25
 

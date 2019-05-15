@@ -2,24 +2,20 @@
 title: "How To Buy From TheRealDeal Market?"
 ---
 
-12674  tag-buy tag-therealdeal
-    
-    
-    
 
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb
+Posted by: DeepDotWeb
     
     
 <span>December 21, 2015</span>
 
     
-<span><a href="https://www.deepdotweb.com/2015/12/21/how-to-buy-from-therealdeal-market/#comments">37 Comments</a></span>
+
 </p>        
-<p><a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a> has recently updated it entire UI to look similar to the past Evolution market, the admin have provided us with a market buying tutorial &#8211; this tutorial addresses escrow transactions, Multisig tutorial will be added later.</p>
+<p><a href="/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a> has recently updated it entire UI to look similar to the past Evolution market, the admin have provided us with a market buying tutorial &#8211; this tutorial addresses escrow transactions, Multisig tutorial will be added later.</p>
 <p>According to the main admin, the evolution code (or at least a large portion of it) was purchased from a hacking forum quite recently, but lacked some major parts of code (wallet functionality was messed up, feedback system was broken, legacy-sales system was broken (and fixed today), and the search function was completely missing &#8211; but at this point all the cool evolution listing filters are working and the main search tab on top will be fully functional today) &#8211; He also mentioned that he will be providing free vendor account for next 24 &#8211; 48 hours.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
 <p>He would also like to thank his co-admin &#8216;peace&#8217; for writing up this how-to and also for working on the wiki that will be hosted on a different host later today.</p>
-<p>You can use this link to register to <a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a>: <strong><a href="http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555" target="_blank">http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555</a></strong></p>
+<p>You can use this link to register to <a href="/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a>: <strong><a href="http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555" target="_blank">http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555</a></strong></p>
 <p><span style="text-decoration: underline;"><strong>The tutorial:</strong></span></p>
 <p>Welcome to the ThRealDeal market! We are very happy you chose us and have created a simple guide for you on buying and selling on our market. Follow these easy and straight forward steps to buy a product using the escrow system. (Note: Multisig guide available as well)</p>
 <p><strong>Step 1:</strong> When you first sign up you will see your dash board, head over to the home page and find a product or service that you want to buy and click &#8220;Buy Now&#8221;</p>
@@ -36,12 +32,11 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p><a href="/imgs/2015/12/62.png"><img class="aligncenter size-full wp-image-12680" src="/imgs/2015/12/62.png" alt="6" width="1504" height="882" srcset="/imgs/2015/12/62.png 1504w, /imgs/2015/12/62-300x176.png 300w, /imgs/2015/12/62-1024x601.png 1024w" sizes="(max-width: 1504px) 100vw, 1504px" /></a></p>
 <p><strong>Conclusion</strong><br />
     Well thats it pretty easy right? keep in mind to always use PGP when sending shipping details and even just sending PMs to the vendor. Hope this how to helped you out if you have any questions contact support or leave a comment here.</p>
-<p>You can use this link to register to <a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a>: <strong><a href="http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555" target="_blank">http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555</a></strong></p>
+<p>You can use this link to register to <a href="/marketplace-directory/listing/therealdeal-market/">TheRealDeal Market</a>: <strong><a href="http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555" target="_blank">http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555</a></strong></p>
     
     
 
-<a href="https://www.deepdotweb.com/tag/buy/" rel="tag">buy</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span>				
-Updated: 2015-12-21
+<a href="/tag/buy/" rel="tag">buy</a> <a href="/tag/therealdeal/" rel="tag">therealdeal</a>Updated: 2015-12-21
     
     
 

@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 08 Aug.2015"
 ---
 
-11220  tag-aug2015 
 Posted by: DeepDotWeb 
 
 <span>August 8, 2015</span>
 
 
-<span><a href="/2015/08/08/bitcoin-news-roundup-08-aug-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web </em></p>
@@ -22,6 +21,5 @@ Posted by: DeepDotWeb
 <p>LOT is accepting bitcoin. As Pete Rizzo of <a href="http://www.coindesk.com/lot-polish-airlines-accept-bitcoin/">CoinDesk</a> writes, the Polish Airlines allow passengers to purchase their tickets via LOT’s website and pay in bitcoin for more than 60 flights to global destinations. Payments are accepted via a third-party service provider that converts bitcoins into fiat currency. LOT has added the bitcoin option in the already existing form of payment, American Express, PayPal, MasterCard and Visa.</p>
 <p>Bandago is now accepting bitcoin. As Nuno Menezes of <a href="http://www.newsbtc.com/2015/08/06/bandago-becomes-the-first-van-rental-service-to-add-bitcoin-as-a-payment-option/">NewsBtc</a> reports, the leader in passenger van rental announced that it will include the digital currency as a formal payment method with the aim to provide its customers with a great range of options in regards to their reservation. Since 2003, Bandago has been unfailingly providing high quality, sophisticated van rental services to touring bands, solo musicians, TV celebrities and film producers. With the acceptance of the bitcoin, the company will provide its customers around the world with the freedom to transfer money instantly and seamlessly for accommodating their travel plans.</p>
 <p>Overstock.com finalizes crybtobond deal. According to Katherine Fletcher of CoinReport, the leading online retailer has sold a $5 million digital security First New York Managed Accounts LLCin the form of a cryptobond. The sale aims to serve as an additional proof regarding the safety of exchanging financial instruments through a cryptocurrency ledger. CEP Patrick Byrne states <em>“We welcome First New York, salute the vision of the company’s leadership, and anticipate that this could be the start of a beautiful relationship between our firms.”</em></p>
-</div>
-<a href="/tag/aug2015/" rel="tag">aug2015</a>  </span> 
+
 Updated: 2015-08-08

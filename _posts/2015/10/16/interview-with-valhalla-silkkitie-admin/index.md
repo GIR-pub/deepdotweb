@@ -2,21 +2,16 @@
 title: "Interview With Valhalla (Silkkitie) Admin"
 ---
 
-11783  tag-admin tag-interview tag-silkkitie tag-valhalla
 Posted by: DeepDotWeb 
 
 <span>October 16, 2015</span>
 
-<span><a href="/2015/10/16/interview-with-valhalla-silkkitie-admin/#comments">9 Comments</a></span>
 
 
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Silkkitie Market</a> &#8211; One of the smaller markets which started as a local market for Finland and later turned international just celebrated two years of operation and was rebranded as &#8220;<a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Valhalla</a>&#8220;, we have conducted an interview with &#8220;Kapteeni&#8221;, the market admin, which you can find below.</p>
+
+<p><a href="/marketplace-directory/listing/silkkitie">Silkkitie Market</a> &#8211; One of the smaller markets which started as a local market for Finland and later turned international just celebrated two years of operation and was rebranded as &#8220;<a href="/marketplace-directory/listing/silkkitie">Valhalla</a>&#8220;, we have conducted an interview with &#8220;Kapteeni&#8221;, the market admin, which you can find below.</p>
 <p>Admin Proof:</p>
-<div id="crayon-5962ff7cddbad840136911" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
@@ -31,18 +26,8 @@ Posted by: DeepDotWeb
     U3gMTJN6rFwQ41RtnMXgAmFcjY0jEV9+gYoiYsD+QCe49fC5M4HTIhiwSgGDPoVw
     9fe/rlEAEALXUvbD6VY=
     =JIp0
-    -----END PGP SIGNATURE-----</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-2">2</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-4">4</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-6">6</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-8">8</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-10">10</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-12">12</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5962ff7cddbad840136911-14">14</div><div class="crayon-num" data-line="crayon-5962ff7cddbad840136911-15">15</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962ff7cddbad840136911-1"><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span><span class="crayon-e">BEGIN </span><span class="crayon-e">PGP </span><span class="crayon-t">SIGNED</span><span class="crayon-h"> </span><span class="crayon-v">MESSAGE</span><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span></div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-2"><span class="crayon-v">Hash</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-i">SHA512</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-3">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-4"><span class="crayon-i">I</span>'<span class="crayon-i">m</span><span class="crayon-h"> </span><span class="crayon-e">sending </span><span class="crayon-e">my </span><span class="crayon-e">interview </span><span class="crayon-e">about </span><span class="crayon-v">Silkkitie</span><span class="crayon-o">/</span><span class="crayon-e">Valhalla </span><span class="crayon-st">to</span><span class="crayon-h"> </span><span class="crayon-e">Deepdotweb </span><span class="crayon-st">in</span><span class="crayon-h"> </span><span class="crayon-e">middle </span><span class="crayon-e">of </span><span class="crayon-i">October</span><span class="crayon-h"> </span><span class="crayon-cn">2015.</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-5">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-6"><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span><span class="crayon-e">BEGIN </span><span class="crayon-e">PGP </span><span class="crayon-v">SIGNATURE</span><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-7">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-8"><span class="crayon-e">iPwEAQEKAGYFAlYeop9fFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3Bl</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-9"><span class="crayon-e">bnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1ODc2NEIwMEZFOEQ4Q0JGRTk3NkNERjI0</span></div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-10"><span class="crayon-e">NDI0RTg5MUUwNUMxRUYACgkQJEJOiR4Fwe8UjAQAwX86rKx1DAzrcp0HirA07nCH</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-11"><span class="crayon-v">fERYGpyaTCSkRuZjvW8</span><span class="crayon-o">+</span><span class="crayon-e">EV03L82UJRtDk0zdt0uIX1M04ZMGx4YaxEnMA3JRymlj</span></div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-12"><span class="crayon-v">U3gMTJN6rFwQ41RtnMXgAmFcjY0jEV9</span><span class="crayon-o">+</span><span class="crayon-v">gYoiYsD</span><span class="crayon-o">+</span><span class="crayon-i">QCe49fC5M4HTIhiwSgGDPoVw</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-13"><span class="crayon-cn">9fe</span><span class="crayon-o">/</span><span class="crayon-v">rlEAEALXUvbD6VY</span><span class="crayon-o">=</span></div><div class="crayon-line crayon-striped-line" id="crayon-5962ff7cddbad840136911-14"><span class="crayon-o">=</span><span class="crayon-v">JIp0</span></div><div class="crayon-line" id="crayon-5962ff7cddbad840136911-15"><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span><span class="crayon-st">END</span><span class="crayon-h"> </span><span class="crayon-e">PGP </span><span class="crayon-v">SIGNATURE</span><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+    -----END PGP SIGNATURE-----
+
     
 <p>
 <strong>Can you tell us how Silkkitie started?</strong></p>
@@ -79,6 +64,5 @@ Posted by: DeepDotWeb
 <p>There has been a big change in the user demographics. It is no longer a thing for computer geeks after installing Tor Browser has became a lot easier, which makes it easier for the normal people to find and access us without any advanced computer skills. Media has at least tried to make darknet more known to the public. Even though they try to demonize it, the word has spread also because of it. Single biggest change in the user demographics has been the body builders who buy their supplements from DNM&#8217;s for better and more constant quality.</p>
 <p><strong>Anything else interesting you want to share with the readers?</strong></p>
 <p>Stay tuned in, Valhalla will be along with all the progress, there will be interesting times ahead as we continue on the road to success and evolve with the new technology.</p>
-</div>
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/interview/" rel="tag">interview</a> <a href="/tag/silkkitie/" rel="tag">silkkitie</a> <a href="/tag/valhalla/" rel="tag">valhalla</a></span> 
+
 Updated: 2015-10-16

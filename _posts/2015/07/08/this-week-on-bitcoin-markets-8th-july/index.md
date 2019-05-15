@@ -2,42 +2,33 @@
 title: "This week on Bitcoin markets. . . 8th July"
 ---
 
-10982  tag-8th tag-july ">
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>July 8, 2015</span>
 
 
-<span><a href="/2015/07/08/this-week-on-bitcoin-markets-8th-july/#comments">1 
 
 
+
     
-<div class="wp-socializer-buttons clearfix">
-<span class="wpsr-btn">
+
     
-<div class="fb-like" data-href="
-/2015/07/08/this-week-on-bitcoin-markets-8th-july/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
+
     
-</span>
-<span class="wpsr-btn">
+
     
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en" data-url="
-/2015/07/08/this-week-on-bitcoin-markets-8th-july/" data-text="This week on Bitcoin markets. . . 8th July - "></a>
+
     
-</span>
-<span class="wpsr-btn">
+
     
 <div class="g-plusone" data-size="medium" data-href="
 /2015/07/08/this-week-on-bitcoin-markets-8th-july/"></div>
     
-</span>
-<span class="wpsr-btn">
+
     
-<script type="IN/Share" data-url="
-/2015/07/08/this-week-on-bitcoin-markets-8th-july/" data-counter="right"></script>
+
     
-</span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p><a href="/imgs/2015/07/11.jpg"><img class="aligncenter size-full wp-image-10983" src="/imgs/2015/07/11.jpg" alt="1" width="592" height="464" srcset="/imgs/2015/07/11-300x235.jpg 300w, /imgs/2015/07/11.jpg 592w" sizes="(max-width: 592px) 100vw, 592px"/></a></p>
+<p><a href="/imgs/2015/07/11.jpg"><img class="aligncenter size-full wp-image-10983" src="/imgs/2015/07/11.jpg" alt="1" width="592" height="464" srcset="/imgs/2015/07/11-300x235.jpg 300w, /imgs/2015/07/11.jpg 592w" sizes="(max-width: 592px) 100vw, 592px"/></a></p>
 <p>After peaking at $269 last week, right after coming up against resistance coinciding with 200 exponential moving average line, price retraced to support at $252. Quite normal after sharp rises; markets usually need to consolidate, some profit taking follows and any excess supply is exhausted before resuming a move up. Which is what happened after bottoming out at $252; price pushed up to the most recent top at $279. This rise was no different, and we now seem to be in a correction sitting above $265. It could potentially go much lower, as a correction of the larger rise from $220. More on this in our forecast.</p>
 <p><a href="/imgs/2015/07/2.jpg"><img class="aligncenter size-full wp-image-10984" src="/imgs/2015/07/2.jpg" alt="2" width="594" height="465" srcset="/imgs/2015/07/2-300x235.jpg 300w, /imgs/2015/07/2.jpg 594w" sizes="(max-width: 594px) 100vw, 594px"/></a></p>
 <p>Zooming out to 1 day charts, we can see why price halted at $ 279. The 200 day EMA line sits squarely at this zone, pushing back on further upswings. The last time it was tested was a failed attempt rise in November 2014, before that, in August when prices broke below it; we have been below it since. As a significant average line therefore, it will require some consolidation before another attempt at thrusting up.</p>
@@ -66,40 +57,11 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Medium term, support is at $226 and resistance at $ 300</p>
 <p><a href="/imgs/2015/07/8.jpg"><img class="aligncenter size-full wp-image-10990" src="/imgs/2015/07/8.jpg" alt="8" width="1003" height="626" srcset="/imgs/2015/07/8-300x187.jpg 300w, /imgs/2015/07/8.jpg 1003w" sizes="(max-width: 1003px) 100vw, 1003px"/></a></p>
 <p>&nbsp;</p>
-<h3>Share and Enjoy</h3>
+
     
-<div class="wp-socializer 32px">
-<ul class="wp-socializer-opacity columns-no">
-<li><a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F08%2Fthis-week-on-bitcoin-markets-8th-july%2F&amp;t=This+week+on+Bitcoin+markets.+.+.+8th+July" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
-<li><a href="http://twitter.com/home?status=This+week+on+Bitcoin+markets.+.+.+8th+July%20-%20https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F08%2Fthis-week-on-bitcoin-markets-8th-july%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-<li><a href="http://delicious.com/post?url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F08%2Fthis-week-on-bitcoin-markets-8th-july%2F&amp;title=This+week+on+Bitcoin+markets.+.+.+8th+July&amp;notes=After+peaking+at+%24269+last+week%2C+right+after+coming+up+against+resistance+coinciding+with+200+exponential+moving+average+line%2C+price+retraced+to+support+at+%24252.+Quite+normal+after+sharp+rises%3B+markets+usually+need+to+consolidate%2C+some+profit+tak" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F08%2Fthis-week-on-bitcoin-markets-8th-july%2F&amp;title=This+week+on+Bitcoin+markets.+.+.+8th+July&amp;source=Deep+Dot+Web+-+Surfacing+The+News+From+The+DeepWeb&amp;summary=After+peaking+at+%24269+last+week%2C+right+after+coming+up+against+resistance+coinciding+with+200+exponential+moving+average+line%2C+price+retraced+to+support+at+%24252.+Quite+normal+after+sharp+rises%3B+markets+usually+need+to+consolidate%2C+some+profit+tak" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-<li><a href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F08%2Fthis-week-on-bitcoin-markets-8th-july%2F&amp;title=This+week+on+Bitcoin+markets.+.+.+8th+July" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-<li><a href="/2015/07/08/this-week-on-bitcoin-markets-8th-july/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-<li><a href="/cdn-cgi/l/email-protection#516e253e6c772224333b3432256c053938227a2634343a7a3e3f7a133825323e383f7a3c30233a3425227f7a7f7a7f7a6925397a1b243d2877333e35286c10372534Xr+peaking+at+%24269+last+week%2C+right+after+coming+up+against+resistance+coinciding+with+200+exponential+moving+average+line%2C+price+retraced+to+support+at+%24252.+Quite+normal+after+sharp+rises%3B+markets+usually+need+to+consolidate%2C+some+profit+tak%20-%20
-/2015/07/08/this-week-on-bitcoin-markets-8th-july/" title="Email this" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-<li><a href="/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-</ul>
-<div class="wp-socializer-clearer"></div></div>
+
     
-</div>
-<a href="/tag/8th/" rel="tag">8th</a>  <a href="/tag/markets/" rel="tag">markets</a> </span> 
+
 Updated: 2015-07-08
 
     

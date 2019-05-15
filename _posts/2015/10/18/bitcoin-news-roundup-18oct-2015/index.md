@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 18Oct. 2015"
 ---
 
-11809  tag-18oct tag-2524 
 Posted by: DeepDotWeb 
 
 <span>October 18, 2015</span>
 
 
-<span><a href="/2015/10/18/bitcoin-news-roundup-18oct-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -21,6 +20,5 @@ Posted by: DeepDotWeb
 <p>Leading Mexican retailer Famsa accepts bitcoin. As Joseph Young of <a href="https://bitcoinmagazine.com/articles/billion-dollar-mexican-retail-company-famsa-accepts-bitcoin-1444667157">Bitcoin Magazine</a> reports, the billion dollar Mexican retailer of consumer and electronic goods is joining forces with BitPay, to accept payments in bitcoin. Famsa over 420 stores across 78 Mexican cities and 37 cities in the United States, and reports nearly $1.1 billion in annual revenue. In addition, the company provides car financing through Banco Ahorro Famsa. Famsa’s interest in integrating the bitcoin suggests that the company identifies the ineffectiveness of credit card and banking payments for costs and security.</p>
 <p>OpenCart online shops accept the bitcoin. As Erin Lace of <a href="http://cointelegraph.com/news/115421/opencart-online-shops-welcome-bitcoin-payments">Coin Telegraph </a>writes, BitcoinPay, the European bitcoin PSP, has announced the launch of an OpenCart plugin that will enable the bitcoin integration with their e-commerce platforms. Online retailers will be also able to choose whether they want to receive payments in the digital currency or in any of the fiat currency already integrated in OpenCart, including Euro, USD, Czech Koruna and Polish Zloty.</p>
 <p>&nbsp;</p>
-</div>
-<a href="/tag/18oct/" rel="tag">18oct</a>   </span> 
+
 Updated: 2015-10-18

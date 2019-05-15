@@ -2,13 +2,10 @@
 title: "How To Use VPN Plus Tor To Get Double Encryption?"
 ---
 
-11017  tag-double tag-encryption  tag-vpn">
 Posted by: DeepDotWeb 
 
 <span>July 14, 2015</span>
     
-<span><a href="/2015/07/14/how-to-use-vpn-plus-tor-to-get-double-encryption/#comments">33 Comments</a></span>
-</p>
 
     
 <p><em>Guest post by <a href="https://privatoria.net/">privatoria.net:</a></em></p>
@@ -55,129 +52,44 @@ Posted by: DeepDotWeb
 </ul>
 <p>Here&#8217;s how you can configure VPN+TOR on any Debian/Ubuntu based Linux distro:</p>
 <p>Open your terminal emulator and type in</p>
-<div id="crayon-5962a06116250560997835" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo apt-get install openvpn</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962a06116250560997835-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962a06116250560997835-1"><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">openvpn</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/07/42.png"><img class="aligncenter size-full wp-image-11021" src="/imgs/2015/07/42.png" alt="4" width="896" height="249" srcset="/imgs/2015/07/42.png 896w, /imgs/2015/07/42-300x83.png 300w" sizes="(max-width: 896px) 100vw, 896px"/></a></p>
-<div id="crayon-5962a0611625c430464933" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     wget “https://my.privatoria.net/public/uploads/pr-openvpn.conf”</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962a0611625c430464933-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962a0611625c430464933-1"><span class="crayon-i">wget</span><span class="crayon-h"> </span>“<span class="crayon-v">https</span><span class="crayon-o">:</span><span class="crayon-c">//my.privatoria.net/public/uploads/pr-openvpn.conf”</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/07/51.png"><img class="aligncenter size-full wp-image-11022" src="/imgs/2015/07/51.png" alt="5" width="894" height="352" srcset="/imgs/2015/07/51.png 894w, /imgs/2015/07/51-300x118.png 300w" sizes="(max-width: 894px) 100vw, 894px"/></a></p>
-<div id="crayon-5962a06116260624401657" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo cp openvpn.conf /etc/openvpn/</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962a06116260624401657-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962a06116260624401657-1"><span class="crayon-e">sudo </span><span class="crayon-e">cp </span><span class="crayon-v">openvpn</span><span class="crayon-sy">.</span><span class="crayon-v">conf</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">openvpn</span><span class="crayon-o">/</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/07/61.png"><img class="aligncenter size-full wp-image-11023" src="/imgs/2015/07/61.png" alt="6" width="898" height="275" srcset="/imgs/2015/07/61.png 898w, /imgs/2015/07/61-300x92.png 300w" sizes="(max-width: 898px) 100vw, 898px"/></a></p>
-<div id="crayon-5962a06116264026757979" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo nano /etc/openvpn/pr-openvpn.conf</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962a06116264026757979-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962a06116264026757979-1"><span class="crayon-e">sudo </span><span class="crayon-v">nano</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">openvpn</span><span class="crayon-o">/</span><span class="crayon-v">pr</span><span class="crayon-o">-</span><span class="crayon-v">openvpn</span><span class="crayon-sy">.</span><span class="crayon-v">conf</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/07/7.png"><img class="aligncenter size-full wp-image-11024" src="/imgs/2015/07/7.png" alt="7" width="916" height="201" srcset="/imgs/2015/07/7.png 916w, /imgs/2015/07/7-300x66.png 300w" sizes="(max-width: 916px) 100vw, 916px"/></a></p>
-<div id="crayon-5962a06116268751380352" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     replace “privatoria.net” with “gateway-tornet.privatoria.net” , hit Ctrl+O and Ctrl+X</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962a06116268751380352-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962a06116268751380352-1"><span class="crayon-i">replace</span><span class="crayon-h"> </span>“<span class="crayon-v">privatoria</span><span class="crayon-sy">.</span><span class="crayon-i">net</span>”<span class="crayon-h"> </span><span class="crayon-i">with</span><span class="crayon-h"> </span>“<span class="crayon-v">gateway</span><span class="crayon-o">-</span><span class="crayon-v">tornet</span><span class="crayon-sy">.</span><span class="crayon-v">privatoria</span><span class="crayon-sy">.</span><span class="crayon-i">net</span>”<span class="crayon-h"> </span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-e">hit </span><span class="crayon-v">Ctrl</span><span class="crayon-o">+</span><span class="crayon-i">O</span><span class="crayon-h"> </span><span class="crayon-st">and</span><span class="crayon-h"> </span><span class="crayon-v">Ctrl</span><span class="crayon-o">+</span><span class="crayon-v">X</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/07/8.png"><img class="aligncenter size-full wp-image-11025" src="/imgs/2015/07/8.png" alt="8" width="916" height="326" srcset="/imgs/2015/07/8.png 916w, /imgs/2015/07/8-300x107.png 300w" sizes="(max-width: 916px) 100vw, 916px"/></a></p>
-<div id="crayon-5962a0611626c269324493" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo service openvpn restart</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5962a0611626c269324493-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5962a0611626c269324493-1"><span class="crayon-e">sudo </span><span class="crayon-e">service </span><span class="crayon-e">openvpn </span><span class="crayon-v">restart</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/07/9.png"><img class="aligncenter size-full wp-image-11026" src="/imgs/2015/07/9.png" alt="9" width="900" height="250" srcset="/imgs/2015/07/9.png 900w, /imgs/2015/07/9-300x83.png 300w" sizes="(max-width: 900px) 100vw, 900px"/></a></p>
 <p>Overall VPN+TOR is only getting it popularity. It is still a young technology, which means there is a room for improvement. This solution, however has more to offer that its components used alone. Therefore we do recommend that you give it a try a let us know about your experience.</p>
-</div>
-<a href="/tag/double/" rel="tag">double</a> <a href="/tag/encryption/" rel="tag">encryption</a>  <a href="/tag/vpn/" rel="tag">vpn</a></span> 
+
 Updated: 2015-07-14
 
     

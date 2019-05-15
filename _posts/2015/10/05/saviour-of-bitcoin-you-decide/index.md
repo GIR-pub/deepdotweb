@@ -2,12 +2,11 @@
 title: "Saviour of Bitcoin? You decide"
 ---
 
-11685  tag-decide tag-saviour
 Posted by: DeepDotWeb 
 
 <span>October 5, 2015</span>
 
-<span><a href="/2015/10/05/saviour-of-bitcoin-you-decide/#comments">12 Comments</a></span>
+
 
 
 <p><em>Guest Post by by Fred Rico – Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting <a href="/tag/bitwasp/">Bitwasp</a> (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past 2 years):</em></p>
@@ -32,6 +31,5 @@ Posted by: DeepDotWeb
 <p><strong><u>Links</u></strong></p>
 <p><u>Aflao Marketplace</u> &#8211; http://fuc3bgvav4epcydh.onion</p>
 <p><u>Aflao Marketplace Community Forum</u> &#8211; http://yl4nqu25v7zfcimt.onion/fluxbb</p>
-</div>
-<a href="/tag/decide/" rel="tag">decide</a> <a href="/tag/saviour/" rel="tag">saviour</a></span> 
+
 Updated: 2015-10-05

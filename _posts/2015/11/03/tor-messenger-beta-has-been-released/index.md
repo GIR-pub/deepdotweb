@@ -2,13 +2,12 @@
 title: "Tor Messenger Beta Has Been Released"
 ---
 
-11922  tag-messenger tag-released 
-
-Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+11
+Posted by: Benjamin Vitáris 
 
 <span>November 3, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/03/tor-messenger-beta-has-been-released/#respond">Leave a comment</a></span>
+
+
 
 
 <p><a href="https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily">On October 29, the Tor Project released the beta version of the Tor Messenger.</a> The Tor Messenger is an anonymous cross-platform chat program that aims to be as secure as possible while being able to send and receive messages in real time. The Tor Messenger supports a wide variety of transport networks, such as Jabber (XMPP), IRC, Google Talk, Facebook Chat, Twitter, Yahoo, and many others. The program enables Off-the-Record (OTR) Messaging automatically and has an easy-to-use graphical user interface localized into multiple languages.</p>
@@ -21,7 +20,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benj
 <p>Sukhbir Singh, one of the main developers of the Tor Messenger states that users should be aware that the program is still running in a beta phase:</p>
 <p>“Please note that this release is for users who would like to help us with testing the product but at the same time who also understand the risks involved in using beta software.”</p>
 <p>Since the Tor Messenger is in a beta phase, it can’t be used now as a fully anonymous chat service, however, later on, it has a big potential for accomplishing this goal.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/beta/" rel="tag">beta</a> <a href="https://www.deepdotweb.com/tag/messenger/" rel="tag">messenger</a> <a href="https://www.deepdotweb.com/tag/released/" rel="tag">released</a> </span> 
-Updated: 2015-11-03<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-11-03
 

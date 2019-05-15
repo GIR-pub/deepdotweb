@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 28 Sep. 2015"
 ---
 
-11615  tag-2524 tag-1384  tag-sep
 Posted by: DeepDotWeb 
 
 <span>September 28, 2015</span>
 
 
-<span><a href="/2015/09/28/bitcoin-news-roundup-28-sep-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -23,6 +22,5 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>Circle Internet Financial gets BitLicense approved. AsKatherine Fletcher of <a href="https://coinreport.net/nydfs-issues-first-bitlicense-circle/">Coin Report</a> writes, the Boston-based bitcoin startup is the first company to receive aNew York State BitLicense, the most demanding bitcoin regulation that has caused several bitcoin companies to discontinue their services in the Big Apple. The license will allow Circle to offer digital-currency services to its customers, while protecting them with anti-money laundering compliance and cybersecurity policies.</p>
 <p>BitPay’s“free and unlimited” bitcoin service to new merchants ceases. As Pete Rizzo of <a href="http://www.coindesk.com/bitpay-cut-free-unlimited-processing-merchants/">Coin Desk</a> reports, the service aimed to help Bitpay reach 1 million merchants by 2017. Although the idea of unlimited was perceived as “forever” to allure merchants to the platform, the bitcoin payment processor has decided to stop this service. The small businesses that are using the new Starter Plan, up to 30 monthly transactions and up to $1,000 daily, will not be affected by this shift.</p>
-</div>
- <a href="/tag/27/" rel="tag">27</a>   <a href="/tag/sep/" rel="tag">sep</a></span> 
+
 Updated: 2015-09-28

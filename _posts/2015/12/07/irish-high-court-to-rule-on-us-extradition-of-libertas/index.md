@@ -2,13 +2,12 @@
 title: "Silk Road: Irish High Court To Rule On US Extradition Of Libertas"
 ---
 
-12486  tag-court tag-extradition tag-high tag-irish tag-libertas tag-rule 
 
-Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 7, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/07/irish-high-court-to-rule-on-us-extradition-of-libertas/#comments">3 Comments</a></span>
+
+
 
 
 <p>The Irish High Court will rule on the<a href="http://www.independent.ie/irish-news/courts/high-court-to-rule-on-us-extradition-request-for-administrator-of-silk-road-website-34250572.html"> extradition case of Gary Davis (27) AKA. Libertas</a>, the alleged administrator of Silk Road Marketplace, to the United States. Davis, from Kilpedder, Co Wicklow, is wanted for trial in the US and is charged with the conspiracy to distribute narcotics, conspiracy to commit computer hacking and conspiracy to commit money laundering. According to the media, if extradited to the USA, the man has a big chance of receiving a life sentence in prison (same as Ross Ulbricht).</p>
@@ -18,7 +17,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benj
 <p>Remy Farrell SC, speaking for the Attorney General, said there was no evidence suggesting Davis would be held in the Special Housing Unit at MCC since the man is not from the US.</p>
 <p>Counsel stated the MCC special unit is used as the prison of terror suspects and a leading member of the Mexican drug cartel. According to him, while Davis is in custody, he will be monitored thoroughly in order to see his current mental health status.</p>
 <p>Justice Paul McDermott, following the conclusion of submissions from both parties, stated that he hopes to give his decision on Davis’ case in early February.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/court/" rel="tag">court</a> <a href="https://www.deepdotweb.com/tag/extradition/" rel="tag">extradition</a> <a href="https://www.deepdotweb.com/tag/high/" rel="tag">high</a> <a href="https://www.deepdotweb.com/tag/irish/" rel="tag">irish</a> <a href="https://www.deepdotweb.com/tag/libertas/" rel="tag">libertas</a>  <a href="https://www.deepdotweb.com/tag/rule/" rel="tag">rule</a> <a href="https://www.deepdotweb.com/tag/silk/" rel="tag">silk</a></span> 
-Updated: 2015-12-07<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-12-07
 

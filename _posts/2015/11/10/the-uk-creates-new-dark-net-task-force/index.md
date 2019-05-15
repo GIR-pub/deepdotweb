@@ -2,18 +2,14 @@
 title: "The UK Creates New Dark Net Task Force"
 ---
 
-12072  tag-creates tag-dark tag-force tag-net tag-task tag-uk
-    
-    
-    
 
-Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris </a></span>
+Posted by: Benjamin Vitáris </a></span>
     
     
 <span>November 10, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
+
     
-<span><a href="https://www.deepdotweb.com/2015/11/10/the-uk-creates-new-dark-net-task-force/#comments">2 Comments</a></span>
+
 </p>        
 <p><a href="http://motherboard.vice.com/read/the-uk-will-police-the-dark-web-with-a-new-task-force">With the fear of the dark web expanding, the United Kingdom’s main intelligence agency, the GCHQ (Government Communications Headquarters) and the country’s top law enforcement apparatus, the National Crime Agency (NCA), have formed a brand new task force to battle dark net criminals.</a> An NCA press release that has been published on Friday goes by:</p>
 <p>“An NCA and GCHQ co-located Joint Operations Cell (JOC) opens officially today. The unit brings together officers from the two agencies to focus initially on tackling online child sexual exploitation.”</p>
@@ -27,8 +23,7 @@ Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benj
     
     
 
-<a href="https://www.deepdotweb.com/tag/creates/" rel="tag">creates</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/force/" rel="tag">force</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a> <a href="https://www.deepdotweb.com/tag/task/" rel="tag">task</a> <a href="https://www.deepdotweb.com/tag/uk/" rel="tag">uk</a></span>				
-Updated: 2015-11-10<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+<a href="/tag/creates/" rel="tag">creates</a> <a href="/tag/dark/" rel="tag">dark</a> <a href="/tag/force/" rel="tag">force</a> <a href="/tag/net/" rel="tag">net</a> <a href="/tag/task/" rel="tag">task</a> <a href="/tag/uk/" rel="tag">uk</a>Updated: 2015-11-10
     
     
 

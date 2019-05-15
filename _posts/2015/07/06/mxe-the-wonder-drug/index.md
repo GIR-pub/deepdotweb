@@ -2,13 +2,10 @@
 title: "MXE: The Wonder Drug"
 ---
 
-10958  tag-mxe">
-Posted by: <a href="/author/lines_of_thought/" title="">Lines_of_Thought 
+Posted by: Lines_of_Thought 
 
 <span>July 6, 2015</span>
     
-<span><a href="/2015/07/06/mxe-the-wonder-drug/#comments">16 Comments</a></span>
-</p>
 
 
 <p>The term &#8220;wonder drug&#8221;&#8216;s definition is; &#8220;a drug, usually recently discovered or developed, noted for its startling curative effect, as an antibiotic or sulfa drug&#8221;. This definition usually would lead one to think that the World Health Organisation&#8217;s Essential Drug List would be made up solely of wonder drugs. This is, however, invariably wrong. Some of them may be classified as wonder drugs, of course. The problem is though, there are a lot of drugs in there that have been surpassed in recent years by a large divide. The other problem is that until a complete testing procedure has been passed, for the drug&#8217;s efficacy and safety profile, it cannot be entered into the list due to FDA approval. This process usually takes from five to ten years. The fact that our knowledge of pharmacology is increasing at an exponential rate, means that by the time the FDA has approved a certain compound it will already have been rendered obsolete.</p>
@@ -23,8 +20,7 @@ Posted by: <a href="/author/lines_of_thought/" title="">Lines_of_Thought
 <p>&#8216;How does one fix this?&#8217;, you may ask. The answer is simple. Open your mind, do not be afraid of novelty, become enthused with the fact that compounds that surpass every drug known today are out there, yet undiscovered and put faith in those who are trying to bring back the golden age of RCs. Instead of Heroin, buy Furanyl-Fentanyl, instead of LSD, get some ETH-LAD, instead of mushrooms, 4-HO-MiPT, instead of Xanax, get Clonazolam, instead of Cannabis, try out a cannabinoid reuptake inhibitor such as URB-597 or a non-selective cannabinoid such as JWH-073 and instead of Ketamine, get MXE.</p>
 <p>A more optimal solution still, would be to enquire about novel compounds in these areas such as 5-TOET or 3a-Methyl-MDA (both a psychedelic <em>and</em> empathogen) as a psychedelic, bk-aMT as an empathogen, RB-101 and it&#8217;s relatives for removal of addiction to opioids, Levorphacetyl for the opioid to join it, Nitetrazepam as a benzo, <em>cis</em>-N-HO-4-MAR as a stimulant and MXPy (Methoxrolidine) instead of MXE. Together, as a social movement we could continue the introduction of novel compounds to the world and in time we will almost certainly find other wonder drugs and evolve psycho-pharmacology with the emphasis placed squarely upon what we do not know instead of what we do know.</p>
 <p>LoT</p>
-</div>
- <a href="/tag/mxe/" rel="tag">mxe</a></span> 
+
 Updated: 2015-07-06
-<a href="/author/lines_of_thought/" title="Posts by Lines_of_Thought" rel="author">Lines_of_Thought</a></strong></div>
+
     

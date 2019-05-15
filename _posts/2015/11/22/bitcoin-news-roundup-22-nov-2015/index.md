@@ -2,12 +2,11 @@
 title: "Bitcoin News Roundup – 22 Nov. 2015"
 ---
 
-12307  tag-2524 tag-2700  tag-nov
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>November 22, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/22/bitcoin-news-roundup-22-nov-2015/#respond">Leave a comment</a></span>
+
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -18,6 +17,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p><strong>Regulation</strong></p>
 <p>Singapore PM favors the use of blockchain technology by the national banks. As Marco E. G. Maltese of <a href="http://cointelegraph.com/news/115675/singapore-prime-minister-said-national-banks-can-use-blockchain">Coin Telegraph</a> reports, Lee Hsien Loong, PM of Singapore believes that <em>“the blockchain technology is going to change the banking industry.”</em> Loong’s statement is important, given that Singapore is a key financial hub in Southeast Asia. Therefore, if its national banks adopt the blockchain, a bright future is expected for the blockchain and the banking industry in the country. It is worth mentioning that, since February 2014, the Monetary Authority of Singapore (MAS) has recognized the digital currencies as having value, but did not regulate the bitcoin. According to MAS the digital currencies <em>“are not legal tender like the notes and coins issued by MAS and they are not considered securities under the Securities and Futures Act.”</em></p>
 <p>Japanese regulators consider policies for bitcoin exchanges. As Stan Higgins of <a href="http://www.coindesk.com/japan-regulators-police-domestic-bitcoin-exchanges/">Coin Desk</a> reports, the Japanese government is favoring the regulation of the bitcoin in the aftermath of the collapse of Mt Gox bitcoin exchange. Japan’s leading financial regulator, the Financial Services Agency, is seeking to plan a regulatory framework for bitcoin-related startups and businesses. According to several members of the Financial Services Agency <em>“</em><em>Japan needs an adequate oversight mechanism for virtual currencies, including ways to confirm identities and block money laundering.”</em></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/22/" rel="tag">22</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2015-11-22

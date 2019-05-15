@@ -2,14 +2,11 @@
 title: "Man Charged With BTC Purchase of Firearm and Silencer on “Darknet”"
 ---
 
-9854  tag-charged tag-firearm tag-man tag-purchase tag-silencer
 Posted by: DeepDotWeb 
 
 <span>April 3, 2015</span>
 
 
-<span><a href="/2015/04/03/man-charged-with-btc-purchase-of-firearm-and-silencer-on-darknet/#comments">19 Comments</a></span>
-</p>
 
 <p>According to a <a href="http://www.justice.gov/usao-ma/pr/hyannis-man-charged-bitcoin-purchase-firearm-and-silencer-darknet">justice.gov</a> press release:</p>
 <p><a href="/imgs/2015/04/AR-2080303391.jpg"><img class="aligncenter size-full wp-image-9855" src="/imgs/2015/04/AR-2080303391.jpg" alt="AR-208030339[1]" width="650" height="488" srcset="/imgs/2015/04/AR-2080303391.jpg 650w, /imgs/2015/04/AR-2080303391-300x225.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></a></p>
@@ -21,8 +18,7 @@ Posted by: DeepDotWeb
 <p>The details contained in the complaint are allegations.  The defendant is presumed innocent unless and until proven guilty beyond a reasonable doubt in a court of law.</p>
 <p>Criminal Complaint:<br />
 <iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/261033274/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_31519" frameborder="0"></iframe></p>
-</div>
-<a href="/tag/btc/" rel="tag">btc</a> <a href="/tag/charged/" rel="tag">charged</a> <a href="/tag/darknet/" rel="tag">darknet</a> <a href="/tag/firearm/" rel="tag">firearm</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/purchase/" rel="tag">purchase</a> <a href="/tag/silencer/" rel="tag">silencer</a></span> 
+
 Updated: 2015-04-03
 
     

@@ -2,13 +2,10 @@
 title: "Queensland Task Force Setting Up For Catching Dark Web Pedophiles"
 ---
 
-12108 tag-catching tag-dark tag-force tag-pedophiles tag-queensland tag-setting tag-task tag-web
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 23, 2015</span>
 
-<span><a href="/2015/11/23/queensland-task-force-setting-up-for-catching-dark-web-pedophiles/#comments">1 Comment</a></span>
-</p>
 
     
 <p><a href="http://www.9news.com.au/national/2015/11/10/11/21/new-qld-child-safety-taskforce-set-up">Taskforce Orion, Queensland’s new task force will become a specialist branch of Taskforce Argos, which considers its main priority to hunt down pedophiles on the dark net</a>. Commissioner Ian Stewart states that TaskForce Orion’s workforce will consist of a total of 6 specialist members. They will focus on the highest-level pedophiles who are hosting websites on the dark web in order to share child porn among the users. Stewart made a stamen regarding the members of the brand new specialist group against pedophiles:</p>
@@ -18,6 +15,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>The Queensland government’s opposition has been obstructing the commission of inquiry, arguing on the matter that government was only using it as an excuse to scrap the former Newman Government&#8217;s anti-bikie legislation. John-Paul Langbroek, the leader of Deputy Opposition said that the inquiry’s hearings haven’t been held in public, despite the fact that the hearings have been originally meant to be public. According to Langbroek, the government was politicizing the report in order to use it for the announcement of Taskforce Orion.</p>
 <p>&#8220;As a parliamentarian I find them irresponsible; as a Queenslander I find them reckless; as a parent I find it abhorrent,&#8221; Langbroek said in his parliament speech.</p>
 </div>
-<a href="/tag/catching/" rel="tag">catching</a>  <a href="/tag/force/" rel="tag">force</a> <a href="/tag/pedophiles/" rel="tag">pedophiles</a> <a href="/tag/queensland/" rel="tag">queensland</a> <a href="/tag/setting/" rel="tag">setting</a> <a href="/tag/task/" rel="tag">task</a> Updated: 2015-11-23
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+ Updated: 2015-11-23
+
     

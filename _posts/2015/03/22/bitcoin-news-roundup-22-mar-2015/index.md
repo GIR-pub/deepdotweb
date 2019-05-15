@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 22 Mar. 2015"
 ---
 
-9599  tag-2524 tag-2700 tag-mar 
 Posted by: DeepDotWeb 
 
 <span>March 22, 2015</span>
 
 
-<span><a href="/2015/03/22/bitcoin-news-roundup-22-mar-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week’s biggest Bitcoins stories from around the web. </em></p>
@@ -23,7 +22,7 @@ Posted by: DeepDotWeb
 <p>43,000 worth of bitcoins were lost in an unauthorized withdrawal from Coinapult’s hot wallet attack. Coinapult confirmed this is via an investigative report dated March 17. Details of the compromised address: 12LszeXACdj9bdETzv8BkXyWeabZ1151aA and transaction ID were highlighted in the report; this allowed the coins to be traced to their destination address.</p>
 <p>Coinapult CFO Justin Blicoe while speaking to Coin Desk, emphasized customer funds were not affected. The results of their investigations can be accessed on this report <a href="https://docs.google.com/document/d/1_xxKLUVvEcen6XI7DsUzLtv2_C8oQ8JzAwlsNOMnapg/pub">here</a></p>
 <p><strong>BTC-e exchange withdrawals halted</strong></p>
-<p>In a strange turn of events, BTC – e exchange warned customers about <a href="http://www.deepdotweb.com/2015/03/21/btc-e-halts-withdrawals-of-stolen-evolution-coins/" target="_blank">suspicious withdrawal requests</a>. According to support, an attempt to withdraw bitcoins stolen from Evolution was flagged.</p>
+<p>In a strange turn of events, BTC – e exchange warned customers about <a href="/2015/03/21/btc-e-halts-withdrawals-of-stolen-evolution-coins/" target="_blank">suspicious withdrawal requests</a>. According to support, an attempt to withdraw bitcoins stolen from Evolution was flagged.</p>
 <p>“<em>. . . it seems some of the evo coins have made it into the system. DON’T accept any coins to help withdraw.</em>”</p>
 <p>Bitcoin’s fungibility has been at the centre of debate; incidences of mixing stolen coins and ‘normal’ coins raises legal challenges. On the one hand, it is no different from cash but, at the same time, exchanges are under strict scrutiny and have to monitor cases of money laundering.</p>
 <p><strong>8th largest internet company now accepts Bitcoin</strong></p>
@@ -42,6 +41,5 @@ Posted by: DeepDotWeb
 <p>Purse enters a partnership with Coinbase. As Nuno Menezes of <a href="http://bitcoinist.net/purse-partners-coinbase/">Bitcoinist</a> reports, Purse’s platform brings together people that make purchases on Amazon with people who purchase bitcoins using Amazon credit, gift card or credit card. All amazon products are offered up to 23 percent discount to people who sell bitcoins. The partnership with Coinbase will accelerate transactions as <em>“c<em>ustomers can transfer funds from their Coinbase wallet and start using Purse </em>within minutes.</em><em>” </em></p>
 <p>Intel, California-based leading semiconductor manufacturer, expresses an interest in the cryptocurrency space. As Philip Schawillie of <a href="http://www.coinbuzz.com/2015/03/19/intel-job-posting-hints-at-digital-currency-plans/">Coin Buzz</a> writes, following a bitcoin-related job posting suggests that Intel is looking for a cryptographic researcher for its Special Innovation Projects Group, part of Intel Labs, the organization’s in-house research unit. The posting is a hint for using the blockchain technology as it acknowledges the digital currency’s potential beyond peer-to-peer bitcoin payments.</p>
 <p>Conyo, a German bitcoin startup, has launched a platform for tracking multiple transactions of multiple bitcoin wallets. As Nikhil Gupta of <a href="http://www.newsbtc.com/2015/03/18/coyno-launches-revolutionary-platform-to-manage-bitcoin-funds-across-multiple-wallets/">NewsBtc</a> writes, Conyo platform can store the transaction history, track the value of the bitcoins and connect the wallets. The platform initially operated in beta mode and managed the transactions of six wallets (Coinbase, Electrum, Trezor, Bitcoin Wallet, Armory, and Mycelium). The company plans to add more features, including a tax reporting feature.</p>
-</div>
- <a href="/tag/22/" rel="tag">22</a> <a href="/tag/mar/" rel="tag">mar</a>  </span> 
+
 Updated: 2015-03-22

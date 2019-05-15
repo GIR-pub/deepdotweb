@@ -2,13 +2,12 @@
 title: "Canadian Federal Police To Develop Deep Web Crawler"
 ---
 
-11194  tag-canadian tag-crawler tag-develop tag-federal tag-police tag-web
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>August 5, 2015</span>
 
 
-<span><a href="/2015/08/05/canadian-federal-police-to-develop-deep-web-crawler/#comments">12 Comments</a></span>
+
 
 
 <p><a href="https://news.vice.com/article/the-deep-dark-web-is-getting-some-company-soon-from-canadian-cops">The Canadian Police is investing in the development of a specific software that will search and monitor the darknet</a> for the most hidden content and services (which is, of course, highly illegal).</p>
@@ -23,5 +22,5 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>However, the only question about this brand new crawler, is that how this software will affect the privacy of deepnet users? David Fraser, a noted privacy expert has been asked about this issue. He stated that the police is free to research all sections of the internet.</p>
 <p>Fraser also states: &#8220;The complicated thing is what do they do when they get there and what do they do with what they find. If police are monitoring and tracking individual suspects online and using it to build a criminal case, they may be required to obtain a warrant. Police may also find themselves in trouble if they surveil entire subsections of the internet in the hopes of catching a handful of individuals.” He added that in the latter case „the impact on the privacy of Canadians and others is going to be affected in a way that is likely disproportionate to the law enforcement benefit.&#8221;</p>
 </div>
-<a href="/tag/canadian/" rel="tag">canadian</a> <a href="/tag/crawler/" rel="tag">crawler</a> <a href="/tag/develop/" rel="tag">develop</a> <a href="/tag/federal/" rel="tag">federal</a> Updated: 2015-08-05<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+</strong></div>
 

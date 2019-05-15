@@ -2,13 +2,12 @@
 title: "Can Bitwasp Make a Comeback? Maybe."
 ---
 
-9618  tag-bitwasp tag-comeback
 Posted by: DeepDotWeb 
 
 <span>March 26, 2015</span>
 
 
-<span><a href="/2015/03/26/bitwasp-is-planning-a-quiet-comeback/#comments">5 Comments</a></span>
+
 
 
 <p><span style="text-decoration: underline;"><em>Brought to our attention by Fred Rico &#8211; Computer Engineering Graduate from Europe currently working in the computer industry, who took the project of resurrecting Bitwasp (Open source marketplace software designed to use Bitcoin which was used by several failed markets over the past year):</em></span></p>
@@ -24,7 +23,7 @@ Posted by: DeepDotWeb
 <p>The current challenge for us is to identify as many of the bugs/issues and security holes as possible and this requires as many people as possible to test, identify and highlight these current issues to the team.</p>
 <p><span class="im"><strong>Q: So you guys continuing the project is not something &#8220;official&#8221; but a private initiative?</strong><br/>
 </span><br/>
-    It started an something not official, but we now have Cameron (<a title="Interview With Bitwasp Founder &amp; Developer – Security, DarkNetMarkets &amp; Future Development" href="http://www.deepdotweb.com/2014/03/25/interview-with-bitwasp-founder-developer/">Bitwasp founder</a>) on board who is contributing from a functional side and that should fit into his work schedule.</p>
+    It started an something not official, but we now have Cameron (<a title="Interview With Bitwasp Founder &amp; Developer – Security, DarkNetMarkets &amp; Future Development" href="/2014/03/25/interview-with-bitwasp-founder-developer/">Bitwasp founder</a>) on board who is contributing from a functional side and that should fit into his work schedule.</p>
 <p><strong>Q: Have you completed any work on Bitwasp so far?</strong></p>
 <p>So far our aim is to identify the major issues and draw up a roadmap. At this moment in time we are working to make the whole Bit-Wasp code cleaner, make it easier to install as we believe the more people who install it the more interest it will generate. We also have a issue to do with BIP32 which we are resolving. Other than that we are encouraging people to test, test and do more testing in order to help highlight issues and bugs.</p>
 <p><strong>Q: How long do you think it will be before we could try a fully functional new-bitwasp version?</strong></p>
@@ -38,6 +37,5 @@ Posted by: DeepDotWeb
 <div>buyer/buyer</div>
 <div></div>
 <div>Anyone interested in helping out, any bugs, issues can be reported to me on email at: <a href="mailto:fredericoagent@googlemail.com" target="_blank">fredericoagent@googlemail.com</a>  OR posted on the Bit-Wasp forum &#8211; https://bit-wasp.org</div>
-</div>
-<a href="/tag/bitwasp/" rel="tag">bitwasp</a> <a href="/tag/comeback/" rel="tag">comeback</a></span> 
+
 Updated: 2015-03-26

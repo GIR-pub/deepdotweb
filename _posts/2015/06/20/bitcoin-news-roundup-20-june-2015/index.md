@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 20 June 2015"
 ---
 
-10869 tag-2524 tag-june 
 Posted by: DeepDotWeb 
 
 <span>June 20, 2015</span>
 
 
-<span><a href="/2015/06/20/bitcoin-news-roundup-20-june-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The Ross Ulbricht series is still on. In spite of its lifetime sentence, his supporters are now organizing a fundraiser towards his appeal. According to <a href="http://insidebitcoins.com/news/the-crypto-show-hosting-ross-ulbricht-appeal-fundraiser/33272">Inside Bitcoins</a>, the Crypto Show, a crypto-anarchy podcast initiated a fundraiser to raise funds for supporting Ross Ulbricht’s appeal. The bitcoin community members are donating certain amounts of money towards the fundraising, known as the StartJoin Campaign, and in return they get items or serviced offered by the people in the bitcoin community.</p>
@@ -21,8 +18,7 @@ Posted by: DeepDotWeb
 <p>Citizens of Indonesia should be cautious with the bitcoin and the virtual currencies. As Deepak Tiwari of <a href="http://bitcoinist.net/bank-indonesia-bitcoin-not-currency-legal-payment-tool/">Bitcoinist</a> writes, the Bank Indonesia highlights the potential risks of using the bitcoin, which is not considered a legal payment tool and therefore it may pose a threat to the country’s financial stability. In response, Business Development Manager of Bitcoin Indonesia, SuastiAtmastutiAstaman states thatthe bitcoin should be treated as a commodity. People in Indonesia are allowed to make transactions in bitcoin like they do with gold“<em>as long as it is not used as a medium of payment.”</em></p>
 <p><em><strong>Payments</strong></em></p>
 <p>Harborly, the Bitcoin retailer, announces expansion plans into the US markets. As Gola Yashu of <a href="http://www.newsbtc.com/2015/06/18/bitcoin-company-harborly-enters-us-markets/">NewsBtc</a> reports, the Texas-based bitcoin company is aiming to attract the US investors through innovations in its platform, including the Locked Wallets feature. Locked Wallet will enable the bitcoin users to lock the price of their bitcoin in relation to the US dollar and other fiat currencies. This feature will offer protection to those investors who are afraid of the bitcoin fluctuations and they worry about the price volatility. Harborly is already operating in Canada.</p>
-</div>
-   </span> 
+
 Updated: 2015-06-20
 
     

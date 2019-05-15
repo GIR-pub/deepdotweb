@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis 5 Aug"
 ---
 
-11179  tag-analysis tag-aug tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>August 5, 2015</span>
 
 
-<span><a href="/2015/08/05/bitcoin-price-analysis-5-aug/#respond">Leave a comment</a></span>
+
 
 
 <p><strong>Greek Stocks Tumble on 1st day Re-open</strong></p>
@@ -54,7 +53,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/08/8.jpg"><img class="aligncenter size-full wp-image-11187" src="/imgs/2015/08/8.jpg" alt="8" width="860" height="456" srcset="/imgs/2015/08/8.jpg 860w, /imgs/2015/08/8-300x159.jpg 300w" sizes="(max-width: 860px) 100vw, 860px"/></a></p>
 <p>Price retraced at $320, right at the resistance line, tested twice before in January, March and 2 weeks ago. A rebound and retest of $330 is likely at this point, especially with multiple expectations of a reversal back up. It is now a matter of when and from where price will head up.</p>
 <p><strong>Contact:</strong> <a href="mailto:pesabitmic@gmail.com">pesabitmic@gmail.com</a> for inquiries on price forecasts.</p>
-</div>
-<a href="/tag/aug/" rel="tag">aug</a> 
+
 Updated: 2015-08-05
 

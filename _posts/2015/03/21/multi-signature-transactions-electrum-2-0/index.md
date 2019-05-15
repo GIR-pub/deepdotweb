@@ -2,12 +2,11 @@
 title: "Tutorial: Multi-signature Transactions with Electrum 2.0"
 ---
 
-9566 tag-electrum tag-multisignature tag-transactions tag-tutorial
 Posted by: DeepDotWeb 
 
 <span>March 21, 2015</span>
 
-<span><a href="/2015/03/21/multi-signature-transactions-electrum-2-0/#comments">12 Comments</a></span>
+
 
 
 <p><strong><em>A great tutorial posted originally <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2znvmi/guide_multisignature_transactions_with_electrum_20/">on Reddit</a> by /r/darknetmarkets mod <a href="http://www.reddit.com/user/galaxyandspace">galaxyandspace</a>, Edited with the images for your convenience:</em></strong></p>
@@ -71,6 +70,5 @@ Posted by: DeepDotWeb
 </ol>
 <p><strong>Disputing</strong></p>
 <p>Weather it&#8217;s the vendor or buyer disputing, they are responsible for providing a return address. The market is responsible for generating the transaction text. The winner of the dispute is responsible for signing/finalizing the transactions and making sure the the coins are going to the right address.</p>
-</div>
- <a href="/tag/electrum/" rel="tag">electrum</a> <a href="/tag/multisignature/" rel="tag">multisignature</a> <a href="/tag/transactions/" rel="tag">transactions</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+
 Updated: 2015-03-21

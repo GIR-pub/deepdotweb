@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 6 Sep. 2015"
 ---
 
-11432  tag-2524  tag-sep
 Posted by: DeepDotWeb 
 
 <span>September 6, 2015</span>
 
 
-<span><a href="/2015/09/06/bitcoin-news-roundup-6-sep-2015/#respond">Leave a comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -21,6 +20,5 @@ Posted by: DeepDotWeb
 <p>A qualified software engineer runs in the Canadian federal elections in the hope of setting the bitcoin on equal footing with the US dollar. As Gola Yashu of <a href="http://www.newsbtc.com/2015/09/04/canadian-techie-contesting-elections-to-promote-bitcoin/">NewsBtc</a> reports, Dr. Alex Millar runs as an independent candidate or Vancouver East, believing that the digital currency is a sustainable alternative to the current monetary system due its transparency and increased integrity compared to the fiat currency. In his pre-election announcement on Straight.com, Millar stated:<em>“The way money is created affects jobs and the economy. It affects the affordability of housing, education, retirement, and childcare. But most of all, it affects equality.”</em></p>
 <p><strong>Payments</strong></p>
 <p>Coinbase expands to Singapore. As Joseph Young of <a href="https://bitcoinmagazine.com/21817/coinbase-expands-canada-singapore-spur-mainstream-bitcoin-adoption/">Bitcoin Magazine</a> writes, followings its expansion to Canada, the leading bitcoin exchange now expands its services in Singapore in an effort to raise consumer awareness about the digital currency globally. Consumers in Singapore can now use Coinbase services to make their bitcoin transactions. According to Sam Rosenblum, Coinbase international expansion officer, Coinbase mission is to create incentive for mainstream adoption of the digital currency.<em>“By expanding our wallet and exchange services, we’re getting bitcoin into the hands of even more people globally”</em>, Rosenblum states.</p>
-</div>
-   <a href="/tag/sep/" rel="tag">sep</a></span> 
+
 Updated: 2015-09-06

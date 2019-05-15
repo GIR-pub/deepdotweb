@@ -2,13 +2,12 @@
 title: "PSA: 5 Reddit Accounts Subpoenaed by ICe"
 ---
 
-9790  tag-accounts tag-ice tag-psa tag-reddit tag-subpoenaed
 Posted by: DeepDotWeb 
 
 <span>March 30, 2015</span>
 
 
-<span><a href="/2015/03/30/psa-5-reddit-accounts-subpoenaed-by-ice/#comments">14 Comments</a></span>
+
 
 
 <p><strong>Important PSA to all Reddit users: by Gwern (<a href="http://www.reddit.com/r/DarkNetMarkets/comments/30tudk/psa_5_reddit_accounts_subpoenaed_by_ice/">Original thread</a>):</strong></p>
@@ -39,6 +38,5 @@ Posted by: DeepDotWeb
 <p>My personal vulnerability is relatively low: I am well-aware that as a semi-public figure writing about the black-markets I am doxable, especially by LE, and for that and many other reasons, I have never been a seller, market operator, or market employee, and I have never accepted payment from any of the above; in addition, I have not purchased from any markets for quite some time now (because it would interfere with my self-experiments, true, but nevertheless). However, it is impossible to not violate laws in the USA and I cannot really afford a good legal defense, so I am still worried. This seems like a good time to note that my writing &amp; research on the blackmarkets &#8211; my mirroring of the markets such as <a href="https://www.reddit.com/r/DarkNetMarkets/comments/2zllmv/evolution_market_mirrorscrapes_torrent_released/">Evolution</a>, my research into <a href="http://www.gwern.net/Black-market%20arrests">arrests</a>, <a href="http://www.gwern.net/Black-market%20survival">analysis of market lifetimes</a>, and <a href="http://www.gwern.net/Silk%20Road">background</a> &#8211; are supported by donations: <code>1GWERNEDr2o3JYfD3n5GHkoPxSxPk3MbK3</code></p>
 <p>Nevertheless, how can I continue as a moderator knowing that all my non-PGPed communications have been laid bare, there may be followup subpoenas for my Gmail account, and I may be under further investigation myself? I am still considering this, but I will probably step down as a moderator soon; I&#8217;d been considering moving on to other areas for a while now, but the subpoena may be the last straw and a message.</p>
 <p>Finally: don&#8217;t panic. The Eye of Sauron is upon us indeed, but we all expected this would happen eventually or had been happening all along. Double-check you are using Tor; archive copies of any important pages or comments; remove any comments or posts which on reflection may reveal too much to the entire world; switch accounts or switch to using hidden-service forums like <a href="http://thehub7gqe43miyc.onion/">The Hub</a> for any dangerous talk.</p>
-</div>
-<a href="/tag/accounts/" rel="tag">accounts</a> <a href="/tag/ice/" rel="tag">ice</a> <a href="/tag/psa/" rel="tag">psa</a><a href="/tag/subpoenaed/" rel="tag">subpoenaed</a></span> 
+
 Updated: 2015-03-30

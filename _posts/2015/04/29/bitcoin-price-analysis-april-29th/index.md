@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis April 29th"
 ---
 
-10130  tag-29th tag-analysis tag-april tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>April 29, 2015</span>
 
 
-<span><a href="/2015/04/29/bitcoin-price-analysis-april-29th/#comments">3 Comments</a></span>
-</p>
 
 <p>Are we expecting double digit bitcoin prices?</p>
 <p>First of all, here is where prices are on a 1 year outlook</p>
@@ -39,8 +36,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/04/image015.jpg"><img class="aligncenter size-full wp-image-10145" src="/imgs/2015/04/image015.jpg" alt="image015" width="637" height="520" srcset="/imgs/2015/04/image015.jpg 637w, /imgs/2015/04/image015-300x245.jpg 300w" sizes="(max-width: 637px) 100vw, 637px"/></a></p>
 <p><em>“A 94% retracement of the whole $4-$1163 move on Bitstamp would bring us to circa $73.” &#8211; </em>edboard10</p>
 <p>What is important now is to track price as it unfolds. Bitcoin is relatively young (less than 7 years old); grand cycles are not clear given this short history. That said, an open mind to unprecedented price levels is advised.</p>
-</div>
-<a href="/tag/29th/" rel="tag">29th</a>  
+
 Updated: 2015-04-29
 
     

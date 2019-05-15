@@ -2,12 +2,11 @@
 title: "Child Porn Ring Admin Lux Pleads Guilty"
 ---
 
-11528 tag-admin tag-child tag-guilty tag-lux tag-pleads tag-porn tag-ring
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>September 15, 2015</span>
 
-<span><a href="/2015/09/15/child-porn-ring-admin-lux-pleads-guilty/#comments">12 Comments</a></span>
+
 
 
 <p><a href="http://www.theage.com.au/victoria/melbourne-hurtcore-paedophile-master-matthew-graham-pleads-guilty-20150908-gjht6d.html">Matthew David Graham, A.K.A. Lux, has pleaded guilty to 13 child porn-related charges</a>. The 22-year-old man residing in Melbourne was not only a babysitter for young children, but he was running a big CP ring on the darknet under the username of Lux. The website he was running was specialized in hurtcore porn, which means that the children, babies and toddlers on the CP website were not only abused, but they were also physically tortured or harmed. This genre of child porn is even disapproved by a specific part of the deep web CP community.</p>
@@ -26,7 +25,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>More importantly, another deep web CP website admin has been linked to Lux and has been caught by LE, Shannon Grant McCoole (33), A.K.A. Skee. He was a former childcare worker who has been charged with sexually abusing seven children in his care and running a darknet child porn site. Graham was charged with supplying CP material to Skee’s website. McCole has been jailed for 35 years of prison, however, at the moment, he is appealing his sentence.</p>
 <p>A 27-year old, now jailed, Cranbourne man was also linked to Graham. We don’t know his name since he requested the media to suppress his name. According to LE, Graham allegedly helped the Cranbourne man to secure himself and evade detection after the convict has made child pornography with a relative of his aged between six and nine and was under his care in the years of 2010 to 2014. One of the images that have been made by the Cranbourne man was with the girl in 2014 holding a sign ”Lux” written on it.</p>
 <p>Matthew David Graham’s case comes to the County Court for sentencing on February 3.</p>
-</div>
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/child/" rel="tag">child</a>  <a href="/tag/lux/" rel="tag">lux</a>  <a href="/tag/porn/" rel="tag">porn</a> <a href="/tag/ring/" rel="tag">ring</a></span> 
-Updated: 2015-09-15<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-09-15
 

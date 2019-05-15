@@ -2,12 +2,11 @@
 title: "Bitcoin Price Analysis 4th Nov"
 ---
 
-12015  tag-3rd tag-analysis tag-nov tag-price
-Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>November 3, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/03/bitcoin-price-analysis-4th-nov/#respond">Leave a comment</a></span>
+
+
 
 
 <p><a href="/imgs/2015/11/1.jpg"><img class="aligncenter size-full wp-image-12016" src="/imgs/2015/11/1.jpg" alt="1" width="1646" height="940" srcset="/imgs/2015/11/1.jpg 1646w, /imgs/2015/11/1-300x171.jpg 300w, /imgs/2015/11/1-1024x585.jpg 1024w" sizes="(max-width: 1646px) 100vw, 1646px"/></a></p>
@@ -37,7 +36,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_m
 <p>A correction with a chance of more upside sums it up.</p>
 <p><a href="/imgs/2015/11/6.png"><img class="aligncenter size-full wp-image-12021" src="/imgs/2015/11/6.png" alt="6" width="1270" height="564" srcset="/imgs/2015/11/6.png 1270w, /imgs/2015/11/6-300x133.png 300w, /imgs/2015/11/6-1024x455.png 1024w" sizes="(max-width: 1270px) 100vw, 1270px"/></a></p>
 <p>A 2-year daily moving average sits above price at $ 425. Watch it!</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/3rd/" rel="tag">3rd</a> <a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> 
-Updated: 2015-11-03<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+
+Updated: 2015-11-03
 

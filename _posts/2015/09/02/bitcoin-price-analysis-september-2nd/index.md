@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis September 2nd"
 ---
 
-11404  tag-2nd tag-analysis tag-price tag-september
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>September 2, 2015</span>
 
 
-<span><a href="/2015/09/02/bitcoin-price-analysis-september-2nd/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="/imgs/2015/09/1.jpg"><img class="aligncenter size-full wp-image-11405" src="/imgs/2015/09/1.jpg" alt="1" width="850" height="596" srcset="/imgs/2015/09/1.jpg 850w, /imgs/2015/09/1-300x210.jpg 300w" sizes="(max-width: 850px) 100vw, 850px" /></a></p>
@@ -35,7 +34,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>This week I am neutral to bullish. I expect this to be a key decision point, and a sideways trend might persist a while longer, testing low range supports up to $220, to shake off weak hands. Therefore, $213 is as far as I will consider a bullish move still play &#8211; a stop loss. Breaking below $ 213 and this forecast is invalidated. The upside target for a successful move up is $255 (Target 2). A break up from this tight range will be a buy signal for many, resulting in a thrust up.</p>
 <p><a href="/imgs/2015/09/5.jpg"><img class="aligncenter size-full wp-image-11409" src="/imgs/2015/09/5.jpg" alt="5" width="915" height="342" srcset="/imgs/2015/09/5.jpg 915w, /imgs/2015/09/5-300x112.jpg 300w" sizes="(max-width: 915px) 100vw, 915px" /></a></p>
 <p>The overall bearish expectations still loom, as per this chart from whaleclub.co with market currently trading in the red rectangle zone. Thus, while higher prices in the short term are probable, the larger price pattern is tending to testing sub $ 200 prices. I will discuss this real possibility in a dedicated post later this week.</p>
-</div>
-<a href="/tag/2nd/" rel="tag">2nd</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+
 Updated: 2015-09-02
 

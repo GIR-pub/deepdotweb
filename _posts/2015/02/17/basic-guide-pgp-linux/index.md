@@ -98,6 +98,5 @@ Posted by: DeepDotWeb
 <h3>Part 9 – Conclusion</h3>
 <p>There we have it, an easy to follow PGP guide for Linux with pictures! PGP can be overwhelming at first, but with persistence and the willingness to learn anyone can do it. Hopefully this guide will keep you guys safe on the DNM! I&#8217;ll have an OS X guide coming soon, and possibly a Windows guide following that. Any and all constructive feedback is appreciated, as well as suggestions for other guides!</p>
 </div>
-</div>
 
 Updated: 2015-02-17

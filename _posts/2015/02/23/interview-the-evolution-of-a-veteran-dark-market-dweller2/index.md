@@ -6,7 +6,7 @@ Posted by: Allen Hoffmann, JD
 
 <span>February 23, 2015</span>
 
-<p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
+<p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 <p style="text-align: center;"><span style="text-decoration: underline;"><strong>Doing business with the mob and managing your operation.</strong></span></p>
 <p><strong>AH: Now, when you say &#8216;Russian sellers&#8217;, do you mean the &#8216;Russian mob&#8217; that gets mentioned in pretty much every article you read about SC?</strong></p>
 <p>DT: Well, kinda, I guess. Yeah, I didn&#8217;t think of it like that, and I still don&#8217;t see it like that.</p>
@@ -63,7 +63,7 @@ Posted by: Allen Hoffmann, JD
 <p>DT: “Playing the markets”, dude. I had a real good time playing the markets in grad school, so far as anyone knows. Anyone who presses on that point, I can reel off performance on the stocks I made my money on in that time period and explain exactly what I did and why to the extent that most people get bored. If they press, I can always just tell them to mind their fucking business. Its not like anyone is gonna ask to see the archives of my E*TRADE account.</p>
 <p><strong>AH: What do you tell the IRS? You can’t pay for a condo with rolls of 20s and 50s last time I checked.</strong></p>
 <p>DT: We’re getting beyond the scope of the interview here, but let me answer that like this &#8211; I have people for that, the money has been in bank accounts in a number of places for a long time. I am a legitimate businessman. And also, fuck the IRS. Be sure you quote me on that word for word. “FUCK – THE – I-R-S”</p>
-<p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
+<p><strong>The second part in a 3 parts series &#8211; the other parts are available here: <a href="/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 
 Updated: 2015-02-23
 

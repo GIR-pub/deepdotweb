@@ -2,7 +2,6 @@
 title: "Bitcoin News Roundup – 13 Dec. 2015"
 ---
 
-12548  tag-1826 tag-2524 tag-dec ">
 Posted by: DeepDotWeb 
 
 <span>December 13, 2015</span>
@@ -23,8 +22,7 @@ Posted by: DeepDotWeb
 <p>SWIFT takes over a blockchain payments innovation initiative. As Nikhil Gupta of <a href="http://www.newsbtc.com/2015/12/11/swift-to-explore-blockchain-in-global-payments-innovation-initiative/">NewsBtc</a> writes,</p>
 <p>Society for Worldwide Interbank Financial Telecommunication (SWIFT) intends to explore the blockchain technology as part of a global payments innovation initiative that seeks to improve customer experience. SWIFT’s initiative is expected to launch in early 2016 and it focuses on enhancing the speed and reliability of cross-border payments. Upon completion of this project, SWIFT plans to cooperate with industry groups and investigate additional service level agreements (SLAs) that could lower costs and enhance liquidity and processing efficiency in global payments.</p>
 <p>PayBis bitcoin exchange is out for expansion. As Marco E. G. Maltese of <a href="http://cointelegraph.com/news/115835/paybis-e-currency-and-bitcoin-exchange-planning-expansion">Coin Telegraph</a> writes, the newly launched bitcoin exchange (May 2015) offers users a wide range of digital currencies, including the option to purchase bitcoins via their PayPal account. The Latvian bitcoin exchange has about 1500 registered users and expects to expand its reputation through customer satisfaction and reliable reviews on the social media.</p>
-</div>
-<a href="/tag/13/" rel="tag">13</a>  <a href="/tag/dec/" rel="tag">dec</a>  </span> 
+
 Updated: 2015-12-13
 
     

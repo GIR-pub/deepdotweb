@@ -2,19 +2,18 @@
 title: "3 OD in Portland Jail: Evolution Fentanyl Vendor Busted"
 ---
 
-9469  tag-busted tag-evolution tag-fentanyl tag-od tag-portland tag-vendor
 Posted by: DeepDotWeb 
 
 <span>March 14, 2015</span>
 
 
-<span><a href="/2015/03/14/3-od-in-portland-jail-evolution-fentanyl-vendor-busted/#comments">2 Comments</a></span>
+
 
 
 <p>According to a report in <a href="http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box">oregonlive.com</a>  (see article for full details) A 27-year-old inmate in the <a href="http://www.jailexchange.com/countyjails/oregon/multnomah/multnomah_county_detention_center.aspx">Justice Center Jail </a>is accused of smuggling a synthetic opioid many times more powerful than heroin (Fentanyl ) into the downtown Portland lockup last weekend, causing at least three of her fellow inmates to overdose &#8211; the investigation led to an evolution vendor who was arrested later:</p>
 <blockquote><p>Investigators traced the source of the drugs that killed Henke to a house several hundred yards away from where he overdosed.</p>
 <p>A task force of agents and police detectives armed with a warrant searched the property, finding cash, drug paraphernalia, a laptop computer and a white powder later determined to be fentanyl, according to a criminal complaint affidavit signed by <a href="http://www.oregonlive.com/pacific-northwest-news/index.ssf/2013/06/drug_cartels_in_oregon_rise_an.html">Homeland Security Investigations Special Agent Guy Gino</a>, who works on a Portland-based drug task force.</p>
-<p>Investigators interviewed Ryan Jensen, who lived in the house. Jensen admitted he bought illegal drugs on the <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Internet dark site &#8220;Evolution&#8221;</a> and logged in to the encrypted members-only site to buy 1 gram of fentanyl and 12 grams of heroin, according to the affidavit.</p>
+<p>Investigators interviewed Ryan Jensen, who lived in the house. Jensen admitted he bought illegal drugs on the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Internet dark site &#8220;Evolution&#8221;</a> and logged in to the encrypted members-only site to buy 1 gram of fentanyl and 12 grams of heroin, according to the affidavit.</p>
 <p>Authorities accuse Jensen of selling 250 milligrams of fentanyl to two friends, including overdose victim Henke.</p>
 <p>Investigators say they logged into Jensen&#8217;s Evolution account, finding that he had made six illegal purchases from the site, including a Dec. 7 shipment from a Southeast Portland man later identified as Brandon Hubbard, Channing Lacey&#8217;s boyfriend.</p>
 <p>Members of the drug task force later bought <a href="https://bitcoin.org/en/">bitcoin</a>, a form of decentralized Internet currency, and opened an undercover account to purchase 100 milligrams of fentanyl citrate from Hubbard, listing their return address as a post office box in <a href="http://www.cityoffargo.com/">Fargo, North Dakota</a>.</p>
@@ -35,6 +34,5 @@ Posted by: DeepDotWeb
 <p>No one died in the overdoses. The inmates are all back in custody. But the investigation continues.</p>
 <p>&#8220;It is a never ending battle to keep the drugs out,&#8221; Alexander said, &#8220;and there are a variety of ways people arrested bring them in.&#8221;</p></blockquote>
 <p><strong>Source</strong>: <a href="http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box">http://www.oregonlive.com/portland/index.ssf/2015/03/three_od_on_dangerous_drug_smu.html#incart_2box</a></p>
-</div>
- <a href="/tag/evolution/" rel="tag">evolution</a> <a href="/tag/fentanyl/" rel="tag">fentanyl</a> <a href="/tag/jail/" rel="tag">jail</a> <a href="/tag/od/" rel="tag">od</a> <a href="/tag/portland/" rel="tag">portland</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2015-03-14

@@ -2,15 +2,14 @@
 title: "Alphabay Market Release &#8220;ScamWatch&#8221; &#8211; New Anti-Scam Team"
 ---
 
-11249 tag-alphabay tag-antiscam tag-release tag-scamwatch tag-team
 Posted by: DeepDotWeb 
 
 <span>August 12, 2015</span>
 
-<span><a href="/2015/08/12/alphabay-market-release-scamwatch-new-anti-scam-team/#comments">11 Comments</a></span>
 
 
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay market</a> admins just introduced new feature that will hopefully help to reduce the amount of scams on the market, taken from their forum thread.</p>
+
+<p><a href="/marketplace-directory/listing/alphabay">Alphabay market</a> admins just introduced new feature that will hopefully help to reduce the amount of scams on the market, taken from their forum thread.</p>
 <p>Source: http://pwoah7foa6au2pul.onion/forum/index.php?threads/new-anti-scam-team.17512/#post-143050</p>
 <blockquote><p><em>The Alphabay SCAMWATCH Team</em></p>
 <p>1) Our newest feature which allows top community members to work alongside AlphaBay Staff to clean scammers in a fast manner to give you, the user, an unparallel positive marketplace experience.</p>
@@ -33,6 +32,5 @@ Posted by: DeepDotWeb
 <p>PR spokesman for Alphabay market &#8220;Trappy_Pandora&#8221; added on Reddit:</p>
 <blockquote><p>Not all of our scamwatch teammembers are particularly nice people, or have much tolerance for perceived stupidity, or even enjoy dealing with the public at all, but they have a proven track record of honesty and fighting scammers and are unlikely to abuse their position or allow bias to cloud their judgement.</p>
 <p>You the buyer probably won&#8217;t ever need to speak with them, because you can talk to me! I&#8217;d like to talk to you, even if its not about alphabay or drugs or the markets or even anything important. I just love talking! It might be my aggravating personality or all this cocaine but either way yeah.</p></blockquote>
-</div>
-<a href="/tag/alphabay/" rel="tag">alphabay</a> <a href="/tag/antiscam/" rel="tag">antiscam</a> <a href="/tag/release/" rel="tag">release</a> <a href="/tag/scamwatch/" rel="tag">scamwatch</a> <a href="/tag/team/" rel="tag">team</a></span> 
+
 Updated: 2015-08-12

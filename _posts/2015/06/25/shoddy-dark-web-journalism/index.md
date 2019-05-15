@@ -2,13 +2,10 @@
 title: "TheCthulhu: Shoddy “Dark Web” Journalism"
 ---
 
-10917  tag-dark tag-journalism tag-shoddy tag-thecthulhu tag-web
 Posted by: DeepDotWeb 
 
 <span>June 25, 2015</span>
     
-<span><a href="/2015/06/25/shoddy-dark-web-journalism/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Originally posted by </em><a class="js-nav js-initial-focus" href="https://twitter.com/CthulhuSec" data-send-impression-cookie="true">@TheCthulhu</a> <em>(Thomas White) on <a href="https://www.thecthulhu.com/shoddy-dark-web-journalism/">his blog</a> &#8211; Since this topic is close to me (and also mentioned it <a href="http://www.reddit.com/r/DarkNetMarkets/comments/3az9cc/its_been_a_while_media_is_at_it_again/">earlier today</a>), i asked his permission to repost it here to give it more visibility, and was happy to get it. So here it is:</em></p>
 <div class="oi_blog_post_content_holder">
@@ -28,6 +25,6 @@ Posted by: DeepDotWeb
 </div>
 <p><em>See Original post and comments: <a href="https://www.thecthulhu.com/shoddy-dark-web-journalism/">https://www.thecthulhu.com/shoddy-dark-web-journalism/</a></em></p>
 </div>
- <a href="/tag/journalism/" rel="tag">journalism</a> <a href="/tag/shoddy/" rel="tag">shoddy</a> <a href="/tag/thecthulhu/" rel="tag">thecthulhu</a> Updated: 2015-06-25
+  Updated: 2015-06-25
 
     

@@ -2,15 +2,14 @@
 title: "Second Interview With Outlaw Market Admin"
 ---
 
-11678  tag-admin tag-interview tag-outlaw
 Posted by: DeepDotWeb 
 
 <span>October 7, 2015</span>
 
-<span><a href="/2015/10/07/second-interview-with-outlaw-market-admin/#comments">2 Comments</a></span>
 
 
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">Outlaw Market</a> Is one of the oldest running markets, dated as far as 29-12-13 (according to <a href="http://www.gwern.net/">gwern.net</a>),  we previously had <a href="/2014/01/23/interview-with-outlaw-market-admin/">an interview</a> with its admins and since a lot have changed since than, we felt it might be nice to do a followup interview and see if we can learn something from the experience gathered since then. So here it is:</p>
+
+<p><a href="/marketplace-directory/listing/outlaw-market">Outlaw Market</a> Is one of the oldest running markets, dated as far as 29-12-13 (according to <a href="http://www.gwern.net/">gwern.net</a>),  we previously had <a href="/2014/01/23/interview-with-outlaw-market-admin/">an interview</a> with its admins and since a lot have changed since than, we felt it might be nice to do a followup interview and see if we can learn something from the experience gathered since then. So here it is:</p>
 <p><strong>Who are you and what is your position on Outlaw?</strong></p>
 <p>(music: Dire Straits) I&#8217;m just an aged trouble-boy, in the drug-wars I used to play&#8230; I&#8217;ve called the tune, to many a wonderful experience&#8230;;-) Now they say I&#8217;m a net criminal and I&#8217;m fading away, DDW, please hear my confession: I&#8217;ve legalized drug deals and call it freedom&#8230;</p>
 <p>I&#8217;m part of the core management.</p>
@@ -53,6 +52,5 @@ Posted by: DeepDotWeb
 <p><strong>With the increase of interest around the DNM&#8217;s do you feel the shift in the </strong><strong>demographic of people who are using DNM&#8217;s?</strong></p>
 <p>Yes, sort of. More and more people seem not to care about security at all. Mathematicially, it&#8217;s correct thinking &#8212; the more people using those services lowers the risk to the individual. But actually, things are different, as LE and scammers place honeypots and fish for exactly those who care less about safety than a fast and fancy GUI for example.</p>
 <p>Anyway, I have noticed that there is a steadily growing group of people who do understand about security; these are the type of people OUTLAW market attracts as users!</p>
-</div>
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/interview/" rel="tag">interview</a> <a href="/tag/outlaw/" rel="tag">outlaw</a></span> 
+
 Updated: 2015-10-07

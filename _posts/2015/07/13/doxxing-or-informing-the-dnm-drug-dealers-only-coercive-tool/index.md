@@ -2,12 +2,11 @@
 title: "Doxxing or informing; the DNM Drug Dealer’s only Coercive Tool"
 ---
 
-10873  tag-coercive tag-dealers tag-dnm tag-doxxing tag-informing tag-tool">
 Posted by: Allen Hoffmann, JD
 
 <span>July 13, 2015</span>
     
-<span><a href="/2015/07/13/doxxing-or-informing-the-dnm-drug-dealers-only-coercive-tool/#comments">1 
+
 
 
     
@@ -18,8 +17,7 @@ Posted by: Allen Hoffmann, JD
 <p>There are people out there, regardless of what LE and other proponents of the DNM ethos may say, who would not have become drug dealers had they not had access to the anonymity and relative safety of DNMs. The DNMs have managed to put a glossy veneer on the roles played by those who are DNM users on the sales side; ‘drug dealers’ are now referred to as ‘vendors’, which illicits a less visceral response from some people, and perhaps divorces what we think of the violence, criminality and dishonesty which can go with street level dealing. Its an exercise in rebranding to make what you’re doing a little less palatable, be it from your own point of view, or for those looking in from outside. But that being said, there are plenty of street level and higher drug dealers who have embraced the new technology of DNM selling, but bring their old approach to doing business with them. The disincentives and methods of maintaining order in the traditional criminal milieu are a little harder to utilize against people on the other end of an anonymizing TOR connection, whose faces are never seen by the seller; all the seller has to go on is a shipping address, and a username (which some amateur users may use both in their DNM lives and their clearnet lives), and so it really isn’t surprising that DNM vendors, especially those with a more traditional criminal pedigree, are prepared to leverage the threat of doxxing, or perhaps sending out something intended to trigger an investigation, against people who mess with their business.</p>
 <p>Here’s another reason why keeping a client list may benefit a vendor; as has been explored on Reddit and elsewhere, the account of XanaxKing, a major manufacturer and wholesaler of Xanax mimic tablets in the US, was flipped by LE. Departing from the ‘end user’, ‘we aren’t wasting out time on small time personal use buyers’ situation which occurs in some instances, compared with instances where the order was wholesale sized, controlled deliveries occurred. Imagine worst case scenario occurs, and LE manages to catch a large scale vendor red handed &#8211; that vendor may well be able to negotiate a substantial sentencing discount via an attorney in return for a client list which is likely to yield arrests for people re-selling the wholesale vendor’s wares. This is worst case scenario and is the end of the line for a vendor; doxxing, on the other hand, can be done quietly and on an ongoing basis.</p>
 <p>Can you ever really know for sure that DNM seller is telling the truth when they say they’ve deleted your data? The answer is, no, you can’t. There’s no DNM regulatory agency which checks that they’re complying with the rules, and the ability to exact penalties on a seller who breaches the rules just isn’t there. As to sellers who may go even further, and seek to blackmail a buyer, send heavies to a buyers’ house or use their data as a get out of jail free card, there are no guarantees; buyers need to conduct their own risk and exposure assessment, especially, a fact which many, up til now, may not even have considered necessary. You’ll never be absolutely sure if the guy you’re dealing with is the benign MDMA seller who wants to make sure his weekends out don’t cost him too much, versus a guy with a collection of fully automatic weapons stolen from the military with obliterated serial numbers. Never forget that the DNM seller you’re doing business with is, regardless of how you want to paint them, as far as the law is concerned, a criminal.</p>
-</div>
-<a href="/tag/coercive/" rel="tag">coercive</a> <a href="/tag/dealers/" rel="tag">dealers</a> <a href="/tag/dnm/" rel="tag">dnm</a> <a href="/tag/doxxing/" rel="tag">doxxing</a>  <a href="/tag/informing/" rel="tag">informing</a> <a href="/tag/tool/" rel="tag">tool</a></span> 
+
 Updated: 2015-07-13
 
     

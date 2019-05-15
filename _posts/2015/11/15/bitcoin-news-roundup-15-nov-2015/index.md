@@ -2,7 +2,6 @@
 title: "Bitcoin News Roundup – 15 Nov. 2015"
 ---
 
-12190  tag-1886 tag-2524  tag-nov">
 Posted by: DeepDotWeb 
 
 <span>November 15, 2015</span>
@@ -21,8 +20,7 @@ Posted by: DeepDotWeb
 <p><strong>Regulation</strong></p>
 <p>London bitcoin companies view George Osborne as able to regulate the opening bank accounts drawback. As Erin Lace of <a href="http://cointelegraph.com/news/115639/bitcoin-companies-in-london-consider-george-osborne-to-regulate-a-problem-of-opening-bank-accounts">Coin Telegraph</a> writes, UK banks are refusing the opening of standard bank accounts to bitcoin-related businesses, even if the latter are licensed and have FCA (Financial Conduct Authority) support. Bitcoin supporters and market experts consider that George Osborne, the UK&#8217;s Chancellor of the Exchequer should resolve this issue, especially after having expressed its support to bitcoin-related regulation on November 11 at the Bank of England&#8217;s Open Forum.</p>
 <p>Taiwan&#8217;s Financial Supervisory Commission (FSC) denies bitcoin ban. As Stan Higgins of <a href="http://www.coindesk.com/taiwan-finance-regulation-bitcoin-ban/">Coin Desk</a> writes, following a report by the Central News Agency regarding potential restrictive policies related to the bitcoin, the FSC now keeps a neutral stance on the digital currency. Chief of Taiwan’s leading banking, insurance and securities regulator, Tseng Ming-Chung, stated that <em>“the FSC would work with the country&#8217;s central bank and police to crack down any illegal act”</em> igniting speculation that the regulators were seeking to take action against those using digital currency.</p>
-</div>
-<a href="/tag/15/" rel="tag">15</a>   <a href="/tag/nov/" rel="tag">nov</a> </span> 
+
 Updated: 2015-11-15
 
     

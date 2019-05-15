@@ -2,13 +2,12 @@
 title: "Australian DarkWeb Pedo Site Admin Sentenced To 35 Years in Jail"
 ---
 
-11244  tag-3043 tag-admin tag-darkweb tag-pedophile tag-sentenced tag-site tag-years
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>August 11, 2015</span>
 
 
-<span><a href="/2015/08/11/australian-darkweb-pedo-site-admin-sentenced-to-35-years-in-jail/#comments">12 Comments</a></span>
+
 
 
 <p><a href="http://www.adelaidenow.com.au/news/south-australia/families-sa-paedophile-shannon-mccoole-sentenced-to-35-years-in-jail-for-horrific-sexual-abuse-of-children-in-care/story-fni6uo1m-1227474133348">Former Families Worker in South Australia, Shannon Grant McCoole (33) has pleaded guilty to a horrifying list of sex crimes against underaged children in his care and was sentenced to 35 years in jail</a>. His crime was brutal, one of the children he molested was only 18 months old. There were even children who had autism or were disabled.</p>
@@ -28,7 +27,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>„It is absurd to suggest that you needed education within Families SA to gain that realisation,” Rice said. “These last two topics cause me to be very guarded about your long-term prospects of rehabilitation.”</p>
 <p>After the police bust on McCoole’s house, law enforcement authorities have found more than 100,000 still images and 600 videos and other media files of child exploitation material on the criminal’s computer.</p>
 <p>The child molester and The Love Zone admin has agreed with the court to provide evidence to the Royal Commission that will help their work to probe 10 key areas in Australia to ensure the safety of the children.</p>
-</div>
-<a href="/tag/35/" rel="tag">35</a> <a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/darkweb/" rel="tag">darkweb</a> <a href="/tag/jail/" rel="tag">jail</a> <a href="/tag/pedophile/" rel="tag">pedophile</a> <a href="/tag/sentenced/" rel="tag">sentenced</a> <a href="/tag/site/" rel="tag">site</a> <a href="/tag/years/" rel="tag">years</a></span> 
-Updated: 2015-08-11<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-08-11
 

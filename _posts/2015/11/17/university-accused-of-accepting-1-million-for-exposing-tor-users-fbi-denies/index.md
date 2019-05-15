@@ -2,8 +2,7 @@
 title: "University Accused Of Accepting $1 Million For Exposing Tor Users, FBI Denies"
 ---
 
-12218 tag-accepting tag-accused tag-denies tag-exposing tag-million  tag-university ">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 17, 2015</span>
 
@@ -21,8 +20,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>&#8220;Did the researchers gather and keep this data? With whom have they shared it? If they still have it, what are they doing to protect it?</p>
 <p>&#8220;It’s too late to cover up what happened; now it’s time for [the Software Engineering Institute] to give us some answers.&#8221;</p>
 <p><a href="http://thehill.com/policy/cybersecurity/260075-fbi-denies-it-paid-researchers-1-million-to-unmask-web-users">Despite the evidence the Tor Project has on the CMU’s involvement with the FBI, the Federal Bureau of Investigation denies that the federal agency paid at least $1 million to researchers of the Carnegie Mellon University for criminal investigation purposes.</a> An FBI representative even told the press that allegation is inaccurate.</p>
-</div>
-<a href="/tag/accepting/" rel="tag">accepting</a> <a href="/tag/accused/" rel="tag">accused</a> <a href="/tag/denies/" rel="tag">denies</a> <a href="/tag/exposing/" rel="tag">exposing</a> <a href="/tag/million/" rel="tag">million</a>  <a href="/tag/university/" rel="tag">university</a> <a href="/tag/users/" rel="tag">users</a></span> 
+
 Updated: 2015-11-17
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

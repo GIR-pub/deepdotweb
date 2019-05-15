@@ -2,13 +2,10 @@
 title: "UK To Combat Cyber Criminals In National Security Strategy, Strategic Defense And Security Review"
 ---
 
-12344 tag-combat tag-criminals tag-cyber tag-defense tag-national tag-security tag-strategic tag-strategy tag-uk">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 26, 2015</span>
 
-<span><a href="/2015/11/26/uk-to-combat-cyber-criminals-in-national-security-strategy-strategic-defense-and-security-review/#comments">2 Comments</a></span>
-</p>
 
     
 <p><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/478933/52309_Cm_9161_NSS_SD_Review_web_only.pdf">The United Kingdom’s government has published its National Security Strategy, Strategic Defense And Security Review for 2015 this month.</a> The government mentioned points including the defense against terrorism, extremism, organized crime, protecting the UK overseas, crisis response and many other important factors for the country. However, which is more important for the dark web users, it is their policy on defending against cyber criminals. According to the security review, the United Kingdom will provide high focus on cyber criminals. The report includes this statement (at point 4.114):</p>
@@ -19,8 +16,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>Also, since there have been huge cyber attacks on the UK banking systems, which resulted in the loss of many customers’ personal and financial details to the hands of hackers, the United Kingdom’s government decided to spend more on cyber defense and prevention:</p>
 <p>“We will invest £1.9 billion over the next five years in protecting the UK from cyber attack and developing our sovereign capabilities in cyber space. In 2016 we will publish a second five-year National Cyber Security Strategy, and we will launch a further five-year National Cyber Security Programme,” states the report.</p>
 <p>Since the attacks by the hackers were mostly against UK companies, the government also plans to help them with the protection of their data by providing them specialist help. They will simplify “private sector access to government cyber security advice”, and the country’s newly created National Cyber Centre, which will operate under GCHQ leadership in order to “respond quickly and effectively” to cyber attacks, will form a single point of contact for companies that are seeking advice.</p>
-</div>
-<a href="/tag/combat/" rel="tag">combat</a> <a href="/tag/criminals/" rel="tag">criminals</a> <a href="/tag/cyber/" rel="tag">cyber</a> <a href="/tag/defense/" rel="tag">defense</a> <a href="/tag/national/" rel="tag">national</a> <a href="/tag/review/" rel="tag">review</a>  <a href="/tag/strategic/" rel="tag">strategic</a> <a href="/tag/strategy/" rel="tag">strategy</a> <a href="/tag/uk/" rel="tag">uk</a></span> 
+
 Updated: 2015-11-26
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

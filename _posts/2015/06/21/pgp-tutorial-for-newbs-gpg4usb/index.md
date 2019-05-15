@@ -2,17 +2,14 @@
 title: "PGP Tutorial For Newbs Gpg4usb"
 ---
 
-9525  tag-gpg4usb tag-newbs tag-pgp tag-tutorial
 Posted by: DeepDotWeb 
 
 <span>June 21, 2015</span>
     
-<span><a href="/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/#comments">31 Comments</a></span>
-</p>
 
 <p>To wrap up the last of the PGP guides we&#8217;ll be covering gpg4usb. Gpg4usb is a PGP tool that can be ran off of a USB drive and works on both Windows and GNU/Linux, with OS X support planned. It features a very intuitive user interface, portability so it can be used on multiple devices, and is of course open source. It uses GnuPG as the backend, like most PGP methods. The operating system used in this tutorial will be Linux Mint, but the UI will be the same across GNU/Linux distros and Windows versions.</p>
 <p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
-<p>Please keep in mind that <a href="http://www.deepdotweb.com/security-tutorials/word-warning-versions-pgp-created-equally/">not all versions of PGP are created equally</a>, some PGP programs use an insecure or unsafe version of PGP that could comprimise the encrypted message. Others &#8212; namely PGP4Win, Kleopatra, and GPA – use depreciated versions of GnuPG. This means that they aren&#8217;t up to date with the latest version of GnuPG or meet modern PGP standards. This can be dagerous as, for example, Kleopatra doesn&#8217;t generate subkeys. Subkeys are important as they can be revoked to minimize damage from a comprimised key. You&#8217;ll also want to keep in mind not to use online PGP methods like iGolder. You don&#8217;t own the keys, so you can&#8217;t be 100% sure they aren&#8217;t encrypting/decrypting messages that are meant for your eyes only.</p>
+<p>Please keep in mind that <a href="/security-tutorials/word-warning-versions-pgp-created-equally/">not all versions of PGP are created equally</a>, some PGP programs use an insecure or unsafe version of PGP that could comprimise the encrypted message. Others &#8212; namely PGP4Win, Kleopatra, and GPA – use depreciated versions of GnuPG. This means that they aren&#8217;t up to date with the latest version of GnuPG or meet modern PGP standards. This can be dagerous as, for example, Kleopatra doesn&#8217;t generate subkeys. Subkeys are important as they can be revoked to minimize damage from a comprimised key. You&#8217;ll also want to keep in mind not to use online PGP methods like iGolder. You don&#8217;t own the keys, so you can&#8217;t be 100% sure they aren&#8217;t encrypting/decrypting messages that are meant for your eyes only.</p>
 <p><strong>Why use gpg4usb over other PGP methods?</strong></p>
 <ol>
 <li>gpg4usb creates RSA keys with an encryption subkey and a master key. Your master key is used for signing other keys, creating subkeys, and revoking subkeys. Having subkeys is very important since if it becomes compromised, you can revoke it with the master key and create a new secure subkey.</li>
@@ -71,8 +68,7 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2015/03/g4u13.png"><img class="aligncenter size-full wp-image-9538" src="/imgs/2015/03/g4u13.png" alt="g4u13" width="802" height="541" srcset="/imgs/2015/03/g4u13.png 802w, /imgs/2015/03/g4u13-300x202.png 300w, /imgs/2015/03/g4u13-290x195.png 290w" sizes="(max-width: 802px) 100vw, 802px" /></a></p>
 <p><strong>Part 9 – Conclusion</strong></p>
 <p>If you&#8217;ve followed the above steps and understood each one you&#8217;re on your way to increased privacy in a world that wants to invade it. PGP can seem complicated at first, but once you learn it you&#8217;ll laugh at yourself for thinking it was so hard. Even if you still think it&#8217;s complicated or a waste of time, just keep in mind that taking an extra 60 seconds out of your day could possible save you from serving 5+ years in prison.</p>
-</div>
-<a href="/tag/gpg4usb/" rel="tag">gpg4usb</a> <a href="/tag/newbs/" rel="tag">newbs</a> <a href="/tag/pgp/" rel="tag">pgp</a> <a href="/tag/tutorial/" rel="tag">tutorial</a></span> 
+
 Updated: 2015-06-21
 
     

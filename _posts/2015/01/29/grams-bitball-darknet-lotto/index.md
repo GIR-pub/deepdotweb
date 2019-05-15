@@ -11,17 +11,17 @@ Posted by: DeepDotWeb
 <p>We are happy to introduce another product by Grams!</p>
 <p><strong>Previous articles about Grams products:</strong></p>
 <ul>
-<li><a href="http://www.deepdotweb.com/2014/04/08/grams-darknetmarkets-search-engine/">Grams: DarkNetMarkets Search Engine</a></li>
-<li><a href="http://www.deepdotweb.com/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/">An interview with the Grams Search Engine Admin</a></li>
-<li><a href="http://www.deepdotweb.com/2014/05/31/introducing-grams-infodesk-features-part-1/">Grams: Becoming Hub For DarkNet Info &amp; Ads (Part 1)</a></li>
-<li><a title="“Gramwords” Launched:  Google Adwords Of The DeepWeb!" href="http://www.deepdotweb.com/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">“Gramwords” Launched: Google Adwords Of The DeepWeb!</a></li>
-<li><a title="Permalink to Introducing Gramx Helix: Bitcoins Cleaner" href="http://www.deepdotweb.com/2014/06/22/introducing-gramx-helix-bitcoins-cleaner/" rel="bookmark">Introducing Gramx Helix: Bitcoins Cleaner</a></li>
-<li><a href="http://www.deepdotweb.com/2014/06/07/grams-flow-easy-access-hidden-sites/">Grams Flow: Easy access to Hidden Sites</a></li>
-<li><a title="Permalink to Helix Updates: Integrated Markets Can Now Helix Your BTC" href="http://www.deepdotweb.com/2014/08/05/helix-updates-integrated-markets-can-now-helix-your-btc/" rel="bookmark">Helix Updates: Integrated Markets Can Now Helix Your BTC</a></li>
-<li><a href="http://www.deepdotweb.com/2014/11/18/grams-torads/">Grams Grows with TorAds: First Advertising Network For Tor</a></li>
+<li><a href="/2014/04/08/grams-darknetmarkets-search-engine/">Grams: DarkNetMarkets Search Engine</a></li>
+<li><a href="/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/">An interview with the Grams Search Engine Admin</a></li>
+<li><a href="/2014/05/31/introducing-grams-infodesk-features-part-1/">Grams: Becoming Hub For DarkNet Info &amp; Ads (Part 1)</a></li>
+<li><a title="“Gramwords” Launched:  Google Adwords Of The DeepWeb!" href="/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">“Gramwords” Launched: Google Adwords Of The DeepWeb!</a></li>
+<li><a title="Permalink to Introducing Gramx Helix: Bitcoins Cleaner" href="/2014/06/22/introducing-gramx-helix-bitcoins-cleaner/" rel="bookmark">Introducing Gramx Helix: Bitcoins Cleaner</a></li>
+<li><a href="/2014/06/07/grams-flow-easy-access-hidden-sites/">Grams Flow: Easy access to Hidden Sites</a></li>
+<li><a title="Permalink to Helix Updates: Integrated Markets Can Now Helix Your BTC" href="/2014/08/05/helix-updates-integrated-markets-can-now-helix-your-btc/" rel="bookmark">Helix Updates: Integrated Markets Can Now Helix Your BTC</a></li>
+<li><a href="/2014/11/18/grams-torads/">Grams Grows with TorAds: First Advertising Network For Tor</a></li>
 </ul>
 <p><span style="text-decoration: underline;"><strong>The release, as it was provided to us by GramsAdmin:</strong></span></p>
-<p>Hi all, Every since <a href="http://www.deepdotweb.com/tag/operation-onymous/" target="_blank">Operation Onymous</a> , I have been working on a project to get the Tor project more donations. There was lots of rumors that Tor had been hacked and de-anonimized. Even though these rumors have turned out to be false and Tor is still secure, I think the Tor Project needs as much money as possible to help keep it that way. So I created my new site to give incentive to the people who use Tor the most to donate their extra bitcoins.</p>
+<p>Hi all, Every since <a href="/tag/operation-onymous/" target="_blank">Operation Onymous</a> , I have been working on a project to get the Tor project more donations. There was lots of rumors that Tor had been hacked and de-anonimized. Even though these rumors have turned out to be false and Tor is still secure, I think the Tor Project needs as much money as possible to help keep it that way. So I created my new site to give incentive to the people who use Tor the most to donate their extra bitcoins.</p>
 <p><strong>I present to you BitBall: </strong><span style="text-decoration: underline;">bitball6vducog3f.onion</span><strong><br />
 </strong></p>
 <p><strong> How it works?</strong></p>

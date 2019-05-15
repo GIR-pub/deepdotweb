@@ -2,10 +2,6 @@
 title: "Bitcoin News Roundup – 18 Jul.2015"
 ---
 
-11090  tag-1766 tag-jul2015 
-    
-    
-        
 
 Posted by: DeepDotWeb
     
@@ -32,8 +28,7 @@ Posted by: DeepDotWeb
     
     
 
-<a href="/tag/18/" rel="tag">18</a> <a href="/tag/jul2015/" rel="tag">jul2015</a>  </span>				
-Updated: 2015-07-18
+  Updated: 2015-07-18
 
     
     

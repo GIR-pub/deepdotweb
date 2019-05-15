@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis April 14th"
 ---
 
-9977  tag-14th tag-analysis tag-april tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>April 14, 2015</span>
 
 
-<span><a href="/2015/04/14/bitcoin-price-analysis-april-14th/#respond">Leave a comment</a></span>
-</p>
 
 <p>There will be blood.</p>
 <p>This week, our bullish forecast last week played out favorably and is still unfolding with prices now at $217. After a dull flat sideways trend, prices were unable to break a ceiling at $262. This resistance was marked a last attempt at higher prices but, collapsed, resetting the bearish trend we have been expecting.</p>
@@ -44,8 +41,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/04/image006.gif"><img class="aligncenter size-full wp-image-9983" src="/imgs/2015/04/image006.gif" alt="image006" width="624" height="217" /></a></p>
 <p>A persistent long term channel has limited prices to within a range trending down. An earlier attempt at $300 tested upper channel resistance but failed. The channel leads all the way down to low $80s.</p>
 <p>The bear trend continues.</p>
-</div>
-<a href="/tag/14th/" rel="tag">14th</a>  
+
 Updated: 2015-04-14
 
     

@@ -2,14 +2,11 @@
 title: "McConnell introduces a bill to expand NSA until 2020"
 ---
 
-10070  tag-2800 tag-bill tag-expand tag-introduces tag-mcconnell tag-nsa
 Posted by: DeepDotWeb 
 
 <span>April 24, 2015</span>
 
 
-<span><a href="/2015/04/24/mcconnell-introduces-a-bill-to-expand-nsa-until-2020/#comments">5 Comments</a></span>
-</p>
 
 <p>Senator Mitch McConnell introduced a bill <span class="aBn" tabindex="0" data-term="goog_1804282997"><span class="aQJ">on Tuesday</span></span> that would expand the NSA authority until 2020. Yesterday the bill was read a second time and put on the Senate Legislative Calendar under General Orders. The bill seeks to expand the most critical part of the Patriot Act; Section 215.</p>
 <p>Glenn Greenwald, a columnist for The Intercepter who became a household name when he was leaked top secret documents by former NSA contractor Edward Snowden, has been one of the most vocal opponents of Section 215 writing;</p>
@@ -28,8 +25,7 @@ Posted by: DeepDotWeb
 <p>“EFF strongly opposes such a &#8220;clean&#8221; reauthorization. We urge users to tell Senator McConnell and their Senators to end mass surveillance under the Patriot Act, not renew it,” the press release stated.</p>
 <p>“The unconstitutional bulk collection of phone records must end now. And EFF vigorously opposes any clean reauthorization the Senate Intelligence Committee or Senate Majority Leader may propose like S. 1035.”</p>
 <p>The EFF also took the chance to promote <a href="https://fight215.org/" target="_blank">Fight215.org</a>, a website organized by the EFF and 34 other organizations seeking to overturn Section 215. The website warns visitors, that “The Patriot Act and the reauthorizations that followed had myriad bad provisions. But it’s Section 215 of the original Patriot Act that the NSA re-interpreted in complete secrecy to allow them, with the help of the FBI, to collect millions of phone call records per day. The government could even try to use Section 215 for bulk collection of financial or other business records. With your help, we can stop Congress from simply rubber-stamping Patriot Act Section 215 — and stop this mass suspicionless surveillance program once and for all.”</p>
-</div>
-<a href="/tag/2020/" rel="tag">2020</a> <a href="/tag/bill/" rel="tag">bill</a> <a href="/tag/expand/" rel="tag">expand</a> <a href="/tag/introduces/" rel="tag">introduces</a> <a href="/tag/mcconnell/" rel="tag">mcconnell</a> <a href="/tag/nsa/" rel="tag">nsa</a></span> 
+
 Updated: 2015-04-24
 
     

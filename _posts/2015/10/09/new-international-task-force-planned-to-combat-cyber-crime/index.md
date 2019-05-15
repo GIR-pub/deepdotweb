@@ -2,13 +2,12 @@
 title: "New International Task Force Planned to Combat Cyber Crime"
 ---
 
-11705  tag-combat tag-crime tag-cyber tag-force tag-international tag-planned tag-task
 Posted by: DeepDotWeb 
 
 <span>October 9, 2015</span>
 
 
-<span><a href="/2015/10/09/new-international-task-force-planned-to-combat-cyber-crime/#comments">7 Comments</a></span>
+
 
 
 <p>International policing agencies are now working together in order to create a more globalized approach to dealing with the critical issue of cyber crime. This comes after the <a href="http://www.interpol.int/News-and-media/News/2015/N2015-147">third cyber crime conference</a> which focused on assessing potential threats, co-operation models and the legal and practical challenges facing institutions such as INTERPOL and Europol.</p>
@@ -28,6 +27,5 @@ Posted by: DeepDotWeb
 <p>While many corporations spend millions or even billions protecting their intellectual property, law enforcement agencies have neither the equipment nor the budget to hire the top programmers needed to effectively combat these threats. Despite these constraints, there is still an effort being made to organize prevention strategies and raise the awareness of the average user of just how vulnerable they are.</p>
 <p>“The last 12 months have shown some remarkable successes by law enforcement in the fight against cybercrime, “ said Nakatani, “building upon these past successes, law enforcement has to continue pushing the boundaries of traditional policing and identify new ways to tackle this criminal phenomenon, despite the difficulties and the number of criminals involved. Further international cooperation with a wide range of actors is paramount for keeping the Internet safe from organized crime.”</p>
 <p>Whether these steps are enough remains to be seen but it is good to know that law enforcement agencies are finally looking to address this growing issue and one that was far outside the purview considered when they were first established.</p>
-</div>
-<a href="/tag/combat/" rel="tag">combat</a> <a href="/tag/crime/" rel="tag">crime</a> <a href="/tag/cyber/" rel="tag">cyber</a> <a href="/tag/force/" rel="tag">force</a> <a href="/tag/international/" rel="tag">international</a> <a href="/tag/planned/" rel="tag">planned</a> <a href="/tag/task/" rel="tag">task</a></span> 
+
 Updated: 2015-10-09

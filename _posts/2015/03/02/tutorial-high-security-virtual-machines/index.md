@@ -2,12 +2,11 @@
 title: "Tutorial: High Security Virtual Machines"
 ---
 
-8547  tag-high tag-machines tag-security tag-virtual
-Posted by: <a href="/author/tr3x0r/" title="">TR3X0R 
+Posted by: TR3X0R 
 
 <span>March 2, 2015</span>
 
-<span><a href="/2015/03/02/tutorial-high-security-virtual-machines/#comments">27 Comments</a></span>
+
 
 
 <p><strong>Utilizing Virtualization to Increase Information Security</strong></p>
@@ -66,7 +65,6 @@ Posted by: <a href="/author/tr3x0r/" title="">TR3X0R
 <p>Will add an additional measure of security in that your NIC does not use a vendor-specific MAC address (ie your Ralink wifi adapter won’t announce itself as “Ralink”)</p>
 <p><a href="/imgs/2014/12/tails.png"><img class="aligncenter  wp-image-8555" src="/imgs/2014/12/tails.png" alt="tails" width="1132" height="637" srcset="/imgs/2014/12/tails.png 1920w, /imgs/2014/12/tails-300x169.png 300w, /imgs/2014/12/tails-1024x576.png 1024w" sizes="(max-width: 1132px) 100vw, 1132px" /></a></p>
 <p>Stay tuned on how to configure higher security configurations, implement roving MAC addresses, etc.</p>
-</div>
-<a href="/tag/high/" rel="tag">high</a> <a href="/tag/machines/" rel="tag">machines</a>  <a href="/tag/virtual/" rel="tag">virtual</a></span> 
-Updated: 2015-03-02<a href="/author/tr3x0r/" title="Posts by TR3X0R" rel="author">TR3X0R</a></strong></div>
+
+Updated: 2015-03-02
 

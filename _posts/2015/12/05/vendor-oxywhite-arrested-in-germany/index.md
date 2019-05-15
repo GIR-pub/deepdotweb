@@ -2,12 +2,11 @@
 title: "Vendor &#8220;Oxywhite&#8221; Arrested in Germany"
 ---
 
-12476  tag-germany tag-oxywhite tag-vendor
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>December 5, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/05/vendor-oxywhite-arrested-in-germany/#comments">1 Comment</a></span>
+
+
 
 
 <p>According to <a href="http://www.bild.de/regional/koeln/razzia/razzia-wegen-medikamenten-handel-43680952.bild.html">bild.de</a> An employee of the University of Bonn was arrested during a Raid on the Bonn University Clinic, which was used according to investigators as a packaging station for his drug operation.</p>
@@ -21,6 +20,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p>&#8220;We have seized 2.65 kilos of amphetamine and utensils that are needed for delivery of goods by mail, found,&#8221; said the prosecutor.</p>
 <p>Also, a stun gun was found in the apartment.</p>
 <p>Vendor Oxywhite operated on darknet sites as well as clearnet sites and had a German <a href="http://motherboard.vice.com/de/read/die-graueste-zone-des-deepwebs--einblick-in-den-darknet-medikamenten-handel-389">vice article</a> about him earlier this year.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/arrested/" rel="tag">arrested</a> <a href="https://www.deepdotweb.com/tag/germany/" rel="tag">germany</a> <a href="https://www.deepdotweb.com/tag/oxywhite/" rel="tag">oxywhite</a> <a href="https://www.deepdotweb.com/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2015-12-05

@@ -60,6 +60,5 @@ Posted by: DeepDotWeb
 <p id="e36a" class="graf--h4"><strong>So what’s next?</strong></p>
 <p id="aacb" class="graf--p">Don’t be afraid. Come join the revolution and reclaim your freedom.</p>
 <p class="graf--p"><strong>Article Source: <a href="https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892" target="_blank">https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892</a></strong></p>
-</div>
 
 Updated: 2015-02-04

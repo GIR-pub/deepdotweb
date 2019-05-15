@@ -2,12 +2,11 @@
 title: "OP-ED: Agora, Where’s My BTC (and your consistency), Bitch?"
 ---
 
-11380  tag-agora tag-bitch tag-consistency tag-oped
 Posted by: Allen Hoffmann, JD
 
 <span>August 31, 2015</span>
 
-<span><a href="/2015/08/31/op-ed-agora-wheres-my-btc-and-your-consistency-bitch/#comments">36 Comments</a></span>
+
 
 
 <p><span style="text-decoration: underline;"><strong>Note</strong></span>: <em>This article is represents the author&#8217;s personal experience and concerns only, we KNOW and confirmed that many other people did get all their money just fine and acknowledge the fact that we have no way to know whats going on behind the scenes that is the cause for all of this.</em></p>
@@ -22,7 +21,6 @@ Posted by: Allen Hoffmann, JD
 <p>But back to the present matter &#8211; Are the Agora management team’s concerns leading up to now, generally speaking, well-founded, or something akin to digital mysticism? Are these downtimes we are now so very used to actually necessary? Or are the holes and vulnerabilities, real or suspected, which are being patched up, being whispered in the ears of the Agora admin team after asking some kind of deep web shaman, perhaps the some pixels which they regard as representing the spirit of the Blockchain, after the burning of some incense (or some, what I believe the kids these days refer to as, ‘dank nugs’) and some kind of incantations being uttered to a CPU on some kind of pedestal, when they should pull their site apart or mess with their membership’s abilities to access funds?</p>
 <p>Neither I, nor most other commentators, are calling this an exit scam as yet, but the lack of consistency in handling withdrawals which is very much apparent at this point, is a deep and abiding concern when measures as drastic as a temporary suspension of operations is going into effect – I can understand Agora sitting on accounts where the BTC is in escrow, or the account holder didn’t log in and request a withdrawal. But I, dear readers, did log in, requested a withdrawal, saw it confirmed, and still, quite a number of days on, my BTC has not so much as begun its journey through the block chain, much less arrived in my nominated wallet.</p>
 <p>This is a direct message to Agora management &#8211; don’t take it personally, but seriously, regardless of your explanations, I would pimp slap the living shit out of you (JD or not, my pimp hand is strong), and demand to know “Where’s my money, bitch?” if I could right now. Your reasons for pulling the site into hiatus may be well founded, or they may be based on nebulous intelligence or outright spurious conjecture, but that brings me back to the original question which came after the first pimp slapping… Where’s my money, bitch?</p>
-</div>
-<a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/bitch/" rel="tag">bitch</a> <a href="/tag/btc/" rel="tag">btc</a> <a href="/tag/consistency/" rel="tag">consistency</a> <a href="/tag/oped/" rel="tag">oped</a></span> 
+
 Updated: 2015-08-31
 

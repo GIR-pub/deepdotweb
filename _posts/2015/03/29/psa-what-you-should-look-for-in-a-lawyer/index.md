@@ -2,12 +2,11 @@
 title: "PSA: What You Should Look For In A Lawyer?"
 ---
 
-9761  tag-lawyer tag-psa
 Posted by: DeepDotWeb 
 
 <span>March 29, 2015</span>
 
-<span><a href="/2015/03/29/psa-what-you-should-look-for-in-a-lawyer/#comments">5 Comments</a></span>
+
 
 
 <div class="usertext-body may-blank-within md-container">
@@ -24,6 +23,5 @@ Posted by: DeepDotWeb
 <p>I&#8217;m sure there are 100 things I forgot to mention here, so I&#8217;ll open it up for comments/questions. Hope this has been helpful, if not please feel free to delete it!</p>
 </div>
 </div>
-</div>
-<a href="/tag/lawyer/" rel="tag">lawyer</a> <a href="/tag/psa/" rel="tag">psa</a></span> 
+
 Updated: 2015-03-29

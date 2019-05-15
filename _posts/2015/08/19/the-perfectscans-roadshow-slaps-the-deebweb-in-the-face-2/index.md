@@ -2,12 +2,11 @@
 title: "The PerfectScans Roadshow Slaps The Deebweb In The Face"
 ---
 
-11312 category-memes tag-deebweb tag-face tag-perfectscans tag-roadshow tag-slaps
-Posted by: <a href="/author/perfectscans/" title="">PerfectScans 
+Posted by: PerfectScans 
 
 <span>August 19, 2015</span>
-<span>in <a href="/category/memes/" rel="category tag">Memes &amp; Funny</a></span>
-<span><a href="/2015/08/19/the-perfectscans-roadshow-slaps-the-deebweb-in-the-face-2/#comments">21 Comments</a></span>
+
+
 
 
 <p><span class="im">Yes, you read that right, it&#8217;s been a long time coming and the voice of sanity you have missed, lost in the wilderness of relays trying to find their way home, to give the answers for those who have been waiting.</p>
@@ -58,7 +57,6 @@ Posted by: <a href="/author/perfectscans/" title="">PerfectScans
 <p>Wait till you see what is coming !!</p>
 <p>And Remember: Lucy Loves You</p>
 <p>x</span></p>
-</div>
-<a href="/tag/deebweb/" rel="tag">deebweb</a> <a href="/tag/face/" rel="tag">face</a> <a href="/tag/perfectscans/" rel="tag">perfectscans</a> <a href="/tag/roadshow/" rel="tag">roadshow</a> <a href="/tag/slaps/" rel="tag">slaps</a></span> 
-Updated: 2015-08-19<a href="/author/perfectscans/" title="Posts by PerfectScans" rel="author">PerfectScans</a></strong></div>
+
+Updated: 2015-08-19
 

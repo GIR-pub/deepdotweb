@@ -2,14 +2,11 @@
 title: "PSA: DeepDotWeb&#8217;s New Onion Gateway!"
 ---
 
-10603  tag-address tag-deepdotweb tag-onion tag-psa
 Posted by: DeepDotWeb 
 
 <span>June 6, 2015</span>
 
 
-<span><a href="/2015/06/06/psa-deepdotwebs-new-onion-gateway/#comments">6 Comments</a></span>
-</p>
 
 <p><strong>Update</strong>: <a href="/2015/06/08/new-onion-address-deepdot35wvmeyd5-onion/">New onion URL</a></p>
 <p>You asked and we listened. So good news to our readers out there &#8211;  from now on you can browse <strong>DeepDotWeb</strong> 100% anonymously using our new Onion gateway:</p>
@@ -24,9 +21,8 @@ Posted by: DeepDotWeb
 <li>This is the <span style="text-decoration: underline;"><strong>only</strong></span> real URL:  <strong>http://rtz6kznga4anujwu.onion</strong></li>
 </ul>
 <div id="attachment_10614" style="width: 285px" class="wp-caption aligncenter"><a href="/imgs/2015/06/onionadd.png"><img class="size-full wp-image-10614" src="/imgs/2015/06/onionadd.png" alt="Image Of the onion address " width="275" height="38" srcset="/imgs/2015/06/onionadd.png 275w, /imgs/2015/06/onionadd-272x38.png 272w" sizes="(max-width: 275px) 100vw, 275px" /></a><p class="wp-caption-text">Image Of the onion address</p></div>
-<p>Found any technical issue? <a href="http://www.deepdotweb.com/contact-us/">please contact!</a></p>
-</div>
-<a href="/tag/address/" rel="tag">address</a> <a href="/tag/deepdotweb/" rel="tag">deepdotweb</a> <a href="/tag/onion/" rel="tag">onion</a> <a href="/tag/psa/" rel="tag">psa</a></span> 
+<p>Found any technical issue? <a href="/contact-us/">please contact!</a></p>
+
 Updated: 2015-06-06
 
     

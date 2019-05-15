@@ -11,7 +11,7 @@ Posted by: DeepDotWeb
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p><em>Full credit goes to <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> for writing this tutorial – Thanks for publishing and giving your permission to repost!<br />
-    Tutorial for </em>Gpg4Win using GPA can <a href="http://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" target="_blank">be found here</a>.</p>
+    Tutorial for </em>Gpg4Win using GPA can <a href="/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" target="_blank">be found here</a>.</p>
 <h3>Part 0 – Introduction</h3>
 <p>Here&#8217;s the final guide in my PGP basics series, this time focusing on Windows. The OS in question will be Windows 7, but it should work for Win8 and Win8.1 as well. Obviously it&#8217;s not recommended to be using Windows to access the DNM, but I wont go into the reasons here. The tool we&#8217;ll be using is GPG4Win.</p>
 <p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
@@ -99,6 +99,5 @@ Posted by: DeepDotWeb
 </ol>
 <h3>Part 9 – Conclusion</h3>
 <p>I&#8217;m hoping this was in depth enough for you Windows users out there. PGP can seem complicated at first, but with an hour or two of your time you can see it&#8217;s actually pretty simple. There&#8217;s obviously more behind it, and different tools that can be used, but we might save that for another time. Stay safe everyone! Encrypt all messages!</p>
-</div>
 
 Updated: 2015-02-21

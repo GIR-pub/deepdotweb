@@ -7,7 +7,7 @@ Posted by: Allen Hoffmann, JD
 <span>February 18, 2015</span>
 
 
-<p><strong>The first part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
+<p><strong>The first part in a 3 parts series &#8211; the other parts are available here: <a href="/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 <p>&#8220;I was in college, it was 2001, and I needed a fake ID which wasn&#8217;t a piece of shit from New Jersey which I made at home with an overpriced laminate pouch.&#8221; This is the response I get from the man in a polo shirt and sweater combination which one would expect to see on a trust fund kid, sitting across from me at a restaurant table over a seafood lunch when I ask him how it was he came to take the first steps towards running a small crime empire before he hit his mid 20s.</p>
 <p>Most definitely not a trust fund kid, &#8220;Deon Twocock&#8221;, not his real name, is in his 30s and married with children these days, and is someone the author has known via other various means for a number of years; outwardly respectable despite a handful of court appearances, (despite which, he&#8217;s never spent a day in jail or prison) all flowing from activity which was not directly related to what he did get up to on dark markets.</p>
 <p>He got his start in his present vocation while a college student. 10 years ago, he was an active member of the internet cybercrime board &#8216;Shadowcrew&#8217;, where he picked up the skills needed to engage in instore carding, and spent a number of years sitting atop a mid tier organization which carded and resold goods via various means. Today, we&#8217;re going to talk about the pioneering days of what was then referred to as a &#8216;cybermob&#8217;, the precursor to today&#8217;s TOR enabled retail operations, how he did business on and offline, and what he thinks of the darkmarket world today. We&#8217;ll pick up the interview after his response to that first question.</p>
@@ -58,7 +58,7 @@ Posted by: Allen Hoffmann, JD
 <p>DT: It felt very much like a community at the time, yeah, for sure, because we all came across from Counterfeit Library, which simply wasn’t a place which was geared towards making money. It was a creep in terms of the mindset which we were all part of moving from sharing information to being part of a larger commercially motivated venture. It didn’t feel like that forever, though.</p>
 <p><strong>AH: When did the feel of things change?</strong></p>
 <p>DT: When the Russian sellers showed up, definitely when they became part of the scene in a permanent way.</p>
-<p><strong>The first part in a 3 parts series &#8211; the other parts are available here: <a href="http://www.deepdotweb.com/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
+<p><strong>The first part in a 3 parts series &#8211; the other parts are available here: <a href="/tag/VeteranDarkMarketDweller/">#VeteranDarkMarketDweller</a> (after publishing)</strong></p>
 
 Updated: 2015-02-18
 

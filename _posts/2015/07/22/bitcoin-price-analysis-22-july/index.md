@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis 22 July"
 ---
 
-11099  tag-2700 tag-analysis tag-july tag-price
 Posted by: DeepDotWeb 
 
 <span>July 22, 2015</span>
 
 
-<span><a href="/2015/07/22/bitcoin-price-analysis-22-july/#respond">Leave a comment</a></span>
-</p>
 
     
 <p><a href="/imgs/2015/07/13.jpg"><img class="aligncenter size-full wp-image-11100" src="/imgs/2015/07/13.jpg" alt="1" width="597" height="465" srcset="/imgs/2015/07/13.jpg 597w, /imgs/2015/07/13-300x234.jpg 300w" sizes="(max-width: 597px) 100vw, 597px"/></a></p>
@@ -48,8 +45,7 @@ Posted by: DeepDotWeb
 <p>In a flash crash on Saturday night, price on BTC-e declined to a shocking low $150 , taking out buy orders stacked from $ 270 level to month old orders at $200 and below. A similar event in August 2014, and its anonymous business operations do not inspire trust in the community. It is also highly illiquid and slow to deposit fiat.</p>
 <p><em>“btc-e order book is so thin it wouldn&#8217;t take that many coins to create a giant crash. On bigger exchanges with more liquidity it would take millions of dollars of coins to dump down to the same price.”</em></p>
 <p>Speculation suggests possible dumping activity, after ruling out possible rational explanations.</p>
-</div>
-<a href="/tag/22/" rel="tag">22</a>  
+
 Updated: 2015-07-22
 
     

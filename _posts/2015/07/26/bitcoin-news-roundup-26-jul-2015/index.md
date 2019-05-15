@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 26 Jul.2015"
 ---
 
-11116  tag-1858 tag-jul2015 
 Posted by: DeepDotWeb 
 
 <span>July 26, 2015</span>
 
 
-<span><a href="/2015/07/26/bitcoin-news-roundup-26-jul-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>NASDAQ is looking for further ways to expand the use of blockchain technology. As P.H. Madore of <a href="https://www.cryptocoinsnews.com/nasdaq-more-block-chain-please/">CryptoCoins News</a> writes, following NASDAQ’s partnership with Chain for the seamless allocation of shares in private companies, NASDAQ seeks to become the first stock exchange to implement the blockchain technology at a broader spectrum of services. According to CEO Bob Greifeld<em>“<em>The application of block chain technology within Nasdaq&#8217;s private market aims to modernize, streamline and really secure cumbersome administrative functions.”</em></em></p>
@@ -21,8 +18,7 @@ Posted by: DeepDotWeb
 <p>Coins.ph launches Teller to simplifyfinancial services provided to customers in Southeast Asia. According to Pete Rizzo of <a href="http://www.coindesk.com/coins-ph-abra-style-bitcoin-app-southeast-asia/">Coin Desk</a>, the Philippines-based bitcoin exchange launched an innovative P2P mobile bitcoin app, allowing users to transfer bitcoins, pay their bills and top-up their mobile phones through a third-party seller who accepts the local currency and gives access to bitcoins. The move is expected to attract more users in the digital currency technology, thus increasing the bitcoin exposure in Southeast Asia.</p>
 <p>Bitphone launches Bitcoin Payphone. As Maria Santos of <a href="https://99bitcoins.com/bitphone-launches-first-bitcoin-friendly-digital-phone-service/">99bitcoins</a> reports, Bitcoin offers global calling service through Bitcoin Payphone, a new bitcoin-friendly app. The service is currently available in 200 countries and the goal is to become a direct competitor to Skype in digital communications by allowing users to use the service on a laptop or desktop. Bitphone offers great audio quality in the beta version available at the moment, but what makes Bitcoin Payphone innovative is that the calls are <em>“</em><em>completely private, secure and encrypted.”</em></p>
 <p>Tindr app facilitates crowdfunding in the UK. As Natalie Johnson of <a href="http://bitcoinist.net/crowdfunding-just-got-easier-new-tindr-app/">Bitcoinist</a> writes, the newly-launched mobile app assists investors to browse the profiles of crowdfunding campaigns in the UK and instantly connect with those that they want to invest their money. The app has 2,400 active users and has already facilitated 200,000 interactions.</p>
-</div>
-<a href="/tag/26/" rel="tag">26</a> <a href="/tag/jul2015/" rel="tag">jul2015</a>  </span> 
+
 Updated: 2015-07-26
 
     

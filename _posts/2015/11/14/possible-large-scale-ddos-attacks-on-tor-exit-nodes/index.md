@@ -2,14 +2,11 @@
 title: "Possible Large-Scale DDOS Attacks on TOR Exit Nodes"
 ---
 
-12118  tag-attacks tag-ddos tag-exit tag-largescale tag-nodes 
-Posted by: <a href="/author/chrismccandless/" title="">Chris McCandless 
+Posted by: Chris McCandless 
 
 <span>November 14, 2015</span>
 
 
-<span><a href="/2015/11/14/possible-large-scale-ddos-attacks-on-tor-exit-nodes/#comments">5 Comments</a></span>
-</p>
 
     
 <p>Recently, there have been several reports of DDOS attacks being directed at TOR exit nodes. While a few of these reports are consistent, it is often difficult to assess a threat via community interaction alone. One user has posted a PGP-signed message on November 9<sup>th</sup>, and contained the following warning:</p>
@@ -24,8 +21,7 @@ Posted by: <a href="/author/chrismccandless/" title="">Chris McCandless
 <p>It seems unlikely that law enforcement would simply stop pursuing a large criminal platform, and with more unusual events springing up, such as Agora voluntarily shutting down only to be replaced by Abraxas, who is currently MIA. Arrests are plausible, and certainly not a stretch to assume, however, exit scams are far more prevalent than an event of this magnitude, so <strong>it’s important to note that this is all purely speculation. </strong></p>
 <p>There seems to be an array of puzzle pieces strewn across the dark net, and all we can do is try and put them together to form a bigger picture and a wider perspective of the situation. Let’s just hope that law enforcement doesn’t come along and solve the puzzle for us, as anything is possible at this point.</p>
 <p>Remember, stay safe and informed. Now more than ever, the community needs to come together and advocate safe practices while remaining vigilant.</p>
-</div>
-<a href="/tag/attacks/" rel="tag">attacks</a> <a href="/tag/ddos/" rel="tag">ddos</a> <a href="/tag/exit/" rel="tag">exit</a> <a href="/tag/largescale/" rel="tag">largescale</a> <a href="/tag/nodes/" rel="tag">nodes</a> </span> 
+
 Updated: 2015-11-14
-<a href="/author/chrismccandless/" title="Posts by Chris McCandless" rel="author">Chris McCandless</a></strong></div>
+
     

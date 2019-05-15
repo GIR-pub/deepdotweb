@@ -2,14 +2,11 @@
 title: "Darkode Forum Seized by Cross-Borders Task Force"
 ---
 
-11046  tag-crossborders tag-darkodecom tag-force tag-seized tag-task">
 Posted by: DeepDotWeb 
 
 <span>July 15, 2015</span>
 
 
-<span><a href="/2015/07/15/darkode-com-seized-by-cross-borders-task-force/#comments">3 Comments</a></span>
-</p>
 
     
 <p>Over 60 &#8220;hackers&#8221; arrested in joint operation between FBI, NCA, Europol and other law enforcement agencies in global crackdown on cybercrime black market</p>
@@ -31,8 +28,7 @@ Posted by: DeepDotWeb
 <p>And added that its still isn&#8217;t clear who are the users who got busted so everyone needs to be careful and try to weed their contacts while conducting business with them over instant messaging or PM&#8217;s on other forums.</p>
 <blockquote><p>Everyone is really paranoid</p></blockquote>
 <p>He added later. We will keep following and updating once more info becomes available.</p>
-</div>
-<a href="/tag/crossborders/" rel="tag">crossborders</a> <a href="/tag/darkodecom/" rel="tag">darkodecom</a> <a href="/tag/force/" rel="tag">force</a> <a href="/tag/seized/" rel="tag">seized</a> <a href="/tag/task/" rel="tag">task</a></span> 
+
 Updated: 2015-07-15
 
     

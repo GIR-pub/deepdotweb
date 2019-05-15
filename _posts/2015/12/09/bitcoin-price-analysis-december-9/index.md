@@ -2,12 +2,11 @@
 title: "Bitcoin Price Analysis: December 9"
 ---
 
-12509  tag-analysis tag-december tag-price
-Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>December 9, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/09/bitcoin-price-analysis-december-9/#comments">3 Comments</a></span>
+
+
 
 
 <p><a href="/imgs/2015/12/11.jpg"><img class="aligncenter size-full wp-image-12510" src="/imgs/2015/12/11.jpg" alt="1" width="1131" height="693" srcset="/imgs/2015/12/11.jpg 1131w, /imgs/2015/12/11-300x184.jpg 300w, /imgs/2015/12/11-1024x627.jpg 1024w" sizes="(max-width: 1131px) 100vw, 1131px"/></a></p>
@@ -41,7 +40,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/pesa_mic/" title="">pesa_m
 <p>Coindesk has a detailed <a href="http://www.coindesk.com/segregated-witness-bitcoin-block-size-debate/">coverage</a> of the scaling conference, and slides of the proposal <a href="https://prezi.com/lyghixkrguao/segregated-witness-and-deploying-it-for-bitcoin/">here</a></p>
 <p><strong>Bitcoin Weekly Price Forecast</strong></p>
 <p>This week I am bullish and expect this run to continue &#8211; upto a limited retest of $ 480. My first instincts are always to doubt popular market sentiment, which right now is incredibly bullish. I am however, aware of my bias and open to price going as far as $ 640. I advise a healthy dose of skepticism for balance, as we approach $ 500.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/analysis/" rel="tag">analysis</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/december/" rel="tag">december</a> <a href="https://www.deepdotweb.com/tag/price/" rel="tag">price</a></span> 
-Updated: 2015-12-09<a href="https://www.deepdotweb.com/author/pesa_mic/" title="Posts by pesa_mic" rel="author">pesa_mic</a></strong></div>
+
+Updated: 2015-12-09
 

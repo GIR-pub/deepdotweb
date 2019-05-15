@@ -2,7 +2,6 @@
 title: "Bitcoin News Roundup – 11 Jul.2015"
 ---
 
-11014  tag-1879 tag-jul2015 ">
 Posted by: DeepDotWeb 
 
 <span>July 11, 2015</span>
@@ -23,8 +22,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>Uber, the American transportation network company, negatesplans to integrate bitcoin payments in their platform. According to <a href="http://insidebitcoins.com/news/uber-now-denies-plans-to-integrate-bitcoin/33575">Inside Bitcoins</a>, the San-Francisco based company twists a previous statement related to potential bitcoin integration and denies that this story was ever true. The reason for this new development remains unknown, however it is strange that Uber is reluctant to work toward integrating bitcoin payments since this would accelerate the payment processes.</p>
 <p>Bitwala brings the email payment service to Europe. As Elliot Maras of <a href="https://www.cryptocoinsnews.com/bitcoin-email-payment-comes-europe/">CryptoCoins News</a> writes, the Netherlands-based bitcoin payment service has introduced EmailPay, a bitcoin email payment service that allows registered users to send a bitcoin payment using their email address. The settlement is in euros in the European Commission’s Single Euro Payments Area (SEPA).</p>
-</div>
-<a href="/tag/11/" rel="tag">11</a> <a href="/tag/jul2015/" rel="tag">jul2015</a>  </span> 
+
 Updated: 2015-07-11
 
     

@@ -2,13 +2,10 @@
 title: "Manchester: Teenager Admits Trying To Buy Deadly Toxin From Dark Net"
 ---
 
-9917 tag-admits tag-buy tag-deadly tag-manchester tag-teenager tag-toxin
 Posted by: DeepDotWeb 
 
 <span>April 8, 2015</span>
 
-<span><a href="/2015/04/08/manchester-teenager-admits-trying-to-buy-deadly-toxin-from-dark-net/#comments">7 Comments</a></span>
-</p>
 
 <p>According to <a href="http://www.gmp.police.uk/content/SocialTwitterFeed/A391702C29DD7E8D80257E210039C813">Greater Manchester police</a>,  as always with this type of products, from an undercover vendor:</p>
 <blockquote><p>A 16-year-old boy who ordered a potentially deadly toxin from the dark web has pleaded guilty.</p>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p>On 6 February 2015, the 16-year-old attempted to place an order and also suggested he would make future purchases in larger quantities.</p>
 <p>On 16 February 2015, warrants were executed at two addresses in the Mossley area of Greater Manchester and the 16-year-old boy was arrested.</p>
 <p>A 16-year-old girl was also arrested as part of the investigation but later released without charge.</p></blockquote>
-</div>
-<a href="/tag/admits/" rel="tag">admits</a> <a href="/tag/deadly/" rel="tag">deadly</a> <a href="/tag/manchester/" rel="tag">manchester</a> <a href="/tag/teenager/" rel="tag">teenager</a> <a href="/tag/toxin/" rel="tag">toxin</a></span> 
+
 Updated: 2015-04-08
 
     

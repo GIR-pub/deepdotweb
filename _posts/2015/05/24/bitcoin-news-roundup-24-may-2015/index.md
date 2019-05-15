@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 24 May 2015"
 ---
 
-10385  tag-2524 tag-1898 
 Posted by: DeepDotWeb 
 
 <span>May 24, 2015</span>
 
 
-<span><a href="/2015/05/24/bitcoin-news-roundup-24-may-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The New York Stock Exchange favors the bitcoin, seeking to launch a bitcoin pricing index. As Seth Fiegerman of <a href="http://mashable.com/2015/05/19/new-york-stock-exchange-bitcoin/">Mashable</a> reports, following Bloomberg, Google and NASDAQ, the NYSE aims to introduce a leading bitcoin valuation system, providing investors with price information. Tom Farley, NYSE president states that <em>“We are now going to use our name, reputation and global index provider stature to provide bitcoin values that the rest of the market can look to.”</em>The new index will be seen on the NYSE Global index feed.</p>
@@ -23,8 +20,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>E-Coin partners with BitGo for greater security in bitcoin transactions. As Scott Fargo of <a href="http://insidebitcoins.com/news/bitcoin-debit-card-issuer-e-coin-partners-with-bitgo/32668">Inside Bitcoins</a>reports, E-Coin, the bitcoin debit card provider has entered a partnership with BitGo, the renowned bitcoin wallet platform, aiming to offer their customers improved safety of their bitcoin accounts as well as faster and more efficient transfer of funds.</p>
 <p>Yellow, the bitcoin startup, launches a bitcoin voucher service in Egypt. As Joseph Young of <a href="http://cointelegraph.com/news/114287/yellow-launches-bitcoin-voucher-service-in-egypt-despite-countrys-tough-market">Coin Telegraph</a> writes,eventtus.com is expected to increase the bitcoin liquidity in Egypt as statistics show that only 10% of the population know how to use a credit card or has a bank account. Additionally, although Egypt has a very low credit card penetration rate (2%), it is the first country in the MENA region allowed to trade bitcoin for the local currency (Egyptian Pound).</p>
-</div>
- <a href="/tag/24/" rel="tag">24</a>  </span> 
+
 Updated: 2015-05-24
 
     

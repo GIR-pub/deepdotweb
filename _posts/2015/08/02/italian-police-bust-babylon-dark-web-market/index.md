@@ -2,12 +2,11 @@
 title: "Italian police Bust &#8220;Babylon&#8221; Dark Web Market"
 ---
 
-11165 tag-babylon tag-bust tag-dark tag-italian tag-police tag-web
 Posted by: DeepDotWeb 
 
 <span>August 2, 2015</span>
 
-<span><a href="/2015/08/02/italian-police-bust-babylon-dark-web-market/#comments">5 Comments</a></span>
+
 
 
 <section class="page">Italian police have shut down a Dark Web marketplace offering illegal goods ranging from child pornography to forged luncheon vouchers, and seized 11,000 bitcoin wallets worth about 1 million euros, authorities said Friday.</p>
@@ -23,4 +22,4 @@ Posted by: DeepDotWeb
 <p>Article Source: <a href="http://www.pcworld.com/article/2955572/italian-police-shutter-dark-web-marketplace.html" target="_blank">http://www.pcworld.com/article/2955572/italian-police-shutter-dark-web-marketplace.html</a></p>
 </section>
 </div>
-<a href="/tag/babylon/" rel="tag">babylon</a>   <a href="/tag/italian/" rel="tag">italian</a> <a href="/tag/marketplace/" rel="tag">marketplace</a> Updated: 2015-08-02
+ Updated: 2015-08-02

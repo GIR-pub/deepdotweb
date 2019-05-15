@@ -2,20 +2,14 @@
 title: "This week on Bitcoin markets &#038; Price Analysis &#8211; 13th May"
 ---
 
-10282  
-    
-    
-        
 
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic </a></span>
+Posted by: pesa_mic </a></span>
     
     
 <span>May 13, 2015</span>
 
 
     
-<span><a href="/2015/05/13/this-week-on-bitcoin-markets-price-analysis-13th-may/#respond">Leave a comment</a></span>
-</p>
 
     
 <p><a href="/imgs/2015/05/12.jpg"><img class="aligncenter size-full wp-image-10283" src="/imgs/2015/05/12.jpg" alt="1" width="588" height="460" srcset="/imgs/2015/05/12.jpg 588w, /imgs/2015/05/12-300x235.jpg 300w" sizes="(max-width: 588px) 100vw, 588px" /></a></p>
@@ -49,8 +43,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic </a></span>
     
     
 
-<a href="/tag/markets/" rel="tag">markets</a> </span>				
-Updated: 2015-05-13
+ Updated: 2015-05-13
 
     
     

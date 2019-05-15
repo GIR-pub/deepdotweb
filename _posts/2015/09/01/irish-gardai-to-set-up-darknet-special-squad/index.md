@@ -2,12 +2,11 @@
 title: "Irish Gardaí To Set Up Darknet Special Squad"
 ---
 
-11389 category-news
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>September 1, 2015</span>
 
-<span><a href="/2015/09/01/irish-gardai-to-set-up-darknet-special-squad/#comments">1 Comment</a></span>
+
 
 
 <p>For those of you who are constantly following the news of the deep web, it won’t come as a surprise that there are several governmental and federal actions against ”darknet criminals”. Just in the past month, <a href="/2015/08/02/interpol-creates-darknet-training-course/">the Interpol has created a ”darknet training course”</a> that will help law enforcement authorities to catch DNM drug dealers, pedophiles, hackers and other kinds of deep net criminals more effectively. Canada has also come up with a new idea, the <a href="/2015/08/05/canadian-federal-police-to-develop-deep-web-crawler/">Canadian government is developing a deep net crawler</a> that will make LE’s job easier when dealing with darknet criminals and websites.</p>
@@ -15,7 +14,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>The official statement goes by:</p>
 <p>” Gardaí have established an ad-hoc specialist undercover cyber crime unit to target drug dealers and other criminals using the dark net to do their business.”</p>
 <p>We haven’t heard much news about darknet dealings on the darknet (arrests, police busts, etc.), however, <a href="/2014/11/06/major-darknet-related-bust-ireland/">Operation Onymous has resulted in the raid of a ”darknet distribution center” in Dublin</a>. The Gardaí has reached the drug dealers via the dark web and has seized more than $200.000 worth of drugs, including LSD, ecstasy, and weed. The ”darknet distribution center” term has been used in the official article about the bust, however, it was, most probably, an Irish Vendor on SR2 before the Gardaí has busted the two men in late 2014.</p>
-</div>
 
-Updated: 2015-09-01<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+Updated: 2015-09-01
 

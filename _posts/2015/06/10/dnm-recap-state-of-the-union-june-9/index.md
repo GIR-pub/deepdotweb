@@ -2,14 +2,11 @@
 title: "DNM Recap: State of the Union June 10"
 ---
 
-10660  tag-dnm tag-june tag-recap tag-state tag-union
 Posted by: DeepDotWeb 
 
 <span>June 10, 2015</span>
 
 
-<span><a href="/2015/06/10/dnm-recap-state-of-the-union-june-9/#comments">6 Comments</a></span>
-</p>
 
 <p>Last Tuesday, freshly-started Poseidon Market (http://poseidonzskufuwb.onion) was <a href="/2015/06/02/poseidon-market-doxxed-hosting-location-revealed/">doxxed on the day of its birth</a>, with its server location revealed by The Real Deal admin. The Poseidon administrator commented within hours, noting that the error had been fixed and the server location moved.</p>
 <p>On Wednesday, we <a href="/2015/06/03/interview-with-mr-nice-guy-market-admin/">published an interview with Mr. Nice Guy</a>, the market admin responsible for the DDoS attacks which took place through mid- to late May and caused weeks of downtime for major markets such as Agora, Nucleus, Middle Earth, Abraxas, and three others. In the interview, Mr. Nice Guy responds to a proposal—<a href="/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">leaked last Sunday</a>—that he made to his attackers, asking them to coordinate with him and run his market as a fractional reserve and exit scam, with the end goal being the theft of users’ coins and the payment of up to US$2 million to the DDoSers in the form of a partnership in exchange for immunity from the attacks. According to Mr. Nice Guy, the proposal was entirely strategic and meant to give him the upper hand, being a much smaller market with much less money to blow than larger ones:</p>
@@ -21,8 +18,7 @@ Posted by: DeepDotWeb
 <p>On Monday, the Haarlem court extended the remand of three large, Dutch, Silk Road-era vendors. Fifty-five year-old HollandOnline, arrested in December 2014 after a policeman observed an in-person drug deal, was arguably the largest Dutch vendor in operation; following his arrest, authorities confiscated over a kilogram of MDMA, 9 kilograms of ecstasy pills, and 400k euros in cash and BTC, along with additional ecstasy tablets, MDMA, and LSD sheets in his vehicle. Also arrested was twenty-five year-old AmsterdamUnited, the supplier of the other two men involved in the trial, including twenty-four year-old Evolution vendor AlbertHeijn, whose arrest resulted in the seizure of cash and 487 BTC (~US$112k) by the authorities. The next trial hearing is scheduled for September 1.</p>
 <p>Today, we <a href="/2015/06/09/reflections-on-the-global-drug-survey-view-on-dark-net-markets/">published a reflection</a> on the recently released Global Drug Survey, which included data about darknet markets in its report. The data shows that 45% of DNM users consume the same range of drugs as previously, with 30% saying that they consume a wider range of drugs than previously; the data also shows that Sweden has the highest per-capita DNM use, with over 18.0% of the sample population admitting they have bought drugs over the darknet within the past 12 months. Sweden is followed by Poland with 13.9%, then Norway with 11.7%, Denmark with 11.6%, the UK with 12.2%, and Scotland with 11.1%. The United States is comparatively uninvolved with darknet markets it would seem, despite the American nationality of multiple DNM creators and administrators (including the original Silk Road), with only 8% of the sample population admitting to having ordered drugs over the darknet within the last 12 months.</p>
 <p>Ultimately, it has been a relatively uneventful week in the darknet; stay tuned throughout the week for regular updates from DeepDot, and don’t be afraid to subscribe to receive email notifications of new posts (which you can do on any page). As always, be mindful of security and suspicious of new markets; above all else, protect yourself and use TOR, and never forget to PGP-encrypt sensitive information. Stay frosty.</p>
-</div>
-<a href="/tag/dnm/" rel="tag">dnm</a> <a href="/tag/state/" rel="tag">state</a> <a href="/tag/union/" rel="tag">union</a></span> 
+
 Updated: 2015-06-10
 
     

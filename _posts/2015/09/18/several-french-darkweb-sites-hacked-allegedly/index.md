@@ -2,12 +2,11 @@
 title: "Several French DarkWeb Sites Hacked, Allegedly."
 ---
 
-11566 tag-allegedly tag-darkweb tag-french tag-hacked tag-sites
 Posted by: DeepDotWeb 
 
 <span>September 18, 2015</span>
 
-<span><a href="/2015/09/18/several-french-darkweb-sites-hacked-allegedly/#comments">8 Comments</a></span>
+
 
 
 <p>According to a report translated from <a href="http://www.zataz.com/infiltration-dans-le-blackmarket-francophone/">Zataz.com</a> magazine (Thanks to <a href="https://twitter.com/Schmittounet">@Schmittounet</a> for the translation!):</p>
@@ -23,6 +22,5 @@ Posted by: DeepDotWeb
 <p>According to the report &#8211; <a href="http://www.zataz.com/infiltration-dans-le-blackmarket-francophone/">ZATAZ.COM</a> were been able to access to some presumed proofs: screenshots from a privates messages section which belongs to one of the blackmarket admins.</p>
 <p>DeepDotWeb were not able to verify if these claims are indeed real &#8211; but able to confirm that some of these alleged hacked markets has been down for the past few days according to our stats.</p>
 <p><a href="/imgs/2015/09/fdw.png"><img class="aligncenter size-full wp-image-11568" src="/imgs/2015/09/fdw.png" alt="fdw" width="423" height="208" srcset="/imgs/2015/09/fdw.png 423w, /imgs/2015/09/fdw-300x148.png 300w" sizes="(max-width: 423px) 100vw, 423px"/></a></p>
-</div>
-<a href="/tag/allegedly/" rel="tag">allegedly</a> <a href="/tag/darkweb/" rel="tag">darkweb</a> <a href="/tag/french/" rel="tag">french</a> <a href="/tag/hacked/" rel="tag">hacked</a> <a href="/tag/sites/" rel="tag">sites</a></span> 
+
 Updated: 2015-09-18

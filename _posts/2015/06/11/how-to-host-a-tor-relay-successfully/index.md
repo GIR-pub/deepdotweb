@@ -2,100 +2,41 @@
 title: "How to Host a Tor Relay Successfully?"
 ---
 
-9270  tag-relay tag-successfully 
 
-Posted by: <a href="/author/dave/" title="">Dave 
+Posted by: Dave 
 
 <span>June 11, 2015</span>
     
-<span><a href="/2015/06/11/how-to-host-a-tor-relay-successfully/#comments">4 Comments</a></span>
-</p>
 
 <p>Hello everyone. My name is Dave, and today I will be teaching you on how to successfully host your own Tor relay on a Ubuntu 14.04 x64 VPS. The general method should be the same across most major Linux distros as well.</p>
 <p>I have noticed a distinct lack of simple and clear tutorials on how to do this, so I am hoping that this will be the first mainstream one available.</p>
 <p>The first thing you are going to want to do is run &#8220;sudo apt-get update &amp;&amp; sudo apt-get upgrade&#8221; and accept all of the updates to the packages. This just makes sure we have the most up to date software for your systems security.</p>
 <p><a href="/imgs/2015/02/2LWOauG1.png"><img class="aligncenter size-full wp-image-9272" src="/imgs/2015/02/2LWOauG1.png" alt="2LWOauG[1]" width="642" height="386" srcset="/imgs/2015/02/2LWOauG1.png 642w, /imgs/2015/02/2LWOauG1-300x180.png 300w" sizes="(max-width: 642px) 100vw, 642px"/></a></p>
 <p>After this is completed, you are going to want to edit the /etc/apt/sources.list with your favourite editor, and add the following lines.</p>
-<div id="crayon-594a7fed96da3867398863" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     deb http://deb.torproject.org/torproject.org trusty main
     deb-src http://deb.torproject.org/torproject.org trusty main</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594a7fed96da3867398863-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-594a7fed96da3867398863-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594a7fed96da3867398863-1"><span class="crayon-e">deb </span><span class="crayon-v">http</span><span class="crayon-o">:</span><span class="crayon-c">//deb.torproject.org/torproject.org trusty main</span></div><div class="crayon-line crayon-striped-line" id="crayon-594a7fed96da3867398863-2"><span class="crayon-v">deb</span><span class="crayon-o">-</span><span class="crayon-e">src </span><span class="crayon-v">http</span><span class="crayon-o">:</span><span class="crayon-c">//deb.torproject.org/torproject.org trusty main</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     After you have added those two lines into the sources list, copy, paste, and run the following two lines separately as two different commands. It&#8217;s very important that you copy and paste each line correctly.</p>
-<div id="crayon-594a7fed96db0020280569" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     gpg --keyserver keys.gnupg.net --recv 886DDD89
     gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | sudo apt-key add -</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594a7fed96db0020280569-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-594a7fed96db0020280569-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594a7fed96db0020280569-1"><span class="crayon-v">gpg</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-e">keyserver </span><span class="crayon-v">keys</span><span class="crayon-sy">.</span><span class="crayon-v">gnupg</span><span class="crayon-sy">.</span><span class="crayon-v">net</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-i">recv</span><span class="crayon-h"> </span><span class="crayon-cn">886DDD89</span></div><div class="crayon-line crayon-striped-line" id="crayon-594a7fed96db0020280569-2"><span class="crayon-v">gpg</span><span class="crayon-h"> </span><span class="crayon-o">--</span><span class="crayon-e">export </span><span class="crayon-v">A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89</span><span class="crayon-h"> </span><span class="crayon-o">|</span><span class="crayon-h"> </span><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">key </span><span class="crayon-v">add</span><span class="crayon-h"> </span><span class="crayon-o">-</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     Once you have ran those two commands, run one more apt-get update &amp;&amp; apt-get upgrade command, and then finally, we are ready to install the latest stable version of Tor!</p>
-<div id="crayon-594a7fed96db5336501652" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo apt-get update &amp;amp;&amp;amp; sudo apt-get upgrade
     apt-get install tor deb.torproject.org-keyring</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594a7fed96db5336501652-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-594a7fed96db5336501652-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594a7fed96db5336501652-1"><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-v">update</span><span class="crayon-h"> </span><span class="crayon-o">&amp;</span><span class="crayon-v">amp</span><span class="crayon-sy">;</span><span class="crayon-o">&amp;</span><span class="crayon-v">amp</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">upgrade</span></div><div class="crayon-line crayon-striped-line" id="crayon-594a7fed96db5336501652-2"><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-e">tor </span><span class="crayon-v">deb</span><span class="crayon-sy">.</span><span class="crayon-v">torproject</span><span class="crayon-sy">.</span><span class="crayon-v">org</span><span class="crayon-o">-</span><span class="crayon-v">keyring</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     Tor is now installed, and we are ready to get down and dirty with configuring and starting your Tor node. Make sure that Tor is not running before we begin to make any changes to the torrc file, or the changes will not take place. To do this, make sure you run the following command.</p>
-<div id="crayon-594a7fed96db9656382350" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo service tor stop</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594a7fed96db9656382350-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594a7fed96db9656382350-1"><span class="crayon-e">sudo </span><span class="crayon-e">service </span><span class="crayon-e">tor </span><span class="crayon-v">stop</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     Once that is done, we can use our favourite editor to edit the magic file known as &#8220;torrc&#8221;, located in the /etc/tor/ folder on our VPS. This file contains all of the options to run Tor as a hidden service, as a bridge, and for today&#8217;s tutorial, a Tor relay.</p>
@@ -118,23 +59,9 @@ Posted by: <a href="/author/dave/" title="">Dave
 <p>You don&#8217;t hurt the Tor network by not being an exit node at all, so it is no worry if you want do not want to be. Just uncomment the last ExitPolicy option I did in the picture. If you do want to be an exit node, leave all of them commented just like they are.</p>
 <p><a href="/imgs/2015/02/1unQhB51.png"><img class="aligncenter size-full wp-image-9279" src="/imgs/2015/02/1unQhB51.png" alt="1unQhB5[1]" width="662" height="434" srcset="/imgs/2015/02/1unQhB51.png 662w, /imgs/2015/02/1unQhB51-300x197.png 300w" sizes="(max-width: 662px) 100vw, 662px"/></a></p>
 <p>Once you make sure everything is to your liking, start up Tor again with the command below, viola! You are running your own Tor relay, heloing users around the world have safer and more anonymous internet!</p>
-<div id="crayon-594a7fed96dca811675167" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo service tor start</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594a7fed96dca811675167-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594a7fed96dca811675167-1"><span class="crayon-e">sudo </span><span class="crayon-e">service </span><span class="crayon-e">tor </span><span class="crayon-v">start</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     A few things to keep in mind that are not really listed in any help file before we end the tutorial. One, is that your relay may not be listed for a few hours on sites like <a href="https://globe.torproject.org/">Globe</a> or <a href="https://atlas.torproject.org/">Atlas</a>. It takes a bit. Don&#8217;t go restarting your VPS or anything.</p>
@@ -144,8 +71,7 @@ Posted by: <a href="/author/dave/" title="">Dave
     Well, this about covers the tutorial on how to host your own Tor relay. If you have any questions, feel free to ask them in the comments below.</p>
 <p>Thank you all so much, and thank you for your interest in helping the Tor community.</p>
 <p><strong>This tutorial is by Dave, who can be reached at tor@8chan.co</strong></p>
-</div>
- <a href="/tag/relay/" rel="tag">relay</a> <a href="/tag/successfully/" rel="tag">successfully</a> </span> 
+
 Updated: 2015-06-11
-<a href="/author/dave/" title="Posts by Dave" rel="author">Dave</a></strong></div>
+
     

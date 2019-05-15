@@ -2,13 +2,10 @@
 title: "The Dark Web, Deep Web and Dark Net – Terminology Hell"
 ---
 
-10608  tag-dark tag-net tag-terminology tag-web
 Posted by: DeepDotWeb 
 
 <span>June 8, 2015</span>
     
-<span><a href="/2015/06/08/the-dark-web-deep-web-and-dark-net-terminology-hell/#comments">7 Comments</a></span>
-</p>
 
 <p><em>Post by <a href="https://twitter.com/Deku_shrub">@Deku_shrub</a> &#8211; Pirate Party UK and digital rights activist, transhumanist and systems administrator</em>:</p>
 <p>I’ve recently completed some major work <a href="https://en.wikipedia.org/wiki/User:Deku-shrub">on Wikipedia</a> trying to provide strong definitions of these terms.</p>
@@ -25,6 +22,6 @@ Posted by: DeepDotWeb
 <li><a href="https://en.wikipedia.org/wiki/Deep_Web_%28search_indexing%29">Deep Web (search indexing)</a></li>
 </ul>
 </div>
- <a href="/tag/net/" rel="tag">net</a> <a href="/tag/terminology/" rel="tag">terminology</a> Updated: 2015-06-08
+  Updated: 2015-06-08
 
     

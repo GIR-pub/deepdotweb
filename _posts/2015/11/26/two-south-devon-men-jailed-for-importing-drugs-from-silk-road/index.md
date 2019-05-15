@@ -2,8 +2,7 @@
 title: "Two South Devon Men Jailed For Importing Drugs From Silk Road"
 ---
 
-12312  tag-devon tag-importing tag-jailed tag-men tag-south">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 26, 2015</span>
 
@@ -26,8 +25,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>&#8220;He gave his own identification details to Western Union and the drugs were sent to his home address, there was nothing sophisticated in it.”</p>
 <p>&#8220;He feels taken advantage of.&#8221;</p>
 <p>&#8220;He is hard working and works for the local authority.”</p>
-</div>
-<a href="/tag/devon/" rel="tag">devon</a>  <a href="/tag/importing/" rel="tag">importing</a> <a href="/tag/jailed/" rel="tag">jailed</a> <a href="/tag/men/" rel="tag">men</a>  <a href="/tag/south/" rel="tag">south</a></span> 
+
 Updated: 2015-11-26
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

@@ -2,14 +2,11 @@
 title: "Gwern: Archives of ALL Dark Net Market Released"
 ---
 
-11056  tag-dark tag-net tag-released">
 Posted by: DeepDotWeb 
 
 <span>July 16, 2015</span>
 
 
-<span><a href="/2015/07/16/gwern-archives-of-all-dark-net-market-released/#comments">6 Comments</a></span>
-</p>
 
     
 <p>Another important contribution from <a href="http://www.gwern.net/">Gwern</a>, and this time the full archives of all Dark Net Markets &#8211; From 2011 until 2015. Links to the archives are available at:</p>
@@ -19,23 +16,9 @@ Posted by: DeepDotWeb
 <li><a href="http://www.gwern.net/Black-market%20archives">Writeup on Gwern.net</a></li>
 </ul>
 <p><strong>Please consider donating to Gwern at this address:</strong></p>
-<div id="crayon-594aa09636f58417073658" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594aa09636f58417073658-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594aa09636f58417073658-1"><span class="crayon-cn">1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <span style="text-decoration: underline;">From the writeup:</span></p>
@@ -86,28 +69,13 @@ Posted by: DeepDotWeb
 <p>I give you back your memories.</p></blockquote>
 <p><strong>On the behalf of DeepDotWeb, i want to thank Gwern for everything that he have done for this community.</strong></p>
 <p>Please consider Donating to Gwern at:</p>
-<div id="crayon-594aa09636f78413844691" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-594aa09636f78413844691-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-594aa09636f78413844691-1"><span class="crayon-cn">1GWERNi49LgEb5LpvxxGFSuVYo2K3BDRdo</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
-    &nbsp;</p>
-</div>
-<a href="/tag/archives/" rel="tag">archives</a>   <a href="/tag/net/" rel="tag">net</a> <a href="/tag/released/" rel="tag">released</a></span> 
+
+
 Updated: 2015-07-16
 
     

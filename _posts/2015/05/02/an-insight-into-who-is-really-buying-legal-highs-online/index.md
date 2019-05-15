@@ -2,13 +2,10 @@
 title: "An Insight Into Who Is Really Buying Legal Highs Online"
 ---
 
-10172  tag-buying tag-highs tag-insight tag-legal tag-online
 Posted by: DeepDotWeb 
 
 <span>May 2, 2015</span>
     
-<span><a href="/2015/05/02/an-insight-into-who-is-really-buying-legal-highs-online/#comments">8 Comments</a></span>
-</p>
 
 <p><em>Guest Post</em> &#8211; The spotlight looming over legal highs doesn’t seem to be going away. The world has become obsessed with the latest in the legal highs world and the on-going battle to get these substances banned.</p>
 <p>If you don’t already know, confiscated drugs are tested by government experts and if they are believed to be dangerous, the substances are banned individually. Some manufacturers tweak ingredients to make a new drug with similar effects, but isn’t illegal. On Friday April 10<sup>th</sup> the government announced a temporary banning order on ethylphenidate and related products.</p>
@@ -68,8 +65,7 @@ Posted by: DeepDotWeb
 <p><em><a href="/imgs/2015/05/8.jpg"><img class="aligncenter size-full wp-image-10180" src="/imgs/2015/05/8.jpg" alt="8" width="248" height="300" /></a> </em></p>
 <p>Data from <a href="http://www.iceheadshop.co.uk/">Ice Headshop’s</a> Google Analytics account from October 2014 – April 2015.</p>
 <p>*Please note ICE Headshop does not condone human consumption of any of their products as they are not FDA approved.</p>
-</div>
-<a href="/tag/buying/" rel="tag">buying</a> <a href="/tag/highs/" rel="tag">highs</a> <a href="/tag/insight/" rel="tag">insight</a> <a href="/tag/legal/" rel="tag">legal</a> </span> 
+
 Updated: 2015-05-02
 
     

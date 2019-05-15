@@ -2,15 +2,13 @@
 title: "Urgent PSA: Stop Doxxing Yourself!!"
 ---
 
-9775  tag-doxxing tag-psa tag-stop tag-urgent
 Posted by: DeepDotWeb 
 
-<span>March 30, 2015</span>
-<span>in <a href="/category/news/" rel="category tag">News</a>, 
-<span><a href="/2015/03/30/urgent-psa-stop-doxxing-yourself/#comments">18 Comments</a></span>
+<span>March 30, 2015</span><a href="/category/news/" rel="category tag">News</a>, 
 
 
-<p>With the recent massive influx of traffic on this site, since <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evo went down</a> and even more since <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora is down</a>, there is also a massive influx of people doing all they can to doxx themselves (<a href="http://www.deepdotweb.com/2014/03/02/deepdotwebs-darknet-dictionary/">post their own personal details</a>) <span style="text-decoration: underline;">along with incriminating information</span> like:</p>
+
+<p>With the recent massive influx of traffic on this site, since <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evo went down</a> and even more since <a href="/marketplace-directory/listing/agora-market">Agora is down</a>, there is also a massive influx of people doing all they can to doxx themselves (<a href="/2014/03/02/deepdotwebs-darknet-dictionary/">post their own personal details</a>) <span style="text-decoration: underline;">along with incriminating information</span> like:</p>
 <ul>
 <li>What they ordered</li>
 <li>From which vendor</li>
@@ -39,6 +37,5 @@ Posted by: DeepDotWeb
 <li>Have trouble understanding why you shouldn&#8217;t be doing those things</li>
 </ol>
 <p>Please find yourself some other online activities.</p>
-</div>
-<a href="/tag/doxxing/" rel="tag">doxxing</a> <a href="/tag/psa/" rel="tag">psa</a> <a href="/tag/stop/" rel="tag">stop</a> <a href="/tag/urgent/" rel="tag">urgent</a></span> 
+
 Updated: 2015-03-30

@@ -2,13 +2,12 @@
 title: "University Helped FBI In Silk Road 2 And Child Porn Busts"
 ---
 
-12165  tag-busts tag-child tag-helped tag-porn tag-university">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 15, 2015</span>
 
 
-<span><a href="/2015/11/15/university-helped-fbi-in-silk-road-2-and-child-porn-busts/#comments">1 
+
 
 
     
@@ -25,8 +24,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>Farell wasn’t the only one who had to appear before court for different charges that came from the mysterious SOI. Gabriel Peterson-Siler, who’s hearing was held at November 1, was charged with the possession of child pornography. In June 2014, the same time interval Farrell&#8217;s IP address was provided to the FBI, an investigation into Peterson-Siler shown an IP address that belonged to the man. After his house was searched in September 2014, he was charged for possession of child pornography in April of this year, and pleaded not guilty to all charges. Peterson-Siler’s defense requested the same information and evidence on the source that provided the IP address that led to the man’s bust.</p>
 <p>It is not confirmed, though, but there’s a big chance that the SOI academic institute was the Carnegie Mellon University, where researchers have been paid at least $1 million by the FBI. The Tor Project published this in a <a href="https://blog.torproject.org/blog/did-fbi-pay-university-attack-tor-users">blog post</a>:</p>
 <p>&#8220;Civil liberties are under attack if law enforcement believes it can circumvent the rules of evidence by outsourcing police work to universities. If academia uses &#8220;research&#8221; as a stalking horse for privacy invasion, the entire enterprise of security research will fall into disrepute. Legitimate privacy researchers study many online systems, including social networks — If this kind of FBI attack by university proxy is accepted, no one will have meaningful 4th Amendment protections online and everyone is at risk.&#8221;</p>
-</div>
-<a href="/tag/busts/" rel="tag">busts</a> <a href="/tag/child/" rel="tag">child</a> <a href="/tag/helped/" rel="tag">helped</a> <a href="/tag/porn/" rel="tag">porn</a>  <a href="/tag/university/" rel="tag">university</a></span> 
+
 Updated: 2015-11-15
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

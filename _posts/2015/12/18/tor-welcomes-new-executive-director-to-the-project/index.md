@@ -2,12 +2,11 @@
 title: "Tor Welcomes New Executive Director To The Project"
 ---
 
-12662 tag-director tag-executive tag-project  tag-welcomes">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 18, 2015</span>
 
-<span><a href="/2015/12/18/tor-welcomes-new-executive-director-to-the-project/#comments">1 
+
 
 
     
@@ -18,8 +17,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>”She shares our core values, she brings leadership in managing and coordinating people, she has huge experience in growing a key non-profit in our space, and her work pioneering EFF&#8217;s community-based funding model will be especially valuable as we continue our campaign to diversify our funding sources.”</p>
 <p>”Tor is part of a larger family of civil liberties organizations, and this move makes it clear that Tor is a main figure in that family. Nick and I will focus short-term on shepherding a smooth transition out of our &#8220;interim&#8221; roles, and after that we are excited to get back to our old roles actually doing technical work. I&#8217;ll let Shari pick up the conversation from here, in her upcoming blog post.”</p>
 <p>”Please everybody join me in welcoming Shari!”</p>
-</div>
-<a href="/tag/director/" rel="tag">director</a> <a href="/tag/executive/" rel="tag">executive</a> <a href="/tag/project/" rel="tag">project</a>  <a href="/tag/welcomes/" rel="tag">welcomes</a></span> 
+
 Updated: 2015-12-18
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

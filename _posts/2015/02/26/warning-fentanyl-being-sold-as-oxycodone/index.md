@@ -2,13 +2,12 @@
 title: "Warning: Fentanyl Being Sold As Oxycodone"
 ---
 
-9324 tag-fentanyl tag-oxycodone  
 
 Posted by: DeepDotWeb 
 
 <span>February 26, 2015</span>
 
-<span><a href="/2015/02/26/warning-fentanyl-being-sold-as-oxycodone/#respond">Leave a comment</a></span>
+
 
 
 <p>Warning! Vendor named &#8220;Dbaggins&#8221; is selling Fentanyl pills As Oxycodone &#8211;  Reddit user submitted a pill to be analyzed and this is the result:</p>
@@ -18,6 +17,5 @@ Posted by: DeepDotWeb
 <p><a href="http://www.ecstasydata.org/view.php?id=3476">http://www.ecstasydata.org/view.php?id=3476</a></p>
 <p>Soo yeah&#8230;stay away..</p></blockquote>
 <p><a href="/imgs/2015/02/eth.png"><img class="aligncenter size-full wp-image-9325" src="/imgs/2015/02/eth.png" alt="eth" width="727" height="630" srcset="/imgs/2015/02/eth.png 727w, /imgs/2015/02/eth-300x260.png 300w" sizes="(max-width: 727px) 100vw, 727px"/></a>Link to the original discussion on reddit &#8211; <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2x72ze/dbaggins_ecstasydataorg/">Here</a></p>
-</div>
-<a href="/tag/fentanyl/" rel="tag">fentanyl</a> <a href="/tag/oxycodone/" rel="tag">oxycodone</a> <a href="/tag/sold/" rel="tag">sold</a> <a href="/tag/warning/" rel="tag">warning</a></span> 
+
 Updated: 2015-02-26

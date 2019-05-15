@@ -2,14 +2,11 @@
 title: "Hospital Radiographer Sentenced For Huge Child Porn Collection"
 ---
 
-12785  tag-child tag-collection tag-hospital tag-huge tag-porn tag-radiographer tag-sentenced">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>December 31, 2015</span>
 
 
-<span><a href="/2015/12/31/hospital-radiographer-sentenced-for-huge-child-porn-collection/#comments">11 Comments</a></span>
-</p>
 
     
 <p><a href="http://www.mirror.co.uk/news/uk-news/warped-radiographer-jailed-possessing-more-7058133">Christopher Daldorph (45), a hospital radiographer from Weston-super-Mare, has been sentenced to 2 years and 4 months by Bristol Crown Court for the possession of a huge child porn collection.</a> According to the law enforcement authorities, 141,539 child porn images and videos were found on the man’s computer, but officials believe that his full collection had more than a million images and videos. Police are currently crawling through the man’s computer trying to find more child pornography material.</p>
@@ -21,8 +18,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>The former hospital radiographer pleaded guilty to nine child porn related charges and one count of possessing extreme pornography.</p>
 <p>Christian Hall, NCA investigator leading the case against Daldorph, made this statement:</p>
 <p>&#8220;Daldorph was responsible for amassing hundreds of thousands of indecent images, some of them the most extreme possible involving very young children. Each of those involved a child being abused in some of the worst ways imaginable. While we have no evidence to show he committed any contact offences himself, what he has done has perpetuated demand for products that can only be produced through the abuse of children.&#8221;</p>
-</div>
-<a href="/tag/child/" rel="tag">child</a> <a href="/tag/collection/" rel="tag">collection</a> <a href="/tag/hospital/" rel="tag">hospital</a> <a href="/tag/huge/" rel="tag">huge</a> <a href="/tag/porn/" rel="tag">porn</a> <a href="/tag/radiographer/" rel="tag">radiographer</a> <a href="/tag/sentenced/" rel="tag">sentenced</a></span> 
+
 Updated: 2015-12-31
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

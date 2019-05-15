@@ -2,8 +2,7 @@
 title: "This week on Bitcoin markets. . . 15th July"
 ---
 
-11033  tag-15th tag-july ">
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>July 15, 2015</span>
 
@@ -33,8 +32,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>As per EW, wave 3 is expected to be the longest; we are now in the middle of its unfolding..</p>
 <p><a href="/imgs/2015/07/61.jpg"><img class="aligncenter size-full wp-image-11039" src="/imgs/2015/07/61.jpg" alt="6" width="922" height="445" srcset="/imgs/2015/07/61.jpg 922w, /imgs/2015/07/61-300x145.jpg 300w" sizes="(max-width: 922px) 100vw, 922px"/></a></p>
 <p>The overall bear channel offers a better view of where we are now. Upper and lower purple lines delineate a channel attempting to break out of long term bear channel. Consecutive green candles are approaching the mid-line where, prices should encounter some resistance. If successfully broken, the upper resistance line would be the next target. These levels reinforces targets from indicators and historical levels.</p>
-</div>
-<a href="/tag/15th/" rel="tag">15th</a>  <a href="/tag/markets/" rel="tag">markets</a> </span> 
+
 Updated: 2015-07-15
 
     

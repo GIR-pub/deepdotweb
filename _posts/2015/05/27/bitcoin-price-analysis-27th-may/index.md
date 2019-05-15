@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis &#8211; 27th May"
 ---
 
-10421  tag-27th tag-analysis tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>May 27, 2015</span>
 
 
-<span><a href="/2015/05/27/bitcoin-price-analysis-27th-may/#respond">Leave a comment</a></span>
-</p>
 
 <p><a href="/imgs/2015/05/14.jpg"><img class="aligncenter size-full wp-image-10422" src="/imgs/2015/05/14.jpg" alt="1" width="588" height="465" srcset="/imgs/2015/05/14.jpg 588w, /imgs/2015/05/14-300x237.jpg 300w" sizes="(max-width: 588px) 100vw, 588px"/></a>In terms of dullness and inactivity, bitcoin price action this week was markedly better than last week. After Tuesday’s dip down to $229 to test weak hands (longs) and trigger stop losses, prices have been went up for a while, peaking at $243 on Sunday. Since then, declines over the past 2 days, seemingly resemble what happened 2 weeks ago &#8211; price touched $249 and subsequent $245.</p>
 <p><strong><em>“It looks like this bull market is in a &#8220;measure twice; cut once&#8221; advance mode. As in before it advances it has to hit the previous level of support to make a climb past the next level of resistance.”</em></strong></p>
@@ -33,8 +30,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Convincingly breaking $225 support would invalidate this forecast.</p>
 <p><a href="/imgs/2015/05/8.png"><img class="aligncenter  wp-image-10429" src="/imgs/2015/05/8.png" alt="8" width="883" height="441" srcset="/imgs/2015/05/8.png 1504w, /imgs/2015/05/8-300x150.png 300w, /imgs/2015/05/8-1024x511.png 1024w, /imgs/2015/05/8-660x330.png 660w, /imgs/2015/05/8-995x498.png 995w" sizes="(max-width: 883px) 100vw, 883px"/></a>Finally, In the mid-long term, I am bearish. Putting aside my short term forecast for higher prices, I expect downward bear trend to resume.</p>
 <p>Trading is really about controlling your emotions once you have a target, invalidation points and a forecast of expected price movement. The market may prolong and exhaust, but as long as levels hold, there is no reason to exit.</p>
-</div>
-<a href="/tag/27th/" rel="tag">27th</a> 
+
 Updated: 2015-05-27
 
     

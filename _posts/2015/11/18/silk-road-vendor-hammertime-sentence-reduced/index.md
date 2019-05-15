@@ -2,14 +2,11 @@
 title: "Silk Road Vendor Hammertime Sentence Reduced"
 ---
 
-12219  tag-agents tag-corrupt tag-federal tag-hammertime tag-lighter tag-sentence tag-vendor">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 18, 2015</span>
 
 
-<span><a href="/2015/11/18/silk-road-vendor-hammertime-sentence-reduced/#comments">3 Comments</a></span>
-</p>
 
     
 <p><a href="http://www.oregonlive.com/pacific-northwest-news/index.ssf/2015/11/global_silk_road_meth_dealer_f.html#incart_story_package">Jason Weld Hagen from Vancouver, AKA. Hammertime, said to be the biggest meth vendor on the most infamous ex-dark net market, has been sentenced to a much lighter time, 37 months, followed by five years of court supervision, instead of a life sentence.</a> According to law enforcement authorities, Hagen and his gang sold drugs on the dark web worth the total sum of $607,000.</p>
@@ -21,8 +18,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>After Silk Road has been seized, federal agents across the globe had busted several vendors of the former dark net market, including Hammertime. Agent Shaun Bridges, the disgraced member of the Secret Service has been part of the raid team when Hagen’s bust took place. When the US. Attorneys have heard that the corrupt agent was involved in the bust, they recommended a lighter sentence to the judge. The man got 3 years and seven months, instead of a rough six years in prison. Not just Hagen had his sentence reduced, but the ones he worked alongside doing their drug business on the dark net.</p>
 <p>Judge Jones was not happy with the sentence Hagen got. He ended the man’s trial with this statement:</p>
 <p>Your crimes were egregious,&#8221; he said. &#8220;It&#8217;s difficult to give you credit because the government messed up.&#8221;</p>
-</div>
-<a href="/tag/agents/" rel="tag">agents</a> <a href="/tag/corrupt/" rel="tag">corrupt</a> <a href="/tag/federal/" rel="tag">federal</a> <a href="/tag/hammertime/" rel="tag">hammertime</a> <a href="/tag/lighter/" rel="tag">lighter</a>  <a href="/tag/sentence/" rel="tag">sentence</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
+
 Updated: 2015-11-18
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

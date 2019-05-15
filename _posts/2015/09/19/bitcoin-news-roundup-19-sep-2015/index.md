@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup 19 Sep 2015"
 ---
 
-11582  tag-3099 tag-2524  tag-sep
 Posted by: DeepDotWeb 
 
 <span>September 19, 2015</span>
 
 
-<span><a href="/2015/09/19/bitcoin-news-roundup-19-sep-2015/#comments">1 Comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web.</em></p>
@@ -23,6 +22,5 @@ Posted by: DeepDotWeb
 <p>Russia seeks to create Bit-ruble. As Evander Smart of <a href="http://cointelegraph.com/news/115302/russia-to-create-bitruble-a-state-run-digital-currency-for-2016">Coin Telegraph</a> writes, Russia is working on a state-run virtual currency, the Bit-ruble, in cooperation with Qiwi, the e-wallet payment methods. The national digital currency will be controlled by the Russian Central Bank and is expected to be released in 2016. On the other hand, Pavel Medvedev, the Russian Ombudsman, states: “<em>The only currency in Russia is the ruble. The rest of the money is illegal, and this kind of disgrace (would be) a criminal offense.”</em></p>
 <p><strong>Payments</strong></p>
 <p>PayPal is back on the U.S. online gambling scene, possible reclaiming stake from bitcoin. As Sarah Jenn of <a href="http://www.newsbtc.com/2015/09/16/paypal-to-reclaim-stake-in-us-online-gambling-from-bitcoin/">NewsBtc</a> reports, the global online payment system has announced that it will facilitate deposits and withdrawals from online gambling sites, following a ban after the merger with eBay back in 2003. Now that PayPal has split partnership with the online retailer, this move is viewed as a potential seeks to retain revenues in the online gambling industry, while directly competing with the bitcoin.</p>
-</div>
-<a href="/tag/19/" rel="tag">19</a>    <a href="/tag/sep/" rel="tag">sep</a></span> 
+
 Updated: 2015-09-19

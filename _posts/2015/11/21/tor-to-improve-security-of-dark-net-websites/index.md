@@ -2,12 +2,11 @@
 title: "Tor To Improve Security Of Dark Net Websites"
 ---
 
-12273  tag-dark tag-improve tag-net tag-security  tag-websites
-Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 21, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/21/tor-to-improve-security-of-dark-net-websites/#comments">1 Comment</a></span>
+
+
 
 
 <p>The recent news about the CMU helping the FBI made the Tor Project to realize, they need to improve the security of the domains on the dark web, As it was <a href="http://motherboard.vice.com/read/tor-is-trying-to-make-dark-web-sites-more-secure">reported by Jospeh Cox on motheboard.vice</a>  They have patched the vulnerability points the attackers took advantage of, however, according to them, there are still improvements to make. Tor is planning to launch several security tweaks to their infrastructure in order to keep the hidden .onion websites actually hidden in the network.</p>
@@ -21,7 +20,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/benjaminvi/" title="">Benj
 <p>The future improvement to the directory system of Tor is, when a directory server exchanges information with a client, an “ephemeral identity” will be used.</p>
 <p>“So now the directory servers never learn the long-term identity,” d20 stated.</p>
 <p>“The improvements are already being rolled out,” Kate Krauss, the spokesperson of the Tor Project, informed Motherboard in an online chat.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/improve/" rel="tag">improve</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a>   <a href="https://www.deepdotweb.com/tag/websites/" rel="tag">websites</a></span> 
-Updated: 2015-11-21<a href="https://www.deepdotweb.com/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-11-21
 

@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis 17 March"
 ---
 
-9484  tag-2684 tag-analysis tag-march tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>March 17, 2015</span>
 
 
-<span><a href="/2015/03/17/bitcoin-price-analysis-17-march/#respond">Leave a comment</a></span>
+
 
 
 <p>Is Bitcoin’s price in a major reversal?</p>
@@ -29,7 +28,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/03/6.png"><img class="aligncenter size-full wp-image-9490" src="/imgs/2015/03/6.png" alt="6" width="1173" height="588" srcset="/imgs/2015/03/6.png 1173w, /imgs/2015/03/6-300x150.png 300w, /imgs/2015/03/6-1024x513.png 1024w, /imgs/2015/03/6-660x330.png 660w, /imgs/2015/03/6-995x498.png 995w" sizes="(max-width: 1173px) 100vw, 1173px"/></a>Elliott Wave chart analysts have targets at $315 after a 5 wave structured move up. The chart above by chessnut, shows a triangle terminal break followed by an expected dip in price. This was the bear move down that stopped short at $ 282.</p>
 <p>Since the dip in price to $ 282, price has gradually come up to previous levels; a sudden break from $ 284 to current levels at $292 points to a retest of resistance at $303.</p>
 <p><a href="/imgs/2015/03/7.png"><img class="aligncenter size-full wp-image-9491" src="/imgs/2015/03/7.png" alt="7" width="542" height="351" srcset="/imgs/2015/03/7.png 542w, /imgs/2015/03/7-300x194.png 300w" sizes="(max-width: 542px) 100vw, 542px"/></a>Evidently, long term charts are exhibiting all sorts of technical bullish signs. It is also clear that  fundamentals on bitcoin’s development have improved. The January low had all the makings of a legitimate bottom &#8211; high volume crash and subsequent reversal; I expect trading range to hold around these levels bar major news this year.</p>
-</div>
-<a href="/tag/17/" rel="tag">17</a>  
+
 Updated: 2015-03-17
 

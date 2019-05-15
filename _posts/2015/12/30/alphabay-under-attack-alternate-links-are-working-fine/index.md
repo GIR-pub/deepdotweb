@@ -2,17 +2,15 @@
 title: "Alphabay Under Attack, Alternate Links are Working Fine"
 ---
 
-12810 tag-alphabay tag-alternate tag-attack tag-fine tag-links tag-working
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>December 30, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/news/" rel="category tag">News</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/30/alphabay-under-attack-alternate-links-are-working-fine/#comments">1 Comment</a></span>
+
+
 
 
 <p>As said by an official support account for Alphabay market:</p>
 <blockquote><p>Alphabay Under Attack, alternate links are working fine &#8211; We are mitigating another DDoS attack. Will be resolved as usual. Please use the alternate links if the main link has issues.</p></blockquote>
-<p>Alternative access links to Alphabay market are available <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay/">here</a>  &amp; <a href="https://www.deepdotweb.com/alphabay-alternative-links/">here</a>.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/alphabay/" rel="tag">alphabay</a> <a href="https://www.deepdotweb.com/tag/alternate/" rel="tag">alternate</a> <a href="https://www.deepdotweb.com/tag/attack/" rel="tag">attack</a> <a href="https://www.deepdotweb.com/tag/fine/" rel="tag">fine</a> <a href="https://www.deepdotweb.com/tag/links/" rel="tag">links</a> <a href="https://www.deepdotweb.com/tag/working/" rel="tag">working</a></span> 
+<p>Alternative access links to Alphabay market are available <a href="/marketplace-directory/listing/alphabay/">here</a>  &amp; <a href="/alphabay-alternative-links/">here</a>.</p>
+
 Updated: 2015-12-30

@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis – Jun 9th"
 ---
 
-10663  tag-analysis tag-jun tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>June 10, 2015</span>
 
 
-<span><a href="/2015/06/10/bitcoin-price-analysis-jun-9th/#respond">Leave a comment</a></span>
-</p>
 
 <p><a href="/imgs/2015/06/11.jpg"><img class=" size-full wp-image-10664 aligncenter" src="/imgs/2015/06/11.jpg" alt="1" width="605" height="436" srcset="/imgs/2015/06/11.jpg 605w, /imgs/2015/06/11-300x216.jpg 300w" sizes="(max-width: 605px) 100vw, 605px"/></a></p>
 <p>This week, besides the past 36 hours, BTC markets have not elicited much excitement since last week’s bottom at $219. After last week’s drop, in what has become the norm, a sideways trend took over, trading within a $ 3 range bound by $225 upper and $222 up. Notably, a spike on June 5th, shot up to $230 within a trading hour, backed by volumes of about 6000. On a larger timeframe, this was a bleep, and highly suspect, considering $230 was a reasonable target on this retracement.</p>
@@ -37,7 +34,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><a href="/imgs/2015/06/6.png"><img class="aligncenter size-full wp-image-10669" src="/imgs/2015/06/6.png" alt="6" width="1232" height="751" srcset="/imgs/2015/06/6.png 1232w, /imgs/2015/06/6-300x183.png 300w, /imgs/2015/06/6-1024x624.png 1024w" sizes="(max-width: 1232px) 100vw, 1232px"/></a></p>
 <p>I am expecting $ 230 (give or take) to prove a strong resistance zone, and mark the end of this short term move up. The target for a lower move in this scenario would be just above $ 210.</p>
 <p>Nothing decisive has come out of the past weeks of sideways action. A retest of $200 and sub $ 200 price levels is just a matter of when and not if. Given how long this zone has held, any break below it will lead to panic accompanied by massive dumping by longs who bought in at this zone. Best to have some fiat tucked away for when we hit bottom.</p>
-</div>
 
 Updated: 2015-06-10
 

@@ -2,13 +2,10 @@
 title: "Agora Market To Stop Listing Lethal Weapons"
 ---
 
-10967 tag-agora tag-lethal tag-listing tag-stop tag-weapons">
 Posted by: DeepDotWeb 
 
 <span>July 7, 2015</span>
 
-<span><a href="/2015/07/07/agora-market-to-stop-listing-lethal-weapons/#comments">8 Comments</a></span>
-</p>
 
     
 <p>Agora admins have posted a new message on the market announcing that from now own it will not allow the sale of lethal weapons:</p>
@@ -34,8 +31,7 @@ Posted by: DeepDotWeb
     =u/KI<br />
     &#8212;&#8211;END PGP SIGNATURE&#8212;&#8211;</p></blockquote>
 <p><a href="/imgs/2015/07/Agoraweapon.png"><img class="aligncenter size-full wp-image-10968" src="/imgs/2015/07/Agoraweapon.png" alt="Agoraweapon" width="858" height="637" srcset="/imgs/2015/07/Agoraweapon.png 858w, /imgs/2015/07/Agoraweapon-300x223.png 300w" sizes="(max-width: 858px) 100vw, 858px" /></a>This is probably a smart move considering the amount of people who got arrested when purchasing guns trough honeypot vendors and the additional heat from LE these product are attracting (more details available here:  <a href="http://www.gwern.net/Black-market%20arrests">Tor black-market-related arrests</a>).</p>
-</div>
-<a href="/tag/agora/" rel="tag">agora</a> <a href="/tag/lethal/" rel="tag">lethal</a> <a href="/tag/listing/" rel="tag">listing</a> <a href="/tag/stop/" rel="tag">stop</a> <a href="/tag/weapons/" rel="tag">weapons</a></span> 
+
 Updated: 2015-07-07
 
     

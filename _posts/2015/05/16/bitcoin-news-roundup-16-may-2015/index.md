@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 16 May 2015"
 ---
 
-10321  tag-1887 tag-2524 
 Posted by: DeepDotWeb 
 
 <span>May 16, 2015</span>
 
 
-<span><a href="/2015/05/16/bitcoin-news-roundup-16-may-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The Euro Banking Association (EBA) considers that the blockchain technology could make banking more efficient.As Evander Smart of <a href="https://www.cryptocoinsnews.com/euro-banking-association-eba-reports-bitcoin-benefits/">CryptoCoins News</a> reports, although the EBA considers that lot of steps should be taken until the bitcoin is regulated, still there is potential for leveraging the financial industry in the blockchain technology. According to the EBA report “<em>existing financial services could be ‘powered by crypto-technologies’ offering financial institutions potentially lower costs, better products and faster time to market.”</em></p>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p>The European Commission is seeking to tax reward-based crowdfunding. As Tom Jackson of <a href="http://cointelegraph.com/news/114244/eu-commission-considers-imposing-vat-on-crowdfunding-rewards">Coin Telegraph</a> writes, a proposal has been sent to the European Union’s Value Added Tax Committee, suggesting that value added tax (VAT) should be levied on crowdfunding rewards. The EU VAT Committee is about to determine whether crowdfunding applies to the definition of “financial service” as defined by the European Union VAT Directive. If not, intermediary services provided by crowdfunding platforms available will also become liable to VAT.</p>
 <p><strong>Payments</strong></p>
 <p>CoinGaming.io, the popular online bitcoin casino, enters a partnership with XIN Gaming. As Scott Fargo of <a href="http://insidebitcoins.com/news/coingaming-io-expands-its-bitcoin-gambling-platform-through-xin-gaming-partnership/32524">Inside Bitcoins</a> writes, the China-based game developer is a global B2B supplier of digitally distributed casino games and systems. Given the Coinaming.io hosts over 700 casino slots games, dice games, and live dealers for table games, the partnership is expected to raise awareness about the digital currency in the gaming platforms and heavily introducing the bitcoin to the rising iGaming industry.</p>
-</div>
-<a href="/tag/16/" rel="tag">16</a>   </span> 
+
 Updated: 2015-05-16
 
     

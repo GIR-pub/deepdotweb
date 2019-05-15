@@ -2,17 +2,14 @@
 title: "So, You Want To Be a Darknet Drug Lord&#8230;"
 ---
 
-9992 tag-lord
 Posted by: DeepDotWeb 
 
 <span>April 15, 2015</span>
-<span>in <a href="/category/articles/" rel="category tag">Articles</a></span>
-<span><a href="/2015/04/15/so-you-want-to-be-a-darknet-drug-lord/#comments">7 Comments</a></span>
-</p>
+
 
 <p><strong>Original Source</strong>: <a href="http://pastebin.com/index/GrV3uYh5">http://pastebin.com/index/GrV3uYh5</a><br/>
     By nachash &#8211; nachash@observers.net<br/>
-    (Owner Of <a href="http://www.deepdotweb.com/tag/nashcashtag/">Doxbin</a> &#8211; A hidden service that was taken down during <a href="http://www.deepdotweb.com/tag/operation-onymous/">Operation Onymous</a>) Interesting read, reposted here:</p>
+    (Owner Of <a href="/tag/nashcashtag/">Doxbin</a> &#8211; A hidden service that was taken down during <a href="/tag/operation-onymous/">Operation Onymous</a>) Interesting read, reposted here:</p>
     [The advice in this article can be adapted to suit the needs of other hidden services, including ones which are legal in your jurisdiction. The threat model in mind is that of a drug market. The tone is that of a grandfather who is always annoyingly right, who can&#8217;t help but give a stream-of-consciousness schooling to some whippersnapper about the way the world works. If this article inspires you to go on a crime spree and you get caught, don&#8217;t come crying to me about it.]
 <p>You&#8217;ve decided that you&#8217;re bored with your cookie-cutter life of working at a no-name startup, getting paid in stock options and empty promises. You want a taste of the good life. Good for you, kid. I used to run a fairly popular hidden service (DOXBIN) that was seized by the FBI after 3 1/2 years of spreading continuous butthurt, then subsequently repossessed from the feds. Because I managed to not get raided, I&#8217;m one of the few qualified to instruct others on hidden services and security, simply because I have more real-world experience operating hidden services than the average tor user. In other words, very little of this advice is of the armchair variety, as you&#8217;ll often find in abundance the Internet. But enough about me. Let&#8217;s talk about your future as an internet drug lord.</p>
 <p><strong>1. Legal/Political</strong></p>
@@ -48,8 +45,7 @@ Posted by: DeepDotWeb
 <p>Speaking of money, you&#8217;re going to have to figure out how to launder your newfound assets, and we&#8217;re not talking about using a couple bitcoin laundering services and calling it a day. You also shouldn&#8217;t go out and buy a Tesla. Living beyond your means is a key red flag that triggers financial and fraud investigations. Remember, money is just another attack vector. Washing ill-gotten gains is a time-honored drug business tradition and one that you would be a fool not to engage in. You can only use your hard-won profits to send shitexpress.com packages to people you don&#8217;t like so many times.</p>
 <p>Take-away: If you rely only on tor to protect yourself, you&#8217;re going to get owned and people like me are going to laugh at you. Remember that someone out there is always watching, and know when to walk away. Do try to stay safe while breaking the law. In the words of Sam Spade, &#8220;Success to crime!&#8221;</p>
 <p><strong>Original Source</strong>: <a href="http://pastebin.com/index/GrV3uYh5">http://pastebin.com/index/GrV3uYh5</a></p>
-</div>
-<a href="/tag/darknet/" rel="tag">darknet</a>  <a href="/tag/lord/" rel="tag">lord</a></span> 
+
 Updated: 2015-04-15
 
     

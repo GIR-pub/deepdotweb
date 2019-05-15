@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 5 Jul. 2015"
 ---
 
-10962  tag-2524 tag-jul ">
 Posted by: DeepDotWeb 
 
 <span>July 5, 2015</span>
 
 
-<span><a href="/2015/07/05/bitcoin-news-roundup-5-jul-2015/#comments">1 
+
 
 
     
@@ -24,8 +23,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>Coinay allows people to use the bitcoin in 3,000 Spanish retailers. As P. H. Madore of <a href="https://www.cryptocoinsnews.com/new-spanish-service-lets-people-buy-bitcoin-local-stores/">CryptoCoins News</a> writes, Coinay is a service that allows the consumer to purchase a voucher and then redeem the value in bitcoins. According to Paolo Premoli, Coinay Head of Sales South Europe <em>“we can enable customers to buy easily bitcoins in retail locations all over Spain. Using vouchers makes buying bitcoin fast, easy and convenient for customers.”</em> The value of the vouchers ranges between 10 Euros and 100 Euros.</p>
 <p>Hotelgo24.com offers free bitcoins for bookings. According to <a href="http://australia.etbtravelnews.com/255830/online-booking-service-hotelgo24-com-offers-free-bitcoins/">Ebt Travel News</a>, the international online booking website has launched a strategy to increase the number of online bookings by offering to customers up 5% of bitcoin cash back for every booking. The startup offers a wide range of accommodation around the world, including 130,000 hotels in 198 countries.</p>
-</div>
- <a href="/tag/jul/" rel="tag">jul</a>  </span> 
+
 Updated: 2015-07-05
 
     

@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 9 May2015"
 ---
 
-10234  tag-may2015 
 Posted by: DeepDotWeb 
 
 <span>May 9, 2015</span>
 
 
-<span><a href="/2015/05/09/bitcoin-news-roundup-9-may2015/#comments">1 Comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The Winklevoss twins are strong supporters of the bitcoin and have shared their ideas about the cryptocurrency ecosystem in the recent NY TechCrunch Disrupt. As Sarah Jenn of <a href="http://www.newsbtc.com/2015/05/07/winklevoss-twins-discuss-bitcoin-industry-plans/">NewsBtc</a> writes, following their efforts on the first fully regulated bitcoin exchange (Gemini) and the newly-launched ETF that trades in the NASDAQ OMX under the ticker COIN, Cameron and Tyler Winklevoss view the bitcoin and the cryptocurrency technology as the next big step.</p>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>NorthPayments, one of the UK’s leading online payment processors, integrates the bitcoin payment option in its platform. As JP Buntinx of <a href="http://digitalmoneytimes.com/crypto-news/northpayments-brings-bitcoin-payments-to-over-20000-uk-merchants/">Digital Money Times</a> reports, by adding the digital currency option in its existing payment processing options, NorthPayments raises bitcoin awareness to more than 20,000 UK retailers and becomes the first European payment platform to enter the cryptocurrency ecosystem. The integration has been made possible with the assistance of BitcoinPayGate, one of the major Europeanbitcoin payment processors.</p>
 <p>Starbucks Hong Kong is accepting bitcoins. As Scott Fargo of <a href="http://insidebitcoins.com/news/fold-brings-bitcoin-to-hong-kong-starbucks-branches/32269">Inside Bitcoins</a> reports, foldapp is a new application that allows users to pay for their coffee at Starbucks using their mobile phone. Although Starbucks never officially acknowledged that they would start accepting bitcoin payments in spite of the lower costs compared to traditional payment methods, accepting the digital currency in their Hong Kong branches, may lead to a broader bitcoin adoption. Currently, the foldapp is applicable in 10,000 locations in eight countries.</p>
-</div>
-<a href="/tag/may2015/" rel="tag">may2015</a>  </span> 
+
 Updated: 2015-05-09
 
     

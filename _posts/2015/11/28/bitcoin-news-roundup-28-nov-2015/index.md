@@ -2,12 +2,11 @@
 title: "Bitcoin News Roundup – 28 Nov. 2015"
 ---
 
-12373  tag-2524 tag-2518  tag-nov
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>November 28, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/11/28/bitcoin-news-roundup-28-nov-2015/#comments">4 Comments</a></span>
+
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -20,6 +19,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p>Bitcoin debit card launched by Coinbase. As Julio Prisco of <a href="https://bitcoinmagazine.com/articles/coinbase-and-shift-payments-introduce-a-visa-branded-bitcoin-debit-card-that-works-everywhere-visa-is-accepted-1448392638">Bitcoin Magazine</a> reports,</p>
 <p>Coinbase, the San Francisco-based bitcoin wallet and exchange company has partnered with Shift Payments to issue the first U.S. bitcoin debit card. The Shift Card will allow Coinbase users in 24 states to spend bitcoin both online and at physical POS at more than 38 million retailers globally, where Visa is accepted. According to Coinbase announcement, there are no annual, conversion or domestic transaction fees, at least “for a limited time”, whereas there are ATM fees and international transaction fees.</p>
 <p>American Airlines (AA) refuse the Argentinian Peso as a potential turn to the bitcoin. JP Buntinx of <a href="http://themerkle.com/news/american-airlines-no-longer-accepts-argentine-peso-opportunity-for-bitcoin/">The Merkle</a> writes that American Airlines announced that they are no longer accepting the Argentine Peso due to “repatriation issues”, meaning that AA faces hardship in converting Argentine Peso to U.S. Dollar. Given the recent change of President in Argentina and the issues of the national currency, the situation is not expected to change anytime soon. On the other hand, the AA’s decision opens up the door for the bitcoin as Argentinian people will be able to book flights with the AA using the digital currency.</p>
-</div>
-<a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/28/" rel="tag">28</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/nov/" rel="tag">nov</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2015-11-28

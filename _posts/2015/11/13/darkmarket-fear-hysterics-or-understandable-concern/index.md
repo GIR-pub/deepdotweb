@@ -2,19 +2,13 @@
 title: "Darkmarket fear: Hysterics or understandable concern?"
 ---
 
-12067  tag-concern tag-darkmarket tag-fear tag-hysterics tag-understandable
-    
-    
-        
 
-Posted by: <a href="/author/davidcornwish/" title="">David Cornwish </a></span>
+Posted by: David Cornwish </a></span>
     
     
 <span>November 13, 2015</span>
     
     
-<span><a href="/2015/11/13/darkmarket-fear-hysterics-or-understandable-concern/#comments">5 Comments</a></span>
-</p>
 
     
     
@@ -33,9 +27,8 @@ Posted by: <a href="/author/davidcornwish/" title="">David Cornwish </a></span>
     
     
 
-<a href="/tag/concern/" rel="tag">concern</a> <a href="/tag/darkmarket/" rel="tag">darkmarket</a> <a href="/tag/fear/" rel="tag">fear</a> <a href="/tag/hysterics/" rel="tag">hysterics</a> <a href="/tag/understandable/" rel="tag">understandable</a></span>				
 Updated: 2015-11-13
-<a href="/author/davidcornwish/" title="Posts by David Cornwish" rel="author">David Cornwish</a></strong></div>
+
     
     
 

@@ -2,13 +2,10 @@
 title: "Controlled Chemical Delivery – A Case Study"
 ---
 
-8628  tag-case tag-chemical tag-controlled tag-delivery tag-study
 Posted by: Allen Hoffmann, JD
 
 <span>June 13, 2015</span>
     
-<span><a href="/2015/06/13/controlled-chemical-delivery-a-case-study/#respond">Leave a comment</a></span>
-</p>
 
 <p>As has been covered in previous articles, policing involves resource distribution. At the end of the day, all mid level to higher level investigations are not interested in the supply chain and logistics management of the multiple tiers on dealing which happen. The operational objectives of a mid to higher level operation being run by professional investigators is the suppression and destruction of the supply line of the operation itself. If you cut out the logistics and supply chain, it is well documented and well known new people will fill in those vacant slots, for the simple fact that very seldom do they require expertise.</p>
 <p>If you ‘take the head off the snake’ to borrow from one of those really commonly used idioms, then that&#8217;s the end of the game for that organization, so what is usually the target is the police looking to arrest higher up the chain is the objective of disrupting not supply, but the production facility – they’re not so much looking to disrupt activities as a street operation does, they&#8217;re looking for the conditions which are needed to shut down the operation. A very direct way of doing that, if your target is cooking up synthetic drugs domestically, is to go about finding and dismantling the laboratory.</p>
@@ -20,8 +17,7 @@ Posted by: Allen Hoffmann, JD
 <p>As you can see, the program was a resounding failure in this particular jurisdiction. Numerous police became involved in corrupt activities, the repercussions of which, almost 20 years on in some regards, are still being felt today; at least one corrupt police officer, who ordered the murder of an informer (the trigger man voluntarily confessed and was sentenced) managed to beat the charges when the guy who organized the hit on his behalf, who was himself already doing life, managed to get murdered while in jail. Even the state itself got in on the tainted proceeds of the drug trafficking operation the cops themselves were running.</p>
 <p>What I am not talking about in this article is detecting something naughty in transit and replacing most of it with pretend drugs &#8211; this tactic is completely distinct from grabbing something in transit and substituting it with a benign substance, as in the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances 1988, Article 11. The police actively sold, both directly and through informers, restricted precursors with a view to following the trail – is this sounding to anyone else like the ATF’s brilliantly conceived ‘Operation Fast and Furious’ where illicit commodities were sold with a view to supposedly tracking movements? Look at how that turned out.</p>
 <p>In some jurisdictions, this sort of tactic would arguably amount to entrapment if the real chemicals were actually delivered. But what it does provide an investigator is close to a guaranteed straight line to either an active or a prospective meth cook – and because it’s a physical good, drop or not, you’re going to have to pick that package up in person. Here is a very serious question that one should consider if looking at buying precursor chemicals on a dark market which could keep you from getting a 3AM visit from ninjas with M4s – if you have all the ingredients needed on hand to print money, why in the unholy fuck would you want to sell them to me cheaply so I can do it myself?</p>
-</div>
-<a href="/tag/case/" rel="tag">case</a> <a href="/tag/chemical/" rel="tag">chemical</a> <a href="/tag/controlled/" rel="tag">controlled</a> <a href="/tag/delivery/" rel="tag">delivery</a> <a href="/tag/study/" rel="tag">study</a></span> 
+
 Updated: 2015-06-13
 
     

@@ -2,12 +2,11 @@
 title: "Amazon Dark Market To Update Its Features"
 ---
 
-11586 tag-amazon tag-dark tag-features tag-update
 Posted by: DeepDotWeb 
 
 <span>September 22, 2015</span>
 
-<span><a href="/2015/09/22/amazon-dark-market-to-update-its-features/#comments">1 Comment</a></span>
+
 
 
 <p><a href="/marketplace-directory/listing/amazon-dark">Amazon Dark</a> released several new updates and announced them on <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3ls7uz/amazon_dark_has_been_updated/" target="_blank">Reddit</a>, the updates posted here to their request</p>
@@ -56,6 +55,5 @@ Posted by: DeepDotWeb
 <p>-The Amazon Dark Team</p></blockquote>
 </div>
 </div>
-</div>
-<a href="/tag/amazon/" rel="tag">amazon</a>  <a href="/tag/features/" rel="tag">features</a> <a href="/tag/update/" rel="tag">update</a></span> 
+
 Updated: 2015-09-22

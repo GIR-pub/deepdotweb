@@ -2,8 +2,7 @@
 title: "Bitcoin Price Analysis Jul 1"
 ---
 
-10933  tag-2524 tag-30th tag-analysis tag-june tag-price">
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>July 1, 2015</span>
 
@@ -49,8 +48,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Finally, for perspective, a visual of the 18 month bear channel points to where we are now. Creeping up between 2 purple dotted lines approaching the thick red upper trendline of a larger channel. Currently, price is above the red dotted line and is approaching the thick red line at $ 280. Looking back at previous attempts, it will take immense buying pressure to cross it. Therefore, expect some period of accumulation before having a go at it. Fortunately, analysts are bullish</p>
 <p><em>“It is fair to assume that this is the beginning or midterm of a significant correction of the entire downtrend.</em>”</p>
 <p>Needless to say, I have revised my expectations of lower lows after factoring recent market data.</p>
-</div>
- <a href="/tag/30th/" rel="tag">30th</a> 
+
 Updated: 2015-07-01
 
     

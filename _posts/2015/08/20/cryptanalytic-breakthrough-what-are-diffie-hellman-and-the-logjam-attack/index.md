@@ -2,12 +2,11 @@
 title: "Cryptanalytic Breakthrough: What Are Diffie-Hellman and the Logjam Attack?"
 ---
 
-10616  tag-attack tag-breakthrough tag-cryptanalytic tag-diffiehellman tag-logjam
-Posted by: <a href="/author/politech/" title="">Politech 
+Posted by: Politech 
 
 <span>August 20, 2015</span>
 
-<span><a href="/2015/08/20/cryptanalytic-breakthrough-what-are-diffie-hellman-and-the-logjam-attack/#comments">3 Comments</a></span>
+
 
 
 <p><strong>Public key cryptography: What is Diffie-Hellman?</strong></p>
@@ -24,7 +23,6 @@ Posted by: <a href="/author/politech/" title="">Politech
 <p>However, the Logjam attack draws on more than just small key sizes. Diffie-Hellman configurations often use groups of a specific type of prime number called “safe primes”. This means prime numbers for which the following rule is true: where <em>p </em>is a safe prime and <em>q </em>is an ordinary prime, <em>p – 1 = 2q. </em>The purpose of using safe primes is not to increase cryptographic strength as the name might suggest, but to make the key exchange more efficient. To ease the computational load of generating safe primes, pre-existing groups of them exist to be used by servers configured to support Diffie-Hellman. The frequent reuse of these primes allowed the researchers to perform a period of “precomputation” during which the different outcomes of connections using these known primes could be calculated to accelerate decryption in advance. The larger the key, the less feasible this precomputation becomes – hence attacks against 1024-bit keys being the preserve of nation states and 2048- and 4096-bit keys being considered secure.</p>
 <p>Therefore, server administrators are advised to make sure export grade cipher suits are disabled and that, at an absolute minimum, Diffie-Hellman keys are set to 1024-bits, though 2048- or 4096-bit keys are preferable by far. The thirteen authors also recommend admins generate their own parameters to frustrate attackers who have precomputed the outcomes of commonly used primes. More information about securely configuring a Diffie-Hellman server can be found <a href="https://weakdh.org/sysadmin.html">here</a>.</p>
 <p>An alternative is to use Elliptic Curve Diffie-Hellman (ECDH). In elliptic curve cryptography, smaller keys can offer a high standard of security, with a 256-bit ECDH key being roughly equivalent to a 3072-bit RSA key. This also mitigates the Logjam attack by making precomputation infeasible. However, some cryptologists like Bruce Schneier <a href="https://www.schneier.com/blog/archives/2013/09/the_nsa_is_brea.html#c1675929">fear</a> that elliptic curves recommended by NIST may be backdoored by the NSA and therefore favour standard Diffie-Hellman keys of a larger size. Modern web browsers have also taken steps to mitigate the attack from the client side, so make sure to visit <a href="https://weakdh.org/">https://weakdh.org</a> to see if you&#8217;re safe. If you&#8217;d like to read more about Logjam without the heavy mathematics of the source paper, co-author Matthew Green has posted such a write up <a href="http://blog.cryptographyengineering.com/2015/05/attack-of-week-logjam.html">here</a>.</p>
-</div>
-<a href="/tag/attack/" rel="tag">attack</a> <a href="/tag/breakthrough/" rel="tag">breakthrough</a> <a href="/tag/cryptanalytic/" rel="tag">cryptanalytic</a> <a href="/tag/diffiehellman/" rel="tag">diffiehellman</a> <a href="/tag/logjam/" rel="tag">logjam</a></span> 
-Updated: 2015-08-20<a href="/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
+
+Updated: 2015-08-20
 

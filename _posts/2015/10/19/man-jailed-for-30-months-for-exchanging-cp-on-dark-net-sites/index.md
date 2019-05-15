@@ -2,13 +2,12 @@
 title: "Man Jailed For 30 Months For Exchanging CP On Dark Net Sites"
 ---
 
-11814  tag-1778 tag-child tag-dark tag-exchanging tag-exminster tag-jailed tag-man tag-months tag-net tag-porn tag-sites
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>October 19, 2015</span>
 
 
-<span><a href="/2015/10/19/man-jailed-for-30-months-for-exchanging-cp-on-dark-net-sites/#comments">15 Comments</a></span>
+
 
 
 <p><a href="http://www.middevongazette.co.uk/Dark-web-user-jailed-luring-girls-online/story-27998173-detail/story.html">Joel Morter (25) has been jailed for using dark web CP (child porn) websites for exchanging under-aged sex media and for making under-aged girls strip off naked in front of a webcam.</a></p>
@@ -24,7 +23,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>&#8220;He also sought or received images from people purporting to be children and analysis of his history showed he had been using the so-called dark web.&#8221;</p>
 <p>Philip Brunt from defending stated Morter had suffered sexual abuse in the past, which caused him depression and led him to drink and engage in disinhibited behavior with children.</p>
 <p>He is now tackling his problems and is working with the Lucy Faithfull Foundation, which helps users of internet pornography change their behavior.</p>
-</div>
-<a href="/tag/30/" rel="tag">30</a> <a href="/tag/child/" rel="tag">child</a>  <a href="/tag/exchanging/" rel="tag">exchanging</a> <a href="/tag/exminster/" rel="tag">exminster</a> <a href="/tag/jailed/" rel="tag">jailed</a> <a href="/tag/man/" rel="tag">man</a> <a href="/tag/months/" rel="tag">months</a> <a href="/tag/net/" rel="tag">net</a> <a href="/tag/porn/" rel="tag">porn</a> <a href="/tag/sites/" rel="tag">sites</a></span> 
-Updated: 2015-10-19<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-10-19
 

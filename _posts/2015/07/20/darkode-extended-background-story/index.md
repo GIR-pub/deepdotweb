@@ -2,13 +2,10 @@
 title: "Darkode: Extended Background Story"
 ---
 
-11093  tag-background tag-darkode tag-extended tag-story">
-Posted by: <a href="/author/canahontra/" title="">Canahontra 
+Posted by: Canahontra 
 
 <span>July 20, 2015</span>
     
-<span><a href="/2015/07/20/darkode-extended-background-story/#comments">13 Comments</a></span>
-</p>
 
     
 <p>Quite recently, we have broken the story on this site, of the infamous Darkode forum, a place rife with discussion of fraudulently stolen credit card data (even as against and about which it has, in the past, been warned to avoid speaking), those wishing to sell-sword their spammy flooding services, Distributed Denial of Service (DDoS) attacks – and through all different methods, e.g., SYN and DNS amplification, as well as authors or their designated cohorts vending malware products to the undergound community. First, one has to know, to comprehend the rest, how did this forum come into existence? This is what will be explained in the following.</p>
@@ -19,8 +16,7 @@ Posted by: <a href="/author/canahontra/" title="">Canahontra
 <p>This was all “fun and games,” that was, until Sp3cial1st became embedded in the script kiddy brigade of “hacker” groups, the Lizard Squad. This was the nail in the coffin, because the Lizard Squad has, since their DDoS attacks on Microsoft/X-box and Sony, and so on, sustained <a href="https://krebsonsecurity.com/2015/01/another-lizard-arrested-lizard-lair-hacked">arrest-after-arrest</a>. Their famous stress tester, built upon the shambles of hijacked home routers, infected with a simplistic, even archaic IRC bot (its source code is on Github by a Unix Sysadmin and spare-time pentester, linked on his Twitter profile at the beginning of this year), was bound to fall, especially since the mediocre payment system engineered to support patronage in it, was not encrypted fully, nor had the credentials of all their users, been. This was leaked as well, in the form of an SQL export-file.</p>
 <p>Alongside all of these antics, also came an earlier stint of the Darkode administrators cooperating with a Bulletproof hosting provider named Offshore (sells on a Russian board called Exploit), to disrupt Spamhaus and Cloudflare&#8217;s operations, in a formed coalition of several, otherwise-competing Bulletproof service providers, who clearly had left a European bulletproof hosting company, in an old, previously-abandoned World War II bunker, naming it Cyberbunker (this was a previous home to Wikileaks as well as ThePirateBay, before they had moved on to <a href="https://rdns.im/the-pirate-bay-north-korean-hosting-no-its-fake" target="_blank">Cambodia</a>, after which it was raided in the Autumn of 2014, re-launching as a promised <a href="https://torrentfreak.com/pirate-bay-back-online-150131" target="_blank">return</a>, in February of 2015, initially hosted in Moldova behind Cloudflare, and later, elsewhere), as a scapegoat. This operation was the anti-type of Spamhaus, and named accordingly as StopHaus. It ended with another <a href="http://www.darkreading.com/attacks-and-breaches/spamhaus-ddos-suspect-arrested/d/d-id/1109732">arrest</a>, following a particularly nasty chain of heavy DDoS attacks through a method called DNS amplification, where DNS queries are made to a target server, spoofed as having not come from its own, subjecting the server to endless traffic volume, beyond what a simple SYN or TCP attack could afflict.</p>
 <p>If you have checked out the list of those arrested during the <a href="https://www.justice.gov/opa/pr/major-computer-hacking-forum-dismantled" target="_blank">raid</a> which took down Darkode just a few days ago, one might notice that Sp3cial1st is quite conspicuously, much like the friends from Hackforums, Sky and Pernicious, M.I.A. in that report – this is, by educated speculation, due to the likelihood that he was working with Law Enforcement, in the coming moments of this inevitably doomed forum&#8217;s ultimate demise. To further speculate, one has to wonder whether, should he have been arrested, and considering that he was buddies with the now well-known LizardSquad, that was how he might have ended up in negotiations with the federal authorities; the fact he is missing from the report is signal of that, by itself.</p>
-</div>
-<a href="/tag/background/" rel="tag">background</a> <a href="/tag/darkode/" rel="tag">darkode</a> <a href="/tag/extended/" rel="tag">extended</a> <a href="/tag/story/" rel="tag">story</a></span> 
+
 Updated: 2015-07-20
-<a href="/author/canahontra/" title="Posts by Canahontra" rel="author">Canahontra</a></strong></div>
+
     

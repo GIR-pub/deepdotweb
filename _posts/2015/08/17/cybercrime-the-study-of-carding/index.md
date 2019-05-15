@@ -2,12 +2,11 @@
 title: "Cybercrime: The Study of Carding"
 ---
 
-11291  tag-carding tag-cybercrime tag-study
 Posted by: DeepDotWeb 
 
 <span>August 17, 2015</span>
 
-<span><a href="/2015/08/17/cybercrime-the-study-of-carding/#comments">13 Comments</a></span>
+
 
 
 <div class="entry-content">
@@ -25,6 +24,5 @@ Posted by: DeepDotWeb
 <p>Having extensively studied Bitcoin and <a href="https://en.wikipedia.org/wiki/Darknet_market">Darknet markets</a> (to be covered in future posts!), this is similar to the highly secure escrow based methodology that is already revolutionising the sale of the online trade in restricted items around the world. It’s about time legitimate eCommerce caught up – because whilst I can revoke my credit card details, I can’t revoke the personal information I’m asked to submit with our current card infrastructure.</p>
 <p><em><a href="https://en.wikipedia.org/wiki/Carding_%28fraud%29">Read it now, ‘Carding (fraud)’ on Wikipedia for an inside look into the structure and history of Carding</a></em></p>
 </div>
-</div>
-<a href="/tag/carding/" rel="tag">carding</a> <a href="/tag/cybercrime/" rel="tag">cybercrime</a> <a href="/tag/study/" rel="tag">study</a></span> 
+
 Updated: 2015-08-17

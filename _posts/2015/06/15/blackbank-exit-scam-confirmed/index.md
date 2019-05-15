@@ -2,14 +2,11 @@
 title: "BlackBank&#8217;s Exit Scam Confirmed: ~606BTC Gone."
 ---
 
-10799  tag-blackbank tag-confirmed tag-exit tag-scam
 Posted by: DeepDotWeb 
 
 <span>June 15, 2015</span>
 
 
-<span><a href="/2015/06/15/blackbank-exit-scam-confirmed/#comments">5 Comments</a></span>
-</p>
 
 <p>Not a huge surprise or &#8220;breaking news&#8221;, but after few weeks of speculations, it seems that <a href="/2015/05/25/did-the-2-largest-dark-net-market-blackbank-exit-scammed/">Blackbank&#8217;s exit scam</a> is now confirmed, as the Funds were finally drained out of official (known) wallet addresses as we can see in wallet explorer:</p>
 <ul>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p>Don&#8217;t forget to use our onion address: <strong>deepdot35wvmeyd5.onion</strong></p>
 <p><strong>@h/t:</strong> <a class="author may-blank id-t2_dbjxk" href="http://www.reddit.com/user/Golden_Miner_Mod">Golden_Miner_Mod</a></p>
 <p>&nbsp;</p>
-</div>
-<a href="/tag/blackbank/" rel="tag">blackbank</a> <a href="/tag/confirmed/" rel="tag">confirmed</a> <a href="/tag/exit/" rel="tag">exit</a> <a href="/tag/scam/" rel="tag">scam</a></span> 
+
 Updated: 2015-06-15
 
     

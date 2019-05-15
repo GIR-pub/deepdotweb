@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 3 May 2015"
 ---
 
-10191  tag-2524 
 Posted by: DeepDotWeb 
 
 <span>May 3, 2015</span>
 
 
-<span><a href="/2015/05/03/bitcoin-news-roundup-3-may-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>Ross Ulbricht&#8217;s request for retrial is denied. As Andy Greenberg of <a href="http://www.wired.com/2015/04/silk-road-judge-says-no-new-trial-despite-agents-alleged-corruption/">The Wired</a> reports, Judge Katherine Forrest denied Ulbricht’s defense request for a retrial based on an alleged violation of Ulbricht’s fourth amendment privacy rights due to <em>“warrantless investigative attempts to identify the Silk Road server and insufficient time to review the evidence in the trial.”</em> Additionally, Ulbricht’s defense team stated that the corruption charges against Carl Mark Force IV of the Drug Enforcement Administration and Shaun Bridges of the U.S. Secret Service need to be reexamined. Yet, Judge Forrest has not been convinced.</p>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>Western Union is interested in teaming up with Ripple Labs. As JP Buntinx of <a href="http://digitalmoneytimes.com/crypto-news/western-union-to-experiment-with-ripple-labs-technology/">Digital Money Times</a> reports, Ripple has partnered with ZipZap Inc. since October 2014 for expanding the bitcoin distribution and money transfer software. Western Union gets in the picture aiming to explore if, by entering into a partnership with Ripple, it could take advantage of the distributed ledger value transfer tool and capitalize on faster and cheaper transfer of funds.</p>
 <p>Overstock plans to issue bitcoin-like stocks. As Scott Fargo of <a href="http://insidebitcoins.com/news/overstock-wants-to-issue-500-m-in-bitcoin-like-stocks/32101">Inside Bitcoins</a> writes, the largest online retailer has filed a prospectus with the Securities and Exchange Commission, asking consent to issue up to $500 million in stocks that will be regulated by a bitcoin network. According to the SEC filing <em>“We may decide to offer securities as digital securities… using technology similar to (or the same as) the distributed ledger technology used for trading digital currencies.” </em>Overstock’s initiative may alter the way the traditional stock market operates.</p>
-</div>
-  </span> 
+
 Updated: 2015-05-03
 
     

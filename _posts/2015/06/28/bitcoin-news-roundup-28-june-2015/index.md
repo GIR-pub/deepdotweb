@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 28 June 2015"
 ---
 
-10930  tag-2524 tag-2518 tag-june 
 Posted by: DeepDotWeb 
 
 <span>June 28, 2015</span>
 
 
-<span><a href="/2015/06/28/bitcoin-news-roundup-28-june-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>The Federal Trade Commission (FTC) alerts consumers about the bitcoin use. As Nuno Menezes of <a href="http://www.newsbtc.com/2015/06/26/ftc-warns-about-the-use-of-bitcoin/">NewsBtc</a> writes, in a blog post released by the FTC on the FTC Consumer Information blog, consumers are warned about the risk of using the bitcoin as a legal payment method as well as other digital currencies. Lack of regulation, extreme fluctuation and increased exposure to hacking are some of the alerts explained in the FTC blog. The aim of FTC is to alert those who accept or facilitate the acceptance of bitcoin in consumer transactions.</p>
@@ -22,8 +19,7 @@ Posted by: DeepDotWeb
 <p><em><strong>Payments</strong></em></p>
 <p>Quoine, one of the leading bitcoin platforms globally teams up with Econtext payments network to deliver the bitcoin payment option to more than 20,000 retailers in Japan.As Duncan Riley of <a href="http://siliconangle.com/blog/2015/06/25/quoine-econtext-deal-delivers-bitcoin-payment-option-to-20000-merchants-in-japan/">Silicon Angle</a> reports, the deal will enable both online and brick-and-mortar retailers in Japan to start accepting the digital currency as a payment method. Retailers who already have an account with Econtext are not required to register under a new bitcoin payment processor. The partnership is pretty significant for the Singapore-based exchange as it launches retail services for the first time.</p>
 <p>Facebook integrates its payment platform for desktop usage. As Justin O’Connell of <a href="https://www.cryptocoinsnews.com/facebook-challenges-bitcoin-payment-icon-added-desktop-users/">CryptoCoins News</a> writes, in March, Facebook introduced its payment platform on its Facebook Messenger application, but now the payment platform has expanded to desktop. Users can receive and send money to their Facebook contacts provided they have access to a US Visa or MasterCard. It is expected that the Facebook payment platform will soon start to accept the bitcoin as a payment option or even introduce its own digital currency to raise the competition in the cryptocurrency space.</p>
-</div>
- <a href="/tag/28/" rel="tag">28</a>  </span> 
+
 Updated: 2015-06-28
 
     

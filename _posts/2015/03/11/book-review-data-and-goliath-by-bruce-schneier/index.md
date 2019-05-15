@@ -2,12 +2,11 @@
 title: "Book Review: Data And Goliath By Bruce Schneier"
 ---
 
-9373  tag-bruce tag-data tag-goliath tag-schneier
-Posted by: <a href="/author/jonsouthurst/" title="">Jon Southurst 
+Posted by: Jon Southurst 
 
 <span>March 11, 2015</span>
 
-<span><a href="/2015/03/11/book-review-data-and-goliath-by-bruce-schneier/#respond">Leave a comment</a></span>
+
 
 
 <p><strong><em>Ubiquitous surveillance offends our humanity and making us less secure, but all is not lost&#8230; yet.</em></strong></p>
@@ -67,7 +66,6 @@ Posted by: <a href="/author/jonsouthurst/" title="">Jon Southurst
 <p>As <em>Data and Goliath</em> points out repeatedly, the main threat of today&#8217;s surveillance culture is our acceptance, or willing ignorance of it. And that alone should tell you to buy a few extra copies to hand out to friends and family.</p>
 <p><strong>Released 2nd March 2015 &#8211; 400 pages</strong></p>
 <p>Review by Jon Southurst</p>
-</div>
- <a href="/tag/bruce/" rel="tag">bruce</a> <a href="/tag/data/" rel="tag">data</a> <a href="/tag/goliath/" rel="tag">goliath</a> <a href="/tag/review/" rel="tag">review</a> <a href="/tag/schneier/" rel="tag">schneier</a></span> 
-Updated: 2015-03-11<a href="/author/jonsouthurst/" title="Posts by Jon Southurst" rel="author">Jon Southurst</a></strong></div>
+
+Updated: 2015-03-11
 

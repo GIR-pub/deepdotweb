@@ -2,12 +2,11 @@
 title: "Bitcoin Medium Term Price Outlook"
 ---
 
-11574  tag-medium tag-outlook tag-price tag-term
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>September 21, 2015</span>
 
-<span><a href="/2015/09/21/bitcoin-medium-term-price-outlook/#comments">2 Comments</a></span>
+
 
 
 <p><a href="/imgs/2015/09/1.png"><img class="aligncenter wp-image-11575" src="/imgs/2015/09/1.png" alt="1" width="957" height="445" srcset="/imgs/2015/09/1.png 1488w, /imgs/2015/09/1-300x140.png 300w, /imgs/2015/09/1-1024x476.png 1024w, /imgs/2015/09/1-272x125.png 272w" sizes="(max-width: 957px) 100vw, 957px"/></a></p>
@@ -54,7 +53,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>Bitcoin is undergoing a process of rediscovering itself, evident from debates on the block size for instance. Perhaps what it needs is time to gradually build up the fundamentals.</p>
 <p>In my opinion, the killer app for bitcoin will be economic crisis on a global scale, enough to drive investors into speculative gold and bitcoin. Both have exhibited on and off correlations, but mostly move together. I expect to see Bitcoin rise up with gold once Central Bank irresponsible monetary policy is found out for the sham that it is. Time frame 3 &#8211; 5 year</p>
 <p>I also expect speculation on halving to drive up the price to a significant level &#8211; not a bull run, just enough to make significant returns, $450 &#8211; $500. Overall however, I do not expect the all time high at $1175 to be broken before 2018.</p>
-</div>
-<a href="/tag/medium/" rel="tag">medium</a> <a href="/tag/outlook/" rel="tag">outlook</a> <a href="/tag/price/" rel="tag">price</a> <a href="/tag/term/" rel="tag">term</a></span> 
+
 Updated: 2015-09-21
 

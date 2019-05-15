@@ -45,7 +45,7 @@ Posted by: DeepDotWeb
 <p><a href="/imgs/2015/02/14.png"><img class="aligncenter size-full wp-image-9010" src="/imgs/2015/02/14.png" alt="14" width="608" height="555" srcset="/imgs/2015/02/14.png 608w, /imgs/2015/02/14-300x274.png 300w" sizes="(max-width: 608px) 100vw, 608px" /></a></p>
 <p><a href="/imgs/2015/02/15.png"><img class="aligncenter  wp-image-9011" src="/imgs/2015/02/15.png" alt="15" width="754" height="407" srcset="/imgs/2015/02/15.png 1274w, /imgs/2015/02/15-300x162.png 300w, /imgs/2015/02/15-1024x553.png 1024w" sizes="(max-width: 754px) 100vw, 754px" /></a></p>
 <p>That&#8217;s it! You have now encrypted a USB drive using Veracrypt. All you have to do now is wait for the feds to arrest you and see if it works!</p>
-<p>This tutorial is listed in the <a href="http://www.deepdotweb.com/security-tutorials/">Security Tutorials</a> section.</p>
+<p>This tutorial is listed in the <a href="/security-tutorials/">Security Tutorials</a> section.</p>
 <p>&nbsp;</p>
 
 Updated: 2015-02-09

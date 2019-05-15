@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 25 Oct. 2015"
 ---
 
-11855  tag-2524 tag-2528  tag-oct
 Posted by: DeepDotWeb 
 
 <span>October 25, 2015</span>
 
 
-<span><a href="/2015/10/25/bitcoin-news-roundup-25-oct-2015/#comments">1 Comment</a></span>
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -20,6 +19,5 @@ Posted by: DeepDotWeb
 <p>The European Court of Justice rules against bitcoin taxation. According to <a href="http://insidebitcoins.com/news/european-high-court-decides-bitcoin-should-be-tax-free/35439">Bitcoinist.net</a>, on October 22<sup>nd</sup>, the principal court of the European Union has ruled that the bitcoin and the digital currencies should be exempted from sales taxes within the E.U. According to the European Court of Justice, the bitcoin transactions should be treated equally with all the transactions involving fiat currencies and it explicitly stated that the bitcoin and other digital currencies can be exchanged tax-free, should be treated as a means of payment, and will be protected under the directive.</p>
 <p><strong>Regulation</strong></p>
 <p>Deloitte considers bitcoin regulation should wait. As Nikhil Gupta of <a href="http://www.newsbtc.com/2015/10/23/deloitte-says-too-early-to-regulate-bitcoin/">NewsBtc</a> writes, a recently released report by Deloitte Center for Regulatory Strategies entitled <em>“Bitcoin At The Crossroads”</em> considers that it is too early to regulate the bitcoin. According to the report, the digital currency has attracted attention too quickly and too thoroughly than other emerging technologies so far, but this doesn’t make it eligible for regulation for three main reasons: 1) the bitcoin is smaller compared to the traditional currency and transaction system; 2) past key innovations took more time to develop and be implemented before being regulated; and 3) bitcoin has a growing potential that may not have been discovered yet.</p>
-</div>
- <a href="/tag/25/" rel="tag">25</a>  <a href="/tag/oct/" rel="tag">oct</a> </span> 
+
 Updated: 2015-10-25

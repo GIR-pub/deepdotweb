@@ -106,23 +106,9 @@ Posted by: DeepDotWeb
 <li>sudo ufw allow port/udp</li>
 </ol>
 <p>Then when you’re done check the status</p>
-<div id="crayon-59a39d9a6d942805151562" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo ufw status</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d942805151562-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d942805151562-1"><span class="crayon-e">sudo </span><span class="crayon-e">ufw </span><span class="crayon-v">status</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/06/ufwbasics21.png"><img class="aligncenter size-full wp-image-10733" src="/imgs/2015/06/ufwbasics21.png" alt="ufwbasics2[1]" width="525" height="361" srcset="/imgs/2015/06/ufwbasics21.png 525w, /imgs/2015/06/ufwbasics21-300x206.png 300w" sizes="(max-width: 525px) 100vw, 525px"/></a></p>
@@ -131,177 +117,57 @@ Posted by: DeepDotWeb
 <h3><a name="changing-mac-address"></a>Changing <span class="caps">MAC</span> Address</h3>
 <p>A <span class="caps">MAC</span> Address is a hardware specific identifier for you network interface. In some cases it may be useful to change your mac address to avoid detection.</p>
 <p><a href="https://wiki.archlinux.org/index.php/MAC_address_spoofing">Arch Linux Guide</a>:</p>
-<div id="crayon-59a39d9a6d94e001575231" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo apt-get install macchanger
     for a gui
     sudo apt-get install macchange-gtk</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d94e001575231-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d94e001575231-2">2</div><div class="crayon-num" data-line="crayon-59a39d9a6d94e001575231-3">3</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d94e001575231-1"><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-e">macchanger</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d94e001575231-2"><span class="crayon-st">for</span><span class="crayon-h"> </span><span class="crayon-i">a</span><span class="crayon-h"> </span><span class="crayon-e">gui</span></div><div class="crayon-line" id="crayon-59a39d9a6d94e001575231-3"><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-e">install </span><span class="crayon-v">macchange</span><span class="crayon-o">-</span><span class="crayon-v">gtk</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     With macchanger-gtk</p>
 <p><a href="/imgs/2015/06/macchanger-gtk1.png"><img class="aligncenter size-full wp-image-10734" src="/imgs/2015/06/macchanger-gtk1.png" alt="macchanger-gtk[1]" width="410" height="287" srcset="/imgs/2015/06/macchanger-gtk1.png 410w, /imgs/2015/06/macchanger-gtk1-300x210.png 300w" sizes="(max-width: 410px) 100vw, 410px"/></a></p>
 <p>heck your current mac addresses for future reference</p>
-<div id="crayon-59a39d9a6d953770417351" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     macchanger eth0
     macchanger wlan0</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d953770417351-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d953770417351-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d953770417351-1"><span class="crayon-e">macchanger </span><span class="crayon-e">eth0</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d953770417351-2"><span class="crayon-e">macchanger </span><span class="crayon-v">wlan0</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     for a random macaddress</p>
-<div id="crayon-59a39d9a6d956606638521" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo ifconfig wlan0 down</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d956606638521-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d956606638521-1"><span class="crayon-e">sudo </span><span class="crayon-e">ifconfig </span><span class="crayon-e">wlan0 </span><span class="crayon-v">down</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
-</p>
-<div id="crayon-59a39d9a6d959387094841" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
     sudo macchanger -r wlan0</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d959387094841-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d959387094841-1"><span class="crayon-e">sudo </span><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">r</span><span class="crayon-h"> </span><span class="crayon-v">wlan0</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     This will change the mac address to a random value</p>
-<div id="crayon-59a39d9a6d95c977840479" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     macchanger -e wlan0</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d95c977840479-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d95c977840479-1"><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">e</span><span class="crayon-h"> </span><span class="crayon-v">wlan0</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     will change the mac address but keep it as the same vendor. This can be useful if you’re spoofing your address but you don’t want it obviously coming from a device not on the network.</p>
-<div id="crayon-59a39d9a6d95f999977807" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo macchanger -A wlan0</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d95f999977807-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d95f999977807-1"><span class="crayon-e">sudo </span><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">A</span><span class="crayon-h"> </span><span class="crayon-v">wlan0</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     This will change the devices <span class="caps">MAC</span> to a random <span class="caps">MAC</span> of any kind, regardless of the original device.</p>
-<div id="crayon-59a39d9a6d963548728742" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo macchanger —mac=XX:XX:XX:XX:XX:XX interface</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d963548728742-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d963548728742-1"><span class="crayon-e">sudo </span><span class="crayon-i">macchanger</span><span class="crayon-h"> </span>—<span class="crayon-v">mac</span><span class="crayon-o">=</span><span class="crayon-v">XX</span><span class="crayon-o">:</span><span class="crayon-v">XX</span><span class="crayon-o">:</span><span class="crayon-v">XX</span><span class="crayon-o">:</span><span class="crayon-v">XX</span><span class="crayon-o">:</span><span class="crayon-v">XX</span><span class="crayon-o">:</span><span class="crayon-e">XX </span><span class="crayon-t">interface</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     Will change to a specific mac address of your choice</p>
 <p>You may want to write a script to start automatically on network manager start, and network manager shut down.</p>
-<div id="crayon-59a39d9a6d966081035831" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo nano /etc/init/macchanger.conf</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d966081035831-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d966081035831-1"><span class="crayon-e">sudo </span><span class="crayon-v">nano</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">init</span><span class="crayon-o">/</span><span class="crayon-v">macchanger</span><span class="crayon-sy">.</span><span class="crayon-v">conf</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
-</p>
-<div id="crayon-59a39d9a6d969416812475" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
     description     "change mac addresses"
     
     start on starting network-manager
@@ -315,45 +181,15 @@ Posted by: DeepDotWeb
     #/usr/bin/logger eth0 `/usr/bin/macchanger -s eth0`
     end script
 </textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d969416812475-2">2</div><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d969416812475-4">4</div><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d969416812475-6">6</div><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d969416812475-8">8</div><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d969416812475-10">10</div><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d969416812475-12">12</div><div class="crayon-num" data-line="crayon-59a39d9a6d969416812475-13">13</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d969416812475-1"><span class="crayon-i">description</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp; </span><span class="crayon-s">"change mac addresses"</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d969416812475-2">&nbsp;</div><div class="crayon-line" id="crayon-59a39d9a6d969416812475-3"><span class="crayon-e">start </span><span class="crayon-e">on </span><span class="crayon-e">starting </span><span class="crayon-v">network</span><span class="crayon-o">-</span><span class="crayon-e">manager</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d969416812475-4">&nbsp;</div><div class="crayon-line" id="crayon-59a39d9a6d969416812475-5"><span class="crayon-v">pre</span><span class="crayon-o">-</span><span class="crayon-e">start </span><span class="crayon-v">script</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d969416812475-6"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">/</span><span class="crayon-v">usr</span><span class="crayon-o">/</span><span class="crayon-v">bin</span><span class="crayon-o">/</span><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">A</span><span class="crayon-h"> </span><span class="crayon-v">wlan0</span></div><div class="crayon-line" id="crayon-59a39d9a6d969416812475-7"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">/</span><span class="crayon-v">usr</span><span class="crayon-o">/</span><span class="crayon-v">bin</span><span class="crayon-o">/</span><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">A</span><span class="crayon-h"> </span><span class="crayon-v">eth0</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d969416812475-8"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">/</span><span class="crayon-v">usr</span><span class="crayon-o">/</span><span class="crayon-v">bin</span><span class="crayon-o">/</span><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">A</span><span class="crayon-h"> </span><span class="crayon-v">wmaster0</span></div><div class="crayon-line" id="crayon-59a39d9a6d969416812475-9"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">/</span><span class="crayon-v">usr</span><span class="crayon-o">/</span><span class="crayon-v">bin</span><span class="crayon-o">/</span><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">A</span><span class="crayon-h"> </span><span class="crayon-v">pan0</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d969416812475-10"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-p">#/usr/bin/logger wlan0 `/usr/bin/macchanger -s wlan0`</span></div><div class="crayon-line" id="crayon-59a39d9a6d969416812475-11"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-p">#/usr/bin/logger eth0 `/usr/bin/macchanger -s eth0`</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d969416812475-12"><span class="crayon-st">end</span><span class="crayon-h"> </span><span class="crayon-i">script</span></div><div class="crayon-line" id="crayon-59a39d9a6d969416812475-13">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     you can switch out -A for -r or whatever other configuration you might want.</p>
-<div id="crayon-59a39d9a6d96d348797317" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo nano /etc/network/if-post-down.d/random-mac</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d96d348797317-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d96d348797317-1"><span class="crayon-e">sudo </span><span class="crayon-v">nano</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">etc</span><span class="crayon-o">/</span><span class="crayon-v">network</span><span class="crayon-o">/</span><span class="crayon-st">if</span><span class="crayon-o">-</span><span class="crayon-v">post</span><span class="crayon-o">-</span><span class="crayon-v">down</span><span class="crayon-sy">.</span><span class="crayon-v">d</span><span class="crayon-o">/</span><span class="crayon-v">random</span><span class="crayon-o">-</span><span class="crayon-v">mac</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
-</p>
-<div id="crayon-59a39d9a6d970340952700" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
     #!/bin/sh
     
     MACCHANGER=/usr/bin/macchanger
@@ -364,17 +200,7 @@ Posted by: DeepDotWeb
     /sbin/ifconfig "$IFACE" down
     macchanger -A "$IFACE"
 </textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d970340952700-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d970340952700-2">2</div><div class="crayon-num" data-line="crayon-59a39d9a6d970340952700-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d970340952700-4">4</div><div class="crayon-num" data-line="crayon-59a39d9a6d970340952700-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d970340952700-6">6</div><div class="crayon-num" data-line="crayon-59a39d9a6d970340952700-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d970340952700-8">8</div><div class="crayon-num" data-line="crayon-59a39d9a6d970340952700-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d970340952700-10">10</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d970340952700-1"><span class="crayon-p">#!/bin/sh</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d970340952700-2">&nbsp;</div><div class="crayon-line" id="crayon-59a39d9a6d970340952700-3"><span class="crayon-v">MACCHANGER</span><span class="crayon-o">=</span><span class="crayon-o">/</span><span class="crayon-v">usr</span><span class="crayon-o">/</span><span class="crayon-v">bin</span><span class="crayon-o">/</span><span class="crayon-i">macchanger</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d970340952700-4">&nbsp;</div><div class="crayon-line" id="crayon-59a39d9a6d970340952700-5"><span class="crayon-sy">[</span><span class="crayon-h"> </span><span class="crayon-s">"$IFACE"</span><span class="crayon-h"> </span><span class="crayon-o">!=</span><span class="crayon-h"> </span><span class="crayon-s">"lo"</span><span class="crayon-h"> </span><span class="crayon-sy">]</span><span class="crayon-h"> </span><span class="crayon-o">||</span><span class="crayon-h"> </span><span class="crayon-i">exit</span><span class="crayon-h"> </span><span class="crayon-cn">0</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d970340952700-6">&nbsp;</div><div class="crayon-line" id="crayon-59a39d9a6d970340952700-7"><span class="crayon-p"># Bring down interface (for wireless cards that are up to scan for networks), change MAC address to a random vendor address, bring up the interface</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d970340952700-8"><span class="crayon-o">/</span><span class="crayon-v">sbin</span><span class="crayon-o">/</span><span class="crayon-i">ifconfig</span><span class="crayon-h"> </span><span class="crayon-s">"$IFACE"</span><span class="crayon-h"> </span><span class="crayon-e">down</span></div><div class="crayon-line" id="crayon-59a39d9a6d970340952700-9"><span class="crayon-v">macchanger</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-i">A</span><span class="crayon-h"> </span><span class="crayon-s">"$IFACE"</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d970340952700-10">&nbsp;</div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <ol>
@@ -447,24 +273,10 @@ Posted by: DeepDotWeb
 <p>All Tor network addresses will be followed with .onion, not .com. It is far more secure browsing .onion services.</p>
 <p>In depth explanation of Tor <a href="https://media.torproject.org/video/tor-internet-days-2010.mp4">by its head developer Arma</a>.</p>
 <p>Once you’ve download tor browser, expand the zipped file. Then</p>
-<div id="crayon-59a39d9a6d985838665005" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     cd tordirectory
     ./start-tor-browser.desktop</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d985838665005-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-59a39d9a6d985838665005-2">2</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d985838665005-1"><span class="crayon-e">cd </span><span class="crayon-i">tordirectory</span></div><div class="crayon-line crayon-striped-line" id="crayon-59a39d9a6d985838665005-2"><span class="crayon-sy">.</span><span class="crayon-o">/</span><span class="crayon-v">start</span><span class="crayon-o">-</span><span class="crayon-v">tor</span><span class="crayon-o">-</span><span class="crayon-v">browser</span><span class="crayon-sy">.</span><span class="crayon-v">desktop</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <a href="/imgs/2015/06/starttor1.png"><img class="aligncenter size-full wp-image-10747" src="/imgs/2015/06/starttor1.png" alt="starttor[1]" width="497" height="145" srcset="/imgs/2015/06/starttor1.png 497w, /imgs/2015/06/starttor1-300x88.png 300w" sizes="(max-width: 497px) 100vw, 497px"/></a></p>
@@ -745,65 +557,23 @@ Posted by: DeepDotWeb
 <p>you will need to boot off a usb/cd if you wish to wipe your primary hard drive.</p>
 <p>Properly deleting a drive will take time, if you’re in a hurry, you can at least use fast mode.</p>
 <p>First:</p>
-<div id="crayon-59a39d9a6d9cf517297318" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo apt-get secure-delete</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9cf517297318-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9cf517297318-1"><span class="crayon-h"> </span><span class="crayon-e">sudo </span><span class="crayon-v">apt</span><span class="crayon-o">-</span><span class="crayon-e">get </span><span class="crayon-v">secure</span><span class="crayon-o">-</span><span class="crayon-v">delete</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     If you’re wiping a disk</p>
-<div id="crayon-59a39d9a6d9d4815819878" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     fdisk-l</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9d4815819878-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9d4815819878-1"><span class="crayon-v">fdisk</span><span class="crayon-o">-</span><span class="crayon-v">l</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     find the disk/partition name: should be /dev/sdxx<br/>
     at this point if you haven’t already, consider encrypting the partition, see veracrypt.<br/>
     wipe space considered free (-f is fast mode “insecure mode”)</p>
-<div id="crayon-59a39d9a6d9d7967549587" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo sfill /dev/sddisk#</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9d7967549587-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9d7967549587-1"><span class="crayon-h"> </span><span class="crayon-e">sudo </span><span class="crayon-v">sfill</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">dev</span><span class="crayon-o">/</span><span class="crayon-v">sddisk</span><span class="crayon-p">#</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     if you need to clear swap space-<br/>
@@ -815,85 +585,29 @@ Posted by: DeepDotWeb
 <li>sudo swapon /dev/sdFdisk#</li>
 </ol>
 <p>if you are strapped for time, use -m for 7 passes or -s for simple 1 pass “insecure mode”</p>
-<div id="crayon-59a39d9a6d9db543830192" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo srm file</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9db543830192-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9db543830192-1"><span class="crayon-e">sudo </span><span class="crayon-e">srm </span><span class="crayon-v">file</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     or</p>
-<div id="crayon-59a39d9a6d9de685434288" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo srm -r /directory</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9de685434288-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9de685434288-1"><span class="crayon-h"> </span><span class="crayon-e">sudo </span><span class="crayon-v">srm</span><span class="crayon-h"> </span><span class="crayon-o">-</span><span class="crayon-v">r</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">directory</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     or</p>
-<div id="crayon-59a39d9a6d9e0030677895" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     srm /dev/sddisk#</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9e0030677895-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9e0030677895-1"><span class="crayon-h"> </span><span class="crayon-v">srm</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-v">dev</span><span class="crayon-o">/</span><span class="crayon-v">sddisk</span><span class="crayon-p">#</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
     At the end you may also be interested at the end to wipe memory on the system.<br/>
     (-f is fast mode “insecure mode)</p>
 <p>Enter:</p>
-<div id="crayon-59a39d9a6d9e4770026858" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     sudo sdmem</textarea></div>
-<div class="crayon-main" style>
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-59a39d9a6d9e4770026858-1">1</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-59a39d9a6d9e4770026858-1"><span class="crayon-h"> </span><span class="crayon-e">sudo </span><span class="crayon-v">sdmem</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
+
     
 <p>
 <h3><a name="physical-destruction"></a>Physical Destruction</h3>

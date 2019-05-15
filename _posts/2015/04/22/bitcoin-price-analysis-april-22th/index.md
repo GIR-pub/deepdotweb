@@ -2,14 +2,11 @@
 title: "Bitcoin Price Analysis April 22th"
 ---
 
-10032  tag-22th tag-analysis tag-april tag-price
 Posted by: DeepDotWeb 
 
 <span>April 22, 2015</span>
 
 
-<span><a href="/2015/04/22/bitcoin-price-analysis-april-22th/#respond">Leave a comment</a></span>
-</p>
 
 <p>This week on Bitcoin . . .</p>
 <p><a href="/imgs/2015/04/image0011.jpg"><img class="aligncenter size-full wp-image-10033" src="/imgs/2015/04/image0011.jpg" alt="image001" width="599" height="359" srcset="/imgs/2015/04/image0011.jpg 599w, /imgs/2015/04/image0011-300x180.jpg 300w" sizes="(max-width: 599px) 100vw, 599px"/></a></p>
@@ -37,8 +34,7 @@ Posted by: DeepDotWeb
 <p>Here are two forecast for lower prices &#8211; $240 resistance (in yellow) and $265 (in red). Either would mark the end of a larger correction move from $166 bottom. My gut feel is collapse of $200 while dragging the bear market for several months longer; I do not expect the crucial zone to hold.</p>
 <p><a href="/imgs/2015/04/image007.png"><img class="aligncenter  wp-image-10039" src="/imgs/2015/04/image007.png" alt="image007" width="908" height="412" srcset="/imgs/2015/04/image007.png 1916w, /imgs/2015/04/image007-300x136.png 300w, /imgs/2015/04/image007-1024x464.png 1024w" sizes="(max-width: 908px) 100vw, 908px"/></a></p>
 <p>Ride the trend while you can, and keep in mind the bear trend. This forecast is invalidated if any significant price-impacting news comes out.</p>
-</div>
-<a href="/tag/22th/" rel="tag">22th</a>  
+
 Updated: 2015-04-22
 
     

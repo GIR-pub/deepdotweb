@@ -2,15 +2,14 @@
 title: "TheRealDeal: Launches Free LeakDB service"
 ---
 
-12491  tag-free tag-launches tag-leakdb tag-therealdeal
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>December 7, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/07/new-therealdeal-db-leak-checker/#comments">5 Comments</a></span>
 
 
-<p>New service launched by <a href="https://www.deepdotweb.com/marketplace-directory/listing/therealdeal-market/">TheRealDeal</a> Team, as it was described by their admin:</p>
+
+
+<p>New service launched by <a href="/marketplace-directory/listing/therealdeal-market/">TheRealDeal</a> Team, as it was described by their admin:</p>
 <p>Available at this URL: <strong>http://leakdbxhumhnzsa7.onion</strong></p>
 <p>Our DB leak checking service service allows anyone to check whether the databases or other kind of information that they are about to purchase on the our market, or any other market for that matter, is part of the public domain and has already been leaked for free.</p>
 <p>For example, if one was to plan on purchasing a database and ask for a sample, he might end up with a few entries which would include a username, password, email, etc&#8230; One could take a unique fraction of this information, for example a password hash 79e846c1c4eab84db5e15e824afab256 and search for it using our service – if there is a match, you will know what database it has been taken from and what other information is associated with it, and therefor get a pretty good idea if what you are about to buy is worth the money.</p>
@@ -28,6 +27,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p>It is better because first of all searching is anonymous, other than that you get the FULL information and source name, and the option to buy the databases. On top of that our sources are unique and we are using both public and private exploits to collect data from databases all over the internet.</p>
 <p>I think its the only site that actually lets you look at the information from, for example, ashley madison, and not just &#8220;check&#8221; if an email is in the list, but also view the full information of the person.</p>
 <p>Available at this URL: <strong>http://leakdbxhumhnzsa7.onion</strong></p>
-</div>
-<a href="https://www.deepdotweb.com/tag/free/" rel="tag">free</a> <a href="https://www.deepdotweb.com/tag/launches/" rel="tag">launches</a> <a href="https://www.deepdotweb.com/tag/leakdb/" rel="tag">leakdb</a> <a href="https://www.deepdotweb.com/tag/therealdeal/" rel="tag">therealdeal</a></span> 
+
 Updated: 2015-12-07

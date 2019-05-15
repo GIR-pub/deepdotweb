@@ -2,14 +2,11 @@
 title: "A Look Back at Bitcoin’s Price This Week &#8211; 20th May"
 ---
 
-10341  tag-20th tag-price 
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>May 20, 2015</span>
 
 
-<span><a href="/2015/05/20/a-look-back-at-bitcoins-price-this-week-20th-may/#respond">Leave a comment</a></span>
-</p>
 
 <p><a href="/imgs/2015/05/13.jpg"><img class="aligncenter size-full wp-image-10342" src="/imgs/2015/05/13.jpg" alt="1" width="594" height="463" srcset="/imgs/2015/05/13.jpg 594w, /imgs/2015/05/13-300x234.jpg 300w" sizes="(max-width: 594px) 100vw, 594px"/></a></p>
 <p>This week, price movements were mainly uneventful and dull. After last week’s run up to $249.22 and subsequent retest at $ 245.49, prices retracted to find support at more familiar territory. An impulse break to the downside &#8211; marked by a large red candlestick &#8211; kicked off sideways trends that is now in force. Support for this elongated trend lies around $230 levels (give or take). An attempt to shake out weak hands at $229 has done little to offer a decisive direction.</p>
@@ -43,8 +40,7 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 </ul>
 <p><a href="/imgs/2015/05/72.png"><img class="aligncenter  wp-image-10348" src="/imgs/2015/05/72.png" alt="7" width="807" height="403" srcset="/imgs/2015/05/72.png 1504w, /imgs/2015/05/72-300x150.png 300w, /imgs/2015/05/72-1024x511.png 1024w, /imgs/2015/05/72-660x330.png 660w, /imgs/2015/05/72-995x498.png 995w" sizes="(max-width: 807px) 100vw, 807px"/></a></p>
 <p>An upper resistance line dating back to late 2014 &#8211; early 2015 has to be broken for good measure and add to other indicators for a solid confirmation of a reversal. This is where the past 2 weeks of rise in prices is seemingly headed &#8211; to retest. Until then, in my opinion, the bear market is still in force.</p>
-</div>
-<a href="/tag/20th/" rel="tag">20th</a> <a href="/tag/price/" rel="tag">price</a> </span> 
+
 Updated: 2015-05-20
 
     

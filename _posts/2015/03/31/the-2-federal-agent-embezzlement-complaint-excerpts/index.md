@@ -2,12 +2,11 @@
 title: "The 2 Federal Agent Embezzlement Complaint Excerpts"
 ---
 
-9801  tag-agent tag-complaint tag-embezzlement tag-excerpts tag-federal
 Posted by: DeepDotWeb 
 
 <span>March 31, 2015</span>
 
-<span><a href="/2015/03/31/the-2-federal-agent-embezzlement-complaint-excerpts/#comments">3 Comments</a></span>
+
 
 
 <p>By <a href="http://www.gwern.net">Gwern</a>, Obviously.</p>
@@ -37,6 +36,5 @@ Posted by: DeepDotWeb
     [Force explained his use of Tor for connecting to Bitstamp:] &#8220;I utilize TOR for privacy. Don&#8217;t particularly want NSA looking over my shoulder :)&#8221; The following day, a member of Bitstamp&#8217;s management learned of FORCE&#8217;s comments and thought it was strange that a government official would make such a statement. FORCE&#8217;s account was blocked again&#8230;On April 29, 2014, Bitstamp&#8217;s General Counsel advised BRIDGES by telephone from the Northern District of California that Bitstamp suspected FORCE of wrongdoing and intended to formally bring it to the attention of law enforcement via a Bank Secrecy Act filing. Bitstamp did so on May 1, 2014. By May 4, 2014, FORCE submitted a letter of resignation after 15 years of service to be effective later that month. On approximately May 2, 2014, the U.S. Attorney&#8217;s Office for the Northern District of California opened an official investigation into FORCE concerning his activities with his Bitstamp account and bitcoin holdings. On approximately May 4, 2014, the Public Integrity Section opened an official investigation into FORCE concerning his improper use of a subpoena to Venmo. On May 8, 2014, the Northern District of California and Public Integrity investigations were merged.</p>
 <p><span style="text-decoration: underline;">The full criminal complaint:</span></p>
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/260401879/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_54847" frameborder="0"></iframe></p>
-</div>
-<a href="/tag/agent/" rel="tag">agent</a> <a href="/tag/complaint/" rel="tag">complaint</a> <a href="/tag/embezzlement/" rel="tag">embezzlement</a> <a href="/tag/excerpts/" rel="tag">excerpts</a> <a href="/tag/federal/" rel="tag">federal</a></span> 
+
 Updated: 2015-03-31

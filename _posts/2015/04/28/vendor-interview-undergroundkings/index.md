@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>April 28, 2015</span>
     
 
-<p><a href="http://www.deepdotweb.com/marketplace-directory/listing/undeground-kings">Underground kings</a> is a dutch vendor who has been operating on the various markets and decided to open his own vendor shop, here is a short interview we have conducted with him shortly after <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="http://www.deepdotweb.com/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution scam</a>:</p>
+<p><a href="/marketplace-directory/listing/undeground-kings">Underground kings</a> is a dutch vendor who has been operating on the various markets and decided to open his own vendor shop, here is a short interview we have conducted with him shortly after <a title="Evolution Marketplace Exit Scam: Biggest Exist Scam Ever?" href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution scam</a>:</p>
 <p><strong>DeepDotWeb: Sure no problem&#8230; so what makes you want to do an interview? (beside the obvious of maybe getting some additional traffic</strong></p>
 <p>UnderGroundKings: Just show the vendors that they don&#8217;t need to believe soo much in DNM&#8230; After some time they all put the exit scam, Or found by Police!</p>
 <p><strong>DeepDotWeb: They don&#8217;t need to believe in DNM&#8217;s and should believe in what instead?</strong></p>

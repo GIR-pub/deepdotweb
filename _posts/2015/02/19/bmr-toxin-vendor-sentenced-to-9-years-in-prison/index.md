@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 
 <p><a href="http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20William%20Sentencing%20News%20Release.html" target="_blank">A Florida man was sentenced yesterday</a> to 110 months in prison for producing and selling potentially deadly toxins ricin and abrin for use as weapons and conspiring to kill a woman in the United Kingdom, U.S. Attorney Paul J. Fishman announced.</p>
-<p><a href="http://www.deepdotweb.com/2014/01/22/bmr-vendor-busted-for-selling-deadly-toxin/">Jesse William Korff</a>, 20, of Labelle, Florida, pleaded guilty before U.S. District Judge Peter G. Sheridan on Aug. 12, 2014, to an information charging him with five counts of developing, producing, transferring and possessing toxins, five counts of smuggling toxins and one count of conspiring to kill a person in a foreign country.</p>
+<p><a href="/2014/01/22/bmr-vendor-busted-for-selling-deadly-toxin/">Jesse William Korff</a>, 20, of Labelle, Florida, pleaded guilty before U.S. District Judge Peter G. Sheridan on Aug. 12, 2014, to an information charging him with five counts of developing, producing, transferring and possessing toxins, five counts of smuggling toxins and one count of conspiring to kill a person in a foreign country.</p>
 <p>Korff was arrested in Florida on Jan. 18, 2014, following a joint investigation by U.S. Immigration and Customs Enforcement, Homeland Security Investigations (HSI) and the FBI of Korff’s sales of toxins through an underground, Internet-based marketplace known as “Black Market Reloaded” (BMR).</p>
 <blockquote><p>Jesse Korff peddled his poison in a shadowy, online network favored by cybercriminals</p></blockquote>
 <p>U.S. Attorney Fishman said:</p>
@@ -32,6 +32,5 @@ Posted by: DeepDotWeb
 <p style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"><a style="text-decoration: underline;" title="View Korff, Jesse Information on Scribd" href="https://www.scribd.com/doc/256250817/Korff-Jesse-Information">Korff, Jesse Information</a>:</p>
 <p><iframe width="100%" height="600" class="scribd_iframe_embed" src="https://www.scribd.com/embeds/256250817/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_24677" frameborder="0"></iframe></p>
 <p><strong>Info source</strong>: http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20William%20Sentencing%20News%20Release.html</p>
-</div>
 
 Updated: 2015-02-19

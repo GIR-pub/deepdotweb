@@ -2,13 +2,10 @@
 title: "LE – Whose Who In Investigating SR1?"
 ---
 
-10926  tag-investigating tag-le tag-sr1
 Posted by: Allen Hoffmann, JD
 
 <span>June 25, 2015</span>
     
-<span><a href="/2015/06/25/le-whose-who-in-investigating-sr1/#comments">3 Comments</a></span>
-</p>
 
 <p>Whaddya know&#8230; a couple of days after his co-accused and former Baltimore “Marco Polo” taskforce colleague Shaun Bridges <a href="/2015/06/23/secret-service-agent-cops-plea-on-sr1-theft/">copped a plea</a> for their abhorrent <a href="/2015/04/16/the-many-faces-of-corrupt-dea-agent-carl-force/">joint enterprise</a>,  the main man of the scheme, Carl Mark Force IV has also <a href="http://www.bloomberg.com/news/articles/2015-06-23/second-u-s-agent-agrees-to-plead-guilty-to-bitcoin-theft">copped a plea</a>. As we’re all aware by now, the dirty deeds of these two basically destroyed some major investigative work completed by the taskforce in terms of certain fictitious murder for hire charges. It makes one wonder when two key investigators in such a high profile case turn out to be spectacularly corrupt, just what kind of people major LE agencies are using when they investigate DNMs, and with the SR1 litigation over and the majority of the evidentiary story told, we’re now in a position to take a look at the personalities which came together and were used by the Government to build its case.</p>
 <p><strong>Interagency pissing contests; FBI, DEA and HSI(?)</strong></p>
@@ -24,8 +21,7 @@ Posted by: Allen Hoffmann, JD
 <p><strong>What have we learned?</strong></p>
 <p>UC penetration from a variety of non parallel angles, which are a direct symptom of the congested, decentralized LE approach which the US so favors, were used to attack SR1. In the process, corruption flourished in the Baltimore taskforce, and two federal agents have copped utilitarian pleas to avoid embarrassing trials and to minimize time behind bars. An experienced UC who played the role of an old school crook and was dirty, a cybercrime “whiz” with a dream team behind him who couldn’t get much traction on his own, and a dude working at the airport who noted an increase in old school, postal drug imports who effectively outflanked them all&#8230; Of all the approaches to the investigation and penetration of SR, Der-Yeghiayan’s was the most traditional, working his way up the chain, and in the end, was the most successful.</p>
 <p>Der-Yeghiayan learned what experienced LE knows, and what DNM management teams should consider very, very carefully as far as undercover operations go; persistence, flexibility to approach, and rapport building all pay big dividends. LE tends not to adapt much when it hits on something that works, and its likely that one of the above approaches, if not all three, are in use as you’ve finished reading this article.</p>
-</div>
-<a href="/tag/investigating/" rel="tag">investigating</a> <a href="/tag/le/" rel="tag">le</a> <a href="/tag/sr1/" rel="tag">sr1</a></span> 
+
 Updated: 2015-06-25
 
     

@@ -2,12 +2,11 @@
 title: "Identabit: The Solution to the Misgivings of Bitcoin?"
 ---
 
-11757  tag-identabit tag-misgivings tag-solution
-Posted by: <a href="/author/kalyan/" title="">Koni 
+Posted by: Koni 
 
 <span>October 13, 2015</span>
 
-<span><a href="/2015/10/13/identabit-the-solution-to-the-misgivings-of-bitcoin/#comments">16 Comments</a></span>
+
 
 
 <p>Bitcoin, the currency of the future. This maxim has been associated with the Bitcoin since its creation. For technology-enthusiasts, the newly implemented Blockchain algorithm and the idea of a currency that was decentralized and accessible from all parts of the world was an enticing idea. Thus, the value of the Bitcoin spiked and early investors reaped tremendous harvests. However, for the layman, like most of us, the main attraction towards this new currency was the fact that it was supposedly untraceable and gave us the freedom to make transactions without being spied upon by the government.</p>
@@ -16,7 +15,6 @@ Posted by: <a href="/author/kalyan/" title="">Koni
 <p>So now that we have discussed the pros and cons of Identabit for the criminal and everyday user, we should delve into the global impact that the introduction of Indentabit may have. In the beginning, everyone seemed interested in the novelty of a safe and anonymous currency like Bitcoin. But due to the public stigmatization of Bitcoin and its cousins, more and more people are staying away from anonymous currencies. Identabit taps into the public’s fears of law enforcement, but its need for privacy, and ensures that a privacy-minded cryptocurrency that complies with all aspects of the law is feasible. But in the broader scope of things, this spells an oncoming problem for Dark Net Markets.</p>
 <p>In my opinion, which thus propels the basis of the my argument, most people buying illegal goods from Dark Net Markets are doing so not because of the need for drugs or other items, but for the novelty of the online drug-trade. I argue that these people first bought into the concept of the Bitcoin and then explored more alleys for them to spend their newfound currency. In everyone’s research of Bitcoin, the deep web always pops up and we are tempted to explore around a bit. Eventually he or she will end up on Abraxas and other markets, and will be awed by the fact that such places exist. And rather than just windows-shopping, the relative safety and ease of buying illegal goods on the deep web will be the stimulus for the user to buy the goods. But now that the popularity of Bitcoin has been steadily dropping, combined with the increased vigilance of law enforcement, the markets have been losing customers and losing revenue. From my point of view, I believe that the exit scams committed by many successful markets were not to enrage customers, but to get out of the business before Interpol and the value of Bitcoin came crashing down on them.</p>
 <p>So why did I randomly mention Australia a while back? Well, a relatively well known market called ChinaTownChemist sells meth and cocaine to users in Australia. I could be wrong, and some may deem my prediction to be reckless, but hear me out. I prophecize that ChinaTownChemist, and other Darknet Markets, will see a slow decline and a reduction in their user bases, and maybe even a complete closure. When I cannot say, but that it besides the point. Pure logic and common sense would tell anyone that the Bitcoin is not a place to make it big anymore. The main concern I have for the deep web is the decaying interest in Bitcoin and the increasing support for identifiable cryptocurrencies such as Identabit. With Australian business renouncing their support for Bitcoin, the rest of the world may follow suit. And as I argued before, Dark Net Markets will start degenerating due to the lack of new and inquisitive customers. Identabit will bring a new wave of cryptocurrency, devaluing and stigmatizing the Bitcoin. The Bitcoin we all loved, the anonymous currency of the future, may be quickly sliding into the past.</p>
-</div>
-<a href="/tag/identabit/" rel="tag">identabit</a> <a href="/tag/misgivings/" rel="tag">misgivings</a> <a href="/tag/solution/" rel="tag">solution</a></span> 
-Updated: 2015-10-13<a href="/author/kalyan/" title="Posts by Koni" rel="author">Koni</a></strong></div>
+
+Updated: 2015-10-13
 

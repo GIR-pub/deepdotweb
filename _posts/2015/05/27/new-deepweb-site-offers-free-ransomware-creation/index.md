@@ -2,16 +2,13 @@
 title: "New DeepWeb Site Offers Free Ransomware Creation"
 ---
 
-10415  tag-creation tag-deepweb tag-free tag-offers tag-ransomware tag-site
 Posted by: DeepDotWeb 
 
 <span>May 27, 2015</span>
 
 
-<span><a href="/2015/05/27/new-deepweb-site-offers-free-ransomware-creation/#comments">17 Comments</a></span>
-</p>
 
-<p>Not long we reported about a new market selling <a href="http://www.deepdotweb.com/2015/04/08/therealdeal-dark-net-market-for-code-0days-exploits/">Zero day exploits</a>, and it seems that exploits are becoming more common than ever on the deepweb. Recently a new site was launched and started offering free creation of <a href="http://www.google.co.il/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCcQFjAA&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRansomware&amp;ei=yqtlVazNCKLm7gbYtYDAAg&amp;usg=AFQjCNFmLFQPv1m8Vvhc2iGmkBPO5Jg5TQ&amp;sig2=OyC1Wplmbq-G3XcGJvGy6g&amp;bvm=bv.93990622,d.d24">ransomware</a> &#8211; in exchange for 30% of the BTC profits made from ransoms. According to the site itself (toxicola7qwv37qj.onion):</p>
+<p>Not long we reported about a new market selling <a href="/2015/04/08/therealdeal-dark-net-market-for-code-0days-exploits/">Zero day exploits</a>, and it seems that exploits are becoming more common than ever on the deepweb. Recently a new site was launched and started offering free creation of <a href="http://www.google.co.il/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCcQFjAA&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRansomware&amp;ei=yqtlVazNCKLm7gbYtYDAAg&amp;usg=AFQjCNFmLFQPv1m8Vvhc2iGmkBPO5Jg5TQ&amp;sig2=OyC1Wplmbq-G3XcGJvGy6g&amp;bvm=bv.93990622,d.d24">ransomware</a> &#8211; in exchange for 30% of the BTC profits made from ransoms. According to the site itself (toxicola7qwv37qj.onion):</p>
 <p><a href="/imgs/2015/05/12.png"><img class="aligncenter  wp-image-10416" src="/imgs/2015/05/12.png" alt="1" width="872" height="443" srcset="/imgs/2015/05/12.png 1293w, /imgs/2015/05/12-300x152.png 300w, /imgs/2015/05/12-1024x520.png 1024w" sizes="(max-width: 872px) 100vw, 872px"/></a></p>
 <blockquote><p><strong>What is Tox?</strong></p>
 <p>We developed a virus which, once opened in a Windows OS, encrypts all the files.<br/>
@@ -39,8 +36,7 @@ Posted by: DeepDotWeb
     In the virus section you can monitor the status of all your viruses. When you have bitcoins to withdraw, just enter your address and press the Withdraw button</p></blockquote>
 <p>We did not take the ransomware to a test drive, but a blog post from <a href="https://blogs.mcafee.com/mcafee-labs/meet-tox-ransomware-for-the-rest-of-us">mcafee.com</a> shows exactly how it works. It was reported by <a href="http://securityzap.com/tox-ransomware-creator/">other blogs</a> that several anti virus softwares are able to detect the ransomware.</p>
 <p><a href="/imgs/2015/05/21.png"><img class="aligncenter size-full wp-image-10417" src="/imgs/2015/05/21.png" alt="2" width="1024" height="531" srcset="/imgs/2015/05/21.png 1024w, /imgs/2015/05/21-300x156.png 300w" sizes="(max-width: 1024px) 100vw, 1024px"/></a></p>
-</div>
-<a href="/tag/creation/" rel="tag">creation</a> <a href="/tag/deepweb/" rel="tag">deepweb</a> <a href="/tag/free/" rel="tag">free</a> <a href="/tag/offers/" rel="tag">offers</a> <a href="/tag/ransomware/" rel="tag">ransomware</a> <a href="/tag/site/" rel="tag">site</a></span> 
+
 Updated: 2015-05-27
 
     

@@ -2,13 +2,10 @@
 title: "Cashing Out &#8211; What is Your Strategy?"
 ---
 
-10463  tag-cashing tag-strategy">
-Posted by: <a href="/author/archer/" title="">Archer 
+Posted by: Archer 
 
 <span>December 23, 2015</span>
     
-<span><a href="/2015/12/23/cashing-out-what-is-your-strategy/#comments">11 Comments</a></span>
-</p>
 
     
 <p><strong><em>**This is part one of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom.</em></strong></p>
@@ -53,8 +50,7 @@ Posted by: <a href="/author/archer/" title="">Archer
 <p>Find someone you can trust (at least a little). As hard as it is in a business like DNM&#8217;s, surrounded by crooks and scumbags, there are a few people out there that actually do this as a profession.</p>
 <p><strong>In the next series of posts</strong>, I am going to drill down into case studies, ideas and specifics on where it is still safe (and easy) to open a bank account overseas, where to incorporate that can still totally shield your assets, and legal, effective ways to obtain a second passport in a no-or-low extradition country.</p>
 <p>All of the advice and information I give here is current as of the date of posting, and everything here are the actual methods I use on a regular basis for my clients.</p>
-</div>
-<a href="/tag/cashing/" rel="tag">cashing</a> <a href="/tag/strategy/" rel="tag">strategy</a></span> 
+
 Updated: 2015-12-23
-<a href="/author/archer/" title="Posts by Archer" rel="author">Archer</a></strong></div>
+
     

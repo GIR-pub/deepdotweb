@@ -2,17 +2,16 @@
 title: "Journalist Investigates The Idealistic Motives Behind Valhalla Market"
 ---
 
-12316  tag-idealistic tag-investigates tag-journalist tag-motives tag-valhalla">
 Posted by: DeepDotWeb 
 
 <span>November 29, 2015</span>
     
-<span><a href="/2015/11/29/the-idealistic-motives-behind-valhalla/#comments">1 
+
 
 
     
 <p>This article was <a href="http://www.hs.fi/kuukausiliite/a1446526960209" target="_blank">originally published</a> by the acclaimed journalist Pekka Vahvanen for Helsingin Sanomat, the biggest newspaper of Scandinavia. The article was translated to English exclusively for Deepdotweb  &#8211; A previous interview we have published with Silkkitie / Valhalla admin, can be found <a href="/2015/10/16/interview-with-valhalla-silkkitie-admin/" target="_blank">here</a>.</p>
-<p>While sitting in a café Ville goes through the drug supply of Tor network. On <a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie/" target="_blank">Valhalla darknet market</a>, formerly known as Silkkitie, there is for example amphetamine, LSD, ecstasy, and marijuana available. Ville is a 25 years old grad student of natural sciences. For three years now he has ordered his drugs from the Internet.</p>
+<p>While sitting in a café Ville goes through the drug supply of Tor network. On <a href="/marketplace-directory/listing/silkkitie/" target="_blank">Valhalla darknet market</a>, formerly known as Silkkitie, there is for example amphetamine, LSD, ecstasy, and marijuana available. Ville is a 25 years old grad student of natural sciences. For three years now he has ordered his drugs from the Internet.</p>
 <p>Ville takes out a small notebook in which he has listed in chronological order all the substances he has tried. First one is alcohol during elementary school. Then became cannabis in high school. Next in the university were mushrooms, 4-AcO-DMT, 2C-D, MXE, DXM, LSD, amphetamine, cocaine&#8230; There are 34 different psychoactive substances in his notebook. Most of them he has ordered through the Tor network.</p>
 <p>&#8220;Only a few people have the kind of contacts that all these could be found without the Internet.&#8221;</p>
 <p>Almost in every drug market on the Tor network there is peer assessment. Buyers review vendors and vendors give feedback to buyers. Good reputation is vital for the business. Ville goes through the reviews for Valhalla&#8217;s vendors.</p>
@@ -33,7 +32,7 @@ Posted by: DeepDotWeb
 <p>According to Douppikauppa&#8217;s leader, because of strict control of Finnish Customs, the drugs are more expensive here than abroad. That&#8217;s why there are excellent margins in drug dealing, he boosts. Douppikauppa has also tried luring new users as clients: this and last year they distributed in total over two thousand LSD blotters for free.</p>
 <p>Internet drug sales are not a new thing. Already in the year 1972 students of the top US universities, MIT on the East Coast and Stanford on the West Coast, did first ever online drug deal through the Arpanet network back then.</p>
 <p>Only in the 2010s the online sales of drugs have started to grow significantly. The most well known darknet market was Silk Road which was founded in the Tor network by the American coder Ross Ulbricht in February 2011. According to the estimates, the total worth of trade made on the site was over 1.2 billion dollars &#8211; before Ulbricht was arrested and Silk Road closed in October 2013.</p>
-<p>After big efforts the FBI managed to locate the Silk Road servers to Iceland. Finally they had also gotten track of Ulbricht. When the original Silk Road went down a new darknet market <a href="http://www.deepdotweb.com/marketplace-directory/listing/silkkitie/" target="_blank">Silkkitie, later rebranded as Valhalla</a>, started operating in Finland. The site is being maintained by a pseudonym Kapteeni. He tells in a message sent through his market that the original Silk Road inspired him in getting the project started. Kapteeni claims that the financial aspect for himself is small. Primarily it is about ideological project.</p>
+<p>After big efforts the FBI managed to locate the Silk Road servers to Iceland. Finally they had also gotten track of Ulbricht. When the original Silk Road went down a new darknet market <a href="/marketplace-directory/listing/silkkitie/" target="_blank">Silkkitie, later rebranded as Valhalla</a>, started operating in Finland. The site is being maintained by a pseudonym Kapteeni. He tells in a message sent through his market that the original Silk Road inspired him in getting the project started. Kapteeni claims that the financial aspect for himself is small. Primarily it is about ideological project.</p>
 <p>&#8220;I want to give people the freedom to decide for their own bodies and their own spare time without harming anybody else.&#8221;</p>
 <p>According to Kapteeni there was also a personal motive for founding Silkkitie. Kapteeni&#8217;s close relative committed suicide long time ago, since he had developed too much dept to street dealers and was afraid of violence.</p>
 <p>&#8220;Internet drug markets can erase the violence from drug dealing&#8221;, Kapteeni writes. Because everything is paid in advance with cryptocurrencies, the buyers cannot develop dept to the vendors, thus the dept won&#8217;t be collected with violence. On the other hand the vendors can&#8217;t fight for territory since they do not know who the other vendors are.</p>
@@ -56,8 +55,7 @@ Posted by: DeepDotWeb
 <p>Juha Nurmi reminds that the positive sides of Tor network do still win over the negative sides. Many dissidents have survived alive because the use of Tor Browser has covered them from getting caught. In the Internet-censoring countries like China Tor Browser can give you possibility to read for example Wikipedia. In Western countries the media uses Tor network when being in contact with whistleblowers.</p>
 <p>&#8220;Some say that the privacy on the Internet is not important, because they&#8217;ve got nothing to hide&#8221;, says Nurmi.</p>
 <p>&#8220;It is a bit like saying that I don&#8217;t need the freedom of speech, because I got nothing to say. You can&#8217;t think of human rights from the perspective that they are not needed, because I personally don&#8217;t use them right now.&#8221;</p>
-</div>
-<a href="/tag/idealistic/" rel="tag">idealistic</a> <a href="/tag/investigates/" rel="tag">investigates</a> <a href="/tag/journalist/" rel="tag">journalist</a> <a href="/tag/motives/" rel="tag">motives</a> <a href="/tag/valhalla/" rel="tag">valhalla</a></span> 
+
 Updated: 2015-11-29
 
     

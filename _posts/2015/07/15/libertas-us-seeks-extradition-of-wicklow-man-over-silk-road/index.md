@@ -2,41 +2,30 @@
 title: "Libertas: US seeks extradition of Wicklow man over ‘Silk Road’"
 ---
 
-11041 tag-extradition tag-libertas tag-man tag-seeks tag-wicklow">
 Posted by: DeepDotWeb 
 
 <span>July 15, 2015</span>
 
-<span><a href="/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/#comments">5 Comments</a></span>
-</p>
 
     
-<div class="wp-socializer-buttons clearfix">
-<span class="wpsr-btn">
+
     
-<div class="fb-like" data-href="
-/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
+
     
-</span>
-<span class="wpsr-btn">
+
     
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en" data-url="
-/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/" data-text="Libertas: US seeks extradition of Wicklow man over ‘Silk Road’ - "></a>
+
     
-</span>
-<span class="wpsr-btn">
+
     
 <div class="g-plusone" data-size="medium" data-href="
 /2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/"></div>
     
-</span>
-<span class="wpsr-btn">
+
     
-<script type="IN/Share" data-url="
-/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/" data-counter="right"></script>
+
     
-</span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p>Wicklow man was an administrator of the Silk Road website which offered anonymity to those both selling and buying items including illegal drugs and hacking software.</p>
+<p>Wicklow man was an administrator of the Silk Road website which offered anonymity to those both selling and buying items including illegal drugs and hacking software.</p>
 <p>Gary Davis (<em>Note:</em> Alleged Silk road admin <a href="/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/">Libertas</a>), aged 27, of Johnstown Court, Kilpedder, Co Wicklow, is wanted for trial by US authorities on charges of conspiracy to distribute narcotics, conspiracy to commit computer hacking and conspiracy to commit money laundering.</p>
 <div id="attachment_11042" style="width: 477px" class="wp-caption aligncenter"><a href="/imgs/2015/07/image1.jpg" rel="lightbox"> <img class="wp-image-11042" src="/imgs/2015/07/image1.jpg" alt="image[1]" width="467" height="249"/> </a><p class="wp-caption-text">Gary Davis</p></div>If convicted in the US he could receive a life sentence.</p>
 <p>Today his counsel John O’Kelly SC said his client, who he described as being a “vulnerable person” suffers from both a form of autism known as Asperger’s Syndrome and depression, was opposing the extradition request on a number of grounds.</p>
@@ -63,40 +52,11 @@ Posted by: DeepDotWeb
 <p>The hearing, which is expect to last a number of days, continues.</p>
 <p><strong>Article Source</strong>: <a href="http://www.thejournal.ie/silk-road-wicklow-man-2216691-Jul2015/">http://www.thejournal.ie/silk-road-wicklow-man-2216691-Jul2015/</a></p>
 <p>&nbsp;</p>
-<h3>Share and Enjoy</h3>
+
     
-<div class="wp-socializer 32px">
-<ul class="wp-socializer-opacity columns-no">
-<li><a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F15%2Flibertas-us-seeks-extradition-of-wicklow-man-over-silk-road%2F&amp;t=Libertas%3A+US+seeks+extradition+of+Wicklow+man+over+%E2%80%98Silk+Road%E2%80%99" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
-<li><a href="http://twitter.com/home?status=Libertas%3A+US+seeks+extradition+of+Wicklow+man+over+%E2%80%98Silk+Road%E2%80%99%20-%20https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F15%2Flibertas-us-seeks-extradition-of-wicklow-man-over-silk-road%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-<li><a href="http://delicious.com/post?url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F15%2Flibertas-us-seeks-extradition-of-wicklow-man-over-silk-road%2F&amp;title=Libertas%3A+US+seeks+extradition+of+Wicklow+man+over+%E2%80%98Silk+Road%E2%80%99&amp;notes=Wicklow+man+was+an+administrator+of+the+Silk+Road+website+which+offered+anonymity+to+those+both+selling+and+buying+items+including+illegal+drugs+and+hacking+software.%0D%0A%0D%0AGary+Davis+%28Note%3A+Alleged+Silk+road+admin+Libertas%29%2C+aged+27%2C+of+Johnstown+Court" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F15%2Flibertas-us-seeks-extradition-of-wicklow-man-over-silk-road%2F&amp;title=Libertas%3A+US+seeks+extradition+of+Wicklow+man+over+%E2%80%98Silk+Road%E2%80%99&amp;source=Deep+Dot+Web+-+Surfacing+The+News+From+The+DeepWeb&amp;summary=Wicklow+man+was+an+administrator+of+the+Silk+Road+website+which+offered+anonymity+to+those+both+selling+and+buying+items+including+illegal+drugs+and+hacking+software.%0D%0A%0D%0AGary+Davis+%28Note%3A+Alleged+Silk+road+admin+Libertas%29%2C+aged+27%2C+of+Johnstown+Court" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-<li><a href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.deepdotweb.com%2F2015%2F07%2F15%2Flibertas-us-seeks-extradition-of-wicklow-man-over-silk-road%2F&amp;title=Libertas%3A+US+seeks+extradition+of+Wicklow+man+over+%E2%80%98Silk+Road%E2%80%99" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-<li><a href="/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-<li><a href="/cdn-cgi/l/email-protection#b58ac1da8893c6c0d7dfd0d6c188f9dcd7d0c7c1d4c69086f49ee0e69ec6d0d0dec69ed0cdc1c7d4d1dcc1dcdadb9edad39ee2dcd6ded9dac29ed8d4db9edac3d0c7X+%E2%80%98Silk+Road%E2%80%99&body=Wicklow+man+was+an+administrator+of+the+Silk+Road+website+which+offered+anonymity+to+those+both+selling+and+buying+items+including+illegal+drugs+and+hacking+software.%0D%0A%0D%0AGary+Davis+%28Note%3A+Alleged+Silk+road+admin+Libertas%29%2C+aged+27%2C+of+Johnstown+Court%20-%20
-/2015/07/15/libertas-us-seeks-extradition-of-wicklow-man-over-silk-road/" title="Email this" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-<li><a href="/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(
-/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-</ul>
-<div class="wp-socializer-clearer"></div></div>
+
     
-</div>
-<a href="/tag/extradition/" rel="tag">extradition</a> <a href="/tag/libertas/" rel="tag">libertas</a> <a href="/tag/man/" rel="tag">man</a>  <a href="/tag/seeks/" rel="tag">seeks</a> <a href="/tag/wicklow/" rel="tag">wicklow</a></span> 
+
 Updated: 2015-07-15
 
     

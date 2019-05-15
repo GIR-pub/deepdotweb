@@ -2,13 +2,12 @@
 title: "Ether Price Plummets &#8211; What Happened?"
 ---
 
-11294  tag-ether tag-happened tag-plummets tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>August 18, 2015</span>
 
 
-<span><a href="/2015/08/18/ether-price-plummets-what-happened/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="/imgs/2015/08/11.jpg"><img class="aligncenter size-full wp-image-11295" src="/imgs/2015/08/11.jpg" alt="1" width="809" height="540" srcset="/imgs/2015/08/11.jpg 809w, /imgs/2015/08/11-300x200.jpg 300w, /imgs/2015/08/11-290x195.jpg 290w" sizes="(max-width: 809px) 100vw, 809px" /></a></p>
@@ -32,7 +31,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><strong>Market remains unsettled</strong></p>
 <p><a href="/imgs/2015/08/52.jpg"><img class="aligncenter size-full wp-image-11299" src="/imgs/2015/08/52.jpg" alt="5" width="948" height="314" srcset="/imgs/2015/08/52.jpg 948w, /imgs/2015/08/52-300x99.jpg 300w" sizes="(max-width: 948px) 100vw, 948px" /></a></p>
 <p>Despite heavy sell offs initially on August 8, price settled at a bottom of $ 1 on Kraken and once users were able to access their coins, market interest resumed sending the price back up again to a peak of $ 2. A rollercoaster ride within a week; with a supply of 72,524,960 ETH, market capitalization went from $ 180 million, down to $42 million and up again to $ 122 million &#8211; all within a span of 1 and a half weeks! As of writing this, the price of 1 ETH is $1.33 as per <a href="http://coinmarketcap.com/currencies/ethereum/#charts">coinmarketcap</a>, with a market capitalization of $ 96 million. Certainly resembles the sort of volatility Bitcoin traders were accustomed to.</p>
-</div>
-<a href="/tag/ether/" rel="tag">ether</a> <a href="/tag/happened/" rel="tag">happened</a> <a href="/tag/plummets/" rel="tag">plummets</a> 
+
 Updated: 2015-08-18
 

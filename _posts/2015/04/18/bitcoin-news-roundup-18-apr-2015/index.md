@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 18 Apr. 2015"
 ---
 
-10017  tag-1766 tag-2524 tag-apr 
 Posted by: DeepDotWeb 
 
 <span>April 18, 2015</span>
 
 
-<span><a href="/2015/04/18/bitcoin-news-roundup-18-apr-2015/#comments">1 Comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>British authorities are in favor of the digital currency in view of upgrading the current financial system. As Sarah Jenn of <a href="http://www.newsbtc.com/2015/04/16/can-london-be-a-global-bitcoin-hub/">NewsBtc</a> writes, in spite of the UK government’s intention to regulate the bitcoin, there are bitcoin devotees, who would love to see London becoming a bitcoin hub. In this context, suggested regulations should be formulated with an aim to avert the use of the digital currency in fraudulent activities.</p>
@@ -54,8 +51,7 @@ Posted by: DeepDotWeb
 <p>The site later went back up, rolling back trades that occurred at 4pm before this event.</p>
 <p><strong>London stakes its claim as global bitcoin hub </strong></p>
 <p><a href="http://www.reuters.com/article/2015/04/15/us-currency-bitcoin-london-insight-idUSKBN0N622320150415">Reuters</a> reports the UK is increasingly associated with favorable conditions that foster Bitcoin start ups. For example, it is home to Coin Scrum, one of the largest Bitcoin meet ups in the world. British authorities support financial innovation, going as far as dedicating $10 million research grant into digital currencies. London, New York and San Francisco are seemingly competing to position themselves as FinTech hosts . It remains to be seen what sort of impact regulation from London will look like once completed.</p>
-</div>
-<a href="/tag/18/" rel="tag">18</a>  <a href="/tag/apr/" rel="tag">apr</a>  </span> 
+
 Updated: 2015-04-18
 
     

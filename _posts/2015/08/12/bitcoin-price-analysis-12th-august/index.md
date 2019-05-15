@@ -2,13 +2,12 @@
 title: "​Bitcoin Price Analysis 12th August"
 ---
 
-11254  tag-12th tag-analysis tag-august tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>August 12, 2015</span>
 
 
-<span><a href="/2015/08/12/bitcoin-price-analysis-12th-august/#respond">Leave a comment</a></span>
+
 
 
 <p><strong>BBVA Bank of Spain on mainstreaming Bitcoin</strong></p>
@@ -39,7 +38,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>After this week’s market action, I am expect sideways action to slight rise in price &#8211; up to $ 273 &#8211; $281, after which another move down should follow. Despite this week’s sharp drop in price, I still expect prices of up to $325 at some point. Observing this move down is key. Invalidation of this forecast ($325) would occur if $240 was broken with strong intent. This would mark a return to the bear market, based on some chart visuals like this one.</p>
 <p><a href="/imgs/2015/08/61.jpg"><img class="aligncenter  wp-image-11260" src="/imgs/2015/08/61.jpg" alt="6" width="953" height="476" srcset="/imgs/2015/08/61.jpg 1205w, /imgs/2015/08/61-300x150.jpg 300w, /imgs/2015/08/61-1024x512.jpg 1024w, /imgs/2015/08/61-660x330.jpg 660w, /imgs/2015/08/61-995x498.jpg 995w" sizes="(max-width: 953px) 100vw, 953px"/></a></p>
 <p>Safe to say the market is in a decisive zone.</p>
-</div>
-<a href="/tag/12th/" rel="tag">12th</a>  
+
 Updated: 2015-08-12
 

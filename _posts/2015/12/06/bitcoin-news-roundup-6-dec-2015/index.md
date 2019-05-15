@@ -2,13 +2,12 @@
 title: "Bitcoin News Roundup – 6 Dec. 2015"
 ---
 
-12482  tag-2524 tag-dec ">
 Posted by: DeepDotWeb 
 
 <span>December 6, 2015</span>
 
 
-<span><a href="/2015/12/06/bitcoin-news-roundup-6-dec-2015/#comments">1 
+
 
 
     
@@ -21,8 +20,7 @@ Posted by: DeepDotWeb
 <p>Russia keeps the fire burning regarding the bitcoin regulation. As Yessi Bello Perez of <a href="http://www.coindesk.com/russia-ban-bitcoin-not-blockchain/">Coin Desk</a> writes, following a series of announcements against the use of the digital currency as an alternative form of payment to the national currency, now the Russian Ministry of Finance claims that it seeks to ban the bitcoin itself and not the blockchain technology. Finance Minister Alexey Moiseev was working last month on a law that would punish with up to four-year imprisonment those who convert bitcoin into the ruble, now he states that <em>“</em><em>We feel that blockchain technology is very important in the development of various Internet-based services.”</em></p>
 <p><strong>Payments</strong></p>
 <p>GoPay integrates the bitcoin. As Jamie Redman of <a href="http://bitcoinist.net/czech-republics-gopay-adds-bitcoin/">Bitcoinist</a> writes, the Czech equivalent of the PayPal has announced that it will integrate the bitcoin into its systems. Currently, GoPay, in cooperation with the BitcoinPay, allows its customers to purchase, sell and transfer funds in a seamless way by offering business payments, online payments and mobile solutions in the Czech Republic and Slovakia. According to a statement made by GoPay on Twitter <em>“The leading Czech payment gateway provider Gopay is now accepting Bitcoin in cooperation with Bitcoinpay. More than 2000 merchants can accept Bitcoin now.</em></p>
-</div>
- <a href="/tag/dec/" rel="tag">dec</a>  </span> 
+
 Updated: 2015-12-06
 
     

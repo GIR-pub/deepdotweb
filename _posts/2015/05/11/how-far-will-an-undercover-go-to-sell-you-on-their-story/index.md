@@ -2,13 +2,10 @@
 title: "How Far Will an Undercover Go to Sell You on Their Story?"
 ---
 
-8766  tag-sell tag-story tag-undercover
 Posted by: Allen Hoffmann, JD
 
 <span>May 11, 2015</span>
     
-<span><a href="/2015/05/11/how-far-will-an-undercover-go-to-sell-you-on-their-story/#comments">4 Comments</a></span>
-</p>
 
 <p>Following on from the framework of ‘Mr. Big’ and the Canadian Technique, and the fairly recent decision in Hart, we can review the case literature which helps us to build a better understanding of just how the police go about enacting their story time adventures and selling their shit to their target. The cases listed below are aimed specifically at making murder cases, not dope cases – but that doesn’t mean that a component of one of these scenarios or cases couldn’t be used in a dope case. This article simply looks at just how sneaky the cops can be when they want to be.</p>
 <p>Keep in mind, first, that the types of scenarios the cops can involve you with are varied and complex. The litany of different things someone being worked by an undercover may think they are involved in is conveniently set out in a number of Australian court cases.</p>
@@ -46,8 +43,7 @@ Posted by: Allen Hoffmann, JD
 <p>An interesting aside &#8211; in the jurisdiction of Victoria, Australia, where the majority of these scenario cases are made owing to the Victoria Police’s experience in using the technique, police were still using the same name, if not the same actual man, for the gang boss <a href="http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSCA/2014/339.html" target="_blank">in 2012</a> as they were in cases being made back <a href="http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/vic/VSC/2004/476.html" target="_blank">in 2002</a>. If you’re in Australia and you ever thought you knew a criminal gang boss named “Gary Butcher”, think long and hard about calling him again. (Sidebar – Same name/guy for 10 years? Talk about finite resources…)</p>
 <p><strong>Using Mr. Big cases to categorize UC conduct</strong></p>
 <p>You can read more about the ‘Mr. Big’ method <a href="http://en.wikipedia.org/wiki/Mr._Big_%28police_procedure%29" target="_blank">on Wikipedia</a> if you want, and for the more legally inclined, you can even read this article that an officer tasked with Target Development at the Australian Federal Police so kindly put together about the legal ramifications in the <a href="http://www.afp.gov.au/~/media/afp/pdf/s/silence.ashx" target="_blank">Aussie context</a>, seeing as most readers are not likely to be targeted for a long term cold case murder investigation any time in the near future. The purpose is to provide the framework in which we can learn what the method teaches us about how far undercover cops can and will go in pretending to be criminals or get into and stay in a target’s life from a number of cases where the Mr. Big matrix was employed.</p>
-</div>
-<a href="/tag/sell/" rel="tag">sell</a> <a href="/tag/story/" rel="tag">story</a> <a href="/tag/undercover/" rel="tag">undercover</a></span> 
+
 Updated: 2015-05-11
 
     

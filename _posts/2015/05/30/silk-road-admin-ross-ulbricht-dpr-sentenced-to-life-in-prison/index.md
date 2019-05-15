@@ -2,18 +2,15 @@
 title: "Silk Road Admin Ross Ulbricht (DPR) Sentenced to Life in Prison"
 ---
 
-10486  tag-admin tag-life tag-prison  tag-sentenced tag-ulbricht
 Posted by: DeepDotWeb 
 
 <span>May 30, 2015</span>
 
 
-<span><a href="/2015/05/30/silk-road-admin-ross-ulbricht-dpr-sentenced-to-life-in-prison/#comments">7 Comments</a></span>
-</p>
 
 <p>The Silk road saga came to an end when Ross Ulbricht, the convicted founder of Silk Road, has been sentenced to life in prison for running the underground online drug bazaar Silk Road (1), signaling the government’s seriousness in combating Dark net markets.</p>
 <p>Before the sentencing the parents of the victims of drug overdoses addressed the court. Ulbricht broke down in tears. “I never wanted that to happen,” he said. “I wish I could go back and convince myself to take a different path.”</p>
-<p><em>The Judge about <a href="http://www.deepdotweb.com/2015/05/30/doctorx-despicable-me/">DoctorX &amp; harm reduction</a>:</em></p>
+<p><em>The Judge about <a href="/2015/05/30/doctorx-despicable-me/">DoctorX &amp; harm reduction</a>:</em></p>
 <blockquote class="twitter-tweet" width="550">
 <p lang="en" dir="ltr">Judge called the harm reduction argument nonsense, called Dr. X &quot;particularly despicable&quot; and &quot;irresponsible&quot;</p>
 <p>&mdash; Patrick O&#39;Neill (@HowellONeill) <a href="https://twitter.com/HowellONeill/status/604377479332139008">May 29, 2015</a></p></blockquote>
@@ -44,8 +41,7 @@ Posted by: DeepDotWeb
 <li><a href="http://www.wired.com/2015/05/silk-road-creator-ross-ulbricht-sentenced-life-prison/">Source</a></li>
 <li><a href="http://www.nytimes.com/2015/05/30/nyregion/ross-ulbricht-creator-of-silk-road-website-is-sentenced-to-life-in-prison.html?_r=0">Source</a></li>
 </ul>
-</div>
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/dpr/" rel="tag">dpr</a> <a href="/tag/life/" rel="tag">life</a> <a href="/tag/prison/" rel="tag">prison</a>  <a href="/tag/ross/" rel="tag">ross</a> <a href="/tag/sentenced/" rel="tag">sentenced</a> <a href="/tag/ulbricht/" rel="tag">ulbricht</a></span> 
+
 Updated: 2015-05-30
 
     

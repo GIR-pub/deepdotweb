@@ -2,10 +2,6 @@
 title: "Bitcoin News Roundup – 23 Aug. 2015"
 ---
 
-11321  tag-2524 tag-2706 tag-aug 
-    
-    
-    
 
 Posted by: DeepDotWeb
     
@@ -30,7 +26,6 @@ Posted by: DeepDotWeb
     
     
 
- <a href="/tag/23/" rel="tag">23</a> <a href="/tag/aug/" rel="tag">aug</a>  </span>				
 Updated: 2015-08-23
     
     

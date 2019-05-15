@@ -2,13 +2,10 @@
 title: "Air Force Cadet Sentenced To 3 Years For Selling Drugs"
 ---
 
-12164 tag-air tag-cadet tag-force tag-selling tag-sentenced tag-years">
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>November 17, 2015</span>
 
-<span><a href="/2015/11/17/air-force-cadet-sentenced-to-3-years-for-selling-drugs/#comments">6 Comments</a></span>
-</p>
 
     
 <p><a href="http://gazette.com/air-force-academy-cadet-sentenced-for-dealing-drugs/article/1562468">Nathaniel Penalosa, a junior cadet at the Air Force Academy was sentenced for 3 years in military prison for the charge of dealing drugs as a part of the plea deal.</a> The cadet admitted that he sold MDMA, LSD, Modafinil, that he ordered from dark net marketplaces to his classmates.</p>
@@ -22,8 +19,7 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>In court, Penalosa claimed that he was just briefly in the drug business, for proof, he said that he had fewer than 20 deals his dark net market profile. The most popular drug he purchased and sold was Modafinil since the cadets could use the substance for studying more efficiently. The biggest client of Penalosa could be his former roommate, Luca Simmons, who was dismissed from the school this September. Simmons testified that he bought Modafinil from his roommate in order to get past rough times during his academy years. Three other cadets were kicked out of the academy who are also tied to the same case.</p>
 <p>Frank Spinner, Penalosa&#8217;s civilian lawyer, stated that the former cadet regrets dealing drugs at the school:</p>
 <p>&#8220;His only thought is what have I done to my mother.”</p>
-</div>
-<a href="/tag/air/" rel="tag">air</a> <a href="/tag/cadet/" rel="tag">cadet</a>  <a href="/tag/force/" rel="tag">force</a> <a href="/tag/selling/" rel="tag">selling</a> <a href="/tag/sentenced/" rel="tag">sentenced</a> <a href="/tag/years/" rel="tag">years</a></span> 
+
 Updated: 2015-11-17
-<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
     

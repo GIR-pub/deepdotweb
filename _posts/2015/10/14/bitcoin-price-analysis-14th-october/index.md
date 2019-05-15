@@ -2,13 +2,12 @@
 title: "Bitcoin price analysis 14th October"
 ---
 
-11762  tag-14th tag-analysis tag-october tag-price
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>October 14, 2015</span>
 
 
-<span><a href="/2015/10/14/bitcoin-price-analysis-14th-october/#respond">Leave a comment</a></span>
+
 
 
 <p><strong>BITCOIN MARKETS THIS WEEK</strong></p>
@@ -48,7 +47,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p><em>“If we decide to regulate virtual currencies, we are unaware of the financial instability risks posed by this currency. This is an area we need to determine carefully.&#8221;<br/>
 </em><em><br/>
 </em>Bitcoin regulation seems certain at this point, it’s more of a question of when rather than if.</p>
-</div>
-<a href="/tag/14th/" rel="tag">14th</a>  
+
 Updated: 2015-10-14
 

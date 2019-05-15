@@ -2,14 +2,11 @@
 title: "Wtf: Pedophiles Launch Dash (&#8220;Darkcoin&#8221;) Mining Crowdfunding Platform"
 ---
 
-11068  tag-crowdfunding tag-darkcoin tag-dash tag-mining tag-pedophiles tag-platform tag-wtf">
 Posted by: DeepDotWeb 
 
 <span>July 16, 2015</span>
 
 
-<span><a href="/2015/07/16/pedophiles-launch-dash-darkcoin-mining-crowdfunding-platform/#comments">15 Comments</a></span>
-</p>
 
 
 <p>It seems that innovation never stops in the those dark corners of the internet, 9 months ago we reported about a new &#8220;startup&#8221; created by Dark Web Pedo&#8217;s attempting to provide a <a href="/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/">crowdfunding platform</a> for uploading and distributing child abuse content financed by the site&#8217;s visitors &#8211; which later failed, shutdown and was deemed as either scam or a failed honeypot.</p>
@@ -27,8 +24,7 @@ Posted by: DeepDotWeb
 <p>With clear instruction of how to unlock the &#8220;content&#8221; using miners for various operating systems:</p>
 <p><a href="/imgs/2015/07/unlock1.png"><img class="aligncenter size-full wp-image-11074" src="/imgs/2015/07/unlock1.png" alt="unlock1" width="719" height="413" srcset="/imgs/2015/07/unlock1.png 719w, /imgs/2015/07/unlock1-300x172.png 300w" sizes="(max-width: 719px) 100vw, 719px" /></a></p>
 <p>Lets just hope that this will fail like the previous one and that this method will be used to achieve better goals.</p>
-</div>
-<a href="/tag/crowdfunding/" rel="tag">crowdfunding</a> <a href="/tag/darkcoin/" rel="tag">darkcoin</a> <a href="/tag/dash/" rel="tag">dash</a>  <a href="/tag/mining/" rel="tag">mining</a> <a href="/tag/pedophiles/" rel="tag">pedophiles</a> <a href="/tag/platform/" rel="tag">platform</a> <a href="/tag/wtf/" rel="tag">wtf</a></span> 
+
 Updated: 2015-07-16
 
     

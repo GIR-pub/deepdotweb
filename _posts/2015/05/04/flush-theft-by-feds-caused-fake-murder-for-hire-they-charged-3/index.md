@@ -2,15 +2,12 @@
 title: "“Flush” Theft By Feds Caused Fake Murder For Hire They Charged (3)"
 ---
 
-9894  tag-srcorruption
 Posted by: Allen Hoffmann, JD
 
 <span>May 4, 2015</span>
     
-<span><a href="/2015/05/04/flush-theft-by-feds-caused-fake-murder-for-hire-they-charged-3/#respond">Leave a comment</a></span>
-</p>
 
-<p>All parts available at the #<a href="http://www.deepdotweb.com/tag/SRCorruption/">SRCorruption</a> Tag</p>
+
 <p>Just a brief recap for those who haven’t been following since the Silk Road trial; Silk Road admin “Flush”, aka Curtis Green, gets popped receiving a kilo of fake coke from a fake dealer as part of the Silk Road investigation. He turns informant and hands over his login credentials to the Baltimore Silk Road Task force, which gives them the ability to reset passwords and withdrawal PINs – and later that day, BTC starts getting ripped out of Silk Road on a wholesale basis. The Government alleges the man responsible is Secret Service Special Agent Shaun Bridges, of the Baltimore Task force. DPR deduced that the party responsible was Flush (who was in custody), and reaches out to a guy he believes is a major trafficker, “Nob”, to murder Curtis Green. Nob, of course, is DEA Special Agent Carl Force, and so the charade murder is acted out.</p>
 <p><strong>What did they take?</strong></p>
 <p>According to the complaint, Force managed to make $776k in liquidating bitcoin during 2013 and 2014. Not bad at all for someone on $150k a year. In just a couple of months following the Silk Road thefts, Bridges managed to lay hands on $820k.</p>
@@ -33,9 +30,8 @@ Posted by: Allen Hoffmann, JD
 <p><strong>How did this happen?</strong><br/>
     How did these two men engage in such wholesale, felonious conduct under the noses of their colleagues and supervisors? How did they acquire such wealth in connection with a cryptocurrency, the illicit use of which they were indirectly tasked with investigating, without anyone noticing? The answer is, itself, another question, one so old it’s a latin maxim.</p>
 <p>Quis custodiet ipsos custodes?</p>
-<p>All parts available at the #<a href="http://www.deepdotweb.com/tag/SRCorruption/">SRCorruption</a> Tag</p>
-</div>
-<a href="/tag/srcorruption/" rel="tag">SRCorruption</a></span> 
+
+
 Updated: 2015-05-04
 
     

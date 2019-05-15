@@ -2,13 +2,12 @@
 title: "Bitcoin Price Analysis 16 sept 2015"
 ---
 
-11553  tag-1887 tag-2524 tag-analysis tag-price tag-sept
-Posted by: <a href="/author/pesa_mic/" title="">pesa_mic 
+Posted by: pesa_mic 
 
 <span>September 16, 2015</span>
 
 
-<span><a href="/2015/09/16/bitcoin-price-analysis-16-sept-2015/#comments">2 Comments</a></span>
+
 
 
 <p><strong>BITCOIN PRICE THIS WEEK</strong></p>
@@ -36,7 +35,6 @@ Posted by: <a href="/author/pesa_mic/" title="">pesa_mic
 <p>This week I am bearish and expect any recovery of price upward to be limited within current price and max price of $ 240. Low $200 prices could be re-tested here and this may be the final test that breaks below $200. $225 will be decisive depending on how strong it holds.</p>
 <p><a href="/imgs/2015/09/52.jpg"><img class="aligncenter size-full wp-image-11558" src="/imgs/2015/09/52.jpg" alt="5" width="1020" height="422" srcset="/imgs/2015/09/52.jpg 1020w, /imgs/2015/09/52-300x124.jpg 300w" sizes="(max-width: 1020px) 100vw, 1020px"/></a></p>
 <p>At this point, looking at price projections in the mid -term is best, as the market is at a critical level. Look out for an analysis report on the midterm to long term price outlook, and the real possibility of $ 100 coins!</p>
-</div>
-<a href="/tag/16/" rel="tag">16</a>  <a href="/tag/price/" rel="tag">price</a> <a href="/tag/sept/" rel="tag">sept</a></span> 
+
 Updated: 2015-09-16
 

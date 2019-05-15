@@ -2,16 +2,13 @@
 title: "Interview With AlphaBay Market Admin"
 ---
 
-9930  tag-admin tag-alphabay tag-interview
-Posted by: <a href="/author/joshuag/" title="">Joshua G. 
+Posted by: Joshua G. 
 
 <span>April 20, 2015</span>
     
-<span><a href="/2015/04/20/interview-with-alphabay-admin/#comments">32 Comments</a></span>
-</p>
 
-<p>As I have mentioned in my previous article about <a href="http://www.deepdotweb.com/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/">Russian communities and how they perceive the dark net</a>, I will be interviewing the biggest names in the deep web trading to understand more about their growth strategy, security and ultimately creating a big ranking and comparison table that can be used as orientation to users based on marketplace features, fees, products interest, credibility, security (and others).</p>
-<p>The reason why I chose <a href="http://www.deepdotweb.com/marketplace-directory/listing/alphabay">AlphaBay</a> as my first pick was that <a href="http://www.deepdotweb.com/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/">in my previous article</a> , several Russian members were discussing where all of the fraud population went &#8211; AlphaBay. In addition, it was rumoured several big-time Russian vendors (of various products &amp; services) were going to open up shops at AlphaBay and be part of possibly the first merge of English fraud community with its Russian counterpart under the roof of this marketplace.</p>
+<p>As I have mentioned in my previous article about <a href="/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/">Russian communities and how they perceive the dark net</a>, I will be interviewing the biggest names in the deep web trading to understand more about their growth strategy, security and ultimately creating a big ranking and comparison table that can be used as orientation to users based on marketplace features, fees, products interest, credibility, security (and others).</p>
+<p>The reason why I chose <a href="/marketplace-directory/listing/alphabay">AlphaBay</a> as my first pick was that <a href="/2015/04/11/darknetmarkets-and-their-reputation-in-the-russian-community/">in my previous article</a> , several Russian members were discussing where all of the fraud population went &#8211; AlphaBay. In addition, it was rumoured several big-time Russian vendors (of various products &amp; services) were going to open up shops at AlphaBay and be part of possibly the first merge of English fraud community with its Russian counterpart under the roof of this marketplace.</p>
 <div id="attachment_9882" style="width: 1265px" class="wp-caption aligncenter"><a href="/imgs/2015/04/5.jpg"><img class="size-full wp-image-9882" src="/imgs/2015/04/5.jpg" alt="Several russian forum members discussing closure of Evolution and where the carding community has moved, one user explains it moved to AlphaBay" width="1255" height="467" srcset="/imgs/2015/04/5.jpg 1255w, /imgs/2015/04/5-300x112.jpg 300w, /imgs/2015/04/5-1024x381.jpg 1024w" sizes="(max-width: 1255px) 100vw, 1255px" /></a><p class="wp-caption-text">Several russian forum members discussing closure of Evolution and where the carding community has moved, one user explains it moved to AlphaBay</p></div>
 <p>I first want to thank a friend of mine, which I have known for many years, that knew alpha02 and provided me with direct contact information via Jabber (admin consent) that enabled me to conduct this interview. The person I&#8217;m interviewing today is the main administrator at AlphaBay &#8211; alpha02.</p>
 <p>Bear in mind, timestamp was changed and the full jabber of the administrator was hidden and replaced with &#8220;alpha02&#8221;.</p>
@@ -22,11 +19,7 @@ Posted by: <a href="/author/joshuag/" title="">Joshua G.
 <p>alpha02: sure i am</p>
 <p>Joshua G.: can you provide pgp signed text with the words &#8220;verification&#8221; so that we can get the interview going!<br />
     alpha02:</p>
-<div id="crayon-5c11bd1116120105775523" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
-<div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
-<div class="crayon-tools" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><div class="crayon-button crayon-nums-button" title="Toggle Line Numbers"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-plain-button" title="Toggle Plain Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-wrap-button" title="Toggle Line Wrap"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-expand-button" title="Expand Code"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-copy-button" title="Copy"><div class="crayon-button-icon"></div></div><div class="crayon-button crayon-popup-button" title="Open Code In New Window"><div class="crayon-button-icon"></div></div></div></div>
-<div class="crayon-info" style="min-height: 16.8px !important; line-height: 16.8px !important;"></div>
-<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+
     -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA512
     
@@ -41,21 +34,11 @@ Posted by: <a href="/author/joshuag/" title="">Joshua G.
     YYkKB7vWhpgf3poybrpFLZZ9/tqfLcs0/Wj89V9Bn2VwEHk7cv55WjZbVbjVNKpI
     tNFkfPueNnaIu5chGK15y1C8oe8/LRBhyPrGXQ5CSXSqv+4rMAaLLZ7AUDeDI8U=
     =yzK0
-    -----END PGP SIGNATURE-----</textarea></div>
-<div class="crayon-main" style="">
-<table class="crayon-table">
-<tr class="crayon-row">
-<td class="crayon-nums " data-settings="show">
-<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-2">2</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-4">4</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-6">6</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-8">8</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-10">10</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-12">12</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5c11bd1116120105775523-14">14</div><div class="crayon-num" data-line="crayon-5c11bd1116120105775523-15">15</div></div>
-</td>
-<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5c11bd1116120105775523-1"><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span><span class="crayon-e">BEGIN </span><span class="crayon-e">PGP </span><span class="crayon-t">SIGNED</span><span class="crayon-h"> </span><span class="crayon-v">MESSAGE</span><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-2"><span class="crayon-v">Hash</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">SHA512</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-3">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-4"><span class="crayon-v">Verification</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-5"><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span><span class="crayon-e">BEGIN </span><span class="crayon-e">PGP </span><span class="crayon-v">SIGNATURE</span><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-6"><span class="crayon-v">Version</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">GnuPG </span><span class="crayon-e">v1</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-7">&nbsp;</div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-8"><span class="crayon-v">iQEcBAEBCgAGBQJVKWuZAAoJEMHC3kQom86G8IUIAKunw9HYqmAis3BVtkPli</span><span class="crayon-o">/</span><span class="crayon-e">FO</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-9"><span class="crayon-v">IAsQAbwtRzuzgykY</span><span class="crayon-o">+</span><span class="crayon-v">pVKuGbtD2GokJGuwwN6qX1Wb0ZDKNZvmhExNBSQ9IyiWDVZ</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-10"><span class="crayon-o">+</span><span class="crayon-v">Csozg</span><span class="crayon-o">++</span><span class="crayon-v">IS6xGKwHDa5wgls71B</span><span class="crayon-o">+</span><span class="crayon-cn">7VyDY9feiKRJWg697gCvgj976Mu25V9HJPS45</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-11"><span class="crayon-e">NQHqw9Z99OIED2LX49WdtbzCDUJhRlqPD1fyKFPXqcyhZbp7vtmbgjlRgxqFBX7i</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-12"><span class="crayon-v">YYkKB7vWhpgf3poybrpFLZZ9</span><span class="crayon-o">/</span><span class="crayon-v">tqfLcs0</span><span class="crayon-o">/</span><span class="crayon-e">Wj89V9Bn2VwEHk7cv55WjZbVbjVNKpI</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-13"><span class="crayon-v">tNFkfPueNnaIu5chGK15y1C8oe8</span><span class="crayon-o">/</span><span class="crayon-v">LRBhyPrGXQ5CSXSqv</span><span class="crayon-o">+</span><span class="crayon-cn">4rMAaLLZ7AUDeDI8U</span><span class="crayon-o">=</span></div><div class="crayon-line crayon-striped-line" id="crayon-5c11bd1116120105775523-14"><span class="crayon-o">=</span><span class="crayon-v">yzK0</span></div><div class="crayon-line" id="crayon-5c11bd1116120105775523-15"><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span><span class="crayon-st">END</span><span class="crayon-h"> </span><span class="crayon-e">PGP </span><span class="crayon-v">SIGNATURE</span><span class="crayon-o">--</span><span class="crayon-o">--</span><span class="crayon-o">-</span></div></div></td>
-</tr>
-</table>
-</div>
-</div>
-    
-<p>
-    Joshua G.: ok, confirmed.</p>
+    -----END PGP SIGNATURE-----
+
+
+
+<p>Joshua G.: ok, confirmed.</p>
 <p><strong>Joshua G.: How was AlphaBay &amp; its community affected by the exit scam that Evolution pulled off?</strong></p>
 <p>alpha02: A lot of reputable vendors and buyers were shocked that Evolution administration could do such a thing. But everyone knew, the trading must go on no matter what, so there was an influx of ex-Evolution members who after registering with us, are now happy to trade on our marketplace platform while enjoying the wide range of security and organizational features we have to offer.</p>
 <p><strong>Joshua G.: What increase have you saw in terms of users, posts and trading volume since Evolution exit scam?</strong></p>
@@ -93,8 +76,7 @@ Posted by: <a href="/author/joshuag/" title="">Joshua G.
 <p>I hope you have enjoyed reading the interview as much as I did doing it. Certainly, AlphaBay is an interesting market to watch and see how it will develop not only infrastructure-wise but as one big community too. Speaking of big communities, will other markets be implementing new features to respond to what the administration at AlphaBay has recently introduced? Stay tuned for next interviews that will reveal the answer to such questions and much more.</p>
 <p>Yours truly,<br />
     Joshua G.</p>
-</div>
-<a href="/tag/admin/" rel="tag">admin</a> <a href="/tag/alphabay/" rel="tag">alphabay</a> <a href="/tag/interview/" rel="tag">interview</a></span> 
+
 Updated: 2015-04-20
-<a href="/author/joshuag/" title="Posts by Joshua G." rel="author">Joshua G.</a></strong></div>
+
     

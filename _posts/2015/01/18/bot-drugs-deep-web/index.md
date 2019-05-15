@@ -2,16 +2,13 @@
 title: "Swiss Police Seize Bot Used To Buy Drugs On The Deep Web"
 ---
 
-8827  tag-bot tag-buy tag-police tag-seize tag-swiss tag-web
 Posted by: DeepDotWeb 
 
 <span>January 18, 2015</span>
 
 
-<span><a href="/2015/01/18/bot-drugs-deep-web/#comments">3 Comments</a></span>
-</p>
 
-<p>Recently many reports appeared about An automated bot called the &#8220;Random Darknet Shopper&#8221; that was programmed to buy random products from the Dark Net Markets (From <a href="http://www.deepdotweb.com/marketplace-directory/listing/agora-market">Agora</a>, if to be more accurate) as part of an art exhibit in Switzerland. Once a week the bot went on a shopping spree on the Agora marketplace buying random products, some of which were illegal (<a href="https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/" target="_blank">list</a>).</p>
+<p>Recently many reports appeared about An automated bot called the &#8220;Random Darknet Shopper&#8221; that was programmed to buy random products from the Dark Net Markets (From <a href="/marketplace-directory/listing/agora-market">Agora</a>, if to be more accurate) as part of an art exhibit in Switzerland. Once a week the bot went on a shopping spree on the Agora marketplace buying random products, some of which were illegal (<a href="https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/" target="_blank">list</a>).</p>
 <p>According to  the art collective <a href="https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/">!Mediengruppe Bitnik</a> who operated the bot &#8211; Swiss police <a href="https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/2015-01-15-statement/" target="_blank" rel="nofollow">seized the art exhibit</a> on Jan. 12 at after operating for the last three months. The Bot was programmed by two London-based Swiss artists, Carmen Weisskopf and Domagoj Smoljo, who claimed to be exploring the societal implications of robots breaking the law and the ethical implications of the Dark Net Markets.</p>
 <p><a href="/imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1.jpg"><img class="aligncenter size-full wp-image-8828" src="/imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1.jpg" alt="607cc77b46cfb7488ceb1c474f7e[1]" width="700" height="700" srcset="/imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1.jpg 700w, /imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1-150x150.jpg 150w, /imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1-300x300.jpg 300w, /imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1-55x55.jpg 55w, /imgs/2015/01/607cc77b46cfb7488ceb1c474f7e1-50x50.jpg 50w" sizes="(max-width: 700px) 100vw, 700px"/></a></p>
 <p>The group who made the bot released a statement saying:</p>
@@ -22,7 +19,6 @@ Posted by: DeepDotWeb
 <p>&mdash; !Mediengruppe Bitnik (@bitnk) <a href="https://twitter.com/bitnk/status/556050086531440640">January 16, 2015</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>The creator was not prosecuted so far as far as we know.</p>
-</div>
 
 Updated: 2015-01-18
 

@@ -2,12 +2,11 @@
 title: "Heroin Vendor Supremesmoke Busted"
 ---
 
-11317 tag-busted tag-heroin tag-supremesmoke tag-vendor
-Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris 
+Posted by: Benjamin Vitáris 
 
 <span>August 22, 2015</span>
 
-<span><a href="/2015/08/22/heroin-vendor-supremesmoke-busted/#respond">Leave a comment</a></span>
+
 
 
 <p><a href="http://fox59.com/2015/08/18/exclusive-authorities-raid-several-indianapolis-homes-in-heroin-distribution-case-1-arrested/">On 18 Aug, Indianapolis, during a 6 house raid by federal agents and police regarding a heroin distribution ring, Lee Gray, aka Supremesmoke has been taken into custody</a>.</p>
@@ -24,7 +23,6 @@ Posted by: <a href="/author/benjaminvi/" title="">Benjamin Vitáris
 <p>Later on, the IRS was also involved in the case. IRS Criminal Investigation Special Agent Stephen Boyd have made a statement about their involvement in the investigation: “When IRS Criminal Investigation gets involved, the drug dealer’s profits go up in smoke. IRS CI plays a unique role in targeting the profit and financial gains of narcotics traffickers on many levels. As a team, law enforcement will continue to pursue criminals operating in the cyber world and trace their illegal proceeds in the form of virtual currency.”</p>
 <p>After the police have found him, Gray was brought out in handcuffs and placed into a car. He remained quiet as he walked to the car alongside with the two federal agents who have been escorting him.</p>
 <p>Upon a successful case (by LE), Gray could be facing 20 years of jail.</p>
-</div>
- <a href="/tag/heroin/" rel="tag">heroin</a> <a href="/tag/supremesmoke/" rel="tag">supremesmoke</a> <a href="/tag/vendor/" rel="tag">vendor</a></span> 
-Updated: 2015-08-22<a href="/author/benjaminvi/" title="Posts by Benjamin Vitáris" rel="author">Benjamin Vitáris</a></strong></div>
+
+Updated: 2015-08-22
 

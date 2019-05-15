@@ -2,13 +2,10 @@
 title: "In-depth Guide to Tails + Persistence"
 ---
 
-9443  tag-guide tag-indepth tag-persistence tag-tails
 Posted by: DeepDotWeb 
 
 <span>June 5, 2015</span>
     
-<span><a href="/2015/06/05/in-depth-guide-to-tails-persistence/#comments">18 Comments</a></span>
-</p>
 
 <p>Here&#8217;s an easy to follow noobs guide to Tails. Tails is by no means just a noobs OS, it does a lot of the hard work for you and makes connecting to and browsing the .onion network easy as hell. <strong><a href="http://www.wired.com/2014/04/tails/">Edward Snowden used it</a></strong> to help stay anonymous during the initial NSA spying leaks. We&#8217;ll go over verifying the ISO, installing to USB, setting up persistence, and setting up the environment. For this guide we&#8217;ll be using Linux Mint as our operating system. Most steps will be the same across operating systems.</p>
 <p><strong>#What we&#8217;ll need</strong></p>
@@ -37,7 +34,7 @@ Posted by: DeepDotWeb
 <p>If you want to know more check out the <strong><a href="https://tails.boum.org/about/index.en.html">&#8216;About&#8217; page</a></strong>, and it would also be a good idea to read over the <strong><a href="https://tails.boum.org/doc/about/warning/index.en.html">&#8216;Warning&#8217; page</a></strong> to get a better idea about what Tails can and cannot do.</p>
 <p><strong>#Downloading</strong></p>
 <p><a href="/imgs/2015/03/tails006.png"><img class="aligncenter size-full wp-image-9450" src="/imgs/2015/03/tails006.png" alt="tails006" width="986" height="421" srcset="/imgs/2015/03/tails006.png 986w, /imgs/2015/03/tails006-300x128.png 300w" sizes="(max-width: 986px) 100vw, 986px"/></a>Visit the <strong><a href="https://tails.boum.org/index.en.html">official Tails website</a></strong> and click the download button on the right side. Scroll down a bit on the download page to &#8216;Download the ISO image&#8217;. Click on the &#8216;ISO image&#8217; button and the &#8216;signature&#8217; button to download the .iso and the signature. Save these two files in the same location.</p>
-<p>Next you&#8217;re going to want to download the &#8216;signing key&#8217; from <strong><a href="https://tails.boum.org/download/index.en.html#verify">this link</a></strong>. Import the key into your PGP program of choice. We&#8217;ll be verifying the .iso by checking the PGP signature. If you don&#8217;t know how to use PGP, check out the guides we have for <strong><a href="http://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/">GNU/Linux</a></strong>, <strong><a href="http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/">OS X</a></strong>, and <strong><a href="http://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">Windows</a></strong>.</p>
+<p>Next you&#8217;re going to want to download the &#8216;signing key&#8217; from <strong><a href="https://tails.boum.org/download/index.en.html#verify">this link</a></strong>. Import the key into your PGP program of choice. We&#8217;ll be verifying the .iso by checking the PGP signature. If you don&#8217;t know how to use PGP, check out the guides we have for <strong><a href="/2015/02/17/basic-guide-pgp-linux/">GNU/Linux</a></strong>, <strong><a href="/2015/02/20/pgp-tutorial-os-x/">OS X</a></strong>, and <strong><a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">Windows</a></strong>.</p>
 <p><strong>#Verifying</strong></p>
 <p>Verifying the ISO is an important step. We want to make sure what we&#8217;re getting is actually from the Tails project. Like the intro said, we&#8217;ll be using the command line in Linux Mint . If you&#8217;re using Windows or OS X check out <strong><a href="https://tails.boum.org/download/index.en.html#index3h1">this link for instructions</a></strong>.</p>
 <p>First we need to import the Tails signing key. Change into the directory where you saved it, then import the key into GPG. Once it&#8217;s imported, the output from gpg should reflect that. Take a look at the below picture to make sure you did this step right. If you get an error saying “gpg: no ultimately trusted keys found” this means that you haven&#8217;t created your own keypair yet. This is fine just for verifying the .iso file, you can ignore it.</p>
@@ -79,8 +76,7 @@ Posted by: DeepDotWeb
 <p><strong>Part 5 – Conclusion</strong></p>
 <p>Congratulations! If you&#8217;ve followed this guide you now have an anonymous and secure operating system for browsing the dark web. There are a few more things to Tails such as Pidgin+OTR messaging, Claws Mail, and a metadata anonymization toolkit, but those are beyond the basics. If you want to learn more check out the documentation at <strong><a href="https://tails.boum.org/doc/index.en.html">https://tails.boum.org/doc/index.en.html</a></strong>.</p>
 <p>Thanks to our skilled tutorials master <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">@MLP_is_my_OPSEC</a> :)</p>
-</div>
-<a href="/tag/guide/" rel="tag">guide</a> <a href="/tag/indepth/" rel="tag">indepth</a> <a href="/tag/persistence/" rel="tag">persistence</a> <a href="/tag/tails/" rel="tag">tails</a></span> 
+
 Updated: 2015-06-05
 
     

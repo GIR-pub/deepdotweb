@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
     
 <p>All Excerpts by <a href="http://www.gwern.net/">Gwern</a> &#8211; (Source: <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2tdays/sr1_trial_2013_ross_ulbricht_journal/">Reddit)</a>  &#8211; The full document is available at the bottom of this post:</p>
 <ul>
-<li>More articles about the Silk road trial at this tag: <a href="http://www.deepdotweb.com/tag/SilkRoadTrial/">#SilkRoadTrial</a></li>
+<li>More articles about the Silk road trial at this tag: <a href="/tag/SilkRoadTrial/">#SilkRoadTrial</a></li>
 <li><a href="https://www.scribd.com/MotherboardTV/documents" target="_blank">Many other Evidence &#8211; Documents, Chat Logs &amp; Records</a></li>
 </ul>
 <p><strong>03/24/2013</strong></p>

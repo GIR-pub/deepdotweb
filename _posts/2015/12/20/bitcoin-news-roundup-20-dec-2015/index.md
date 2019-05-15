@@ -2,12 +2,11 @@
 title: "Bitcoin News Roundup – 20 Dec. 2015"
 ---
 
-12672 tag-2524 tag-dec 
-Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb 
+Posted by: DeepDotWeb 
 
 <span>December 20, 2015</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2015/12/20/bitcoin-news-roundup-20-dec-2015/#comments">1 Comment</a></span>
+
+
 
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
@@ -19,6 +18,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWe
 <p><strong>Payments</strong></p>
 <p>Airbitz joins forces with Fold to allow users buying gift cards in their bitcoin wallet. As Nick Abouzeid of <a href="https://bitcoinmagazine.com/articles/airbitz-partners-with-fold-allows-users-to-buy-gift-cards-inside-wallet-1450121665">Bitcoin Magazine</a> writes, Airbitz, the mobile wallet and developer platform has entered a partnership with Fold, enabling users to purchase a Starbucks or a Target gift card at 20% discount directly inside the Airbitz wallet. Airbitz’s built-in directory of companies that accept bitcoin is pushing Fold to seek partnerships with Whole Foods, CVS, and Home Depot as well as the top 30 retailers in the U.S.</p>
 <p>Overstock’s proposal to issue stock using the blockchain is approved by the Securities and Exchange Commission (SEC). As Cade Metz of <a href="http://www.wired.com/2015/12/sec-approves-plan-to-issue-company-stock-via-the-bitcoin-blockchain/">Wired</a> reports, the SEC has approved a revised Form S-3, which allows online retailer Overstock.com to issue public securities via the Internet. Under its subsidiary TØ.com, Overstock.com plans to offer its crypto-technology to assist other businesses issue stocks via the blockchain. Although it is not yet defined when the company will issue a public security on the blockchain, the approved plan indicates a major shift in the distribution and trading of financial securities in the coming years. CEO Patrick Byrne states <em>“You can assume its high on our list of priorities for 2016.”</em></p>
-</div>
- <a href="https://www.deepdotweb.com/tag/2015/" rel="tag">2015</a> <a href="https://www.deepdotweb.com/tag/bitcoin/" rel="tag">bitcoin</a> <a href="https://www.deepdotweb.com/tag/dec/" rel="tag">dec</a> <a href="https://www.deepdotweb.com/tag/news/" rel="tag">news</a> <a href="https://www.deepdotweb.com/tag/roundup/" rel="tag">roundup</a></span> 
+
 Updated: 2015-12-20

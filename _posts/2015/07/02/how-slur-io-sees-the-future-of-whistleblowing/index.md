@@ -2,13 +2,10 @@
 title: "How Slur.io Sees the Future of Whistleblowing?"
 ---
 
-9481  tag-future tag-sees tag-slurio tag-whistleblowing">
-Posted by: <a href="/author/politech/" title="">Politech 
+Posted by: Politech 
 
 <span>July 2, 2015</span>
     
-<span><a href="/2015/07/02/how-slur-io-sees-the-future-of-whistleblowing/#comments">7 Comments</a></span>
-</p>
 
     
 <p><em>This article represent the <span style="text-decoration: underline;">author&#8217;s personal views.</span><br />
@@ -25,9 +22,8 @@ Posted by: <a href="/author/politech/" title="">Politech
 <p>A better choice for disgruntled employees of powerful organizations might be one of the many decentralized PasteBin clones similar to DoxBin which was taken down as part of Operation Onymous. This way, you can ensure the information actually gets out. Another option could be many of the SecureDrop sites run by news organizations. Admittedly, these may not appeal to the “psychopaths” who want to profit from their leaks at whom Slur is aiming itself.</p>
 <p><strong>The Current State of Slur</strong></p>
 <p>And despite the big talk, Slur has yet to be released. The developers behind Slur, the u99 group, have a page dedicated to updates about Slur. It is currently empty. u99&#8217;s Github for Slur contains only a license and a text file containing the word “Slur”.</p>
-<p>For the time being, the “psychopaths” Slur hopes to appeal to may be better served by Darkleaks, an almost identical but much more mature project by the creators of  <a href="https://www.darkwallet.is/">Darkwallet</a>. Already operational, <a title="Darkleaks: Black Market for Secrets" href="http://www.deepdotweb.com/2015/02/04/darkleaks-black-market-secrets/">Darkleaks</a> can be downloaded and compiled from Github, allowing users to access their Tor-based market for information through a dedicated client. The verification system is slightly different – Darkleaks divides the uploaded information into segments and makes publicly available one randomly selected piece in advance to prove the information is what it claims to be.</p>
-</div>
-<a href="/tag/future/" rel="tag">future</a> <a href="/tag/sees/" rel="tag">sees</a> <a href="/tag/slurio/" rel="tag">slurio</a> <a href="/tag/whistleblowing/" rel="tag">whistleblowing</a></span> 
+<p>For the time being, the “psychopaths” Slur hopes to appeal to may be better served by Darkleaks, an almost identical but much more mature project by the creators of  <a href="https://www.darkwallet.is/">Darkwallet</a>. Already operational, <a title="Darkleaks: Black Market for Secrets" href="/2015/02/04/darkleaks-black-market-secrets/">Darkleaks</a> can be downloaded and compiled from Github, allowing users to access their Tor-based market for information through a dedicated client. The verification system is slightly different – Darkleaks divides the uploaded information into segments and makes publicly available one randomly selected piece in advance to prove the information is what it claims to be.</p>
+
 Updated: 2015-07-02
-<a href="/author/politech/" title="Posts by Politech" rel="author">Politech</a></strong></div>
+
     

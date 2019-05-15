@@ -2,14 +2,11 @@
 title: "Bitcoin News Roundup – 25 Apr.2015"
 ---
 
-10079  tag-2528 tag-apr2015 
 Posted by: DeepDotWeb 
 
 <span>April 25, 2015</span>
 
 
-<span><a href="/2015/04/25/bitcoin-news-roundup-25-apr-2015/#respond">Leave a comment</a></span>
-</p>
 
 <p><em>Recapping the week&#8217;s biggest Bitcoins stories from around the web. </em></p>
 <p>A New Jersey policeman is charged with receiving embezzled property after allegedly selling stolen cryptocurrency apparatus. As Emily Spaven of <a href="http://www.coindesk.com/nj-cop-charged-with-receiving-stolen-bitcoin-miners/">CoinDesk</a> reports,Vincent Saggese of Plainfield Police Department has met with an undercover investigator of Somerset Prosecutor’s Office to negotiate the sale of bitcoin mining equipment. Saggese has allegedly accepted $250 from the undercover agent.</p>
@@ -25,8 +22,7 @@ Posted by: DeepDotWeb
 <p><strong>Payments</strong></p>
 <p>Following partnership with Bitpay, global online payment platform NETELLER joins forces with Coinimal to accept bitcoin deposits. As JP Buntinx of <a href="http://digitalmoneytimes.com/crypto-news/coinimal-partners-with-neteller-to-push-bitcoin-adoption/">Digital Money Times</a> writes, Coinimal, the European digital currency platform has a huge customer base around the world. By adding the NETELLER on their platform, they facilitate instant deposits and withdrawals for millions of customers. The partnership is seen as setting the base for future collaborations between online payment platforms and bitcoin-related services.</p>
 <p>Taringa!, Argentina’s largest social network, favors the bitcoin. As Sarah Jennof <a href="http://www.newsbtc.com/2015/04/22/social-network-in-latin-america-offers-bitcoin-payments-for-content/">NewsBtc</a> reports, Taringa! hasannounced that it will compensate users in bitcoins in exchange for posting content on its platform by joining forces with the US-based bitcoin service provider, Xapo. Facebook’s rival in Latin America has a customer base of nearly to 75 million active users and continues to expand its reach in the region.</p>
-</div>
-<a href="/tag/25/" rel="tag">25</a> <a href="/tag/apr2015/" rel="tag">apr2015</a>  </span> 
+
 Updated: 2015-04-25
 
     
