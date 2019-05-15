@@ -1,35 +1,9 @@
 ---
-Needle in a Haystack ~ Tor Relays"
+title: "Needle in a Haystack ~ Tor Relays"
 ---
-post-5498
 
 
-<div class="wp-socializer-buttons clearfix">
-<span class="wpsr-btn">
 
-<div class="fb-like" data-href="http://www.deepdotweb.com/security-tutorials/needle-haystack-tor-relays/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
-
-</span>
-<span class="wpsr-btn">
-
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en" data-url="http://www.deepdotweb.com/security-tutorials/needle-haystack-tor-relays/" data-text="Needle in a Haystack ~ Tor Relays - "></a>
-
-</span>
-<span class="wpsr-btn">
-
-<div class="g-plusone" data-size="medium" data-href="http://www.deepdotweb.com/security-tutorials/needle-haystack-tor-relays/"></div>
-
-</span>
-<span class="wpsr-btn">
-
-<script type="IN/Share" data-url="http://www.deepdotweb.com/security-tutorials/needle-haystack-tor-relays/" data-counter="right"></script>
-
-</span>
-<span class="wpsr-btn">
-
-<su:badge layout="1"></su:badge>
-
-</span>
 </div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p>Since people expressed interest in running relays, I&#8217;ve written a guide that can get you set up. There are many ways to run a relay, so for the sake of simplicity, I will focus on virtual private servers running Ubuntu 12.04. Feedback is definitely welcome.</p>
 <p>This guide includes instructions for Windows users. I will write Linux instructions in a separate post, and if someone would like to add Mac instructions, I&#8217;d greatly appreciate it.</p>
 <p><strong><span class="bbc_u">Finding a Hosting Provider</span></strong></p>
@@ -518,21 +492,9 @@ apt-get dist-upgrade</textarea></div>
 <p>All of these methods involve some work and a high chance of failure, but you&#8217;re welcome to try them.</p>
 <h3>Share and Enjoy</h3>
 
-<div class="wp-socializer 32px">
-<ul class="wp-socializer-opacity columns-no">
-<li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fneedle-haystack-tor-relays%2F&amp;t=Needle+in+a+Haystack+%7E+Tor+Relays" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
-<li><a href="http://twitter.com/home?status=Needle+in+a+Haystack+%7E+Tor+Relays%20-%20http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fneedle-haystack-tor-relays%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-<li><a href="http://delicious.com/post?url=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fneedle-haystack-tor-relays%2F&amp;title=Needle+in+a+Haystack+%7E+Tor+Relays&amp;notes=Since+people+expressed+interest+in+running+relays%2C+I%27ve+written+a+guide+that+can+get+you+set+up.+There+are+many+ways+to+run+a+relay%2C+so+for+the+sake+of+simplicity%2C+I+will+focus+on+virtual+private+servers+running+Ubuntu+12.04.+Feedback+is+definitely+w" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fneedle-haystack-tor-relays%2F&amp;title=Needle+in+a+Haystack+%7E+Tor+Relays&amp;source=Deep+Dot+Web+-+Meme+and+News+From+the+Other+side+of+the+Web&amp;summary=Since+people+expressed+interest+in+running+relays%2C+I%27ve+written+a+guide+that+can+get+you+set+up.+There+are+many+ways+to+run+a+relay%2C+so+for+the+sake+of+simplicity%2C+I+will+focus+on+virtual+private+servers+running+Ubuntu+12.04.+Feedback+is+definitely+w" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-<li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fneedle-haystack-tor-relays%2F&amp;title=Needle+in+a+Haystack+%7E+Tor+Relays" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-<li><a href="http://www.deepdotweb.com/security-tutorials/needle-haystack-tor-relays/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-<li><a href="/cdn-cgi/l/email-protection#744b001b49520701161e111700493a11111018115f1d1a5f155f3c150d070015171f5f5143315f201b065f261118150d0752161b100d49271d1a17115f04111b0418Xe+expressed+interest+in+running+relays%2C+I%27ve+written+a+guide+that+can+get+you+set+up.+There+are+many+ways+to+run+a+relay%2C+so+for+the+sake+of+simplicity%2C+I+will+focus+on+virtual+private+servers+running+Ubuntu+12.04.+Feedback+is+definitely+w%20-%20http://www.deepdotweb.com/security-tutorials/needle-haystack-tor-relays/" title="Email this" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-<li><a href="http://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-</ul>
-<div class="wp-socializer-clearer"></div></div>
 
 
-Updated: 2014-05-11</span>
-<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+
+Updated: 2014-05-11
 
 

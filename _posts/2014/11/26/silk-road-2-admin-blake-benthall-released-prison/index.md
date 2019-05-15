@@ -7,9 +7,9 @@ Posted by: DeepDotWeb
 <span>November 26, 2014</span>
 
 <p><strong>Update</strong>:  According to the documents on Pacer his status is &#8220;“Detention on consent without prejudice.” (agrees to stay in jail) &amp; According to <a href="https://www.vinelink.com">Vinelink</a>,  he was transferred to an &#8220;Unknown location&#8221;, which explains the &#8220;released&#8221; part fom the BOP site:</p>
-<div id="attachment_8469" style="width: 506px" class="wp-caption aligncenter"><a href="/imgs/2014/11/transffered.png"><img class=" wp-image-8469" src="/imgs/2014/11/transffered.png" alt="Vinelink" width="496" height="266" srcset="/imgs/2014/11/transffered.png 1600w, /imgs/2014/11/transffered-300x161.png 300w, /imgs/2014/11/transffered-1024x550.png 1024w" sizes="(max-width: 496px) 100vw, 496px"/></a><p class="wp-caption-text">Vinelink</p></div>
-<div id="attachment_8472" style="width: 581px" class="wp-caption aligncenter"><a href="/imgs/2014/11/vine2.png"><img class=" wp-image-8472" src="/imgs/2014/11/vine2.png" alt="Vine2" width="571" height="307" srcset="/imgs/2014/11/vine2.png 1600w, /imgs/2014/11/vine2-300x161.png 300w, /imgs/2014/11/vine2-1024x550.png 1024w" sizes="(max-width: 571px) 100vw, 571px"/></a><p class="wp-caption-text">Vine2</p></div>
-<div id="attachment_8470" style="width: 504px" class="wp-caption aligncenter"><a href="/imgs/2014/11/pacer.jpg"><img class=" wp-image-8470" src="/imgs/2014/11/pacer.jpg" alt="Pacer" width="494" height="639" srcset="/imgs/2014/11/pacer.jpg 1275w, /imgs/2014/11/pacer-232x300.jpg 232w, /imgs/2014/11/pacer-791x1024.jpg 791w" sizes="(max-width: 494px) 100vw, 494px"/></a><p class="wp-caption-text">Pacer</p></div>
+<div id="attachment_8469" style="width: 506px" class="wp-caption aligncenter"><a href="/imgs/2014/11/transffered.png"/>
+<div id="attachment_8472" style="width: 581px" class="wp-caption aligncenter"><a href="/imgs/2014/11/vine2.png"/>
+<div id="attachment_8470" style="width: 504px" class="wp-caption aligncenter"><a href="/imgs/2014/11/pacer.jpg"/>
 <p>So he was not released, and being held in an &#8220;Unknown location&#8221;. Thanks to Reddit user <a href="http://www.reddit.com/user/World177">World177</a> For confirming the info!</p>
 <p>========Update End============</p>
 <p><strong>**This story is not yet clear and is <span style="color: #ff0000;">not yet </span>verified or explained &#8211; we are trying to figure out what happened here &#8211; if you have any further info please <a title="Contact Us" href="contact-us/">contact us</a>**</strong></p>
@@ -20,7 +20,7 @@ Posted by: DeepDotWeb
     Race: White<br/>
     Sex: Male<br/>
     Released On: 11/21/2014</p></blockquote>
-<p><a href="/imgs/2014/11/blake.png"><img class="aligncenter size-full wp-image-8460" src="/imgs/2014/11/blake.png" alt="blake" width="597" height="250" srcset="/imgs/2014/11/blake.png 597w, /imgs/2014/11/blake-300x126.png 300w" sizes="(max-width: 597px) 100vw, 597px"/></a></p>
+<p><a href="/imgs/2014/11/blake.png"/>
 <p>According to the <a href="http://www.bop.gov/inmateloc/about_records.jsp">BOP website</a> , Released status means:</p>
 <blockquote><p>&#8220;RELEASED&#8221; means the inmate is no longer in BOP custody.</p></blockquote>
 <p>This info was first published on this <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2nh6ie/wtf_blake_benthall_defcunt_has_been_released_from/">Reddit thread</a> by Reddit user <a href="http://www.reddit.com/user/horse_ploppies" target="_blank">/u/horse_ploppies</a> who wrote:</p>

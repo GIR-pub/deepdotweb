@@ -1,7 +1,6 @@
 ---
-LEARNING FROM OTHERS&#8217; MISTAKES. HOW THEY BUSTED SABU
+title: "LEARNING FROM OTHERS&#8217; MISTAKES. HOW THEY BUSTED SABU"
 ---
-4026
 
 
 <p>This next post I want to focus on more mistakes that other hacktivists and freedom fighters have made which ultimately led to their arrests. This is more proof that you only need to screw up once.</p>

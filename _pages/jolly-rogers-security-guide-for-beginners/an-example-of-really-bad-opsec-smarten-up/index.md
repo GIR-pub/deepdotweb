@@ -1,7 +1,7 @@
 ---
-AN EXAMPLE OF REALLY BAD OPSEC &#8211; SMARTEN UP!"
+title: "AN EXAMPLE OF REALLY BAD OPSEC &#8211; SMARTEN UP!"
 ---
-4087
+
 
 
 <p>Guys, I am not going to post exactly who started this thread quoted below, but it belongs to somebody who is a senior member with 375 posts. And he posted some very personal details and probably did not realize how very revealing these details are.</p>

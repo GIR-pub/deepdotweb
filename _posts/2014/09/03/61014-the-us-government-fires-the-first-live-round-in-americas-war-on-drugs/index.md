@@ -2,7 +2,7 @@
 title: "The US Fires First “Live Round” in America’s War on Prescription Drugs"
 ---
 
-Posted by: <a href="https://www.deepdotweb.com/author/freedom/" title="">Freedom Writer </a></span>
+Posted by: <a href="/author/freedom/" title="">Freedom Writer </a></span>
 <span>September 3, 2014</span>
     
 
@@ -76,5 +76,5 @@ Posted by: <a href="https://www.deepdotweb.com/author/freedom/" title="">Freedom
 <p><em>This rule is not a major rule as defined by section 804 of the Small Business Regulatory Enforcement Fairness Act of 1996 (Congressional Review Act (CRA)). This rule will not result in: an annual effect on the economy of $100,000,000 or more; a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions; or significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based companies to compete with foreign based companies in domestic and export markets. However, pursuant to the CRA, the DEA has submitted a copy of this final rule to both Houses of Congress and to the Comptroller General.</em></p>
 <p><em>The DEA’s contention is that the change is so insignificant that does not warrant the protections afforded by the Congressional Review Act. This invalidates my comment suggesting an Act of Congress is required to avert this impending situation. I suppose an Executive Order from the President would work. What are the chances that a President in a constant battle to disavow the stereotypes associated with his race would step in and invalidate a restrictive drug law? I think the chances are as close to absolute zero as one could imagine.</em></p>
 
-Updated: 2014-09-03<a href="https://www.deepdotweb.com/author/freedom/" title="Posts by Freedom Writer" rel="author">Freedom Writer</a></strong></div>
+Updated: 2014-09-03<a href="/author/freedom/" title="Posts by Freedom Writer" rel="author">Freedom Writer</a></strong></div>
     

@@ -5,7 +5,7 @@ title: "Buying Guns and Drugs on the Deep Web (Vice Documentary)"
 <iframe width="660" height="371" src="http://www.youtube.com/embed/HJOSm9Bg7WY?feature=oembed" frameborder="0" allowfullscreen></iframe>		</div>
     
     
-<span>Posted by: <a href="http://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
 <span>November 15, 2013</span>
     
 

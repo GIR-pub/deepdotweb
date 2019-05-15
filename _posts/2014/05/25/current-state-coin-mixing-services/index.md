@@ -2,7 +2,7 @@
 title: "The current state of coin-mixing services"
 ---
 
-Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
+Posted by: <a href="/author/cipher/" title="">Cipher </a></span>
 <span>May 25, 2014</span>
 
 <p>As we wait for emerging cryptocurrencies such as Darkcoin and the standardisation of Dark Wallet the current task of coin-mixing remains an immediate issue. As it stands Bitcoin Fog remains the gold standard of coin-mixing. However, it is important that people be made away that this is a slow process. Bitcoin Fog insist on six confirmations for deposits and will set a minimum delay of six hours for withdrawals to occur to held randomise/anonymise the process. This is a sound process for those approaching their transactions in a structured and planned manner. It is not ideal for anyone trying to get money quickly from one account to another.</p>

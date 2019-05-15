@@ -3,13 +3,13 @@ title: "Tormarket Hacked &#8211; Database Leaked By&#8230; Dread Pirate Roberts"
 ---
 
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 14, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/#comments">3 Comments</a></span>
+<span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
+<span><a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/#comments">3 Comments</a></span>
 
 
-<p>Following our previous report regarding the mutual <a href="http://www.deepdotweb.com/2013/12/13/so-whats-going-on-with-all-these-ddos-attacks/">DDOS attacks of the darknet markets</a>,  the situation has just escalated to a full marketplace Cyberwar as Dread Pirate Roberts posted a proof showing that he has the database of the competing market TOR marketplace (link to the original thread on SR2 Forums: http://silkroad5v7dywlc.onion/index.php?topic=8598.0):</p>
+<p>Following our previous report regarding the mutual <a href="/2013/12/13/so-whats-going-on-with-all-these-ddos-attacks/">DDOS attacks of the darknet markets</a>,  the situation has just escalated to a full marketplace Cyberwar as Dread Pirate Roberts posted a proof showing that he has the database of the competing market TOR marketplace (link to the original thread on SR2 Forums: http://silkroad5v7dywlc.onion/index.php?topic=8598.0):</p>
 <p>=======================START QUOTE===================</p>
 <blockquote><p>To start, I would like to make this clear to everyone involved that Silk Road does not have malicious intentions or an anti-competition attitude, we actually require competition to keep us motivated and for the diversity of the network but in order to fulfill that function the competition must be a safe one which does not put people in harms way or subject to possible exploit. This post I hope will demonstrate to you why claims a market makes does not correlate to the true story and we would like to demonstrate this with Tormarket.</p>
 <p>At this moment in time, I also want to clarify in light of recent events the full disclosure everyone deserves to know. This investigation started under the suspicion that Tormarket was behind the ongoing DDOS against Silk Road but has since taken another turn when we looked below the surface a little more. I have no conclusive proof Tormarket did or did not order the DDOS currently hitting us and personally I don&#8217;t believe I ever will so I won&#8217;t go on about this much more as it is actually not something that matters any more since we are definitely en route to fixing it if you have watched our recent developments, but over Tor such attacks are not trivial to correct. All of this is done in the name of safety and I hope the owners of Tormarket can take this seriously, go away and rethink their strategies because as I will discuss later we didn&#8217;t even put much effort in to extracting this data.</p>

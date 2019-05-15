@@ -1,7 +1,7 @@
 ---
-Rules for Posting Market Reviews"
+title: "Rules for Posting Market Reviews"
 ---
-12330
+
 
 
 
@@ -25,11 +25,8 @@ Rules for Posting Market Reviews"
 <p>These rules might change from time to time without notice, deletion will be done without notice, its your responsibility to learn and understand these rules.</p>
 
 
-</div><!-- .entry /-->
 
 Updated: 2015-11-27</span>
 
 
-</div><!-- .post-inner -->
-</article><!-- .-->
 

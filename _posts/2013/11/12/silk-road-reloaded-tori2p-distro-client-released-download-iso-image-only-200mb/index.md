@@ -2,10 +2,10 @@
 title: "Silk Road reloaded: Tor/i2p distro client released!"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 12, 2013</span>
-<span>in <a href="https://www.deepdotweb.com/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://www.deepdotweb.com/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="https://www.deepdotweb.com/2013/11/12/silk-road-reloaded-tori2p-distro-client-released-download-iso-image-only-200mb/#comments">1 Comment</a></span>
+<span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
+<span><a href="/2013/11/12/silk-road-reloaded-tori2p-distro-client-released-download-iso-image-only-200mb/#comments">1 Comment</a></span>
 
 
 <p>Ok im drunk as hell after 1/2 bottle of whiskey but i have to update that silk road reloaded just released a package to be installed to access the site:</p>

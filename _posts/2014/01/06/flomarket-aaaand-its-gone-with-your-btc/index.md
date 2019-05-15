@@ -6,10 +6,10 @@ Posted by: DeepDotWeb
 
 <span>January 6, 2014</span>
 
-<div id="attachment_2875" style="width: 390px" class="wp-caption aligncenter"><a href="/imgs/2013/12/gone.jpg"><img class=" wp-image-2875" alt="We really wanted to report something about this case - but this is the only info" src="/imgs/2013/12/gone.jpg" width="380" height="285" srcset="/imgs/2013/12/gone.jpg 480w, /imgs/2013/12/gone-300x225.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"/></a><p class="wp-caption-text">We really wanted to report something about this case &#8211; but this is the only info</p></div>
+<div id="attachment_2875" style="width: 390px" class="wp-caption aligncenter"><a href="/imgs/2013/12/gone.jpg"/>
 <p>Well, cant say we didnt warn you, just a few days ago we reported that Flomarket has <a href="/2014/01/02/warning-reports-of-flomarket-possible-scam-hack/">disabled all withdrawals</a> , and the comment from the admin that they are &#8220;hoping&#8221; to fix this issue,</p>
 <p>The market probably got hacked like the few previous markets &#8211; or the situation now is that &#8220;i got hacked&#8221; is the best excuse for scamming. this way or another, if you will try to access the site you will get this message:</p>
-<p><a href="/imgs/2014/01/floscam11.png"><img class="aligncenter  wp-image-3169" alt="floscam11" src="/imgs/2014/01/floscam11.png" width="553" height="221" srcset="/imgs/2014/01/floscam11.png 947w, /imgs/2014/01/floscam11-300x120.png 300w" sizes="(max-width: 553px) 100vw, 553px"/></a></p>
+<p><a href="/imgs/2014/01/floscam11.png"/>
 <p>&#8220;Website has been shutted down</p>
 <p>We got hacked! A vendor managed to withdraw all BTC&#8217;s from this site. If you want to contact me, do so via TorChat (ID: flolellhwzjcle6d).<br/>
     This is the end of FloMarket.&#8221;</p>

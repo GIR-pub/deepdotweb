@@ -2,11 +2,11 @@
 title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 24, 2013</span>
 
 
-<p>Just when we thought that this drama could not get any worse, Oracle came along AGAIN announcing he would release the true story about the recent events in 12 hours &#8211; at the beginning we thought &#8220;meh&#8230;&#8221;, but after reading the post, We figured out that This latest SR drama is so hilarious / pathetic / sad / funny / dangerous (cant decide?!) that we are not sure if we should laugh or cry, everyone (at least those of you who are not bored to death yet) should read the previous posts &#8211; <a href="http://www.deepdotweb.com/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">here</a> &amp; <a href="http://www.deepdotweb.com/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/">here</a> and this one, and judge for themselves.  Anyway we look at it, this story is just&#8230;. well&#8230;. good story, kinda like watching a retard version of breaking bad,  so we just had to post it anyway, you decide if you should believe it or not:</p>
+<p>Just when we thought that this drama could not get any worse, Oracle came along AGAIN announcing he would release the true story about the recent events in 12 hours &#8211; at the beginning we thought &#8220;meh&#8230;&#8221;, but after reading the post, We figured out that This latest SR drama is so hilarious / pathetic / sad / funny / dangerous (cant decide?!) that we are not sure if we should laugh or cry, everyone (at least those of you who are not bored to death yet) should read the previous posts &#8211; <a href="/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">here</a> &amp; <a href="/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/">here</a> and this one, and judge for themselves.  Anyway we look at it, this story is just&#8230;. well&#8230;. good story, kinda like watching a retard version of breaking bad,  so we just had to post it anyway, you decide if you should believe it or not:</p>
 <p>Read the OP and comments here:<span style="text-decoration: underline;"> http://silkroad5v7dywlc.onion/index.php?topic=11089.0</span></p>
 <p>So ladies and gentleman, we present you with the best Christmas drama story of 2013 &#8211; &#8220;The Silk Road 2.0 Tales &amp; Psy-Ops!&#8221;:</p>
 <p style="text-align: center;"><span style="text-decoration: underline;">&#8212; Starting quote &#8212;</span></p>
@@ -69,10 +69,10 @@ title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
     « Last Edit: Today at 10:39:43 am by oracle »</p>
 <div style="text-align: center;">&#8212; End quote &#8212;</div>
 <p>The comments from reddit reflects how many people are feeling about this ongoing drama, this sure doesnt help building back the trust on the darknet markets, some even suggested it was faked by paying Oracle off to shut up about the true problems.</p>
-<div style="text-align: left;"><a href="/imgs/2013/12/redditcomment.png"><img class="aligncenter size-full wp-image-2919" alt="redditcomment" src="/imgs/2013/12/redditcomment.png" width="900" height="864" srcset="/imgs/2013/12/redditcomment.png 900w, /imgs/2013/12/redditcomment-300x288.png 300w" sizes="(max-width: 900px) 100vw, 900px" /></a></div>
+<div style="text-align: left;"><a href="/imgs/2013/12/redditcomment.png"/>
 <p>On Silk Road forums the reaction were a mix confusion, distrust,relief and joy. See you on the sequel.  Somehow we get the feeling that this is not the last we are going to hear about it, probably around the time that the market will be back from the Christmas shutdown.  Marry Christmas!</p>
 <p>&gt;We made screenshots of this post for future generations:</p>
-<div style="text-align: center;"><a href="/imgs/2013/12/psy1.png"><img class="aligncenter  wp-image-2910" alt="psy1" src="/imgs/2013/12/psy1.png" width="683" height="349" srcset="/imgs/2013/12/psy1.png 1812w, /imgs/2013/12/psy1-300x153.png 300w, /imgs/2013/12/psy1-1024x524.png 1024w" sizes="(max-width: 683px) 100vw, 683px" /></a> <a href="/imgs/2013/12/psy2.png"><img class="aligncenter  wp-image-2911" alt="psy2" src="/imgs/2013/12/psy2.png" width="631" height="225" srcset="/imgs/2013/12/psy2.png 1805w, /imgs/2013/12/psy2-300x107.png 300w, /imgs/2013/12/psy2-1024x366.png 1024w" sizes="(max-width: 631px) 100vw, 631px" /></a></div>
+<div style="text-align: center;"><a href="/imgs/2013/12/psy1.png"/>
 </div>
 
 Updated: 2013-12-24

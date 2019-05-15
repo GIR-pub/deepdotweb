@@ -9,7 +9,7 @@ Posted by: Joseph Meehan
 <p style="text-align: center;"><a href="tag/interview/" target="_blank"><strong>&gt;&gt; Read Other interviews On DeepDotWeb &lt;&lt;</strong></a></p>
 <p>One of the most eye-opening things about this interview for me was that VamonosDab treats this like a business. He thinks and acts the way someone who owns a legitimate business would. He is concerned with things like customer service, product quality control, and shipping and supply chains. He has two employees who work for him. VamonosDab didn&#8217;t remind me of the guys that I bought pot from in high school. He reminded me of any other small business owner I&#8217;ve met throughout my life. Unconditionally dedicated and motivated.</p>
 <p>Proof of identity (vendor profile on Evolution: http://k5zq47j6wd3wdvjq.onion/<wbr />profile/4090):</p>
-<p><a href="/imgs/2014/10/venno-proof.png"><img class="aligncenter wp-image-7413" src="/imgs/2014/10/venno-proof.png" alt="venno-proof" width="589" height="407" srcset="/imgs/2014/10/venno-proof.png 982w, /imgs/2014/10/venno-proof-300x207.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+<p><a href="/imgs/2014/10/venno-proof.png"/>
 <p><strong>Joseph Meehan: Who are you and what do you do?</strong></p>
 <p>VamonosDab: VamonosDab, A Darknet Market vendor.</p>
 <p><strong>JM: How long have you been vending on the Darknet?</strong></p>
@@ -33,7 +33,7 @@ Posted by: Joseph Meehan
 <p>Can&#8217;t really explain it to family. Sometimes you let things slip to friends and you feel weird about it. The constant stress of might there be cops who know what i&#8217;m doing – when a package doesn&#8217;t arrive is it a scam or am I over because my packages are starting to be intercepted.</p>
 <p>A lack of a safety net. The markets do a good job of settling disputes but they aren&#8217;t infallible. A lot of new vendors can get easily scammed because a user will see an opportunity to place an order, recieve it and claim they never got it, and the market will side with the customer because the customer has to feel comfortable to spend their money at the market. There&#8217;s no real safety net for vendors.</p>
 <p>It&#8217;s a lot of work. You have to handle everything from sourcing to making to selling to shipping to receiving cryptocurrency. You have to pay somebody too. All of the duties of running a business and little help from the system.</p>
-<p><a href="/imgs/2014/10/ven.png"><img class="aligncenter wp-image-7416" src="/imgs/2014/10/ven.png" alt="ven" width="752" height="427" srcset="/imgs/2014/10/ven.png 942w, /imgs/2014/10/ven-300x170.png 300w" sizes="(max-width: 752px) 100vw, 752px" /></a></p>
+<p><a href="/imgs/2014/10/ven.png"/>
 <p><strong>JM: What&#8217;s easier?</strong></p>
 <p>VD: A lot of the disadvantages are the advantages. In our case if there is a group of people who can trust each other and consistently put out a good thing and please the customers. Then it&#8217;s easy to claw your way to the top. It&#8217;s easy to beat the prices, any slight scaling in your operation pays off almost immediately.</p>
 <p>High returns make financial stress less. At the end of the day I&#8217;m able to pay my bills and treat myself to vacation or whatever every once in a while. The money is easier to get to.<br />

@@ -1,8 +1,6 @@
 ---
-THE STRENGH OF CRYPTOGRAPHY AND ANONYMITY WHEN USED PROPERLY
+title: "THE STRENGH OF CRYPTOGRAPHY AND ANONYMITY WHEN USED PROPERLY"
 ---
-4107
-
 
 <p>This post is meant to serve as an example of how, when cryptography and anonymity is used properly, you can evade just about anybody including the police.</p>
 <p>By now, everyone has likely heard of someone getting locked out of their computer and being forced to pay by the attacker to have it unlocked, this is CryptoLocker. Dell SecureWorks estimates that CryptoLocker has infected 250,000 victims. The average payout is $300 each, and millions in laundered Bitcoin have been tracked and traced to the ransomware&#8217;s money runners.</p>

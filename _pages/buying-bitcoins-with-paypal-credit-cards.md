@@ -1,7 +1,7 @@
 ---
-Buy Bitcoins With Paypal &#038; Credit Cards!"
+title: "Buy Bitcoins With Paypal &#038; Credit Cards!"
 ---
-1826
+
 
 
 <p><strong>Paypal and Bitcoin Streamline the Online Purchasing Process<br />
@@ -27,26 +27,33 @@ Buy Bitcoins With Paypal &#038; Credit Cards!"
 <p>*<em>Note: Linden$ is the virtual currency used in the online game, “Second Life”</em><br />
 <strong>Step 1</strong>: Visit the official website of Virwox and register for an account. You need to ignore the message, “your avatar connection has not been validated yet.”</p>
 <h2 style="text-align: center;"><span style="color: #ff0000;"><a href="https://www.virwox.com?r=1a6a7" target="_blank"><span style="color: #ff0000;"><strong>Click Here To Buy Bitcoins with Paypal &amp; Credit Cards using Virwox.com &gt;&gt;</strong></span></a></span></h2>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/1-virwox-home.png"><img class="aligncenter size-full wp-image-1827" src="/imgs/2013/11/1-virwox-home.png" alt="Virwox Home" width="678" height="243" srcset="/imgs/2013/11/1-virwox-home.png 1411w, https://www.deepdotweb.com/wp-content/uploads/2013/11/1-virwox-home-300x108.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/1-virwox-home-1024x367.png 1024w" sizes="(max-width: 678px) 100vw, 678px" /></a></p>
+
+<img src="/imgs/2013/11/1-virwox-home.png"/>
 <p><strong>Step 2:</strong> Click on the “Deposit” button on the sidebar:</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/2-virwox-deposit.png"><img class="aligncenter size-full wp-image-1829" src="/imgs/2013/11/2-virwox-deposit.png" alt="2-virwox-deposit" width="615" height="361" srcset="/imgs/2013/11/2-virwox-deposit.png 1349w, https://www.deepdotweb.com/wp-content/uploads/2013/11/2-virwox-deposit-300x177.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/2-virwox-deposit-1024x603.png 1024w" sizes="(max-width: 615px) 100vw, 615px" /></a></p>
+
+<img src="/imgs/2013/11/2-virwox-deposit.png"/>
 <p><strong>Step 3</strong>: Choose how you want to deposit your money—you can use Paypal or Credit cards using Skrill payment. Note that you can only deposit limited amounts of money every 24 hours. Your 24 hour deposit limit will be raised as you complete successful transactions. A failed transaction will still be deducted from your daily limit, so be careful with the details enter while preparing your Paypal or credit card payments.</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/2A-Deposit.png"><img class="aligncenter size-full wp-image-1828" src="/imgs/2013/11/2A-Deposit.png" alt="2A-Deposit" width="513" height="253" srcset="/imgs/2013/11/2A-Deposit.png 1666w, https://www.deepdotweb.com/wp-content/uploads/2013/11/2A-Deposit-300x148.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/2A-Deposit-1024x506.png 1024w" sizes="(max-width: 513px) 100vw, 513px" /></a></p>
+
+<img src="/imgs/2013/11/2A-Deposit.png"/>
 <p><strong>Step 4: </strong>Once you finish your deposit, you need to convert the USD or EUR to SLL. Just click the “place a sell order” button or click the USD/SLL button on the sidebar:</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/3-convert-tosll.png"><img class="aligncenter size-full wp-image-1830" src="/imgs/2013/11/3-convert-tosll.png" alt="3-convert-tosll" width="738" height="353" srcset="/imgs/2013/11/3-convert-tosll.png 1207w, https://www.deepdotweb.com/wp-content/uploads/2013/11/3-convert-tosll-300x144.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/3-convert-tosll-1024x490.png 1024w" sizes="(max-width: 738px) 100vw, 738px" /></a></p>
+
+<img src="/imgs/2013/11/3-convert-tosll.png"/>
 <p><strong>Step 5: </strong>Choose how much USD you want to convert to SLL and click “Next.”</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/4-buysll.png"><img class="aligncenter size-full wp-image-1831" src="/imgs/2013/11/4-buysll.png" alt="4-buysll" width="589" height="287" srcset="/imgs/2013/11/4-buysll.png 1058w, https://www.deepdotweb.com/wp-content/uploads/2013/11/4-buysll-300x146.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/4-buysll-1024x499.png 1024w" sizes="(max-width: 589px) 100vw, 589px" /></a></p>
+
+<img src="/imgs/2013/11/4-buysll.png"/>
 <p><strong>Step 6: </strong>After Clicking “Next,” you need to confirm your order.<strong><br />
 </strong></p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/5-place-order.png"><img class="aligncenter size-full wp-image-1832" src="/imgs/2013/11/5-place-order.png" alt="5-place-order" width="675" height="226" srcset="/imgs/2013/11/5-place-order.png 1140w, https://www.deepdotweb.com/wp-content/uploads/2013/11/5-place-order-300x101.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/5-place-order-1024x343.png 1024w" sizes="(max-width: 675px) 100vw, 675px" /></a></p>
+
+<img src="/imgs/2013/11/5-place-order.png"/>
 <p><strong>Step 7:  </strong>After you have converted your USD to SLL, all that is left to do is to convert the SLL to BTC. To do this, Just click on the “BTC/SLL” button on the sidebar.</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/6-convert-to-BTC.png"><img class="aligncenter size-full wp-image-1833" src="/imgs/2013/11/6-convert-to-BTC.png" alt="6-convert-to-BTC" width="833" height="335" srcset="/imgs/2013/11/6-convert-to-BTC.png 1459w, https://www.deepdotweb.com/wp-content/uploads/2013/11/6-convert-to-BTC-300x121.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/6-convert-to-BTC-1024x412.png 1024w" sizes="(max-width: 833px) 100vw, 833px" /></a></p>
+
+<img src="/imgs/2013/11/6-convert-to-BTC.png"/>
 <p style="text-align: left;"><strong>Step 8:</strong> On the next screen, enter the mount of bitcoins you want to buy using your SLL.</p>
-<p style="text-align: left;"><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/7-convert-to-BTC2.png"><img class="aligncenter size-full wp-image-1834" src="/imgs/2013/11/7-convert-to-BTC2.png" alt="7-convert-to-BTC2" width="691" height="329" srcset="/imgs/2013/11/7-convert-to-BTC2.png 988w, https://www.deepdotweb.com/wp-content/uploads/2013/11/7-convert-to-BTC2-300x143.png 300w" sizes="(max-width: 691px) 100vw, 691px" /></a></p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2013/11/7-convert-to-BTC2.png"/>
 <p><strong>Step 9:</strong> After your transaction has been confirmed, you will be able to withdraw your bitcoins and send them to your wallet; click the “Withdraw” button on the sidebar.</p>
-<p style="text-align: left;"><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/8-withdraw.png"><img class="aligncenter size-full wp-image-1835" src="/imgs/2013/11/8-withdraw.png" alt="8-withdraw" width="721" height="425" srcset="/imgs/2013/11/8-withdraw.png 1027w, https://www.deepdotweb.com/wp-content/uploads/2013/11/8-withdraw-300x177.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/8-withdraw-1024x604.png 1024w" sizes="(max-width: 721px) 100vw, 721px" /></a></p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2013/11/8-withdraw.png"/>
 <p style="text-align: left;"><strong>Step 10: </strong>Enter the amount of bitcoins you want to Withdraw, then enter your Bitcoin address and click the “Request Withdraw” button. <strong>Note</strong>: on your first time there, may be a 48 hour delay until your bitcoins are sent to your wallet. This delay is placed to help prevent fraud. After your first transaction, though, the withdrawal will be instant, and it can be traced in the Blockchain.</p>
-<p style="text-align: left;"><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/9-withdraw-btc.png"><img class="aligncenter size-full wp-image-1836" src="/imgs/2013/11/9-withdraw-btc.png" alt="9-withdraw-btc" width="813" height="393" srcset="/imgs/2013/11/9-withdraw-btc.png 1208w, https://www.deepdotweb.com/wp-content/uploads/2013/11/9-withdraw-btc-300x145.png 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/9-withdraw-btc-1024x495.png 1024w" sizes="(max-width: 813px) 100vw, 813px" /></a></p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2013/11/9-withdraw-btc.png"/>
 <p>In conclusion, this method is the easiest way to buy bitcoins using paypal and credit cards; the only disadvantages are the fees (Papal fees, Lower rates for BTC &amp; SLL).</p>
 <h2 style="text-align: center;"><a href="https://www.virwox.com?r=1a6a7" target="_blank"><span style="color: #ff0000;"><span style="color: #ff0000;"><strong>Click Here To Buy Bitcoins with Paypal &amp; Credit Cards using Virwox.com &gt;&gt;</strong></span></span></a></h2>
 

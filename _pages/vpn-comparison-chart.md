@@ -2,7 +2,7 @@
 title: VPN Comparison Chart - Best VPN Services! - DeepDotWeb"
 ---
 
-<strong><p>We have been listening to the DeepDotWeb community and have seen how popular our article “<a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/">Is Your VPN Legit or Shit</a>” became, which made us realize that you guys have been in desperate need of some solid advice about VPN’s. For this reason we are introducing DeepDotWeb’s very own section on the Best VPN Service Providers so you can finally have some unbiased information to help you decide what is the best VPN for you to have the ultimate privacy online and on the Deep Web. <strong>We are committed to only list those VPN providers that respect your privacy, use encryption, support OpenVPN, have a no logging policy you and prioritize those who accepts Bitcoin. Specific service reviews and live user ratings will be added soon.<br />
+<strong><p>We have been listening to the DeepDotWeb community and have seen how popular our article “<a href="/2014/07/08/is-your-vpn-legit-or-shit/">Is Your VPN Legit or Shit</a>” became, which made us realize that you guys have been in desperate need of some solid advice about VPN’s. For this reason we are introducing DeepDotWeb’s very own section on the Best VPN Service Providers so you can finally have some unbiased information to help you decide what is the best VPN for you to have the ultimate privacy online and on the Deep Web. <strong>We are committed to only list those VPN providers that respect your privacy, use encryption, support OpenVPN, have a no logging policy you and prioritize those who accepts Bitcoin. Specific service reviews and live user ratings will be added soon.<br />
 </strong></p>
 <p style="text-align: center;"><a href="https://bitcoincasinos.reviews/">&gt;&gt; Click here for the BEST Bitcoin Casinos! &#8211; Special Bonuses for our readers! &lt;&lt;</a></p>
 <div class="tableCon" style="margin-top: 20px;"> <style>
@@ -152,7 +152,7 @@ td.chart-col-410, td.chart-col-417, td.chart-col-411 {width:63px; }
 <p style="text-align: center;"><a alt="CyberGhost VPN logo" href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChartmb" rel="nofollow" title="CyberGhostVPN"><img alt="" height="33" src="/imgs/charts/default/0001/01/CG.png" width="130" /></a></p>
 <h3 style="text-align: center;"><strong>$2.75</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourhalfstars.png" style="width: 124px; height: 23px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2019/01/15/cyberghost-review/" style="text-align: center;">CyberGhost&nbsp;Review</a></p>
+<p style="text-align: center;"><a href="/2019/01/15/cyberghost-review/" style="text-align: center;">CyberGhost&nbsp;Review</a></p>
 <p style="text-align: center;">&nbsp;</p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
@@ -183,7 +183,7 @@ Torrents Allowed<br />
 <li>Can pay with Bitcoin&nbsp;for the extra privacy and anonymity.</li>
 <li>45 Day money back guarantee offered.&nbsp;</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the <a href="https://www.deepdotweb.com/2019/01/15/cyberghost-review/" style="text-align: center;">CyberGhostVPN Review</a>&nbsp;here.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the <a href="/2019/01/15/cyberghost-review/" style="text-align: center;">CyberGhostVPN Review</a>&nbsp;here.</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -197,7 +197,7 @@ Torrents Allowed<br />
 <p style="text-align: center;"><a alt="NordVPN logo" href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChar2&amp;aff_sub2=mb" rel="nofollow" title="NordVPN"><img alt="" height="28" src="/imgs/charts/default/0001/01/nordvpn.png" width="127" /></a></p>
 <h3 style="text-align: center;"><strong>$11.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/12/26/nordvpn-review/" style="text-align: center;">NordVPN Review</a></p>
+<p style="text-align: center;"><a href="/2015/12/26/nordvpn-review/" style="text-align: center;">NordVPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>&nbsp;</p>
@@ -226,7 +226,7 @@ No DCMA response</p>
 <li>They have the DNS Leak protection option in the settings</li>
 <li>No response is given when they receive&nbsp;DCMA notices.</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2015/12/26/nordvpn-review/" style="text-align: center;">NordVPN Review</a>&nbsp;here.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2015/12/26/nordvpn-review/" style="text-align: center;">NordVPN Review</a>&nbsp;here.</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -240,7 +240,7 @@ No DCMA response</p>
 <h3 style="text-align: center;"><a alt="IPVanish" href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;chan=ipvmt&amp;data2=mb" rel="nofollow" title="IPVanish"><img alt="" src="/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" /></a></h3>
 <h3 style="text-align: center;"><strong>$10.00</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/11/17/ipvanish-vpn-review/" style="text-align: center;">IPVanish Review</a></p>
+<p style="text-align: center;"><a href="/2015/11/17/ipvanish-vpn-review/" style="text-align: center;">IPVanish Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>&nbsp;</p>
@@ -269,7 +269,7 @@ DNS Leak Protect</p>
 <li>IPVanish VPN&nbsp; provide super-fast speeds for streaming and downloading</li>
 <li>IPVanish have a 7 Day money back guarantee so you can test it out</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2015/11/17/ipvanish-vpn-review/" style="text-align: center;">IPVanish Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2015/11/17/ipvanish-vpn-review/" style="text-align: center;">IPVanish Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -284,7 +284,7 @@ DNS Leak Protect</p>
 <p style="text-align: center;"><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt&amp;data1=mb" target="_blank"><img alt="" src="/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" /></a></p>
 <h3 style="text-align: center;"><strong>$10.00</strong></h3>
 <p style="text-align: center;"><a href="ttps://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt&amp;data1=mb"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></a></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2016/05/14/strong-vpn-review/" style="text-align: center;">Strong VPN Review</a></p>
+<p style="text-align: center;"><a href="/2016/05/14/strong-vpn-review/" style="text-align: center;">Strong VPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>&nbsp;</p>
@@ -313,7 +313,7 @@ Unlimited Bandwidth</p>
 <li>StrongVPN&#39;s pc and mac app is easy to use without all the bells and whistles</li>
 <li>StrongVPN offers unlimited bandwidth while using their network.</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;<a href="https://www.deepdotweb.com/2016/05/14/strong-vpn-review/" style="text-align: center;">Strong VPN Review</a>&nbsp;here.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;<a href="/2016/05/14/strong-vpn-review/" style="text-align: center;">Strong VPN Review</a>&nbsp;here.</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>OurScore:</strong></h4>
@@ -327,7 +327,7 @@ Unlimited Bandwidth</p>
 <p style="text-align: center;"><a alt="TorGuard Logo" href="https://torguard.net/aff.php?aff=1562" rel="nofollow" target="_blank" title="TorGuard"><img alt="" src="/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" /></a></p>
 <h3 style="text-align: center;"><strong>$9.99</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/11/30/torguard-vpn-review/" style="text-align: center;">TorGuard Review</a></p>
+<p style="text-align: center;"><a href="/2015/11/30/torguard-vpn-review/" style="text-align: center;">TorGuard Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Unlimited Bandwidth<br />
@@ -354,7 +354,7 @@ Pretty Good Speed</p>
 <li>Tor Guard have a 7 Day Trial, money back guarantee</li>
 <li>Tor Guards speed&nbsp;is pretty good.</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2015/11/30/torguard-vpn-review/" style="text-align: center;">TorGuard Review</a>&nbsp;here.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2015/11/30/torguard-vpn-review/" style="text-align: center;">TorGuard Review</a>&nbsp;here.</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -368,7 +368,7 @@ Pretty Good Speed</p>
 <p style="text-align: center;"><a alt="Proxy.sh Logo" href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" target="_blank" title="Proxy.sh"><img alt="" src="/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" /></a></p>
 <h3 style="text-align: center;"><strong>$7.50</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/11/20/proxy-sh-vpn-review/" style="text-align: center;">Proxy.sh Review</a></p>
+<p style="text-align: center;"><a href="/2015/11/20/proxy-sh-vpn-review/" style="text-align: center;">Proxy.sh Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Good Speeds<br />
@@ -395,7 +395,7 @@ SafeJumper Feature</p>
 <li>Proxy.sh also allow sharing of P2P torrents&nbsp;so you don&#39;t&nbsp;get busted</li>
 <li>Proxy.sh have a feature called &quot;SafeJumper&quot; to use</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;<a href="https://www.deepdotweb.com/2015/11/20/proxy-sh-vpn-review/" style="text-align: center;">Proxy.sh Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;<a href="/2015/11/20/proxy-sh-vpn-review/" style="text-align: center;">Proxy.sh Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -409,7 +409,7 @@ SafeJumper Feature</p>
 <p style="text-align: center;"><a alt="IVPN Logo" href="https://www.ivpn.net/aff.php?aff=1412" rel="nofollow" target="_blank" title="IVPN"><img alt="" src="/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" /></a></p>
 <h3 style="text-align: center;"><strong>$8.33</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/12/03/ivpn-review/" style="text-align: center;">IVPN Review</a></p>
+<p style="text-align: center;"><a href="/2015/12/03/ivpn-review/" style="text-align: center;">IVPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Unlimited Bandwidth<br />
@@ -434,7 +434,7 @@ Multihop Feature</p>
 <li>IVPN have a 7-day money back guarantee</li>
 <li>They have&nbsp;a multihop feature</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2015/12/03/ivpn-review/" style="text-align: center;">IVPN Review</a>&nbsp;here.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2015/12/03/ivpn-review/" style="text-align: center;">IVPN Review</a>&nbsp;here.</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -448,7 +448,7 @@ Multihop Feature</p>
 <p style="text-align: center;"><a alt="Liquid VPN Logo" href="https://my.liquidvpn.com/aff.php?aff=129" rel="nofollow" target="_blank" title="Liquid VPN"><img alt="" src="/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" /></a></p>
 <h3 style="text-align: center;"><strong>$5.57</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/12/08/liquidvpn-review/" style="text-align: center;">LiquidVPN Review</a></p>
+<p style="text-align: center;"><a href="/2015/12/08/liquidvpn-review/" style="text-align: center;">LiquidVPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Good Performance<br />
@@ -473,7 +473,7 @@ LiquidDNS&nbsp;Included</p>
 <li>3 OpenVPN Types to choose from</li>
 <li>LiquidDNS included in the package</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2015/12/08/liquidvpn-review/" style="text-align: center;">LiquidVPN Review</a>&nbsp;here.</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2015/12/08/liquidvpn-review/" style="text-align: center;">LiquidVPN Review</a>&nbsp;here.</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -487,7 +487,7 @@ LiquidDNS&nbsp;Included</p>
 <p style="text-align: center;"><a alt="Private Internet Access VPN logo" href="https://www.privateinternetaccess.com/pages/buy-vpn/deepdotweb" rel="nofollow" target="blank" title="Private Internet Access VPN"><img alt="" src="/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" /></a></p>
 <h3 style="text-align: center;"><strong>$6.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threestars.png" style="text-align: center; width: 104px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2016/01/05/private-internet-access-review/" style="text-align: center;">PIA&nbsp;Review</a></p>
+<p style="text-align: center;"><a href="/2016/01/05/private-internet-access-review/" style="text-align: center;">PIA&nbsp;Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Quick Speed<br />
@@ -512,7 +512,7 @@ No Logs</p>
 <li>PIA have SOCKS5 Proxy available to use</li>
 <li>PIA do not respond to DCMA notifications</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the <a href="https://www.deepdotweb.com/2016/01/05/private-internet-access-review/" style="text-align: center;">PIA&nbsp;Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the <a href="/2016/01/05/private-internet-access-review/" style="text-align: center;">PIA&nbsp;Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -526,7 +526,7 @@ No Logs</p>
 <p style="text-align: center;"><a alt="Hide IP VPN logo" href="https://billing.hideipvpn.com/aff.php?aff=2096" rel="nofollow" target="_blank" title="Hide IP VPN"><img alt="" src="/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" /></a></p>
 <h3 style="text-align: center;"><strong>$7.00</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars-1.png" style="text-align: center; width: 100px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2015/12/10/hideipvpn-review/" style="text-align: center;">HideIP VPN Review</a></p>
+<p style="text-align: center;"><a href="/2015/12/10/hideipvpn-review/" style="text-align: center;">HideIP VPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>SmartDNS Included<br />
@@ -550,7 +550,7 @@ Unlimited Bandwidth</p>
 <li>Hide IP VPN have a 1 Day&nbsp;Trial</li>
 <li>Hide IP VPN allow you unlimited bandwidth on their network</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the <a href="https://www.deepdotweb.com/2015/12/10/hideipvpn-review/" style="text-align: center;">HideIP VPN Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the <a href="/2015/12/10/hideipvpn-review/" style="text-align: center;">HideIP VPN Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -564,7 +564,7 @@ Unlimited Bandwidth</p>
 <p style="text-align: center;"><a alt="BolehVPN logo" href="https://portal.bolehvpn.net/affiliate/ref.php?id=162&amp;tid=BOMT1" rel="nofollow" target="blank" title="BolehVPN"><img alt="" src="/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" /></a></p>
 <h3 style="text-align: center;"><strong>$6.67</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/3.png" style="text-align: center; width: 100px; height: 17px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2016/01/11/bolehvpn-review/" style="text-align: center;">BolehVPN Review</a></p>
+<p style="text-align: center;"><a href="/2016/01/11/bolehvpn-review/" style="text-align: center;">BolehVPN Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Good Speed<br />
@@ -587,7 +587,7 @@ Unlimited Bandwidth<br />
 <li>BolehVPN have unlimited bandwidth</li>
 <li>BolehVPNM offer a 1 Day Trail</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;<a href="https://www.deepdotweb.com/2016/01/11/bolehvpn-review/" style="text-align: center;">BolehVPN Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;<a href="/2016/01/11/bolehvpn-review/" style="text-align: center;">BolehVPN Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -602,7 +602,7 @@ Unlimited Bandwidth<br />
 <p style="text-align: center;"><a alt="Mullvad logo" href="https://mullvad.net" rel="nofollow" target="blank" title="Mullvad"><img alt="" height="34" src="/imgs/charts/default/0001/01/mullvad.jpg" width="120" /></a></p>
 <h3 style="text-align: center;"><strong>$5.60</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2016/01/28/mullvad-review/" style="text-align: center;">Mullvad Review</a></p>
+<p style="text-align: center;"><a href="/2016/01/28/mullvad-review/" style="text-align: center;">Mullvad Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Accepts Bitcoin<br />
@@ -617,7 +617,7 @@ Token System</p>
 <p><a alt="Mullvad logo" href="https://mullvad.net" rel="nofollow" target="blank" title="Mullvad"><img alt="" height="34" src="/imgs/charts/default/0001/01/mullvad.jpg" width="120" /></a></p>
 </td>
 <td class=" hideMobile   chart-col-417">
-<h3><a href="https://www.deepdotweb.com/wp-content/uploads/charts/default/0001/01/mullvad.jpg"><strong>$5.60</strong></a></h3>
+<h3><a href="/wp-content/uploads/charts/default/0001/01/mullvad.jpg"><strong>$5.60</strong></a></h3>
 </td>
 <td class=" hideMobile   chart-col-415">
 <ul>
@@ -626,7 +626,7 @@ Token System</p>
 <li>Mullvad has DNS Leak Protection</li>
 <li>Uses a token system</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2016/01/28/mullvad-review/" style="text-align: center;">Mullvad Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2016/01/28/mullvad-review/" style="text-align: center;">Mullvad Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -640,7 +640,7 @@ Token System</p>
 <p style="text-align: center;"><a alt="BTGuard logo" href="http://btguard.com/?a=ManagerVPN" rel="nofollow" target="_blank" title="BTGuard"><img alt="" src="/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" /></a></p>
 <h3 style="text-align: center;"><strong>$9.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2016/01/25/btguard-review/" style="text-align: center;">BTGuard Review</a></p>
+<p style="text-align: center;"><a href="/2016/01/25/btguard-review/" style="text-align: center;">BTGuard Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>256-bit AES encryption<br />
@@ -664,7 +664,7 @@ P2P&nbsp;Torrents​<br />
 <li>BT Guard accept bitcoin as payment</li>
 <li><span style="line-height: 20.8px;">No DCMA Response</span></li>
 </ul>
-<p><span style="line-height: 20.8px;">&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;</span><a href="https://www.deepdotweb.com/2016/01/25/btguard-review/" style="text-align: center;">BTGuard Review</a>&nbsp;here</p>
+<p><span style="line-height: 20.8px;">&nbsp; &nbsp; &nbsp; &nbsp; Read the&nbsp;</span><a href="/2016/01/25/btguard-review/" style="text-align: center;">BTGuard Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -678,7 +678,7 @@ P2P&nbsp;Torrents​<br />
 <p style="text-align: center;"><a alt="VPN S logo" href="https://www.vpnsecure.me/?xyz=2387" rel="nofollow" target="_blank" title="VPN S"><img alt="" src="/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" /></a></p>
 <h3 style="text-align: center;"><strong>$7.50</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 19px;" /></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/2016/02/16/vpn-secure-review/" style="text-align: center;">VPN Secure Review</a></p>
+<p style="text-align: center;"><a href="/2016/02/16/vpn-secure-review/" style="text-align: center;">VPN Secure Review</a></p>
 </td>
 <td class="hideDesktop  hidePad  chart-col-420">
 <p>Good Speed<br />
@@ -693,7 +693,7 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 <p><a alt="VPN S logo" href="https://www.vpnsecure.me/?xyz=2387" rel="nofollow" target="_blank" title="VPN S"><img alt="" src="/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" /></a></p>
 </td>
 <td class=" hideMobile   chart-col-417">
-<h3><a href="https://www.deepdotweb.com/wp-content/uploads/charts/default/0001/01/vpn-s-logo.png"><strong>$7.50</strong></a></h3>
+<h3><a href="/wp-content/uploads/charts/default/0001/01/vpn-s-logo.png"><strong>$7.50</strong></a></h3>
 </td>
 <td class=" hideMobile   chart-col-415">
 <ul>
@@ -702,7 +702,7 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 <li>VPN S have the option of a dedicated IP.</li>
 <li>$2 for 2-day trial.</li>
 </ul>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="https://www.deepdotweb.com/2016/02/16/vpn-secure-review/" style="text-align: center;">VPN Secure Review</a>&nbsp;here</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;Read the&nbsp;<a href="/2016/02/16/vpn-secure-review/" style="text-align: center;">VPN Secure Review</a>&nbsp;here</p>
 </td>
 <td class=" hideMobile   chart-col-413">
 <h4 style="text-align: center;"><strong>Our Score:</strong></h4>
@@ -729,7 +729,7 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 <li>Protect yourself from being hacked when using WiFi.</li>
 <li>Use it on any device.</li>
 </ul>
-<p>If you care about your privacy then you should really consider using a VPN Service for all of your internet usage no matter what you are doing online. Have any questions, corrections or inquiries? <a href="https://www.deepdotweb.com/contact-us/">Please contact us</a>.</p>
+<p>If you care about your privacy then you should really consider using a VPN Service for all of your internet usage no matter what you are doing online. Have any questions, corrections or inquiries? <a href="/contact-us/">Please contact us</a>.</p>
 <p><strong><em><u>Disclaimer</u></em></strong></p>
 <p>DeepDotWeb rankings are based on our technical assessment of, and our personal experience, each product. We are paid commissions from some of the VPN companies on this site for customers referred from this site which convert into sales. The rates paid to us by the VPN providers vary in price.</p>
 
@@ -744,23 +744,23 @@ Updated: 2015-10-09</span>
 <div id="posts-list-widget-1" class="widget footer-widget posts-list"><div class="footer-widget-top"><h4>Popular Posts </h4></div>
 <div class="footer-widget-container"> <ul>
 <li>
-<h3><a href="https://www.deepdotweb.com/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site">While Markets Get Seized: Pedophiles Launch a Crowdfunding Site</a></h3>
+<h3><a href="/2014/11/09/as-drug-markets-are-seized-pedophiles-launch-a-crowdfunding-site/" title="While Markets Get Seized: Pedophiles Launch a Crowdfunding Site">While Markets Get Seized: Pedophiles Launch a Crowdfunding Site</a></h3>
 <span class="date"><span>November 9, 2014</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2014/07/08/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
+<h3><a href="/2014/07/08/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
 <span class="date"><span>July 8, 2014</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Updated: List of Dark Net Markets (Tor &#038; I2P)">Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
+<h3><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" title="Updated: List of Dark Net Markets (Tor &#038; I2P)">Updated: List of Dark Net Markets (Tor &#038; I2P)</a></h3>
 <span class="date"><span>October 28, 2013</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="PGP Tutorial For Newbs (Gpg4Win)">PGP Tutorial For Newbs (Gpg4Win)</a></h3>
+<h3><a href="/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" title="PGP Tutorial For Newbs (Gpg4Win)">PGP Tutorial For Newbs (Gpg4Win)</a></h3>
 <span class="date"><span>November 11, 2013</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2014/04/08/grams-darknetmarkets-search-engine/" title="Grams: DarkNetMarkets Search Engine">Grams: DarkNetMarkets Search Engine</a></h3>
+<h3><a href="/2014/04/08/grams-darknetmarkets-search-engine/" title="Grams: DarkNetMarkets Search Engine">Grams: DarkNetMarkets Search Engine</a></h3>
 <span class="date"><span>April 8, 2014</span></span>
 </li>
 </ul>
@@ -773,23 +773,23 @@ Updated: 2015-10-09</span>
 <div id="posts-list-widget-3" class="widget footer-widget posts-list"><div class="footer-widget-top"><h4>Latest Posts </h4></div>
 <div class="footer-widget-container"> <ul>
 <li>
-<h3><a href="https://www.deepdotweb.com/2019/03/15/a-russian-hacker-confesses-to-being-the-creator-of-a-bank-trojan-horse/">A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse</a></h3>
+<h3><a href="/2019/03/15/a-russian-hacker-confesses-to-being-the-creator-of-a-bank-trojan-horse/">A Russian Hacker Confesses to Being the Creator of a Bank Trojan Horse</a></h3>
 <span class="date"><span>March 15, 2019</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2019/03/15/another-canadian-dark-web-drug-dealer-pleads-guilty-to-charges-awaits-sentencing-in-the-u-s/">Another Canadian dark web drug dealer pleads guilty to charges, awaits sentencing in the U.S.</a></h3>
+<h3><a href="/2019/03/15/another-canadian-dark-web-drug-dealer-pleads-guilty-to-charges-awaits-sentencing-in-the-u-s/">Another Canadian dark web drug dealer pleads guilty to charges, awaits sentencing in the U.S.</a></h3>
 <span class="date"><span>March 15, 2019</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2019/03/14/lexington-man-imprisoned-for-43-years-for-attempting-to-murder-his-ex-wife-with-a-darknet-bomb/">Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with a Darknet Bomb</a></h3>
+<h3><a href="/2019/03/14/lexington-man-imprisoned-for-43-years-for-attempting-to-murder-his-ex-wife-with-a-darknet-bomb/">Lexington Man Imprisoned for 43 Years for Attempting to Murder His Ex-Wife with a Darknet Bomb</a></h3>
 <span class="date"><span>March 14, 2019</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2019/03/14/research-tor-marketplaces-as-a-threat-to-national-e-id-infrastructures/">Research: Tor marketplaces as a threat to national e-ID infrastructures</a></h3>
+<h3><a href="/2019/03/14/research-tor-marketplaces-as-a-threat-to-national-e-id-infrastructures/">Research: Tor marketplaces as a threat to national e-ID infrastructures</a></h3>
 <span class="date"><span>March 14, 2019</span></span>
 </li>
 <li>
-<h3><a href="https://www.deepdotweb.com/2019/03/14/two-men-that-manufactured-and-sold-counterfeit-xanax-through-the-dark-web-sentenced-2/">Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Sentenced</a></h3>
+<h3><a href="/2019/03/14/two-men-that-manufactured-and-sold-counterfeit-xanax-through-the-dark-web-sentenced-2/">Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Sentenced</a></h3>
 <span class="date"><span>March 14, 2019</span></span>
 </li>
 </ul>
@@ -797,7 +797,7 @@ Updated: 2015-10-09</span>
 </div></div> </div>
 <div id="footer-fourth" class="footer-widgets-box">
 <div id="recent-comments-3" class="widget footer-widget widget_recent_comments"><div class="footer-widget-top"><h4>Recent Comments</h4></div>
-<div class="footer-widget-container"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">ChenIsSnitch</span> on <a href="https://www.deepdotweb.com/2019/03/14/two-men-that-manufactured-and-sold-counterfeit-xanax-through-the-dark-web-sentenced-2/#comment-662840">Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Sentenced</a></li><li class="recentcomments"><span class="comment-author-link">Peter</span> on <a href="https://www.deepdotweb.com/2018/12/04/a-german-faces-trial-for-drugs-ordered-on-dream-market/#comment-662837">A German Faces Trial for Drugs Ordered on ‘Dream Market’</a></li><li class="recentcomments"><span class="comment-author-link">Bob</span> on <a href="https://www.deepdotweb.com/2016/02/13/how-lux-got-involved-with-child-porn/#comment-662823">How Lux Got Involved With Child Porn</a></li><li class="recentcomments"><span class="comment-author-link">just me</span> on <a href="https://www.deepdotweb.com/2019/03/10/european-police-congress-deliberates-on-making-the-darknet-inaccessible-to-its-states/#comment-662820">European Police Congress Deliberates on Making the Darknet Inaccessible to its States</a></li><li class="recentcomments"><span class="comment-author-link">nnnad</span> on <a href="https://www.deepdotweb.com/2018/12/04/a-german-faces-trial-for-drugs-ordered-on-dream-market/#comment-662817">A German Faces Trial for Drugs Ordered on ‘Dream Market’</a></li></ul></div></div> </div>
+<div class="footer-widget-container"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">ChenIsSnitch</span> on <a href="/2019/03/14/two-men-that-manufactured-and-sold-counterfeit-xanax-through-the-dark-web-sentenced-2/#comment-662840">Two Men that Manufactured and Sold Counterfeit Xanax Through the Dark Web Sentenced</a></li><li class="recentcomments"><span class="comment-author-link">Peter</span> on <a href="/2018/12/04/a-german-faces-trial-for-drugs-ordered-on-dream-market/#comment-662837">A German Faces Trial for Drugs Ordered on ‘Dream Market’</a></li><li class="recentcomments"><span class="comment-author-link">Bob</span> on <a href="/2016/02/13/how-lux-got-involved-with-child-porn/#comment-662823">How Lux Got Involved With Child Porn</a></li><li class="recentcomments"><span class="comment-author-link">just me</span> on <a href="/2019/03/10/european-police-congress-deliberates-on-making-the-darknet-inaccessible-to-its-states/#comment-662820">European Police Congress Deliberates on Making the Darknet Inaccessible to its States</a></li><li class="recentcomments"><span class="comment-author-link">nnnad</span> on <a href="/2018/12/04/a-german-faces-trial-for-drugs-ordered-on-dream-market/#comment-662817">A German Faces Trial for Drugs Ordered on ‘Dream Market’</a></li></ul></div></div> </div>
 </div>
 <div class="clear"></div>
 </footer>
@@ -916,6 +916,3 @@ jQuery(this).wrap(function() {
 })   
 });
 });
-</script>
-</body>
-</html>

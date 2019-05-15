@@ -4,7 +4,7 @@ title: "Cryptocurrency Crunch: World Regulators To Control All Digital Currency?
 
 <img width="660" height="330" src="/imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-660x330.jpg" class="attachment-slider size-slider" alt="Cryptocurrency Crunch: World Regulators To Control All Digital Currency?" title="Cryptocurrency Crunch: World Regulators To Control All Digital Currency?" srcset="/imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-660x330.jpg 660w, /imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1-300x149.jpg 300w, /imgs/2013/11/reminder-bitcoin-is-the-perfect-asset-bubble-prices-could-go-vastly-higher-from-here1.jpg 717w" sizes="(max-width: 660px) 100vw, 660px" /> </div>
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 26, 2013</span>
 
 

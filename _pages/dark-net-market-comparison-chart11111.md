@@ -1,8 +1,8 @@
 ---
-title: Dark Net Markets Comparison Chart
+title: Dark Net Markets Comparison Chart - 2014
 ---
 
-<p><strong></strong> - This chart integrates marketplace data with our <a href="https://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a> ratings, along with uptime status data provided By <a href="https://dnstats.net/">Dnstats.net</a> and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain all dark net markets. For the full list of dark net markets, visit the <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="https://www.deepdotweb.com/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
+<p><strong></strong> - This chart integrates marketplace data with our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a> ratings, along with uptime status data provided By <a href="https://dnstats.net/">Dnstats.net</a> and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain all dark net markets. For the full list of dark net markets, visit the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
 <div class="tableCon">
 <table id="example" cellspacing="0" width="100%" class="table">
 <thead>
@@ -121,7 +121,7 @@ title: Dark Net Markets Comparison Chart
 </tr>
 <tr>
 <td>
-<div align="left"><div style="display:none;">2</div><span title="UP"><a href="https://www.deepdotweb.com/marketplace-directory/listing/dream-market" target="_blank">Dream Market</a></span></div> </td>
+<div align="left"><div style="display:none;">2</div><span title="UP"><a href="#">Dream Market</a></span></div> </td>
 <td>
 <label class='label label-success'>96.82%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -314,7 +314,7 @@ title: Dark Net Markets Comparison Chart
 </tr>
 <tr>
 <td>
-<span title="UP"><a href="https://www.deepdotweb.com/marketplace-directory/listing/dark-net-services" target="_blank">DarkNet Services</a></span> </td>
+<span title="UP"><a href="#">DarkNet Services</a></span> </td>
 <td>
 <label class='label label-danger'>97.77%</label> <i class='glyphicon glyphicon-arrow-down' style='color:#428bca;'></i> </td>
 <td>
@@ -443,7 +443,7 @@ title: Dark Net Markets Comparison Chart
 </tr>
 <tr>
 <td>
-<span title="UP"><a href="https://www.deepdotweb.com/marketplace-directory/listing/middle-earth-marketplace" target="_blank">MIDDLE EARTH MARKETPLACE</a></span> </td>
+<span title="UP"><a href="#">MIDDLE EARTH MARKETPLACE</a></span> </td>
 <td>
 <label class='label label-success'>95.2%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -582,7 +582,7 @@ title: Dark Net Markets Comparison Chart
 </tr>
 <tr>
 <td>
-<span title="UP"><a href="https://www.deepdotweb.com/marketplace-directory/listing/the-majestic-garden" target="_blank">The Majestic Garden</a></span> </td>
+<span title="UP"><a href="#">The Majestic Garden</a></span> </td>
 <td>
 <label class='label label-success'>97.65%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>

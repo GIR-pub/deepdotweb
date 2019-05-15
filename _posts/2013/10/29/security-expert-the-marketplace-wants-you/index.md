@@ -1,11 +1,11 @@
 ---
 title: "Security Expert? &#8220;The Marketplace&#8221; Wants You!"
 ---
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 29, 2013</span>
 
 
-<p>A new marketplace we have mentioned here last week  &#8220;<a href="http://www.deepdotweb.com/2013/10/20/oh-joy-yet-another-marketplace-in-progress-the-marketplace/">The Marketplace</a>&#8221; is looking for IT / UI experts and old time verified vendors for beta testing of their system security,</p>
+<p>A new marketplace we have mentioned here last week  &#8220;<a href="/2013/10/20/oh-joy-yet-another-marketplace-in-progress-the-marketplace/">The Marketplace</a>&#8221; is looking for IT / UI experts and old time verified vendors for beta testing of their system security,</p>
 <p>Was posted on Reddit today:  http://www.reddit.com/r/themarketplace/comments/1pgl7k/beta_applications_now_open/<br/>
 <em>&#8212;&#8211;BEGIN PGP SIGNED MESSAGE&#8212;&#8211;</em><br/>
 <em> Hash: SHA512</em></p>

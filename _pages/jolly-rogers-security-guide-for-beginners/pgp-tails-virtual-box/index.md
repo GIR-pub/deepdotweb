@@ -1,8 +1,6 @@
 ---
-PGP, TAILS, VIRTUAL BOX
+title: "PGP, TAILS, VIRTUAL BOX"
 ---
-3979
-
 
 <div align="center"><strong>PGP, TAILS, VIRTUAL BOX</strong></div>
 <p>So keep in mind that if you are a user of Silk Road, or any other form of activism, you never want to enter any identifying details about yourself online. Make it so that even if the NSA intercepted and decrypted, or compromised Silk Road that the only information they have against you is your username and password. How safe is that username and password? Does your password contain any identifying information? Is it the same password that you use for your personal email? Does it contain a name of somebody you know personally? Always keep all of these factors in mind.</p>

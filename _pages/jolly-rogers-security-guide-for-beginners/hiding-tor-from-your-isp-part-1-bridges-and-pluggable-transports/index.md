@@ -1,12 +1,12 @@
 ---
-HIDING TOR FROM YOUR ISP &#8211; PART 1 &#8211; BRIDGES AND PLUGGABLE TRANSPORTs"
+title: "HIDING TOR FROM YOUR ISP &#8211; PART 1 &#8211; BRIDGES AND PLUGGABLE TRANSPORTs"
 ---
 4128
 
 
 <p>This post is going to talk about something that has been commonly discussed on the forums recently. How can I hide my tor usage from my ISP ?</p>
 <p>People are more worried about hiding their tor usage from their ISP, than hiding it from a VPN. There seems to be a back and forth debate about whether using a VPN will or will not protect you. Whether or not the VPN can be convinced to log  your connection, and so forth. A few of my previous posts regarding LulzSec and the YardBird pedophile rings have shown that those who rely on VPNs to protect them are historically known to end up in jail. Even our friend we were recently introduced to, The Grugq says, TOR -&gt; VPN is ok, but VPN -&gt; TOR, go to jail.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
 <p>In my previous posts about VPN -&gt; TOR and TOR -&gt; VPN, I tried to remain neutral in that you should be able to make your own decisions about how you wish to protect yourself. But just remember, at the end of the day, nobody is going to go to jail for you. If you simply want to hide the fact that you are using tor from your ISP, then we have other options than a VPN. We have bridges, and several different pluggable transports. What are these, and how can we use them in Tails?</p>
 <div>
 <div>Quote</div>

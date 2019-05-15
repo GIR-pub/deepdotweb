@@ -23,13 +23,13 @@ Posted by: DeepDotWeb
 <p>One thing I’ve learned since beginning my tour of the federal criminal justice system is that these guys are not all-powerful. They can be beaten and precedent can be set that will limit their ability to infringe on our rights.</p>
 <p>I urge you to stand by me and do what you can to turn this horrible situation into a win.</p>
 <p>I wish I could be there with you, but of course I can’t. With your help though, I’ll see you at Porcfest 2015!</p></blockquote>
-<div id="attachment_6367" style="width: 283px" class="wp-caption aligncenter"><a href="/imgs/2014/07/Scan00011.jpg"><img class=" wp-image-6367" src="/imgs/2014/07/Scan00011.jpg" alt="Ross Ulbricht in prison jun 21 - 2014" width="273" height="401" srcset="/imgs/2014/07/Scan00011.jpg 828w, /imgs/2014/07/Scan00011-204x300.jpg 204w, /imgs/2014/07/Scan00011-697x1024.jpg 697w" sizes="(max-width: 273px) 100vw, 273px" /></a><p class="wp-caption-text">Ross Ulbricht in prison jun 21 &#8211; 2014</p></div>
+<div id="attachment_6367" style="width: 283px" class="wp-caption aligncenter"><a href="/imgs/2014/07/Scan00011.jpg"/>
 <p><a href="http://www.wired.com/images_blogs/threatlevel/2014/02/US-v.-Ross-Ulbricht-Indictment.pdf">Ulbricht was indicted in February</a> for: Conspiracy to Distribute and Possess with Intent to Distribute Controlled Substances,  Continuing Criminal Enterprise, Computer Hacking Conspiracy in violation of the Computer Fraud and Abuse Act, amd Participation in a Money Laundering Conspiracy. He is also indicted in Maryland for one planned murder. (however, the prosecutor believes that no murders occurred)</p>
 <p>Ross <a href="http://www.ibtimes.co.uk/ross-ulbricht-denies-being-silk-roads-dread-pirate-roberts-1435680">pleaded not guilty</a> soon after, meaning that if convicted, he could face life behind bars – the charge of ‘continuing criminal enterprise’ adding a minimum of 20 years to his sentence.</p>
 <p>For Donations please visit: <a href="http://freeross.org">http://freeross.org</a></p>
 <p>You can follow the donation address here: <a href="https://blockchain.info/address/1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv">https://blockchain.info/address/1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</a></p>
 <p>And you can donate directly at this address:</p>
-<p style="text-align: center;"> <a href="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"><img class="aligncenter  wp-image-6369" src="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png" alt="Screen-Shot-2014-06-26-at-17.01.32-300x300[1]" width="232" height="232" srcset="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png 300w, /imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001-150x150.png 150w, /imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001-55x55.png 55w, /imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001-50x50.png 50w" sizes="(max-width: 232px) 100vw, 232px" /></a></p>
+<p style="text-align: center;"> <a href="/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"/>
 <p style="text-align: center;"><strong>1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</strong></p>
 
 Updated: 2014-07-07

@@ -2,7 +2,7 @@
 title: "A Dread Pirate Christmas"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/roul/" title="">Raoul Duke </a></span>
+<span>Posted by: <a href="/author/roul/" title="">Raoul Duke </a></span>
 <span>December 9, 2013</span>
 
 
@@ -46,9 +46,9 @@ title: "A Dread Pirate Christmas"
     cents for our brothers and sisters abroad in their hour of need.</p>
 <p>Dread Pirate Roberts&#8221;</p></blockquote>
 <p>You Can Send Bitcoins to Help the Philippines <a href="https://bitme.com/donate" target="_blank">Here</a></p>
-<p><a href="/imgs/2013/12/1EvQV.jpg"><img class="aligncenter size-full wp-image-2367" alt="1EvQV" src="/imgs/2013/12/1EvQV.jpg" width="469" height="264" srcset="/imgs/2013/12/1EvQV.jpg 600w, /imgs/2013/12/1EvQV-300x169.jpg 300w" sizes="(max-width: 469px) 100vw, 469px"/></a></p>
+<p><a href="/imgs/2013/12/1EvQV.jpg"/>
 <p>For those interested in the success of this initiative, Mr. Roberts announced the following in his Dec. 6th press release:</p>
-<p><a href="/imgs/2013/12/statedpr.png"><img class="aligncenter size-full wp-image-2368" alt="DPR Statement" src="/imgs/2013/12/statedpr.png" width="949" height="140" srcset="/imgs/2013/12/statedpr.png 1552w, /imgs/2013/12/statedpr-300x44.png 300w, /imgs/2013/12/statedpr-1024x151.png 1024w" sizes="(max-width: 949px) 100vw, 949px"/></a></p>
+<p><a href="/imgs/2013/12/statedpr.png"/>
 <p>So, Dread Pirate Roberts and crew just donated approximately $6,500 to the <a href="http://www.redcross.org.ph/" target="_blank">Philippine Red Cross</a>. Not bad for an internet pirate and a group of miscreants, eh?</p>
 <p>Of course, a leader as passionate and generous as the Dread Pirate Roberts couldn’t possibly be content with simply rescuing a handful of weather-beaten Filipino Christmas Orphans. In fact, in the spirit of Christmas (and more in-line with the topic of this article), he then went on to announce to his awe-struck community, that while Santa Claus was busy frantically ordering stimulants from his website in the run-up to the hardest night of his year (my words, not his), he would be adding his own glint of magic to the air with his (free to enter) $8,500 lottery – dubbed “The Silk Road Christmas Giveaway” (though, he did later that day dash spirits a little by announcing the temporary closure of Silk Road for the festive period – but we can forgive that in light of the $8,500 prize pot).</p>
 <p>Quote from Dread Pirate Roberts:</p>
@@ -118,10 +118,10 @@ title: "A Dread Pirate Christmas"
 <li>New features/implementations.</li>
 <li>DPR is Santa. Or the new Pope. Possibly both.</li>
 </ul>
-<div id="attachment_2369" style="width: 380px" class="wp-caption aligncenter"><a href="/imgs/2013/12/usps.jpg"><img class="size-full wp-image-2369" alt="Scumbag USPS: &quot;We're cool.&quot;" src="/imgs/2013/12/usps.jpg" width="370" height="322" srcset="/imgs/2013/12/usps.jpg 530w, /imgs/2013/12/usps-300x262.jpg 300w" sizes="(max-width: 370px) 100vw, 370px"/></a><p class="wp-caption-text">Scumbag USPS: &#8220;We&#8217;re cool.&#8221;</p></div>
-<p>Other ongoing projects funded or Kickstarted by DPR include the journalist credentials of yours truly – something that’s been covered already by DeepDotWeb: <a href="http://www.deepdotweb.com/2013/11/16/get-ready-to-silk-roads-newspaper/" target="_blank">The Courier Project </a>and he also makes significant contributions to help fund the Tor project.</p>
+<div id="attachment_2369" style="width: 380px" class="wp-caption aligncenter"><a href="/imgs/2013/12/usps.jpg"/>
+<p>Other ongoing projects funded or Kickstarted by DPR include the journalist credentials of yours truly – something that’s been covered already by DeepDotWeb: <a href="/2013/11/16/get-ready-to-silk-roads-newspaper/" target="_blank">The Courier Project </a>and he also makes significant contributions to help fund the Tor project.</p>
 <p>All of this hardly comes as a surprise however &#8211; after all, once you register for an account on Silk Road Marketplace, you &#8216;re greeted by a charter of sorts. And it’s quite welcoming – here’s an excerpt from DPR’s<br/>
-    ‘<a href="http://www.deepdotweb.com/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">We Rise Again</a>’ statement:</p>
+    ‘<a href="/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">We Rise Again</a>’ statement:</p>
 <blockquote><p>&#8220;We have already committed a large percentage of our revenues to good causes, charities, and organizations who support our cause or have similar interests. We are also contributing back to the Tor network with our relay<br/>
     fund.</p>
 <p>But without a doubt, the re-launch of our beloved marketplace will create a ripple throughout the world’s various media channels, and not all of these channels will see our cause as positive. You don’t need telling that<br/>
@@ -149,6 +149,6 @@ title: "A Dread Pirate Christmas"
 <p>Reporting from the edge, this is Raoul Duke.</p>
 </div>
 
-Updated: 2013-12-09<a href="https://www.deepdotweb.com/author/roul/" title="Posts by Raoul Duke" rel="author">Raoul Duke</a></strong></div>
+Updated: 2013-12-09<a href="/author/roul/" title="Posts by Raoul Duke" rel="author">Raoul Duke</a></strong></div>
 
 

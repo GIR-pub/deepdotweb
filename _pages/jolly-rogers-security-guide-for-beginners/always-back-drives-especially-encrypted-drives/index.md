@@ -1,7 +1,7 @@
 ---
-WHY YOU SHOULD ALWAYS BACK UP YOUR DRIVES, ESPECIALLY ENCRYPTED DRIVEs"
+title: "WHY YOU SHOULD ALWAYS BACK UP YOUR DRIVES, ESPECIALLY ENCRYPTED DRIVEs"
 ---
-4383
+
 
 
 <p>This is an embarrassing story of something that happened to me in the past few days, and it was a lesson well learned, for some of the things I have lost are not recoverable. &#8211; Jolly Roger</p>

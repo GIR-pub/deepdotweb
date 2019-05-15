@@ -1,10 +1,10 @@
 ---
 title: "Simple Instructions: How to avoid getting scammed on any marketplace?"
 ---
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 27, 2013</span>
 
-<span><a href="https://www.deepdotweb.com/2013/10/27/simple-instructions-how-to-avoid-getting-scammed-on-any-marketplace/#comments">1 Comment</a></span>
+<span><a href="/2013/10/27/simple-instructions-how-to-avoid-getting-scammed-on-any-marketplace/#comments">1 Comment</a></span>
 
 
 <p><strong>I found this old post on the old silk road forum &#8211; some sort of  &#8220;checklist&#8221; of stuff you should do if you want to scam-proof yourself,  yeah it actually takes some time to cover all of them but im pretty sure that once you follow all these simple guidelines you can be pretty safe.</strong></p>

@@ -27,7 +27,7 @@ Posted by: DeepDotWeb
 <p>Oracle<br />
 <strong>=====End Quote====</strong></p>
 <p>By the time we posted this, it was already published on the Silk Road Sub reddit as well and will probably gets deleted soon. some users were quick to react and offering to go and check the address for themselves:</p>
-<p><a href="/imgs/2014/02/reddit.png"><img class="aligncenter size-full wp-image-4324" alt="reddit" src="/imgs/2014/02/reddit.png" width="881" height="83" srcset="/imgs/2014/02/reddit.png 881w, /imgs/2014/02/reddit-300x28.png 300w" sizes="(max-width: 881px) 100vw, 881px" /></a></p>
+<p><a href="/imgs/2014/02/reddit.png"/>
 <p>We can only hope this will end well.</p>
 <p>Now we will still be following the forums as it was told by the Oracle that he will keep posting this again and again until all the stolen funds are returned. the most interesting question is if this will lead to some of the money being returned or now, we will update as we will have more information.</p>
 

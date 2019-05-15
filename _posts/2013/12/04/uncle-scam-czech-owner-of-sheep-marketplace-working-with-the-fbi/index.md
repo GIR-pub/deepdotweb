@@ -2,7 +2,7 @@
 title: "Uncle Scam: Czech Owner of Sheep Marketplace Working With the FBI?"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>December 4, 2013</span>
 
 

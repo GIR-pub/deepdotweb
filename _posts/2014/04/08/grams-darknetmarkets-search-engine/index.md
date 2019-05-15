@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 <p><strong><span style="text-decoration: underline;">Edit 3.5.14</span>:  <a href="/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/">An interview with the Grams Search Engine Admin</a></strong></p>
 <p>This privacy-minded search engine is a development the dark net community was anticipating for a long time. Grams is a service that offers a way to search for products across different dark net marketplaces. They are currently indexing products from markets, more will be added soon. The service is currently in Alpha release, as noted by Grams’ administrator: “Grams is in alpha mode, meaning we are just getting started. We would love your input on features to add or take away. Please don’t be too harsh this is not a finished product.”</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
 <p>The Reddit introduction post can be found <a href="http://www.reddit.com/r/DarkNetMarkets/comments/22jg6b/darknet_markets_search_engine/">here</a></p>
 <p><strong>Want to save time searching the Dark Net markets?</strong></p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
@@ -26,11 +26,11 @@ Posted by: DeepDotWeb
 <p>We search for new listings once a day. We update current listings every 3 days</p>
 <p>Search engine home:</p>
 <p>&nbsp;</p>
-<p><a href="/imgs/2014/04/grams.png"><img class="aligncenter wp-image-4913" src="/imgs/2014/04/grams.png" alt="grams search engine" width="588" height="311" srcset="/imgs/2014/04/grams.png 994w, /imgs/2014/04/grams-300x159.png 300w" sizes="(max-width: 588px) 100vw, 588px" /></a></p>
+<p><a href="/imgs/2014/04/grams.png"/>
 <p>Search engine results page:</p>
-<p><a href="/imgs/2014/04/grams1.png"><img class="aligncenter wp-image-4914" src="/imgs/2014/04/grams1.png" alt="grams SERP" width="513" height="390" srcset="/imgs/2014/04/grams1.png 1007w, /imgs/2014/04/grams1-300x229.png 300w" sizes="(max-width: 513px) 100vw, 513px" /></a></p>
-<p>Grams plans to run from <a href="https://www.deepdotweb.com/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">advertisements</a> which will pay for ongoing security and development costs, we wish the creators all the best and we hope to see this service develop into a fully functional search engine that indexes listings in from all the existing marketplaces. This can not only save people time, it could also improve safety.</p>
-<p>Added later: <a href="https://www.deepdotweb.com/grams-search-darknet-marketplaces/">For more info about Grams and its related services visit this url.</a></p>
+<p><a href="/imgs/2014/04/grams1.png"/>
+<p>Grams plans to run from <a href="/2014/06/01/gramwords-launched-google-adwords-of-the-deepweb/">advertisements</a> which will pay for ongoing security and development costs, we wish the creators all the best and we hope to see this service develop into a fully functional search engine that indexes listings in from all the existing marketplaces. This can not only save people time, it could also improve safety.</p>
+<p>Added later: <a href="/grams-search-darknet-marketplaces/">For more info about Grams and its related services visit this url.</a></p>
 
 Updated: 2014-04-08
     

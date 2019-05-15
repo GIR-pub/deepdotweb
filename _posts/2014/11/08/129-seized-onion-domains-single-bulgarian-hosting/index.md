@@ -27,9 +27,9 @@ Posted by: DeepDotWeb
 <p>The judicial part of the investigation in Europe was coordinated throughout the action day by Eurojust. Europol supported law enforcement authorities through their cybercrime unit, EC3. The action day took place in close cooperation with the US Department of Justice, the Federal Bureau of Investigation (FBI) and the Department of Homeland Security (ICE). The operation fits the objectives of <a href="/2014/09/28/itom-europes-plan-crack-online-drug-trade/">Project ITOM</a> (Illegal Trade in Online Marketplaces), an official Dutch initiative, supported by the European Union, to enhance cooperation between law enforcement and judicial authorities in an effort to hinder the development of online marketplaces.</p>
 <blockquote><p><em class="ms-rteThemeForeColor-2-2">‘<span class="ms-rteThemeForeColor-2-3">This case is a landmark in the continuing battle against cybercrime; it marks the beginning, not the end, of the pursuit of those who abuse the Internet for illegal profit,’</span></em> stated Koen Hermans, Assistant to the National Member for the Netherlands at Eurojust and leader of the coordination centre. Mr Hermans said that this case was important in showing that <em class="ms-rteThemeForeColor-2-3">‘criminals can no longer hide from the authorities. They will be tracked down and prosecuted to the full extent of the law.’</em></p></blockquote>
 <p><a href="tag/silkroad2bust/">Operation Onymous</a>: Action Day Impact: hidden services taken down:</p>
-<p><a href="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg"><img class="aligncenter size-full wp-image-8076" src="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg" alt="2014-11-07_DarknetActionDay[1]" width="620" height="206" srcset="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg 620w, /imgs/2014/11/2014-11-07_DarknetActionDay1-300x100.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></a></p>
+<p><a href="/imgs/2014/11/2014-11-07_DarknetActionDay1.jpg"/>
 <p>&nbsp;</p>
-<p><a href="/imgs/2014/11/11.jpg"><img class="aligncenter  wp-image-8070" src="/imgs/2014/11/11.jpg" alt="1[1]" width="696" height="522" srcset="/imgs/2014/11/11.jpg 958w, /imgs/2014/11/11-300x225.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" /></a></p>
+<p><a href="/imgs/2014/11/11.jpg"/>
 
 Updated: 2014-11-08
     

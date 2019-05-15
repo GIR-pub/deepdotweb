@@ -19,7 +19,7 @@ Posted by: DeepDotWeb
 <li>8 Agora 1.1%</li>
 </ul>
 <blockquote><p>&#8230;The geographical distribution of .onion requestors deviates from the Top-10 countries by directly connecting users as reported by the Tor project over the same period of time. At nearly 36%, the US is 3 times higher than reported from Tor. Other countries such as Germany, France, and Spain also di↵ered significantly, with 7.7%, 7.23% 6.17% and 4.8% respectively [12].</p></blockquote>
-<p><a href="/imgs/2014/06/geo.png"><img class="aligncenter size-full wp-image-6173" src="/imgs/2014/06/geo.png" alt="geo" width="621" height="413" srcset="/imgs/2014/06/geo.png 621w, /imgs/2014/06/geo-300x200.png 300w" sizes="(max-width: 621px) 100vw, 621px"/></a></p>
+<p><a href="/imgs/2014/06/geo.png"/>
 <p><a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> also mentioned that:</p>
 <blockquote><p>Given the time period, the table suggests that Agora may now be as popular as SR1 was before shutdown.</p></blockquote>
 <p>This is interesting data about the traffic amount an sources related to the known marketplaces.</p>

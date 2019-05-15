@@ -1,8 +1,6 @@
 ---
-FRAUDULENT PRIVATE MESSAGEs"
+title: "FRAUDULENT PRIVATE MESSAGES"
 ---
-4023
-
 
 <p>Be careful with private messages (PM) online, because one thing that comes with anonymity, is plenty of scammers.</p>
 <p>Silk Road users have been reporting supsicious and outright fraudulent messages from users posing as Moderators asking them to download files to their computers. Here is an actual message received by another member.</p>

@@ -31,8 +31,8 @@ Posted by: DeepDotWeb
 <p><strong>We just can&#8217;t conduct business this way!</strong></p>
 <p>Then you should probably not be selling illegal substances.<br />
     We are getting paid to provide a very specific service, and as we see it, the main nature of that service is anonymity and security of your money and your information. It is NEVER going to be as stable as a similar legal marketplace. Even when we fix our current issues there are still going to be situations when the market will be offline, where there will be problems, etc. In the exact same way that you can&#8217;t insure your street-corner drug enterprise, the main difference being that on the street you have to risk dealing with LE directly, and here you shift most of that risk to us and accept getting hit with some market downtime or bugs caused by our security protocols.</p></blockquote>
-<p><a href="/imgs/2014/09/agora-Downtimes.png"><img class="aligncenter  wp-image-6926" src="/imgs/2014/09/agora-Downtimes.png" alt="agora-Downtimes1" width="749" height="536" srcset="/imgs/2014/09/agora-Downtimes.png 1152w, /imgs/2014/09/agora-Downtimes-300x215.png 300w, /imgs/2014/09/agora-Downtimes-1024x733.png 1024w" sizes="(max-width: 749px) 100vw, 749px" /></a></p>
-<p><a href="/imgs/2014/09/agora-Downtimes2.png"><img class="aligncenter  wp-image-6927" src="/imgs/2014/09/agora-Downtimes2.png" alt="agora-Downtimes2" width="702" height="409" srcset="/imgs/2014/09/agora-Downtimes2.png 1148w, /imgs/2014/09/agora-Downtimes2-300x175.png 300w, /imgs/2014/09/agora-Downtimes2-1024x597.png 1024w" sizes="(max-width: 702px) 100vw, 702px" /></a></p>
+<p><a href="/imgs/2014/09/agora-Downtimes.png"/>
+<p><a href="/imgs/2014/09/agora-Downtimes2.png"/>
 <p>From now on we will provide this post as an explanation every time that some one will mail us asking about the market being down.</p>
 
 Updated: 2014-09-01

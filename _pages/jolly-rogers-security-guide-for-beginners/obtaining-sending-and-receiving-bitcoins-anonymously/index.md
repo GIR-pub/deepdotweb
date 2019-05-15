@@ -1,8 +1,6 @@
 ---
-OBTAINING, SENDING AND RECEIVING BITCOINS ANONYMOUSLY
+title: "OBTAINING, SENDING AND RECEIVING BITCOINS ANONYMOUSLY"
 ---
-4092
-
 
 <p>This post was inspired by a user who posted the following on the Silk Road forums.</p>
 <div>

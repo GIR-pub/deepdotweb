@@ -2,15 +2,18 @@
 title: "Get Ready To Silk Road&#8217;s&#8230;. Newspaper?!"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 
 <p>Every time we think that we have seen just about everything we find another surprise, this time at the form of a plan to create a newspaper to report whats new on the silk road, a user under the name of &#8221; Raoul Duke &#8221; posted the following:</p>
 <p>&nbsp;</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper.jpg"><img class="aligncenter size-full wp-image-1354" alt="newspaper" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper.jpg" width="906" height="395" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper.jpg 1861w, https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper-300x131.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/newspaper-1024x447.jpg 1024w" sizes="(max-width: 906px) 100vw, 906px" /></a></p>
+
+<img src="/imgs/2013/11/newspaper.jpg"/>
 <p>The idea, which is not bad i must say, seems to have some support from real world journalists such as the forum member EileenOrmsby owner of the blog allthingsvice.com:</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/oz.jpg"><img class="aligncenter size-full wp-image-1356" alt="oz" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/oz.jpg" width="1289" height="237" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/oz.jpg 1289w, https://www.deepdotweb.com/wp-content/uploads/2013/11/oz-300x55.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/oz-1024x188.jpg 1024w" sizes="(max-width: 1289px) 100vw, 1289px" /></a></p>
+
+<img src="/imgs/2013/11/oz.jpg"/>
 <p>And of couese the much needed support from the new Dread Pirate Roberts,  the new SR Admin:</p>
-<p><a href="http://www.deepdotweb.com/wp-content/uploads/2013/11/dpr.jpg"><img class="aligncenter size-full wp-image-1357" alt="dpr" src="https://www.deepdotweb.com/wp-content/uploads/2013/11/dpr.jpg" width="1063" height="128" srcset="https://www.deepdotweb.com/wp-content/uploads/2013/11/dpr.jpg 1860w, https://www.deepdotweb.com/wp-content/uploads/2013/11/dpr-300x36.jpg 300w, https://www.deepdotweb.com/wp-content/uploads/2013/11/dpr-1024x123.jpg 1024w" sizes="(max-width: 1063px) 100vw, 1063px" /></a></p>
+
+<img src="/imgs/2013/11/dpr.jpg"/>
 <p>The reactions on Reddit were a bit less enthusiastic ranging from:</p>
 <p><em>That is going to be hilariously bad.</em></p>
 <p>to:</p>

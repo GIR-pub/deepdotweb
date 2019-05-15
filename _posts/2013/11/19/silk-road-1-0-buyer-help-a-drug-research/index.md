@@ -2,7 +2,7 @@
 title: "Silk Road 1.0 Buyer? Help a Drug Research."
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 19, 2013</span>
 
 <p>Was posted on reddit today:</p>

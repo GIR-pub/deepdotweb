@@ -2,13 +2,13 @@
 title: "Sheep Marketplace Owner just Got Doxxed?!"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 30, 2013</span>
 
 
 
-<p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">Update</span>:  Yes. Its very likely that he has been Doxxed&#8230; and hes identity is already known to the FBI &#8211; <a href="http://www.deepdotweb.com/sheep-marketplace-and-tomas-jirikovsky/" target="_blank"><span style="color: #ff0000;">Read the details Here</span></a> &#8211;  Was Originally posted by <a href="http://www.reddit.com/user/gwern" target="_blank"><span style="color: #ff0000;">Gwern</span></a> (<a href="http://www.gwern.net/" target="_blank">Gwern.net</a>) On Sr2 forums.</strong></span></p>
-<p><strong>Following the <a href="http://www.deepdotweb.com/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/" target="_blank">sheep marketplace scam</a> &#8211; Is the owner of sheep Marketplace just got Doxxed?! &#8211; we have copied the post on reddit just a second before it got deleted by reddit staff &#8211; the OP was deleted before we copied but the discussion gives all the details.</strong></p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">Update</span>:  Yes. Its very likely that he has been Doxxed&#8230; and hes identity is already known to the FBI &#8211; <a href="/sheep-marketplace-and-tomas-jirikovsky/" target="_blank"><span style="color: #ff0000;">Read the details Here</span></a> &#8211;  Was Originally posted by <a href="http://www.reddit.com/user/gwern" target="_blank"><span style="color: #ff0000;">Gwern</span></a> (<a href="http://www.gwern.net/" target="_blank">Gwern.net</a>) On Sr2 forums.</strong></span></p>
+<p><strong>Following the <a href="/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/" target="_blank">sheep marketplace scam</a> &#8211; Is the owner of sheep Marketplace just got Doxxed?! &#8211; we have copied the post on reddit just a second before it got deleted by reddit staff &#8211; the OP was deleted before we copied but the discussion gives all the details.</strong></p>
 <p>OP:</p>
 <p>I think I found coder/owner of SheepMarketplace (self.SheepMarketplace)</p>
 <p>submitted <time title="Sat Nov 30 16:57:24 2013 UTC" datetime="2013-11-30T16:57:24+00:00">1 hour</time> ago by rex-usb</p>
@@ -377,6 +377,6 @@ title: "Sheep Marketplace Owner just Got Doxxed?!"
 </div>
 </div>
 </div>
-<a href="https://www.deepdotweb.com/tag/doxxed/" rel="tag">doxxed</a> <a href="https://www.deepdotweb.com/tag/owner/" rel="tag">owner</a> <a href="https://www.deepdotweb.com/tag/sheep/" rel="tag">sheep</a>
+<a href="/tag/doxxed/" rel="tag">doxxed</a> <a href="/tag/owner/" rel="tag">owner</a> <a href="/tag/sheep/" rel="tag">sheep</a>
 
 Updated: 2013-11-30

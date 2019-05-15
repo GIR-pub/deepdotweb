@@ -22,11 +22,11 @@ Posted by: DeepDotWeb
 <strong>Utopia marketplace forums url</strong>: http://ysas7uv4drg7rlwv.onion</p>
 <p>Links are already update in our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a>, So far everything seems to be going smoothly, we will keep following and updating if we will have any news.</p>
 <p>We have taken a few screenshots from the new marketplace, within the first hours of opening the marketplace is already offering over 1200 product listing, which might hint on the fast growth that this marketplace is about to have:</p>
-<p><a href="/imgs/2014/02/1u.png"><img class="aligncenter  wp-image-3788" alt="Utopia marketplace 1" src="/imgs/2014/02/1u.png" width="575" height="395" srcset="/imgs/2014/02/1u.png 1270w, /imgs/2014/02/1u-300x207.png 300w, /imgs/2014/02/1u-1024x706.png 1024w" sizes="(max-width: 575px) 100vw, 575px" /></a></p>
+<p><a href="/imgs/2014/02/1u.png"/>
 <p>Product page:</p>
-<p><a href="/imgs/2014/02/2u.png"><img class="aligncenter  wp-image-3789" alt="Utopia marketplace 2" src="/imgs/2014/02/2u.png" width="379" height="241" srcset="/imgs/2014/02/2u.png 1255w, /imgs/2014/02/2u-300x191.png 300w, /imgs/2014/02/2u-1024x652.png 1024w" sizes="(max-width: 379px) 100vw, 379px" /></a></p>
+<p><a href="/imgs/2014/02/2u.png"/>
 <p>Category page:</p>
-<p><a href="/imgs/2014/02/3u.png"><img class="aligncenter  wp-image-3790" alt="Utopia marketplace 3" src="/imgs/2014/02/3u.png" width="542" height="344" srcset="/imgs/2014/02/3u.png 1306w, /imgs/2014/02/3u-300x191.png 300w, /imgs/2014/02/3u-1024x652.png 1024w" sizes="(max-width: 542px) 100vw, 542px" /></a></p>
+<p><a href="/imgs/2014/02/3u.png"/>
 </div>
 
 Updated: 2014-02-03

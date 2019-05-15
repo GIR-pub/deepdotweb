@@ -1,8 +1,6 @@
 ---
-How to chain socks with Tor"
+title: "How to chain socks with Tor"
 ---
-5488
-
 
 <p><strong>How to chain socks with Tor</strong></p>
 <p><strong>Written By:</strong> ?</p>

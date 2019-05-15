@@ -3,7 +3,7 @@ title: "Cypherpunk and Dark Net Marketplaces"
 ---
 
 6801  tag-cypherpunk tag-marketplaces tag-net
-Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher </a></span>
+Posted by: <a href="/author/cipher/" title="">Cipher </a></span>
 <span>September 12, 2014</span>
     
 <a href="/2014/09/12/cypherpunk-dark-net-marketplaces/#respond">Leave a comment</a></span>
@@ -24,6 +24,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/cipher/" title="">Cipher <
 <p>Which is to say that without the tradition of the cypherpunks dark web marketplaces would never have existed. Without the ‘space’ (Tor), the currency (Bitcoin), and means of secure communication (PGP) the very concept of such marketplaces would seem absurd. Can we consider such sites as positive contributions to this tradition? It is difficult to say precisely since the use of encryption for illegal activity naturally ensures that pressure will be brought upon these tools. The undermining of Tor or the potential regulation of Bitcoin can be justified, from the state perspective, on this basis. It’s an ethical dilemma since, especially in the case of Tor, its uses extend to aiding political dissidents in oppressive regimes. Nonetheless the case can be made in turn that these marketplaces reduce violence by making traditionally dangerous transactions more indirect (no more shady back-street deals). And one can safely ponder whether the war on drugs is slowly being pulled back in the face of mounting criticism (and I do mean slowly).</p>
 <p>This is why it is important to see dark web marketplaces in the wider context if we are to assess their long-term viability. If whistleblowers and coders of privacy technology represent the noble side of the cypherpunk tradition then dark net administrators represent the more risky side of this adventure into the unknown. If the deep web is the Wild West they are the cowboys. The only issue is how long they can evade the Sheriff.</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/cypherpunk/" rel="tag">cypherpunk</a> <a href="https://www.deepdotweb.com/tag/dark/" rel="tag">dark</a> <a href="https://www.deepdotweb.com/tag/marketplaces/" rel="tag">marketplaces</a> <a href="https://www.deepdotweb.com/tag/net/" rel="tag">net</a></span> 
+<a href="/tag/cypherpunk/" rel="tag">cypherpunk</a> <a href="/tag/dark/" rel="tag">dark</a> <a href="/tag/marketplaces/" rel="tag">marketplaces</a> <a href="/tag/net/" rel="tag">net</a></span> 
 Updated: 2014-09-12
     

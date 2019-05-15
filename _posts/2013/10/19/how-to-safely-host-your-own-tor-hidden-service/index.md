@@ -3,7 +3,7 @@ title: "How to Safely Host Your Own TOR Hidden Service"
 ---
 
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 19, 2013</span>
 
 

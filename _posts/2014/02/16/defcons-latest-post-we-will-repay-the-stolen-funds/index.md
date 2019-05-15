@@ -37,7 +37,7 @@ Posted by: DeepDotWeb
 <p>Again, we welcome your feedback on this approach to moving forward, and will continue to refine it throughout the year based on sales data.</p>
 <p>I don&#8217;t care how long it takes or how expensive it is, we will fight to get this community repaid.</p>
 <p><strong>===End Quote===</strong></p>
-<p><a href="/imgs/2014/02/defcon4.png"><img class="aligncenter  wp-image-4258" alt="defcon4" src="/imgs/2014/02/defcon4.png" width="929" height="510" srcset="/imgs/2014/02/defcon4.png 1387w, /imgs/2014/02/defcon4-300x165.png 300w, /imgs/2014/02/defcon4-1024x563.png 1024w" sizes="(max-width: 929px) 100vw, 929px"/></a></p>
+<p><a href="/imgs/2014/02/defcon4.png"/>
 <p>We are not here to judge, just provide the information and let everyone make their own mind about this situation, keep safe.</p>
 </div>
 

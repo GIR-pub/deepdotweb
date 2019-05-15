@@ -49,8 +49,8 @@ Posted by: DeepDotWeb
 </blockquote>
 <p>Along with the previous service we were reported about &#8211; <a href="/2014/04/08/grams-darknetmarkets-search-engine/" target="_blank">Grams</a>, the DNM search engine, this is another service that we were expecting to and we really hope to see this one develops into a widget that we will be able to embed here fully on the site.</p>
 <p>Screenshots from the service:<br/>
-<a href="/imgs/2014/04/dnstat.png"><img class="aligncenter size-full wp-image-5165" src="/imgs/2014/04/dnstat.png" alt="dnstat" width="508" height="889" srcset="/imgs/2014/04/dnstat.png 508w, /imgs/2014/04/dnstat-171x300.png 171w" sizes="(max-width: 508px) 100vw, 508px"/></a></p>
-<p><a href="/imgs/2014/04/btcfog.png"><img class="aligncenter  wp-image-5166" src="/imgs/2014/04/btcfog.png" alt="btcfog" width="771" height="459" srcset="/imgs/2014/04/btcfog.png 1501w, /imgs/2014/04/btcfog-300x179.png 300w, /imgs/2014/04/btcfog-1024x610.png 1024w" sizes="(max-width: 771px) 100vw, 771px"/></a></p>
+<a href="/imgs/2014/04/dnstat.png"/>
+<p><a href="/imgs/2014/04/btcfog.png"/>
 <p>To the developer &#8211; Thanks you! great contribution.</p>
 
 Updated: 2014-04-30

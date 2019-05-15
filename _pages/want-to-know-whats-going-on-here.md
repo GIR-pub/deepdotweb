@@ -1,36 +1,9 @@
 ---
-Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories."
+title: "Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories."
 ---
-post-2871
 
 
-<div class="wp-socializer-buttons clearfix">
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - Facebook Button -->
-<div class="fb-like" data-href="http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/" data-send="false" data-layout="button_count" data-width="80" data-show-faces="0" data-action="like" data-font="arial" data-colorscheme="light"></div>
-<!-- End WP Socializer Plugin - Facebook Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - Retweet Button -->
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal"  data-lang="en"  data-url="http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/" data-text="Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories. - "></a>
-<!-- End WP Socializer Plugin - Retweet Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - +1 Button -->
-<g:plusone size="medium" href="http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/" ></g:plusone>
-<!-- End WP Socializer Plugin - +1 Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - LinkedIn Button -->
-<script type="IN/Share" data-url="http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/" data-counter="right"></script>
-<!-- End WP Socializer Plugin - LinkedIn Button -->
-</span>
-<span class="wpsr-btn">
-<!-- Start WP Socializer Plugin - StumbleUpon Button -->
-<su:badge layout="1"></su:badge>
-<!-- End WP Socializer Plugin - StumbleUpon Button -->
-</span>
-</div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p>This was posted on the Silk Road Forums By <a title="View the profile of Hedgewitch" href="http://silkroad5v7dywlc.onion/index.php?action=profile;u=3074">Hedgewitch</a></p>
+<p>This was posted on the Silk Road Forums By <a title="View the profile of Hedgewitch" href="http://silkroad5v7dywlc.onion/index.php?action=profile;u=3074">Hedgewitch</a></p>
 <p>At this link: http://silkroad5v7dywlc.onion/index.php?topic=10943.0;topicseen<br />
 <span style="text-decoration: underline;"><strong>we copied it in case it get deleted, this is the best summary of the events so far</strong></span> &#8211; we will follow and update as the OP will be updated.</p>
 <p>There&#8217;s still a lot of confusion and misinformation going around. Here&#8217;s a run-down of what we know, particularly in light of threads mysteriously disappearing (I think we all know why they are disappearing&#8230;). The original &#8220;WARNING&#8221; thread from last night has vanished entirely, and included information from oracle, as well as some confirmation from ChemCat that what oracle said was correct.</p>
@@ -58,34 +31,6 @@ post-2871
 <p>Peace.</p>
 <h3>Share and Enjoy</h3>
 
-<!-- Start WP Socializer - Social Buttons - Output -->
-<div class="wp-socializer 32px">
-<ul class="wp-socializer-opacity columns-no">
-<li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.deepdotweb.com%2Fwant-to-know-whats-going-on-heres-what-we-know-facts-and-theories%2F&amp;t=Want+to+know+what%26%238217%3Bs+going+on%3F+Here%26%238217%3Bs+what+we+know.+Facts+and+Theories." title="Share this on Facebook" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -330px; border:0;"/></a></li>
+Updated: 2013-12-23
 
-<li><a href="http://twitter.com/home?status=Want+to+know+what%26%238217%3Bs+going+on%3F+Here%26%238217%3Bs+what+we+know.+Facts+and+Theories.%20-%20http%3A%2F%2Fwww.deepdotweb.com%2Fwant-to-know-whats-going-on-heres-what-we-know-facts-and-theories%2F%20" title="Tweet this !" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-
-<li><a href="http://delicious.com/post?url=http%3A%2F%2Fwww.deepdotweb.com%2Fwant-to-know-whats-going-on-heres-what-we-know-facts-and-theories%2F&amp;title=Want+to+know+what%26%238217%3Bs+going+on%3F+Here%26%238217%3Bs+what+we+know.+Facts+and+Theories.&amp;notes=This+was+posted+on+the+Silk+Road+Forums+By+Hedgewitch%0D%0A%0D%0AAt+this+link%3A+http%3A%2F%2Fsilkroad5v7dywlc.onion%2Findex.php%3Ftopic%3D10943.0%3Btopicseen%0D%0Awe+copied+it+in+case+it+get+deleted%2C+this+is+the+best+summary+of+the+events+so+far+-+we+will+follow+and+update+as" title="Post this on Delicious" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.deepdotweb.com%2Fwant-to-know-whats-going-on-heres-what-we-know-facts-and-theories%2F&amp;title=Want+to+know+what%26%238217%3Bs+going+on%3F+Here%26%238217%3Bs+what+we+know.+Facts+and+Theories.&amp;source=Deep+Dot+Web+-+Meme+and+News+From+the+Other+side+of+the+Web&amp;summary=This+was+posted+on+the+Silk+Road+Forums+By+Hedgewitch%0D%0A%0D%0AAt+this+link%3A+http%3A%2F%2Fsilkroad5v7dywlc.onion%2Findex.php%3Ftopic%3D10943.0%3Btopicseen%0D%0Awe+copied+it+in+case+it+get+deleted%2C+this+is+the+best+summary+of+the+events+so+far+-+we+will+follow+and+update+as" title="Share this on LinkedIn" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-
-<li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.deepdotweb.com%2Fwant-to-know-whats-going-on-heres-what-we-know-facts-and-theories%2F&amp;title=Want+to+know+what%26%238217%3Bs+going+on%3F+Here%26%238217%3Bs+what+we+know.+Facts+and+Theories." title="Submit this to StumbleUpon" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-
-<li><a href="http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/" onclick="addBookmark(event);" title="Add to favorites" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-
-<li><a href="mailto:?to=&subject=Want+to+know+what%26%238217%3Bs+going+on%3F+Here%26%238217%3Bs+what+we+know.+Facts+and+Theories.&body=This+was+posted+on+the+Silk+Road+Forums+By+Hedgewitch%0D%0A%0D%0AAt+this+link%3A+http%3A%2F%2Fsilkroad5v7dywlc.onion%2Findex.php%3Ftopic%3D10943.0%3Btopicseen%0D%0Awe+copied+it+in+case+it+get+deleted%2C+this+is+the+best+summary+of+the+events+so+far+-+we+will+follow+and+update+as%20-%20http://www.deepdotweb.com/want-to-know-whats-going-on-heres-what-we-know-facts-and-theories/" title="Email this" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-
-<li><a href="http://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-</ul>
-<div class="wp-socializer-clearer"></div></div>
-<!-- End WP Socializer - Social Buttons - Output -->
-
-
-</div><!-- .entry /-->
-
-Updated: 2013-12-23</span>
-<a href="http://www.deepdotweb.com/author/admin/" title="Posts by admin" rel="author">admin</a></strong></div>
-
-</div><!-- .post-inner -->
-</article><!-- .-->
 

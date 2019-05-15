@@ -1,8 +1,9 @@
-11883
-<div class="post-inner entry" style="padding: 25px;max-width: none;">
-<p style="text-align: center;"><a href="https://bitcoincasinos.reviews/" target="_blank">&gt;&gt; Click Here for the best Bitcoin Casinos + Exclusive promo codes! &lt;&lt;</a></p>
-<p><strong>Dark Net Markets Comparison Chart</strong> &#8211; This chart integrates marketplace data with our <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Dark Net Markets List</a> ratings, along with uptime status data provided by our monitoring system and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain <strong>all</strong> dark net markets, only the established dark web markets. For the full list of dark net markets, visit the <a href="http://www.deepdotweb.com/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="http://www.deepdotweb.com/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>ATTENTION</strong></span>: For maximum privacy while on the DarkWeb be sure to use a <a href="https://www.deepdotweb.com/vpn-comparison-chart/">VPN</a> with Tor. This simple software app can save your ass big time. <a href="https://www.deepdotweb.com/vpn-comparison-chart/">Click here to see the best VPN’s</a>.</p>
+---
+title: "Dark Net Markets Comparison Chart 2015"
+---
+
+&#8211; This chart integrates marketplace data with our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Dark Net Markets List</a> ratings, along with uptime status data provided by our monitoring system and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain <strong>all</strong> dark net markets, only the established dark web markets. For the full list of dark net markets, visit the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>ATTENTION</strong></span>: For maximum privacy while on the DarkWeb be sure to use a <a href="/vpn-comparison-chart/">VPN</a> with Tor. This simple software app can save your ass big time. <a href="/vpn-comparison-chart/">Click here to see the best VPN’s</a>.</p>
 <div class="tableCon"><style>
 @media ( max-width: 400px ) {
 .hideMobile {
@@ -81,7 +82,7 @@ min-width: 50px!important;
 <td class="    chart-col-22">
 <div align="left">
 <div style="display:none;">2</div>
-<span title="UP"><a href="https://www.deepdotweb.com/marketplace-directory/listing/dream-market/" target="_blank">Dream Market</a></span></div>
+<span title="UP"><a href="#">Dream Market</a></span></div>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat ok">
@@ -141,7 +142,7 @@ min-width: 50px!important;
 </tr>
 <tr class="chart-row-351 row-2 ">
 <td class="    chart-col-22">
-<p><a href="https://www.deepdotweb.com/marketplace-directory/listing/wall-street-market/">Wall Street Market</a></p>
+<p><a href="#">Wall Street Market</a></p>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat ok">
@@ -195,7 +196,7 @@ min-width: 50px!important;
 </tr>
 <tr class="chart-row-26 row-3 ">
 <td class="    chart-col-22">
-<p><a href="https://www.deepdotweb.com/marketplace-directory/listing/t%E2%80%A2chka-free-market/" target="" title="">Tochka</a></p>
+<p><a href="#">Tochka</a></p>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat bad">
@@ -255,7 +256,7 @@ min-width: 50px!important;
 </tr>
 <tr class="chart-row-15 row-4 ">
 <td class="    chart-col-22">
-<p><span title="UP"><a href="https://www.deepdotweb.com/marketplace-directory/listing/the-majestic-garden/" target="_blank">The Majestic Garden</a></span></p>
+<p><span title="UP"><a href="#">The Majestic Garden</a></span></p>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat ok">
@@ -315,7 +316,7 @@ http://talismanrestz7mr.onion/
 </tr>
 <tr class="chart-row-492 row-5 ">
 <td class="    chart-col-22">
-<p><a href="https://www.deepdotweb.com/marketplace-directory/listing/cgmc-cannabis-growers-merchants-cooperative/">CGMC</a></p>
+<p><a href="#">CGMC</a></p>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat ok">
@@ -330,10 +331,10 @@ http://cgmcoopwhempo6a5.onion/
 <p style="text-align: center;">Invite Only</p>
 </td>
 <td class="    chart-col-27">
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
 </td>
 <td class="    chart-col-28">
-<div align="center"><a href="https://www.deepdotweb.com/wp-content/uploads/2014/11/no-warning.png"><img align="none" alt="" height="22" src="/imgs/2014/11/no-warning.png" width="22" /></a></div>
+<div align="center"><a href="/wp-content/uploads/2014/11/no-warning.png"><img align="none" alt="" height="22" src="/imgs/2014/11/no-warning.png" width="22" /></a></div>
 </td>
 <td class="    chart-col-29">
 <p style="text-align: center;">None</p>
@@ -345,10 +346,10 @@ http://cgmcoopwhempo6a5.onion/
 <p style="text-align: center;">None</p>
 </td>
 <td class="    chart-col-32">
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
 </td>
 <td class="    chart-col-33">
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2014/11/yes.png"><img align="none" alt="" src="/imgs/2014/11/yes.png" /></a></p>
 </td>
 <td class="    chart-col-34">
 <p style="text-align: center;">No</p>
@@ -369,7 +370,7 @@ http://cgmcoopwhempo6a5.onion/
 </tr>
 <tr class="chart-row-577 row-6 ">
 <td class="    chart-col-22">
-<p><a href="https://www.deepdotweb.com/marketplace-directory/listing/berlusconi-market/">Berlusconi Market</a></p>
+<p><a href="#">Berlusconi Market</a></p>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat ok">
@@ -423,7 +424,7 @@ http://hky3mzk3jtmd4zt4.onion/
 </tr>
 <tr class="chart-row-601 row-7 ">
 <td class="    chart-col-22">
-<p style="text-align: left;"><a href="https://www.deepdotweb.com/marketplace-directory/listing/cannazon/">Cannazon</a></p>
+<p style="text-align: left;"><a href="#">Cannazon</a></p>
 </td>
 <td class="    chart-col-24">
 <div class="torlink-stat ok">

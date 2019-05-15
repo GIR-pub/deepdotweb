@@ -1,7 +1,6 @@
 ---
-PGP/GPG Email Addresses"
+title: "PGP/GPG Email Addresses"
 ---
-4109
 
 
 <p>This post was created by <strong>HonoluluExpress</strong> and posted at the following page and I have decided to add it to my security thread with his permission. The rest of the post is written in his words.</p>

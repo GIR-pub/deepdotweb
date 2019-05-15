@@ -2,10 +2,10 @@
 title: "Silk Road tales and archives"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>November 1, 2013</span>
 
-<span><a href="https://www.deepdotweb.com/2013/11/01/silk-road-tales-and-archives/#respond">Leave a comment</a></span>
+<span><a href="/2013/11/01/silk-road-tales-and-archives/#respond">Leave a comment</a></span>
 
 
 <p><strong>I have no idea who created this,  but its one amazing work putting all the pieces together of the silk road timeline &#8211; You can bet its much better than the infographics:</strong></p>

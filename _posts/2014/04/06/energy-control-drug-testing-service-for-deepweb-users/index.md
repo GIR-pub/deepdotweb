@@ -34,15 +34,15 @@ Posted by: DeepDotWeb
 <p>You can find more information here:</p>
 <p>http://energycontrol.org/noticias/528-international.html</p>
 <p>Energy Control:<br />
-<a href="/imgs/2014/04/energy_control.jpg"><img class="aligncenter size-full wp-image-4893" alt="energy_control" src="/imgs/2014/04/energy_control.jpg" width="310" height="225" srcset="/imgs/2014/04/energy_control.jpg 310w, /imgs/2014/04/energy_control-300x218.jpg 300w" sizes="(max-width: 310px) 100vw, 310px" /></a><br />
+<a href="/imgs/2014/04/energy_control.jpg"/>
     Drug Testing Results Page:<br />
-<a href="/imgs/2014/04/Sin-título.jpg"><img class="aligncenter  wp-image-4897" alt="Sin título" src="/imgs/2014/04/Sin-título.jpg" width="660" height="417" srcset="/imgs/2014/04/Sin-título.jpg 1369w, /imgs/2014/04/Sin-título-300x190.jpg 300w, /imgs/2014/04/Sin-título-1024x649.jpg 1024w" sizes="(max-width: 660px) 100vw, 660px" /></a><br />
+<a href="/imgs/2014/04/Sin-título.jpg"/>
     Drugs testing Process:<br />
-<a href="/imgs/2014/04/resultados_analisis.jpg"><img class="aligncenter size-full wp-image-4896" alt="resultados_analisis" src="/imgs/2014/04/resultados_analisis.jpg" width="490" height="408" srcset="/imgs/2014/04/resultados_analisis.jpg 490w, /imgs/2014/04/resultados_analisis-300x250.jpg 300w" sizes="(max-width: 490px) 100vw, 490px" /></a><br />
+<a href="/imgs/2014/04/resultados_analisis.jpg"/>
     Drugs testing Process:<br />
-<a href="/imgs/2014/04/presentacion_analisis.jpg"><img class="aligncenter size-full wp-image-4895" alt="presentacion_analisis" src="/imgs/2014/04/presentacion_analisis.jpg" width="490" height="408" srcset="/imgs/2014/04/presentacion_analisis.jpg 490w, /imgs/2014/04/presentacion_analisis-300x250.jpg 300w" sizes="(max-width: 490px) 100vw, 490px" /></a><br />
+<a href="/imgs/2014/04/presentacion_analisis.jpg"/>
     Drugs testing Process:<br />
-<a href="/imgs/2014/04/matraces.png"><img class="aligncenter size-full wp-image-4894" alt="matraces" src="/imgs/2014/04/matraces.png" width="571" height="429" srcset="/imgs/2014/04/matraces.png 571w, /imgs/2014/04/matraces-300x225.png 300w" sizes="(max-width: 571px) 100vw, 571px" /></a></p>
+<a href="/imgs/2014/04/matraces.png"/>
 
 Updated: 2014-04-06
     

@@ -1,11 +1,11 @@
 ---
-HOW TO CONNECT TO TOR OVER TOP OF TOr"
+title: "HOW TO CONNECT TO TOR OVER TOP OF TOr"
 ---
 4042
 
 
 <p>Here is another fun tip that may or may not interest you, but I figured I would throw it in for you anyways.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Attention: Use VPN with Tor! Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
 <p>I figured this out while trying to figure out an effective way to do a TOR -&gt; VPN connection. You can do TOR -&gt; TOR connection with Tails by using a program called <strong>Tortilla</strong>, thus adding another layer for your adversaries to crack. Whether or not this is worth it, is completely up to you, but I am sharing in case it is something you want to do. This however currently only works for those using Windows because it was designed to be used by Windows users. Please note as well that this will noticeably slow down your connection since you are going through TOR twice. Here is the official homepage of Tortilla.</p>
 <p>https://github.com/CrowdStrike/Tortilla</p>
 <p>And the official download page for the prebuilt standalone exe below. There is a link to it on the home page if you do not trust me.</p>

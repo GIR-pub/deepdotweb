@@ -8,10 +8,10 @@ Posted by: DeepDotWeb
 
 <p><strong>All new posts regarding this ongoing case will be in this <a href="tag/silkroad2bust/">Silk Road 2 bust Tag</a></strong></p>
 <p>Along with the Seized Silk Road 2 market &#8211; Another 2 Markets were confirmed as seized &#8211; Hydra &amp; Cloud 9 Marketplaces:<br />
-<a href="/imgs/2014/11/hydra.png"><img class="aligncenter size-full wp-image-7999" src="/imgs/2014/11/hydra.png" alt="hydra" width="1273" height="875" srcset="/imgs/2014/11/hydra.png 1273w, /imgs/2014/11/hydra-300x206.png 300w, /imgs/2014/11/hydra-1024x704.png 1024w" sizes="(max-width: 1273px) 100vw, 1273px" /></a></p>
-<p><a href="/imgs/2014/11/cloud9.png"><img class="aligncenter size-full wp-image-8005" src="/imgs/2014/11/cloud9.png" alt="cloud9" width="1250" height="858" srcset="/imgs/2014/11/cloud9.png 1250w, /imgs/2014/11/cloud9-300x206.png 300w, /imgs/2014/11/cloud9-1024x703.png 1024w" sizes="(max-width: 1250px) 100vw, 1250px" /></a></p>
+<a href="/imgs/2014/11/hydra.png"/>
+<p><a href="/imgs/2014/11/cloud9.png"/>
 <p>Cloud 9 admin, <a href="http://www.reddit.com/user/missy76">missy76 </a> seems to free,  as she logged into Reddit and posted a message confirming that one of her servers got seized:</p>
-<p><a href="/imgs/2014/11/missy.png"><img class="aligncenter size-full wp-image-8043" src="/imgs/2014/11/missy.png" alt="missy" width="730" height="69" srcset="/imgs/2014/11/missy.png 730w, /imgs/2014/11/missy-300x28.png 300w" sizes="(max-width: 730px) 100vw, 730px" /></a></p>
+<p><a href="/imgs/2014/11/missy.png"/>
 <ul>
 <li><span style="color: #ff0000;">Hydra 14:52 – Confirmed Seized</span></li>
 <li><span style="color: #ff0000;">Cloud 9 15:07 – Confirmed Seized</span></li>
@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
 </ul>
 <p>&nbsp;</p>
 <p>Who Will be next?</p>
-<p><a href="/imgs/2014/11/down.png"><img class="aligncenter size-full wp-image-7977" src="/imgs/2014/11/down.png" alt="down" width="330" height="447" srcset="/imgs/2014/11/down.png 330w, /imgs/2014/11/down-221x300.png 221w" sizes="(max-width: 330px) 100vw, 330px" /></a></p>
+<p><a href="/imgs/2014/11/down.png"/>
     
 
 Updated: 2014-11-06

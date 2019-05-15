@@ -1,7 +1,6 @@
 ---
-A FEW RECOMMENDATIONs"
+title: "A FEW RECOMMENDATIONS"
 ---
-4103
 
 <p>Here are a few recommendations that may slip by the average user on these forums.</p>
 <p>1. <strong>Never leave your computer that you use for your freedom fighting unattended.</strong><br/>

@@ -43,15 +43,15 @@ Posted by: DeepDotWeb
     avg. feedback: 4.9854</p>
 <p><strong>===End Quote===</strong></p>
 <p>This chart Showing the most rated vendors on Silk Road (the ones who had the most sales):</p>
-<p><a href="/imgs/2014/02/rated1.png"><img class="aligncenter  wp-image-4274" alt="rated" src="/imgs/2014/02/rated1.png" width="881" height="440" srcset="/imgs/2014/02/rated1.png 1321w, /imgs/2014/02/rated1-300x150.png 300w, /imgs/2014/02/rated1-1024x512.png 1024w, /imgs/2014/02/rated1-660x330.png 660w, /imgs/2014/02/rated1-995x498.png 995w" sizes="(max-width: 881px) 100vw, 881px"/></a></p>
+<p><a href="/imgs/2014/02/rated1.png"/>
 <p>Top Rated Vendors (Vendors with best feedback):</p>
-<p><a href="/imgs/2014/02/toprated1.png"><img class="aligncenter  wp-image-4276" alt="toprated" src="/imgs/2014/02/toprated1.png" width="665" height="319" srcset="/imgs/2014/02/toprated1.png 1412w, /imgs/2014/02/toprated1-300x144.png 300w, /imgs/2014/02/toprated1-1024x492.png 1024w" sizes="(max-width: 665px) 100vw, 665px"/></a></p>
+<p><a href="/imgs/2014/02/toprated1.png"/>
 <p>Most rated items on Silk Road (best sellers):</p>
-<p><a href="/imgs/2014/02/best-sellers1.png"><img class="aligncenter  wp-image-4277" alt="best sellers" src="/imgs/2014/02/best-sellers1.png" width="810" height="394" srcset="/imgs/2014/02/best-sellers1.png 1362w, /imgs/2014/02/best-sellers1-300x146.png 300w, /imgs/2014/02/best-sellers1-1024x498.png 1024w" sizes="(max-width: 810px) 100vw, 810px"/></a></p>
+<p><a href="/imgs/2014/02/best-sellers1.png"/>
 <p>Top Rated Items On Silk Road (Items with best feedback):</p>
-<p><a href="/imgs/2014/02/TopRateditems1.png"><img class="aligncenter  wp-image-4279" alt="TopRateditems" src="/imgs/2014/02/TopRateditems1.png" width="802" height="413" srcset="/imgs/2014/02/TopRateditems1.png 1412w, /imgs/2014/02/TopRateditems1-300x155.png 300w, /imgs/2014/02/TopRateditems1-1024x528.png 1024w" sizes="(max-width: 802px) 100vw, 802px"/></a></p>
+<p><a href="/imgs/2014/02/TopRateditems1.png"/>
 <p>Oldest Vendors:</p>
-<p><a href="/imgs/2014/02/oldestvendors1.png"><img class="aligncenter  wp-image-4278" alt="oldestvendors" src="/imgs/2014/02/oldestvendors1.png" width="849" height="428" srcset="/imgs/2014/02/oldestvendors1.png 1324w, /imgs/2014/02/oldestvendors1-300x151.png 300w, /imgs/2014/02/oldestvendors1-1024x517.png 1024w" sizes="(max-width: 849px) 100vw, 849px"/></a></p>
+<p><a href="/imgs/2014/02/oldestvendors1.png"/>
 <p>There are pages and pages of data on this onion domain, its a very interesting insight to the most popular drugs being sold online.</p>
 
 Updated: 2014-02-16

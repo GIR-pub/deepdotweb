@@ -22,7 +22,7 @@ Posted by: DeepDotWeb
 <p>Sites like this one mentioned in this article make the child pornography “industry” even worse than it would be otherwise, because they provide an incentive for expanding the production of child pornography. According to our source, people are already capitalizing on this incentive; there are already live campaigns on this site that are being funded.</p>
 <p>Here is a screenshot of the site, provided to us by our source, with the site&#8217;s details redacted:</p>
 <p>&nbsp;</p>
-<p><a href="/imgs/2014/11/pff1.png"><img class="aligncenter  wp-image-8119" src="/imgs/2014/11/pff1.png" alt="pff" width="804" height="578" srcset="/imgs/2014/11/pff1.png 1185w, /imgs/2014/11/pff1-300x216.png 300w, /imgs/2014/11/pff1-1024x736.png 1024w" sizes="(max-width: 804px) 100vw, 804px" /></a></p>
+<p><a href="/imgs/2014/11/pff1.png"/>
 <p>So LE, Now that all these horrifying Silk-Roadian-Market Sites are down (Ok not all of them, just few), Lets see how fast you could take this one down along with the others. Ready? Go.</p>
 <p>&#8212;&#8211;</p>
 <p><span style="text-decoration: underline;"><strong>Update &#8211; On November 29, 2014, the site displayed this message from the owner, and was later taken down by its owner:</strong></span></p>

@@ -3,7 +3,7 @@ title: "Perspectives of Bitcoin Valuation"
 ---
 
 
-Posted by: <a href="https://www.deepdotweb.com/author/nostradammit/" title="">Nostradammit </a></span>
+Posted by: <a href="/author/nostradammit/" title="">Nostradammit </a></span>
 <span>May 22, 2014</span>
 
 <p>Starting in 2011, Bitcoin’s drastic increase in value led what tended to be an amateur group of crypto-currency enthusiasts to wade into the unchartered waters of currency speculation. An entirely new ecosystem of forums, exchanges, startups and “whales” began to emerge as new fortunes were made and anecdotes of the latest millionaire who rediscovered a two-year-old hard drive were posted online. New speculators began educating themselves on everything from currency valuation to technical analysis. Forums became flooded with posts about double tops, new bottoms, trend lines, and bubbles by rank amateurs and legitimately experienced traders. All of the new entrants were desperately trying to answer the same two questions: Where will the Bitcoin price go next and what is its true value?</p>

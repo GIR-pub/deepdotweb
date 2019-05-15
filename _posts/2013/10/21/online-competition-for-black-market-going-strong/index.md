@@ -2,7 +2,7 @@
 title: "Online competition for black market going strong"
 ---
 
-<span>Posted by: <a href="https://www.deepdotweb.com/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
 <span>October 21, 2013</span>
 
 

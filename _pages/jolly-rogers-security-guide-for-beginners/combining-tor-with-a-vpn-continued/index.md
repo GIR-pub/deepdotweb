@@ -1,5 +1,5 @@
 ---
-COMBINING TOR WITH A VPN CONTINUEd"
+title: "COMBINING TOR WITH A VPN CONTINUEd"
 ---
 4007
 
@@ -7,7 +7,7 @@ COMBINING TOR WITH A VPN CONTINUEd"
 
 <p>Ok, now let us talk about why you may want to connect to a VPN over TOR.</p>
 <p>The data flow would look like this. You -&gt; Tor -&gt; VPN -&gt; Internet</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Be sure to use a VPN with Tor. Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Be sure to use a VPN with Tor. Click here to see the best VPN’s&lt;&lt;&lt;</a></p>
 <p>The benefits of doing that are as follows. You are more anonymous to your VPN in case they happen to keep logs, or if you do something using the VPN that you are not supposed to and a website or server grabs your VPN IP address. In the case of this happening, even if the VPN manages to keep logs of everything you do, they can only identify you as an anonymous TOR user as long as you did not purchase the service like an idiot with your credit card or Paypal account. If you use Bitcoin, and made sure the the Bitcoin trail is not easily traceable you should be okay. Some websites block TOR users from connecting to their websites or servers, by using your VPN to appear as the exit node, you are hiding your TOR activity from the website you are visiting and hopefully bypassing their filters.</p>
 <p>Another advantage, is that if your VPN connection does drop, your fall back will be your TOR IP address instead of your real IP address. And finally, if you are passing through a compromised TOR exit node, your information will remain encrypted through the VPN&#8217;s encryption protocol until it reaches the exit node of the VPN. This is a good thing if you are passing through a compromised exit node, but do not forget that the VPN could be logging everything you are doing anyways. <strong>Do not trust anybody who has access to your unecrypted data!</strong></p>
 <p>A few of the downsides of doing things this way, as mentioned in the previous post are that your ISP knows you are using TOR, when and for how long. This may or may not matter to you, but it is just something to consider. Second, you will be unable to visit hidden services websites. Remember those <strong>.onion</strong> sites we talked about in the beginning? You need to be connected to the TOR network to visit those hidden service websites.</p>
@@ -27,14 +27,11 @@ https://www.startpage.com</p>
 <p>Connecting to a VPN over TOR is a more tricky and currently above my skill set since OpenVPN reconfigures your network routes so Tor can&#8217;t be running on the same host. As soon as I figure it out, I will post a tutorial, and if anybody can share an easy way to connect a VPN over TOR, then please share it with this thread.</p>
 <p><strong>UPDATE</strong></p>
 <p>A method of connecting to a VPN over TOR has been added to this thread but is currently only able to be used by Windows users. You can read it about it at the link below.</p>
-<p><a href="http://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/connecting-tor-vpn-for-windows-users/"><strong>CONNECTING TOR -&gt; VPN FOR WINDOWS USERS</strong></a></p>
+<p><a href="/jolly-rogers-security-guide-for-beginners/connecting-tor-vpn-for-windows-users/"><strong>CONNECTING TOR -&gt; VPN FOR WINDOWS USERS</strong></a></p>
 
 
-</div><!-- .entry /-->
 
 Updated: 2014-02-12</span>
 
 
-</div><!-- .post-inner -->
-</article><!-- .-->
 

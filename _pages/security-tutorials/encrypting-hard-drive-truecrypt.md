@@ -1,35 +1,9 @@
 ---
-Encrypting Your Hard Drive With Truecrypt
+title: "Encrypting Your Hard Drive With Truecrypt"
 ---
-post-5486
 
 
-<div class="wp-socializer-buttons clearfix">
-<span class="wpsr-btn">
 
-<div class="fb-like" data-href="http://www.deepdotweb.com/security-tutorials/encrypting-hard-drive-truecrypt/" data-share="false" data-layout="button_count" data-show-faces="0" data-action="like" data-colorscheme="light"></div>
-
-</span>
-<span class="wpsr-btn">
-
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en" data-url="http://www.deepdotweb.com/security-tutorials/encrypting-hard-drive-truecrypt/" data-text="Encrypting Your Hard Drive With Truecrypt - "></a>
-
-</span>
-<span class="wpsr-btn">
-
-<div class="g-plusone" data-size="medium" data-href="http://www.deepdotweb.com/security-tutorials/encrypting-hard-drive-truecrypt/"></div>
-
-</span>
-<span class="wpsr-btn">
-
-<script type="IN/Share" data-url="http://www.deepdotweb.com/security-tutorials/encrypting-hard-drive-truecrypt/" data-counter="right"></script>
-
-</span>
-<span class="wpsr-btn">
-
-<su:badge layout="1"></su:badge>
-
-</span>
 </div><span class="wpsr_floatbts_anchor" data-offset="25"></span><p><span style="color: #ff0000;"> WARNING: Using TrueCrypt is not secure as it may contain unfixed security issues</span></p>
 <p><strong>Written By:</strong> Verto, Owner of Evolution Market</p>
 <p><strong>Introduction</strong></p>
@@ -171,21 +145,9 @@ a hidden volume, both volumes are contained in a single file. There are not two 
 <p>Once you have copied files/folders into the hidden volume, do NOT touch the files or folders in the outer volume anymore. Remember that both volumes occupy the same single file, and therefore changing the outer volume can damage the hidden volume. Once you have copied files/folders into the outer volume during the installation process, that is the last time you should do so. From that point forward, use ONLY the hidden volume. The outer volume exists only as a decoy if you need it.</p>
 <h3>Share and Enjoy</h3>
 
-<div class="wp-socializer 32px">
-<ul class="wp-socializer-opacity columns-no">
-<li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fencrypting-hard-drive-truecrypt%2F&amp;t=Encrypting+Your+Hard+Drive+With+Truecrypt" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Facebook" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -330px; border:0;"/></a></li>
-<li><a href="http://twitter.com/home?status=Encrypting+Your+Hard+Drive+With+Truecrypt%20-%20http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fencrypting-hard-drive-truecrypt%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Twitter" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1386px; border:0;"/></a></li>
-<li><a href="http://delicious.com/post?url=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fencrypting-hard-drive-truecrypt%2F&amp;title=Encrypting+Your+Hard+Drive+With+Truecrypt&amp;notes=WARNING%3A+Using+TrueCrypt+is+not+secure+as+it+may+contain+unfixed+security+issues%0D%0A%0D%0AWritten+By%3A+Verto%2C+Owner+of+Evolution+Market%0D%0A%0D%0AIntroduction%0D%0A%0D%0AIf+you+save+anything+on+your+computer%2C+it+is+likely+that+you+do+not+want+just+anyone+to+be+able+to+se" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Delicious" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -132px; border:0;"/></a></li>
-<li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fencrypting-hard-drive-truecrypt%2F&amp;title=Encrypting+Your+Hard+Drive+With+Truecrypt&amp;source=Deep+Dot+Web+-+Meme+and+News+From+the+Other+side+of+the+Web&amp;summary=WARNING%3A+Using+TrueCrypt+is+not+secure+as+it+may+contain+unfixed+security+issues%0D%0A%0D%0AWritten+By%3A+Verto%2C+Owner+of+Evolution+Market%0D%0A%0D%0AIntroduction%0D%0A%0D%0AIf+you+save+anything+on+your+computer%2C+it+is+likely+that+you+do+not+want+just+anyone+to+be+able+to+se" title="Share this on LinkedIn" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="LinkedIn" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -693px; border:0;"/></a></li>
-<li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.deepdotweb.com%2Fsecurity-tutorials%2Fencrypting-hard-drive-truecrypt%2F&amp;title=Encrypting+Your+Hard+Drive+With+Truecrypt" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="StumbleUpon" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1287px; border:0;"/></a></li>
-<li><a href="http://www.deepdotweb.com/security-tutorials/encrypting-hard-drive-truecrypt/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Add to favorites" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -0px; border:0;"/></a></li>
-<li><a href="/cdn-cgi/l/email-protection#96a9e2f9abb0e5e3f4fcf3f5e2abd3f8f5e4efe6e2fff8f1bdcff9e3e4bddef7e4f2bdd2e4ffe0f3bdc1ffe2febdc2e4e3f3f5e4efe6e2b0f4f9f2efabc1d7c4d8dfXNG%3A+Using+TrueCrypt+is+not+secure+as+it+may+contain+unfixed+security+issues%0D%0A%0D%0AWritten+By%3A+Verto%2C+Owner+of+Evolution+Market%0D%0A%0D%0AIntroduction%0D%0A%0D%0AIf+you+save+anything+on+your+computer%2C+it+is+likely+that+you+do+not+want+just+anyone+to+be+able+to+se%20-%20http://www.deepdotweb.com/security-tutorials/encrypting-hard-drive-truecrypt/" title="Email this" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="Email" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -297px; border:0;"/></a></li>
-<li><a href="http://www.deepdotweb.com/feed/rss/" title="Subscribe to RSS" target="_blank" rel="nofollow"><img src="http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-32px.gif" alt="RSS" style="width:32px; height:32px; background: transparent url(http://www.deepdotweb.com/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-32px.png?v1) no-repeat; background-position:0px -1221px; border:0;"/></a></li>
-</ul>
-<div class="wp-socializer-clearer"></div></div>
 
 
-Updated: 2014-05-11</span>
-<a href="http://www.deepdotweb.com/author/admin/" title="Posts by DeepDotWeb" rel="author">DeepDotWeb</a></strong></div>
+
+Updated: 2014-05-11
 
 

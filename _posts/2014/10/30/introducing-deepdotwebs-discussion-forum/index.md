@@ -26,7 +26,7 @@ Posted by: DeepDotWeb
 <h2 style="text-align: center;"><strong><a href="forum/" target="_blank"><span style="color: #ff0000;">Click Here To Join!</span></a></strong></h2>
 <p style="text-align: center;">(Since the forum is new please report any bugs)</p>
 <p style="text-align: center;"><span style="text-decoration: underline;">Please keep in mind that buying or selling ANYTHING is strictly prohibited and any attempt to do so will result in a ban.</span></p>
-<p style="text-align: center;"><a href="/imgs/2014/10/forum.png"><img class="aligncenter  wp-image-7917" src="/imgs/2014/10/forum.png" alt="forum" width="775" height="415" srcset="/imgs/2014/10/forum.png 1538w, /imgs/2014/10/forum-300x161.png 300w, /imgs/2014/10/forum-1024x549.png 1024w" sizes="(max-width: 775px) 100vw, 775px" /></a></p>
+<p style="text-align: center;"><a href="/imgs/2014/10/forum.png"/>
 
 Updated: 2014-10-30
     

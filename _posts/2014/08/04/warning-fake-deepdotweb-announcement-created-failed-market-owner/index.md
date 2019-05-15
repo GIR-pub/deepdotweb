@@ -14,9 +14,9 @@ Posted by: DeepDotWeb
 <p class="post-box-title">Hopefully this time they fail before even launching anything, since this time:</p>
 <ul>
 <li>They will be using scraped fake pages with similar look to pages on this site, to gain credibility before their planned launch:
-<div id="attachment_6699" style="width: 861px" class="wp-caption aligncenter"><a href="/imgs/2014/08/screengrab.png"><img class="wp-image-6699" src="/imgs/2014/08/screengrab.png" alt="screengrab" width="851" height="473" srcset="/imgs/2014/08/screengrab.png 1462w, /imgs/2014/08/screengrab-300x167.png 300w, /imgs/2014/08/screengrab-1024x569.png 1024w" sizes="(max-width: 851px) 100vw, 851px"/></a><p class="wp-caption-text"><strong>Screen shot of the page designed to look like a page from our site &#8211; hosted on a domain with a resembling name.</strong></p></div></li>
+<div id="attachment_6699" style="width: 861px" class="wp-caption aligncenter"><a href="/imgs/2014/08/screengrab.png"/>
 <li>They will post fake reviews:
-<div id="attachment_6701" style="width: 797px" class="wp-caption aligncenter"><a href="/imgs/2014/08/fakerev.png"><img class="wp-image-6701 size-full" src="/imgs/2014/08/fakerev.png" alt="fakerev" width="787" height="821" srcset="/imgs/2014/08/fakerev.png 787w, /imgs/2014/08/fakerev-288x300.png 288w" sizes="(max-width: 787px) 100vw, 787px"/></a><p class="wp-caption-text"><strong>Fake reviews on the fake announcement page</strong></p></div></li>
+<div id="attachment_6701" style="width: 797px" class="wp-caption aligncenter"><a href="/imgs/2014/08/fakerev.png"/>
 <li>I am posting this here as a warning so you could know in advance and avoid this attempt.</li>
 <li>Hopefully this will also help him reconsider his actions in case he is planning on fixing his broken reputation at some point.</li>
 </ul>

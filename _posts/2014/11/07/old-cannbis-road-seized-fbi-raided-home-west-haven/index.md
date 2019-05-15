@@ -14,7 +14,7 @@ Posted by: DeepDotWeb
 <p>In addition to that &#8211; <a href="http://wtnh.com/2014/11/06/fbi-agents-raid-west-haven-home/">news 8</a> just reported that the FBI raided a home in West Haven Thursday afternoon in something that seem like another raid related to to the current busts:</p>
 <p>Agents were seen coming and going from the home at 42 Morse Avenue. In a statement, the FBI says the raid was related to cyber crime.</p>
 <blockquote><p>“Working closely with domestic and international law enforcement, the FBI and our partners have taken action to disrupt several websites dedicated to the buying and selling of illegal drugs and other unlawful goods,” said an FBI spokesperson in the statement. “Combating cyber criminals remains a top priority for the FBI, and we continue to aggressively investigate, disrupt, and dismantle illicit networks that pose a threat in cyberspace.”</p></blockquote>
-<p><a href="/imgs/2014/11/old-cannabisroad.png"><img class="aligncenter  wp-image-8040" src="/imgs/2014/11/old-cannabisroad.png" alt="old-cannabisroad" width="778" height="535" srcset="/imgs/2014/11/old-cannabisroad.png 1195w, /imgs/2014/11/old-cannabisroad-300x206.png 300w, /imgs/2014/11/old-cannabisroad-1024x704.png 1024w" sizes="(max-width: 778px) 100vw, 778px" /></a></p>
+<p><a href="/imgs/2014/11/old-cannabisroad.png"/>
 <p><strong>Keep checking the other posts in this chain of event at: <a href="tag/silkroad2bust/">Silk Road 2 Bust Tag<br />
 </a>The story is ongoing and the posts are being updated as we learn more details</strong></p>
 

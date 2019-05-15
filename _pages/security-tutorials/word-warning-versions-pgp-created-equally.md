@@ -1,8 +1,6 @@
 ---
-Word of Warning &#8212; All versions of PGP are NOT created equally!"
+title: "Word of Warning &#8212; All versions of PGP are NOT created equally!"
 ---
-5493
-
 
 <p>The version lines that are usually shown by default in PGP keys and PGP signature blocks, often reveal which OS the person is using.</p>
 <p><strong><span class="bbc_u">PGP/GPG Version strings:</span></strong></p>

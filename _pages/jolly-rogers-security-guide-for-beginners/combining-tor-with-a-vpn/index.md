@@ -1,14 +1,13 @@
 ---
-COMBINING TOR WITH A VPn"
+title: "COMBINING TOR WITH A VPn"
 ---
-4004
 
 
 <p>Welcome back readers!</p>
 <p>Today I want to talk about a greatly debated topic.</p>
 <p><strong>Should I use a VPN with TOR?</strong><br />
 <strong>Should I use TOR to connect to a VPN, or use a VPN to connect to TOR?</strong></p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;&gt;Be sure to use a VPN with Tor. Click here for the best VPN’s&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Be sure to use a VPN with Tor. Click here for the best VPN’s&lt;&lt;&lt;</a></p>
 <p>Let me say first of all, that when you are browsing the internet without TOR, you should probably be using a VPN regardless of whether or not you are using TOR. And make sure that the VPN uses some form of encryption as well. For those of you who are very beginner, think about when you connect to a public wifi network at a coffee shop, or an airport and you get all these warnings that your requests sent over this network are vulernable.</p>
 <p>All networks, but especially public wifi networks are vulnerable to traffic analysis. Put this together with the fact that some internet service providers monitor your activity to some level, and you can see why it might be a good idea to always use an encrypted method of using the internet. At the very least to protect your personal information when you are entering credit cards, usernames and passwords, as well as other personal data online. Again, especially if you are using a public wifi network.</p>
 <p>Choosing a VPN that uses at least 128 bit encryption like TOR is good practice, and will stop the majority of eavesdroppers. But if you can get 256 bit encryption, you are even safer. Before we get into whether or not we should be using a VPN together with TOR, I want to give you a few warnings regarding how you should be using a VPN.</p>

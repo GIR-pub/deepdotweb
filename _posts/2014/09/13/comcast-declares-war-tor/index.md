@@ -3,15 +3,15 @@ title: "Comcast Declares War on Tor?"
 ---
 
 7053  tag-comcast tag-declares  tag-war
-Posted by: <a href="https://www.deepdotweb.com/author/nathan/" title="">Nathan Wold </a></span>
+Posted by: <a href="/author/nathan/" title="">Nathan Wold </a></span>
 <span>September 13, 2014</span>
 
 <a href="/2014/09/13/comcast-declares-war-tor/#comments">105 Comments</a></span>
 </p>
 <p>If you needed another reason to hate Comcast, the most hated company in America, they’ve just given it to you: they’ve declared war on Tor Browser.</p>
-<p style="text-align: center;"><a href="https://www.deepdotweb.com/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage From your ISP &#8211; Click here For Our Best VPN&#8217;s Chart!&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage From your ISP &#8211; Click here For Our Best VPN&#8217;s Chart!&lt;&lt;&lt;</a></p>
 <p>Reports have surfaced (The first one was via <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2g2e44/is_comcast_legally_allowed_to_do_this/" target="_blank">/r/darknetmarkets</a> and another one submitted to us) that Comcast agents have contacted customers using Tor and instructed them to stop using the browser or risk termination of service. A Comcast agent named Jeremy allegedly called Tor an “illegal service.” The Comcast agent told its customer that such activity is against usage policies.</p>
-<div id="attachment_7102" style="width: 855px" class="wp-caption aligncenter"><a href="/imgs/2014/09/cc.png"><img class="wp-image-7102 size-full" src="/imgs/2014/09/cc.png" alt="cc" width="845" height="113" srcset="/imgs/2014/09/cc.png 845w, /imgs/2014/09/cc-300x40.png 300w" sizes="(max-width: 845px) 100vw, 845px" /></a><p class="wp-caption-text">/r/darknetmarkets</p></div>
+<div id="attachment_7102" style="width: 855px" class="wp-caption aligncenter"><a href="/imgs/2014/09/cc.png"/>
 <p>The Comcast agent then repeatedly asked the customer to tell him what sites he was accessing on the Tor browser. The customer refused to answer.</p>
 <p>The next day the customer called Comcast and spoke to another agent named Kelly who reiterated that Comcast does not want its customers using Tor. The Comcast agent then allegedly told the customer:</p>
 <blockquote><p>Users who try to use anonymity, or cover themselves up on the internet, are usually doing things that aren&#8217;t so-to-speak legal. We have the right to terminate,   fine, or suspend your account at anytime due to you violating the rules. Do you have any other questions? Thank you for contacting Comcast, have a great day.</p></blockquote>
@@ -26,6 +26,6 @@ Posted by: <a href="https://www.deepdotweb.com/author/nathan/" title="">Nathan W
 <p><strong>EDIT 14.9.14</strong>: Removed a sentence that was wrong. Added link.</p>
 <p><strong>EDIT2 15.9.14</strong>:  Comcast released a post <a href="http://corporate.comcast.com/comcast-voices/setting-the-record-straight-on-tor" target="_blank">Setting the Record Straight on Tor</a> denying the above and stating: &#8220;The anecdotal chat room evidence described in these reports is not accurate.&#8221;  Without explaining what is the &#8220;accurate&#8221; explanation?</p>
 </div>
-<a href="https://www.deepdotweb.com/tag/comcast/" rel="tag">comcast</a> <a href="https://www.deepdotweb.com/tag/declares/" rel="tag">declares</a>  <a href="https://www.deepdotweb.com/tag/war/" rel="tag">war</a></span> 
-Updated: 2014-09-13<a href="https://www.deepdotweb.com/author/nathan/" title="Posts by Nathan Wold" rel="author">Nathan Wold</a></strong></div>
+<a href="/tag/comcast/" rel="tag">comcast</a> <a href="/tag/declares/" rel="tag">declares</a>  <a href="/tag/war/" rel="tag">war</a></span> 
+Updated: 2014-09-13<a href="/author/nathan/" title="Posts by Nathan Wold" rel="author">Nathan Wold</a></strong></div>
     

@@ -20,7 +20,7 @@ title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
     ps. took minutes. I wouldn&#8217;t leave you in charge of watering a plant.</p></blockquote>
 </div>
 </div>
-<p><a href="/imgs/2014/03/VDMpbLU.png"><img class="aligncenter  wp-image-4769" alt="VDMpbLU" src="/imgs/2014/03/VDMpbLU.png" width="779" height="277" srcset="/imgs/2014/03/VDMpbLU.png 969w, /imgs/2014/03/VDMpbLU-300x107.png 300w" sizes="(max-width: 779px) 100vw, 779px" /></a>And just to add by another user, <a href="http://www.reddit.com/user/luftwaffle8">luftwaffle8</a>, that he was also leaking Server info and Phpinfo:</p>
+<p><a href="/imgs/2014/03/VDMpbLU.png"/>
 <ol>
 <li>redsun4lvjrxwwuy.onion/server-status</li>
 <li>redsun4lvjrxwwuy.onion/phpinfo.php</li>
@@ -56,7 +56,7 @@ title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
     
 <p>
     While on the other hand used Google to load scripts into the marketplace! Thank to the_avid again, for pointing this out, i was a bit busy and forgot to take a screenshot of this before it was patched (and i mean patched, not fixed):<br />
-<a href="/imgs/2014/03/Exxcay.png"><img class="aligncenter size-full wp-image-4771" alt="Exxcay" src="/imgs/2014/03/Exxcay.png" width="937" height="186" srcset="/imgs/2014/03/Exxcay.png 937w, /imgs/2014/03/Exxcay-300x60.png 300w" sizes="(max-width: 937px) 100vw, 937px" /></a></p>
+<a href="/imgs/2014/03/Exxcay.png"/>
 <p>Even leaving the Generator tag in place:</p>
 <div id="crayon-5bd6e32fbc254584406626" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
 <div class="crayon-toolbar" data-settings=" mouseover overlay hide delay" style="font-size: 12px !important;height: 18px !important; line-height: 18px !important;"><span class="crayon-title"></span>
