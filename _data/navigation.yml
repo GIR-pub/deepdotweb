@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Blog Archive -By Year"
+  - title: "Blog Archive"
     url: /year-archive/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Security Tutorials"
+    url: "/security-tutorials/"
+  - title: "Jolly Rogers Security Guide"
+    url: /jolly-rogers-security-guide-for-beginners/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
