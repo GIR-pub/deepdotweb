@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Deep Dot Web Blog Archive - and Privacy Guide"
+title: "Deep Dot Web -UNOFFICIAL-Blog Archive - and Privacy Guide"
 description: "The world needs user-friendly access to the educational materials that were previously available on deepdotweb.com."
 header:
   image: "deepdotweb-seized.png"
@@ -10,6 +10,7 @@ sidebar:
 permalink: /
 share: true
 ---
+
 
 **Archive: Privacy Guides, and History from DeepDotWeb.**
 

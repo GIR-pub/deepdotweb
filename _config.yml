@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Archive - Deep Dot Web - Privacy Guides"
 title_separator          : "-"
 name                     : "GIR"
-description              : "A historical archive, and preservation of Deep Dot Web Privacy Guides."
+description              : "Deep Dot Web -UNOFFICIAL-Blog Archive - and Privacy Guide"
 url                      : https://info-gir.github.io
 baseurl                  : /deepdotweb
 repository               : "info-gir/deepdotweb"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/info-GIR/deepdotweb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
