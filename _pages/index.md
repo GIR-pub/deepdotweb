@@ -26,8 +26,7 @@ However, its clear that governments use the drug war to suppress their populous 
 
 I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
 
-![](/deepdotweb-seized.png)
-
+![](https://imgur.com/T7QpFTM.png)
 
 ## Why Did I Build This Archive?
 
@@ -42,6 +41,7 @@ A few reasons.
 
 Though I'm grateful for the internet archive, I thought I could do something nice with [Jekyll and Github Pages](https://infominer.id/web-work/github-pages-starter-pack/). 
 
+![](deepdotweb-seized.png)
 
 ## How I Created this Archive
 
@@ -92,4 +92,3 @@ However, once everything it set up, changing themes can be relatively trival.
 This was another reason I was concerned that I shouldn't leave it up to the Internet Archive to protect our ability to learn best practicees for privacy online.
 
 
-![](https://imgur.com/T7QpFTM.png)
