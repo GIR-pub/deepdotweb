@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "HOW FAR WILL LAW ENFORCEMENT GO?"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/how-far-will-law-enforcement-go/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/how-far-will-law-enforcement-go"
 ---
-4020
 
 
 <p>Today we are going to talk about the lengths that law enforcement (LE) will go to try and catch you slipping.</p>

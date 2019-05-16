@@ -1,8 +1,18 @@
 ---
 layout: single
-title: "HOW TO CONNECT TO TOR OVER TOP OF TOr"
+title: "HOW TO CONNECT TO TOR OVER TOP OF TOR"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/how-to-connect-tor-over-top-of-tor/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/how-to-connect-tor-over-top-of-tor"
 ---
-4042
 
 
 <p>Here is another fun tip that may or may not interest you, but I figured I would throw it in for you anyways.</p>

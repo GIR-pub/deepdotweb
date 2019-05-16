@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "INVINCIBILITY MINDSET, FEDERAL GOVERNMENT BULLYING TACTICs"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/invincibility-mindset-federal-government-bullying-tactics/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/invincibility-midnset-federal-government-bullying-tactics"
 ---
-4040
 
 
 <p>Some people have an invincibility mind set that nothing will ever be able to be tied to them or derived from their online communications.</p>

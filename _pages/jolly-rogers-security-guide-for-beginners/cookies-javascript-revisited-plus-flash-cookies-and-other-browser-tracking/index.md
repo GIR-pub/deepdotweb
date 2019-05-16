@@ -1,6 +1,17 @@
 ---
 layout: single
-title: "COOKIES &#038; JAVASCRIPT REVISITED, PLUS FLASH COOKIES AND OTHER BROWSER TRACKINg"
+title: "COOKIES &#038; JAVASCRIPT REVISITED, PLUS FLASH COOKIES AND OTHER BROWSER TRACKING"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/cookies-javascript-revisited-plus-flash-cookies-and-other-browser-tracking/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/cookies-javascript-revisited-plus-flash-cookies-and-other-browser-tracking"
 ---
 4101
 

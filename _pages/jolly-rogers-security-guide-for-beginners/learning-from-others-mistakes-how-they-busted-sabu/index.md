@@ -1,6 +1,17 @@
 ---
 layout: single
 title: "LEARNING FROM OTHERS&#8217; MISTAKES. HOW THEY BUSTED SABU"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-how-they-busted-sabu/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-how-they-busted-sabu"
 ---
 
 

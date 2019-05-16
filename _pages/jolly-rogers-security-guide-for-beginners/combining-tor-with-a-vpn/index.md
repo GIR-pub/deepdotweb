@@ -1,6 +1,18 @@
 ---
 layout: single
 title: "COMBINING TOR WITH A VPn"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/combining-tor-with-a-vpn/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/combining-tor-with-a-vpn"
+
 ---
 
 

@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "INTRODUCTiON TO SECURE COMMUNICATION &#8211; TOR, HTTPS, SSl"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/introduction-to-secure-communication-tor-https-ssl/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/introduction-to-secure-communication-tor-https-ssl"
 ---
-3976
 
 
 <p>Greetings comrades.</p>

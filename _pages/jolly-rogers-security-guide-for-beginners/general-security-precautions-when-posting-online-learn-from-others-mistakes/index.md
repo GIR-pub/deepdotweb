@@ -1,8 +1,19 @@
 ---
 layout: single
-title: "GENERAL SECURITY PRECAUTIONS WHEN POSTING ONLINE, LEARN FROM OTHERS&#8217; MISTAKEs"
+title: "GENERAL SECURITY PRECAUTIONS WHEN POSTING ONLINE, LEARN FROM OTHERS&#8217; MISTAKES"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/general-security-precautions-when-posting-online-learn-from-others-mistakes/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/general-security-precautions-when-posting-online-learn-from-others-mistakes"
 ---
-3993
+
 
 
 <p>Next I want to talk about good practices when using TOR, Tails and other hidden services.</p>

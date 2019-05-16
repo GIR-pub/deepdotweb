@@ -4,11 +4,14 @@ title: "WHY YOU SHOULD ALWAYS BACK UP YOUR DRIVES, ESPECIALLY ENCRYPTED DRIVEs"
 sidebar:
   - title: "Jolly Rogers Security Guide"
     nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
   - title: "Security Tutorials"
     nav: "security"
   - title: "Blog Archive"
     nav: "blognav"
-
+permalink: "jolly-rogers-security-guide-for-beginners/always-back-drives-especially-encrypted-drives/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/always-back-drives-especially-encrypted-drives"
 ---
 
 

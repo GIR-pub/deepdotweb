@@ -1,8 +1,18 @@
 ---
 layout: single
-title: "COLD BOOT ATTACKS, UNENCRYPTED RAM EXTRACTIOn"
+title: "COLD BOOT ATTACKS, UNENCRYPTED RAM EXTRACTION"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/cold-boot-attacks-unencrypted-ram-execution/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/cold-boot-attacks-unencrypted-ram-execution"
 ---
-4105
 
 
 <p>Did you know that even if your system is whole disk encrypted, your data can still be extracted using something called a cold boot attack? Read on.</p>

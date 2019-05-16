@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "LOCALBITCOINS PART 1 &#8211; POLICE ARE WATCHING IT!"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/localbitcoins-part-1-police-are-watching-it/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/localbitcoins-part-1-police-are-watching-it"
 ---
-4121
 
 
 <p>I have a few stories to share from people who used LocalBitCoins to sell their Bitcoins.</p>

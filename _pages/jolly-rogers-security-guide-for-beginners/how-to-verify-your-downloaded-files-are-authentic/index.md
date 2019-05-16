@@ -1,8 +1,18 @@
 ---
 layout: single
-title: "HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIc"
+title: "HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic"
 ---
-4081
 
 
 <p>I just had a realization about something that is pretty important and I wanted to share it with you, regarding security. <strong>Verifying your downloads</strong></p>

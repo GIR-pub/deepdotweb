@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "VPN FOR WINDOWS USERs"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/connecting-tor-vpn-for-windows-users/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/connecting-tor-vpn-for-windows-users"
 ---
-4010
 
 
 <p>After a long search, I have found a way you can connect TOR -&gt; VPN. It is not perfect, and some might not agree with doing things this way, but it works and I am giving it to you as an option, but it only works for Windows users at this time.</p>

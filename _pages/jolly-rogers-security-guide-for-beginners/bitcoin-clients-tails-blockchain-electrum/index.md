@@ -1,13 +1,17 @@
 ---
 layout: single
-title: "BITCOIN CLIENTS IN TAILS &#8211; BLOCKCHAIN AND ELECTRUm"
+title: "BITCOIN CLIENTS IN TAILS &#8211; BLOCKCHAIN AND ELECTRUM"
 sidebar:
   - title: "Jolly Rogers Security Guide"
     nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
   - title: "Security Tutorials"
     nav: "security"
   - title: "Blog Archive"
     nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/bitcoin-clients-tails-blockchain-electrum/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/bitcoin-clients-tails-blockchain-electrum"
 ---
 
 

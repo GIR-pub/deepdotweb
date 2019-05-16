@@ -1,9 +1,18 @@
 ---
 layout: single
-title: "JAVASCRIPT VULNERABILITIES AND REMOVING PERSONAL METADATA FROM FILEs"
+title: "JAVASCRIPT VULNERABILITIES AND REMOVING PERSONAL METADATA FROM FILES"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/javascript-vulnerabilities-and-removing-personal-metadata-from-files/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/javascript-vulnerabilities-and-removing-personal-metadata-from-files"
 ---
-3990
-
 
 <p>Welcome Back.</p>
 <p>Before I get into removing harmful meta data from your files, I want to talk about another vulnerability to our browsing capabilities called Javascript.</p>

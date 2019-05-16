@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "LEARNING FROM OTHERS&#8217; MISTAKES. LIBERTAS, DPR, SABU, LULZSEc"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-libertas-dpr-sabu-lulzsec/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-libertas-dpr-sabu-lulzsec"
 ---
-4017
 
 
 <p>A little change of pace for this next post. I want to talk about one of our fallen moderators Libertas.</p>

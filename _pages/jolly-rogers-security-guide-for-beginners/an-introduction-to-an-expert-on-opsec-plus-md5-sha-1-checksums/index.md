@@ -1,13 +1,17 @@
 ---
 layout: single
-title: "AN INTRODUCTION TO AN EXPERT ON OPSEC, PLUS MD5 &#038; SHA-1 CHECKSUMs"
+title: "AN INTRODUCTION TO AN EXPERT ON OPSEC, PLUS MD5 &#038; SHA-1 CHECKSUMS"
 sidebar:
   - title: "Jolly Rogers Security Guide"
     nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
   - title: "Security Tutorials"
     nav: "security"
   - title: "Blog Archive"
     nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/an-introduction-to-an-expert-on-opsec-plus-md5-sha-1-checksums/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/an-introduction-to-an-expert-on-opsec-plus-md5-sha-1-checksums"
 
 ---
 

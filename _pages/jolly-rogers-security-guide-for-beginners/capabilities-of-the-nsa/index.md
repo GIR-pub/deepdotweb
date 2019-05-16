@@ -1,8 +1,18 @@
 ---
 layout: single
-title: "CAPABILITIES OF THE NSa"
+title: "CAPABILITIES OF THE NSA"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/capabilties-of-the-nsa/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/capabilities-of-the-nsa"
 ---
-4130
 
 
 <p>I wanted to share a 1 hour video by one of the tor developers Jacob Applebaum.</p>

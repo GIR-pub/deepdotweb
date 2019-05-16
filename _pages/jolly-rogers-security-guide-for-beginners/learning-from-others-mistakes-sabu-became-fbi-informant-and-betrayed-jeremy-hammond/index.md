@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "LEARNING FROM OTHERS&#8217; MISTAKES. SABU BECAME FBI INFORMANT AND BETRAYED JEREMY HAMMONd"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-sabu-became-fbi-informant-and-betrayed-jeremy-hammond/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/learning-from-others-mistakes-sabu-became-fbi-informant-and-betrayed-jeremy-hammond"
 ---
-4029
 
 
 <p>We are continuing the subject of how others were taken down after Sabu was compromised and started cooperating with the FBI. According to this article.</p>

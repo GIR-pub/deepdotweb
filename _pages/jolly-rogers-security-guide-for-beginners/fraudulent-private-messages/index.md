@@ -1,6 +1,17 @@
 ---
 layout: single
 title: "FRAUDULENT PRIVATE MESSAGES"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/fraudulent-private-messages/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/fraudulent-private-messages"
 ---
 
 <p>Be careful with private messages (PM) online, because one thing that comes with anonymity, is plenty of scammers.</p>

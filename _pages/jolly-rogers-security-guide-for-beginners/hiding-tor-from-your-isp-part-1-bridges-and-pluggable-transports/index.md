@@ -1,8 +1,19 @@
 ---
 layout: single
-title: "HIDING TOR FROM YOUR ISP &#8211; PART 1 &#8211; BRIDGES AND PLUGGABLE TRANSPORTs"
+title: "HIDING TOR FROM YOUR ISP &#8211; PART 1 &#8211; BRIDGES AND PLUGGABLE TRANSPORTS"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/hiding-tor-from-your-isp-part-1-bridges-and-pluggable-transports/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/hiding-tor-from-your-isp-part-1-bridges-and-pluggable-transports"
 ---
-4128
+
 
 
 <p>This post is going to talk about something that has been commonly discussed on the forums recently. How can I hide my tor usage from my ISP ?</p>

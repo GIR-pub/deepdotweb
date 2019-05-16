@@ -1,8 +1,18 @@
 ---
 layout: single
 title: "CLEARNET VS HIDDEN SERVICES &#8211; WHY YOU SHOULD BE CAREFUl"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/clearnet-vs-hidden-services-why-you-should-be-careful/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/clearnet-vs-hidden-services-why-you-should-be-careful"
 ---
-4095
 
 
 <p>Some of you may have seen links to different websites on these forums. In fact my thread is full of them.</p>

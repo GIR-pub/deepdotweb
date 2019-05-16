@@ -1,8 +1,18 @@
 ---
 layout: single
-title: "EXIF DATa"
+title: "EXIF DATA"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/exif-data/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/exif-data"
 ---
-3996
 
 
 <p>I forgot to mention above when talking about metadata, that when it comes to photos, there is another risk involved called EXIF data, this is another form of meta data specifically related to images and may not be properly removed by Metadata Anonymisation Toolkit mentioned before.</p>

@@ -4,10 +4,14 @@ title: "AN EXAMPLE OF REALLY BAD OPSEC &#8211; SMARTEN UP!"
 sidebar:
   - title: "Jolly Rogers Security Guide"
     nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
   - title: "Security Tutorials"
     nav: "security"
   - title: "Blog Archive"
     nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/and-example-of-really-bad-opsec-smarten-up/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/an-example-of-really-bad-opsec-smarten-up"
 
 ---
 

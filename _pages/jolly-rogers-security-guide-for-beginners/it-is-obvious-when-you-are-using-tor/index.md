@@ -1,8 +1,19 @@
 ---
 layout: single
-title: "IT IS OBVIOUS WHEN YOU ARE USING TOr"
+title: "IT IS OBVIOUS WHEN YOU ARE USING TOR"
+sidebar:
+  - title: "Jolly Rogers Security Guide"
+    nav: "jolly"
+  - title: "DeepDotWeb"
+    nav: "pages"
+  - title: "Security Tutorials"
+    nav: "security"
+  - title: "Blog Archive"
+    nav: "blognav"
+permalink: "jolly-rogers-security-guide-for-beginners/it-is-obvious-when-you-are-using-tor/"
+redirect_from: "jolly-rogers-security-guide-for-beginners/it-is-obvious-when-you-are-using-tor"
 ---
-4115
+
 
 
 <p>This is going to be a short post about a mistake we can all learn from when a Harvard student emailed a bomb threat to his school while using tor to avoid a final exam.</p>
