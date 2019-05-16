@@ -5,16 +5,9 @@ permalink: "vpn-comparison-chart/"
 redirect_from: vpn-comparison-chart
 ---
 
-<strong><p>We have been listening to the DeepDotWeb community and have seen how popular our article “<a href="https://g-i-r.github.io/deepdotweb/2014/07/08/is-your-vpn-legit-or-shit/">Is Your VPN Legit or Shit</a>” became, which made us realize that you guys have been in desperate need of some solid advice about VPN’s. For this reason we are introducing DeepDotWeb’s very own section on the Best VPN Service Providers so you can finally have some unbiased information to help you decide what is the best VPN for you to have the ultimate privacy online and on the Deep Web. <strong>We are committed to only list those VPN providers that respect your privacy, use encryption, support OpenVPN, have a no logging policy you and prioritize those who accepts Bitcoin. Specific service reviews and live user ratings will be added soon.<br />
-</strong></p>
-<p style="text-align: center;"><a href="https://bitcoincasinos.reviews/">&gt;&gt; Click here for the BEST Bitcoin Casinos! &#8211; Special Bonuses for our readers! &lt;&lt;</a></p>
-<div class="tableCon" style="margin-top: 20px;"> <style>
-@media ( max-width: 400px ) {
-    .hideMobile {
-        display: none;
-    }
+We have been listening to the DeepDotWeb community and have seen how popular our article “<a href="https://g-i-r.github.io/deepdotweb/is-your-vpn-legit-or-shit/">Is Your VPN Legit or Shit</a>” became, which made us realize that you guys have been in desperate need of some solid advice about VPN’s. For this reason we are introducing DeepDotWeb’s very own section on the Best VPN Service Providers so you can finally have some unbiased information to help you decide what is the best VPN for you to have the ultimate privacy online and on the Deep Web. <strong>We are committed to only list those VPN providers that respect your privacy, use encryption, support OpenVPN, have a no logging policy you and prioritize those who accepts Bitcoin. Specific service reviews and live user ratings will be added soon.
 
-}
+
 
 @media ( max-width: 800px ) and ( min-width: 401px ) {
     .hidePad {
@@ -923,7 +916,7 @@ Updated: 2015-10-09</span>
 <span class="date"><span>November 9, 2014</span></span>
 </li>
 <li>
-<h3><a href="https://g-i-r.github.io/deepdotweb/2014/07/08/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
+<h3><a href="https://g-i-r.github.io/deepdotweb/is-your-vpn-legit-or-shit/" title="Is your VPN Legit or Shit?">Is your VPN Legit or Shit?</a></h3>
 <span class="date"><span>July 8, 2014</span></span>
 </li>
 <li>
