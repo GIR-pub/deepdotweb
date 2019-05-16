@@ -10,7 +10,7 @@ title: "Infographics: The Rise And Fall of Silk Road"
 
 <p>Created by the site <a href="http://drugabuse.com/">Drugabuse.com</a> an infographics describing the full timeline of the rise and fall of Silk road</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/10/silkroadinfographics.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/10/silkroadinfographics.jpg" />
 
 
 

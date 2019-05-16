@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/gone11.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/gone11.jpg">
 
 <p>Updates will be added to this tag: <a href="#">#Evoscam</a></p>
 <p><strong><span style="text-decoration: underline;">Estimated</span> Loss: 40,000+ BTC  (Around 12$ Million)<br />
@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
 <p>EDIT: Servers have gone down, including back up server for staff. I&#8217;m sorry for everyone&#8217;s loses, I&#8217;m gutted and speechless. I feel so betrayed.</p></blockquote>
 <p>The forums are still up at this time (<strong>Edit</strong>: forums are down now). 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/ScreenShot2015-03-17at6.01.27PM.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/ScreenShot2015-03-17at6.01.27PM.png">
 
 <p>We will be following and updating as we have new information, but the experience with market exist scams have thought us that there isn&#8217;t much to expect, the only thing we can be sure of at this time is that <a href="#">Agora marketplace</a> is about to experience a<strong> MASSIVE</strong> influx of users.</p>
 <p>Just a short reminded of previous exist scams:</p>

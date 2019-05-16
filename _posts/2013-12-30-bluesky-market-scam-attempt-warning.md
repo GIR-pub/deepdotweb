@@ -8,15 +8,15 @@ title: "BlueSky Marketplace Scam Attempt Warning"
 
 
 <p><strong><span style="text-decoration: underline;">Update</span></strong>:  <strong>Apparently the blue sky marketplace admins suggested it was a misunderstanding. and OP was updated so the issue was solved. Reddit post of the admins:</strong></p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/bsupdate.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/bsupdate.png" />
 
 <p><strong> Op confirming the mistake:</strong></p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/OP.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/OP.png" />
 
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;">The story was &#8211; NOTE that this is confirmed as misunderstanding:</span></p>
 <p>A Vendor just posted today a detailed report, explaining how to blue sky marketplace owners tried running imposter accounts of known vendors in order to scam buyers into trusting their old vendors, the owners even had the nerve to post the PGP signed message that the vendor sent support &#8211; right on the vendor profile page, that was also copied from SR1 (original thread here: http://silkroad5v7dywlc.onion/index.php?topic=12591.0;topicseen) :</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/bluesky.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/bluesky.png" />
 
 <p><strong>===End Quote===</strong></p>
 <p>The message:</p>
@@ -36,7 +36,7 @@ title: "BlueSky Marketplace Scam Attempt Warning"
 <p>Stay safe people, stay diligent</p>
 <p><strong>===End Quote===</strong></p>
 <p>The vendor also posted the support ticket that was closed by the admins:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/bluesky2.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/bluesky2.png" />
 
 <p>This warning adds up to previous warnings about Blue Sky Marketplace spamming forums &#8211; and some other account issues &#8211; the marketplace does not have a forum so we could not get any more responses about this matter. Read this information and decide for yourself if you should trust such marketplace with your funds.</p>
 </div>

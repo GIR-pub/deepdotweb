@@ -48,7 +48,7 @@ Though I'm grateful for the internet archive, I thought I could do something nic
 * [WiReD: FEDS DISMANTLED THE DARK-WEB DRUG TRADE—BUT IT'S ALREADY REBUILDING](https://www.wired.com/story/dark-web-drug-takedowns-deepdotweb-rebound/)
 * [DeepDotWeb Dark web resource dies with FBI seizure](https://www.zdnet.com/article/deepdotweb-dies-with-fbi-seizure/)
 
-![](https://info-gir.github.io/deepdotweb/deepdotweb-seized.png)
+![](https://G-I-R.github.io/deepdotweb/deepdotweb-seized.png)
 
 ## How I Created this Archive
 
@@ -99,4 +99,4 @@ However, once everything it set up, changing themes can be relatively trival.
 This was another reason I was concerned that I shouldn't leave it up to the Internet Archive to protect our ability to learn best practicees for privacy online.
 
 
-![](https://info-gir.github.io/deepdotweb/free_ross.jpg)
+![](https://G-I-R.github.io/deepdotweb/free_ross.jpg)

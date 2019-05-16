@@ -11,7 +11,7 @@ title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features"
 <p>As a result of last week drama that resulted in the <a href="/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/" target="_blank">arrest of the 3 moderators</a> and the <a href="/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank">disappearing of the Silk road 2.0 admin</a> &#8220;Dread Pirate Roberts&#8221; (V.2) , the current admins came across some unexpected technical problem resulting in the loss of their access keys to the bitcoin wallets holding everyone&#8217;s funds currently in escrow (not account balances), unlike what we have seen with the <a href="/2013/12/23/reports-tormarket-scam-in-progress/" target="_blank">recent scams</a>, the SR admin took the honest approach, telling the users what happened and claimed full responsibility for the situation while coming up with few possible solutions to solve this matter.</p>
 <p>All the details are in Defcon&#8217;s announcement:
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/defcon1.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/defcon1.png"/>
 <p>&#8212;&#8211;Begin Quote&#8212;&#8211;<br/>
     Hash: SHA512</p>
 <p>Silk Road Community,</p>
@@ -74,7 +74,7 @@ title: "Silk Road Reopens: Losing Escrow Funds &#038; Releasing New Features"
 <p>Defcon<br/>
     &#8212;&#8211;End Quote&#8212;&#8211;</p>
 <p>The admin also released the timeline the implementation of new features with the re launch of the market:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/featuers1.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/featuers1.png" />
 
 <p>The server is under extreme load, this community loves to refresh empty pages!</p>
 <p>I spent a lot longer time drafting the announcement than expected, so I am pushing back the launch to 23:45:00 to ensure that everything goes smoothly but no promises. Security comes first over meeting deadlines.</p>

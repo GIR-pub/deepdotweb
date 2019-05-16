@@ -14,7 +14,7 @@ Posted by: DeepDotWeb
 <p><a href="http://www.ecstasydata.org/view.php?id=3476">http://www.ecstasydata.org/view.php?id=3476</a></p>
 <p>Soo yeah&#8230;stay away..</p></blockquote>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/eth.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/eth.png">
 
 
 Updated: 2015-02-26

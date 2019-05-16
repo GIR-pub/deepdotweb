@@ -13,7 +13,7 @@ title: "Deep Web Humor"
     (click on image to for a larger view &#8211; than on the button on the upper right corner for full scale view)</p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/10/t0UGXw8.jpg" width="289" height="522" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/10/t0UGXw8.jpg" width="289" height="522" />
 
     
     

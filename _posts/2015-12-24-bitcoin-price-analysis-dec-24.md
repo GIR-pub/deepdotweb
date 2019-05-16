@@ -7,27 +7,27 @@ Posted by: pesa_mic
 <span>December 24, 2015</span>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/13.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/13.jpg">
 
 <p>Over the past 2 weeks, bitcoin price went up from a low retracement bottom at $ 346, going up to $ 467, attempting to touch last month’s $ 504 high. This rise up has been anything but momentous, especially compared to the run up to $ 502. Low volumes have accompanied this rise up. At current price levels, the trend has hit a resistance level at $467</p>
 <p><em>“resistance at the ¥3,000 ($465) level. If it holds, we could be retracing to 2,000 yuan ($310)”</em></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/23.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/23.jpg">
 
 <p>Here we see the move up from August at $ 198 to $ 502 was huge with no retracements, it was only a matter of time before it retraced. Since the peak, the market retraced the whole move up, then found a bottom at $ 320; this second attempt at maintaining the trend has met resistance. Low volumes highlighted also emphasise this.</p>
 <p>This pattern looks eerily similar to January &#8211; February 2015.</p>
 <p><em>“Possible fractal in play #BTC”</em></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/33.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/33.jpg">
 
 <p>If this plays out, lower prices are on the horizon.</p>
 <p>Looking back at an elliott wave chart I posted in one of my analyses in July, a bearish outlook is not far fetched. This was before events over the past 6 months</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/41.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/41.png">
 
 <p>Here is an updated chart of the same</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/51.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/51.png">
 
 <p>It seems we are on the edge of a cliff. Price was expected to find a top in the range between $450 and $ 700, and then head back down to retest lows. It is an option I am open to, and keeping an eye on.</p>
 <p><em>“the time I have drawn in for the C is not a requirement, nor is the depth. It could be something that plays out in just a few months. and even makes a higher low as a failed C. The chart depicts a textbook structure”</em></p>
@@ -50,11 +50,11 @@ Posted by: pesa_mic
 <p><strong>Bitcoin Weekly Price Forecast</strong></p>
 <p>This week, I am bearish and expecting prices to head back down to $ 400, possibly as low as $ 350. This week’s pattern is a triangle &#8211; that looks ripe to break. Triangle patterns are fairly common in bitcoin charts, and are always terminal, resulting in a break out &#8211; either up or down.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/6.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/6.jpg">
 
 <p>While it could break either up or down, as per this chart, my bias is bearish down.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/71.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/71.jpg">
 
 
 Updated: 2015-12-24

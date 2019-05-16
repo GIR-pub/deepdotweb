@@ -70,11 +70,11 @@ title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 <div style="text-align: center;">&#8212; End quote &#8212;</div>
 <p>The comments from reddit reflects how many people are feeling about this ongoing drama, this sure doesnt help building back the trust on the darknet markets, some even suggested it was faked by paying Oracle off to shut up about the true problems.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/redditcomment.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/redditcomment.png"/>
 <p>On Silk Road forums the reaction were a mix confusion, distrust,relief and joy. See you on the sequel.  Somehow we get the feeling that this is not the last we are going to hear about it, probably around the time that the market will be back from the Christmas shutdown.  Marry Christmas!</p>
 <p>&gt;We made screenshots of this post for future generations:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/psy1.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/psy1.png"/>
 </div>
 
 Updated: 2013-12-24

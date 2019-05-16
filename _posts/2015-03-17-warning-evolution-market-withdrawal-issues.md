@@ -10,7 +10,7 @@ Posted by: DeepDotWeb
 <p>For the past 24 we had several report about Withdrawal issues on Evolution marketplace with BTC not being sent at all arriving after 18  &#8211; 24 hours. The only update from evolution admins was posted yesterday by Kimble, saying:</p>
 <blockquote><p>&#8220;I&#8217;m very sorry about the delays. There&#8217;s currently a backlog on withdrawals as we are working on processing the large amounts and the quantity thereof. Please be patient, all withdrawals will be processed within the next 24 hours. Apologies for the inconvenience.&#8221;</p></blockquote>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/kimble.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/kimble.png">
 
 <p><span style="text-decoration: underline;"><strong>Relevant threads on Evo forums:</strong></span></p>
 <p>http://i25c62nvu4cgeqyz.onion/viewtopic.php?id=56413</p>

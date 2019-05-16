@@ -28,7 +28,7 @@ Posted by: DeepDotWeb
 <p style="text-align: center;"><span style="text-decoration: underline;">Please keep in mind that buying or selling ANYTHING is strictly prohibited and any attempt to do so will result in a ban.</span></p>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/10/forum.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/forum.png"/>
 
 Updated: 2014-10-30
     

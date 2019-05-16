@@ -51,8 +51,8 @@ Posted by: DeepDotWeb
 <p>Screenshots from the service:<br/>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/dnstat.png"/>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/btcfog.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/04/dnstat.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/04/btcfog.png" />
 
 <p>To the developer &#8211; Thanks you! great contribution.</p>
 

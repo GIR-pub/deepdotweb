@@ -9,7 +9,7 @@ Posted by: Unluckycyberpusher
 </em></p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/08/fuckthepolice137.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/08/fuckthepolice137.png">
 
 <p>It all started between 2005 and 2006, I was in my early twenties with a sleazy and underpaid job, and the need to make enough money quickly, to leave Italy as soon as possible.</p>
 While talking to a dear old friend ( one of the few with whom I continued to have relationships after school ), he proposed me some ideas to start a business together, exposing to me that he had big troubles to communicate with potential customers and supplers, since he didn’t even know a single word of English.</p>

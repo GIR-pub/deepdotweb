@@ -6,7 +6,7 @@ Posted by: Chris McCandless
 
 <span>October 30, 2015</span>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/10/fefe.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/10/fefe.jpg">
 
 <p>Scamming has, and always will be, a huge issue for any Dark Net Market user. How do you know you’re going to receive the product that’s described in a listing? There are many trains of thought on this issue and many people have vocalized the simple solution “Don’t Finalize Early! Don’t give them money until you get your product!” which is a wonderful piece of advice. When placing an order on a marketplace, there will be an escrow system that holds onto your funds until you authorize the release to the seller.</p>
 <p>It’s a classic system, one that has been used even since before Silk Road came to life – the trusted middleman holds onto the funds while the deal is taking place to avoid one person from pulling some kind of scam on the buyer/seller. However, there are still risks involved, and many ask themselves “Why do people <a href="/2014/03/02/deepdotwebs-darknet-dictionary/">finalize early</a>?”</p>

@@ -7,15 +7,15 @@ title: "Get Ready To Silk Road&#8217;s&#8230;. Newspaper?!"
 <p>Every time we think that we have seen just about everything we find another surprise, this time at the form of a plan to create a newspaper to report whats new on the silk road, a user under the name of &#8221; Raoul Duke &#8221; posted the following:</p>
 <p>&nbsp;</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/11/newspaper.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/newspaper.jpg" />
 
 <p>The idea, which is not bad i must say, seems to have some support from real world journalists such as the forum member EileenOrmsby owner of the blog allthingsvice.com:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/11/oz.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/oz.jpg" />
 
 <p>And of couese the much needed support from the new Dread Pirate Roberts,  the new SR Admin:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/11/dpr.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/dpr.jpg" />
 
 <p>The reactions on Reddit were a bit less enthusiastic ranging from:</p>
 <p><em>That is going to be hilariously bad.</em></p>

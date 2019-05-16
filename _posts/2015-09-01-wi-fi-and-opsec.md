@@ -11,23 +11,23 @@ Posted by: c3lt1c
 <p>First, I want to say that wireless is not really the best option when wired is available (especially when lurking on the DarkNet). There is exception to this: if you are out in public making an effort not to use TOR from home, then this risk can be well worth it; however you should be using VPN, as well as TOR when using wireless in public or at home. By design, Wireless is so much more susceptible to infiltration. To potentially infiltrate wireless traffic you need to be in range and have the capability to listen, collect and eventual decrypt that traffic. The following decrypts depict the basic steps that can be used, by neighbors, war-drivers or anyone else, to infiltrate a wireless network:</p>
 <p><strong>FIGURE 1A – STEP 1: </strong>By broadcasting your SSID, you’re letting the world know that you have a wireless network, and this is its name</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/1.png">
 
 <p><strong>FIGURE 1B</strong> <strong>– STEP 2:</strong> Once an attacker targets your SSID they can inject data which severs your connection to the wireless access point. By doing this an attacker knows that you will either manually re-authenticate within a few minutes or else your PC will do this automatically within seconds. The attacker will be simultaneously listening for this while severing the connection</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/21.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/21.png">
 
 <p><strong>FIGURE 1C</strong> – <strong>STEP 3:</strong> The attacker will leave this monitoring session going for a short time, or perhaps a long time to ensure that they capture the required 4-way handshake. Attackers can periodically check the still growing pcap files for the 4-way handshake using Wireshark.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/31.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/31.png">
 
 <p><strong>FIGURE 1D</strong> – <strong>STEP 4: </strong>Once the attacker has your 4-way handshake the real work begins. Although your key has been collected, it has been encrypted. When using WPA2 (recommended) your key has been encrypted using a hash that takes many things into consideration such as your SSID name, key length and key complexity.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/44.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/44.png">
 
 <p><strong>FIGURE 1E</strong> – <strong>STEP 5: </strong>in the days of WEP a Brute Force Dictionary attack was often all it took to crack a password; but with the new complexities inherent in WPA &amp; WPA2 crackers are finding quicker and more sophisticated ways to crack more sophisticated encryption. One popular method is Rainbow Tables – rather than parsing the characters while cracking, Rainbow Tables can be pre-built based on letters, numbers, uppercase, lowercase and length (among others). Crackers with powerful GPUs (video cards) are now able to harness their power and make short work of this</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/52.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/52.png">
 
 <p>As you can see it’s not particularly hard for a knowing party to collect your encrypted pre-shared key (PSK) so it’s VERY important that you use a long, intricate key. This will be the difference between an attacker gaining access to your network, or giving up when it’s taking too long.</p>
 <p>For a wired connection, someone would have to physically splice into the fiber, copper, etc. to gain the same advantage. Wireless infiltration is not only dangerous because people might crack your network – an attacker or LE could perform a “Man-in-the-Middle” attack. This involves intercepting, monitoring or even changing packets sent from point A before they reach point B. So what are the dangers here? Someone might “listen in” on your traffic; or (LE) setting up a honeypot and posing as your destination. What if a major Intelligence Agency has a suspicion that you’re using DNMs and have paid to set up a site that looks and acts exactly like Agora? You’re in shit, that’s what. If they know enough they could even play Man-in-the-Middle with traffic before it even hits the internet (never mind your ingress TOR node). This is sometimes referred to as a “honeypot”. A honeypot will be used to collect data and even be geared to catch you “in the act”. Honeypots are most often fake websites (or fake servers in reality) which mimic your destination and can come in all shapes and sizes. The same can be done with a wireless router or access point.</p>
@@ -36,7 +36,7 @@ Posted by: c3lt1c
 <p>The aim is for the unsuspecting user to mistake the honeypot for their own wireless at some point in time. Logging would be activated and login attempts (including password) would be logged locally on the device or directed to a syslog. The victim, confused, will continually input the password over and over again trying to authenticate the what they think is their network.</p>
 <p><strong>FIGURE 2A &#8211; Honeypot</strong></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/62.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/62.png">
 
 <p>So what does this mean for you and how should you protect yourself? Let’s start with some basics for Wireless Security – Many of you might know to do these, so this is for those who do not. The first thing you want to do is tackle the “ease of use” features like WPS and SSID Broadcast. WPS, which stands for Wi-Fi Protected Setup, provides an easy way for non-technical people to push a big button, produce a pin and use said pin to connect to wireless. I’m surprised by the amount of people I visit who, when asked for the home’s wireless key, shrug their shoulders. Ok, so maybe you have a phenomenally long intricate key and just don&#8217;t have it memorized? No, these people couldn’t even tell you where to find it and are likely still using the default password put in place by the ISP. Can anyone say Rainbow Tables? Maybe you can say it but don’t know what it is, but we can get to that later. If enabled, WPS can EASILY be exploited (more easily thank cracking a captured WPA key), so TURN IT OFF.</p>
 <p>Another simple way to mitigate attacks on your wireless network: don’t let people know it’s there! Sure if someone knows their stuff they’re going to find you either way, but if some beginner is sitting trying to crack your WLAN using their built-in Intel interface, not broadcasting your SSID is going to make things a bit harder for them. By the way, wireless password interception doesn’t take special gear or even special skills really. It takes a bit of Linux knowledge, a live CD/DVD distro, and a wireless interface capable of packet injection (available for about $30). As mentioned above, disable “SSID Broadcast” and know your SSID’s name and password so that you can provide these to people you <strong>do</strong> want on your network.</p>

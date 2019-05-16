@@ -10,19 +10,19 @@ Posted by: ChrisHansen </span>
 <p>The first thing you are going to need is obviously the latest version of Tor from the Tor website. It’s going to download an exe file for you to open and extract. Go ahead, and extract the files to a place where you are going to have easy access to it. I personally extract all the files to a folder on my Desktop so I can get to it at any time.</p>
 <p><center>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/1.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/1.png"/>
 <p><center>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/2.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/2.png"/>
 <p><center>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/3.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/3.png"/>
 <p><center>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/4.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/4.png"/>
 <p><center>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/5.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/5.png"/>
 <p>With that, I once again thank DeepDotWeb for allowing me to write for them, and I thank you the reader for reading this tutorial. I hope this helps you as much as it helps me, weather you are brand new to the use of Tor, or an old user such as myself!</p>
 
 Updated: 2014-05-23

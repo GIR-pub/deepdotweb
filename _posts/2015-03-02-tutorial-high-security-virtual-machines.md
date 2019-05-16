@@ -37,40 +37,40 @@ Posted by: TR3X0R
 <p><strong>Screenshots for Instructions</strong></p>
 <p><span style="text-decoration: underline;">Step 1</span>: Download and install VirtualBox:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/virtuabox.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/virtuabox.png">
 
 <p><span style="text-decoration: underline;">Step 2</span>: Download Tails OS. Advanced users might consider Whonix:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/Tailsdown.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/Tailsdown.png">
 
 <p><span style="text-decoration: underline;">Step 3</span>: Create your VM. For smooth operation, one GB of RAM, and preferably two, is required. To further increase responsively add a second processor core.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/createvm.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/createvm.png">
 
 <p><span style="text-decoration: underline;">Step 4: </span>Select do not add a virtual hard drive:<span style="text-decoration: underline;"><br />
 </span></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/harddrive.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/harddrive.png">
 
 <p>Ignore VirtualBox advising you your VM has no virtual disk; that’s exactly what we want in this case:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/ignore.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/ignore.png">
 
 <p>
 <p><span style="text-decoration: underline;">Step 6</span></p>
 <p>Again, unless you know exactly what you’re doing, it is best NOT to share network adapters between your VM and your regular desktop environment:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/adapters.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/adapters.png">
 
 <p><span style="text-decoration: underline;">Step 7</span></p>
 <p>Fire up your secure VM. Upon the first startup, you will be prompted to choose an ISO for your startup disk:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/fireupvm.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/fireupvm.png">
 
 <p><strong>If your VM ever complains it doesn</strong><strong>’</strong><strong>t have a bootable drive, simply configure the setting in the </strong><strong>“</strong><strong>Storage</strong><strong>”</strong> <strong>preferences:</strong></p>
 <p><strong>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/storage.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/storage.png">
 
 </strong></p>
 <p><span style="text-decoration: underline;">Step 8</span></p>
@@ -78,7 +78,7 @@ Posted by: TR3X0R
 <p>#ifconfig wlan0 ether XX:XX:XX:XX:XX</p>
 <p>Will add an additional measure of security in that your NIC does not use a vendor-specific MAC address (ie your Ralink wifi adapter won’t announce itself as “Ralink”)</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/tails.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/tails.png">
 
 <p>Stay tuned on how to configure higher security configurations, implement roving MAC addresses, etc.</p>
 

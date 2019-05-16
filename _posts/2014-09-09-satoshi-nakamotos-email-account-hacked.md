@@ -19,20 +19,20 @@ Posted by: DeepDotWeb
 <p>“I’m pretty sure,” Marquardt says, “that this is just some troll in it for the laughs.”</p></blockquote>
 <p>37.6 BTC bounty for the person who provides the information that leads to the arrest and conviction of this hacker was offered <a href="http://www.reddit.com/r/Bitcoin/comments/2fux6p/wheres_roger_ver_when_you_need_him/ckdl8aw" target="_blank">by Roger Ver</a> who was hacked before by the same hacker apparently.</p>
 <p>Proofs of the hack &#8211; Screenshots from Satoshi&#8217;s inbox:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/satoshi1.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/satoshi1.png" />
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/satoshi2.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/satoshi2.png" />
 
 <p>The hacker, or someone who bought the dox wrote onto <a href="http://p2pfoundation.ning.com/profile/SatoshiNakamoto">satoshi&#8217;s p2pfoundation</a> the following:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/p2p.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/p2p.png" />
 
 <blockquote><p>Dear Satoshi. Your dox, passwords and IP addresses are being sold on the darknet. Apparently you didn’t configure Tor properly and your IP leaked when you used your email account sometime in 2010. You are not safe. You need to get out of where you are as soon as possible before these people harm you. Thank you for inventing Bitcoin.</p></blockquote>
 <p>After hacking the p2pfoundation account, the hacker later posted their bitcoin address encouraging donations to this address: <a href="https://blockchain.info/address/19pta6x1hXzV9F5hHnhMARYbRjuxF6xbbV">https://blockchain.info/address/19pta6x1hXzV9F5hHnhMARYbRjuxF6xbbV</a></p>
 <p>The hacker then proceeded to deface the source forge page, which has now been reverted. A screen shot of what happened:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/ButtcoinHack.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/ButtcoinHack.png" />
 
 <p>The hacker <a href="https://twitter.com/petertoddbtc/status/509145414008725504">forwarded emails from 2011 to Peter Todd</a>:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/Hack.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/Hack.png" />
 
 <p>We Will be following and updating as the story unfolds.</p>
 <p><strong>Article Source</strong>: <a href="http://www.wired.com/2014/09/satoshi" target="_blank">http://www.wired.com/2014/09/satoshi</a>Thanks to this <a href="http://www.reddit.com/r/Bitcoin/comments/2fw4fy/satoshi_hacked_the_story_so_far/" target="_blank">Reddit post</a></p>

@@ -56,10 +56,10 @@ Posted by: DeepDotWeb
 <p><strong>===End Quote===</strong></p>
 <p>The community seems to a bit hesitant to believe what he says, for a good reason, but at the same time would like to hold any shred of hope that things will get better for silk road 2.0, as far as i see it now, there is no real need to comment about it until the admins will show some real progress with creating a stable market using multi-sig escrow system (at least)</p>
 <p>When he was asked some more questions he offered further explanations:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/defcon2.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/defcon2.png" />
 
 <p>He even went con claiming the marketplace should be operational again in the next few days:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/defcon3.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/defcon3.png" />
 
 <p>Needless to say that most users are not convinced at this point.</p>
 <p>We Wish all parties involved good luck, and future safe conduct.</p>

@@ -17,13 +17,13 @@ Posted by: DeepDotWeb
     BMR was kinda smart designed on the background, to be honest there were no roles defined. A moderator is a moderator.</p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/utopiagun.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/utopiagun.png">
 
 <p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
 <p>I don&#8217;t know how backopy is doing at this moment. The judges asked me the same question, I told them he is doing fine&#8230; That&#8217;s kinda based on no thing , but i think he is really doing fine preparing for the next steps. Hope to hear from him in the future. I was jailed so didn&#8217;t notice the takedown of the BMR forum.. Why should anyone take down an discussion forum nothing going on there, but some east European country are retarded so its plausible.</p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/mods.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/mods.png">
 
 <p><strong>Can you give us the full background of Utopia creation? (Why? By who, which mods? etc&#8230;) Did Backopy had any role there?</strong></p>
 <p>I and another PHP programmer were the developers of Utopia. Backopy was an admin on the utopia forum because we defined him as admin he had no role whatsoever.</p>
@@ -35,7 +35,7 @@ Posted by: DeepDotWeb
 <p>This is a very big case in the Netherlands. I was sentenced for 3 year but in higher courtroom they gave a RuudNL mod on BMR has 5 years LeContog is in the Netherlands he has 6 years. In the Netherlands they will be free in 2 years. RuudNL is almost free. So don&#8217;t be shocked by the jail times they are fictif to shock others.</p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/rundnl.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/rundnl.png">
 
 <p><strong>What are you doing today?</strong></p>
 <p>I&#8217;m running a Cannabis apotheca . Only medicinal Cannabis which is high in Cannabidiol (CDD). Helping people to get rid of their symptoms were the regular medication failed.</p>
@@ -46,14 +46,14 @@ Posted by: DeepDotWeb
 <p><strong>As it shows in the document you were planning on launching a DarkNet Market called Agora&#8230;?</strong></p>
 <p>LeContog came up with that name but it was already an upcomin market.. So he decided else.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/agora12.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/agora12.png">
 
 <p><strong>How did they find the server?</strong></p>
 <p>There were 3 servers , they found them by Jeroen Teeninga, another programmer.  It took them 10 days to find the servers we kept our mouth shut LeContog talked to the German Recherche.</p>
 <p><strong>What was you sentenced for?</strong></p>
 <p>Me; Producing Dimethyltraptamine (*DMT), selling weapons and selling drug. Drug for own use is legal in the Netherlands.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/CosanostraDMT.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/CosanostraDMT.png">
 
 <p><strong>How did they learn about your real identity?</strong></p>
 <p>They found me by RuudNL telephone taps. They infiltrated Utopia which was not my site i just got paid for building it , i did i for the money. Only the programmers knew the server locations.</p>

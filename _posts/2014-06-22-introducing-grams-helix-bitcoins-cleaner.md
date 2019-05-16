@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <p><strong>How is it different?</strong><br />
     The Helix process uses a new proprietary technology which has never been used before with bitcoin tumbling. The coins are not just mixed but traded out for new ones before mixing. I can&#8217;t go into specifics for security reasons, but I can assure you the helix system will sever the blockchain taint and by giving you new coins which have not been through <a href="/2014/04/08/grams-darknetmarkets-search-engine/">grams</a> or the darknet. I have been using this systems for all the bitcoins that have come in to grams since the beginning. After seeing shared coin go down I figured I should make it public.</p>
 <p>Grams has been using this system for a while on the back-end. Every bitcoin loaded in a Grams account starts the process as soon as it arrives. This we we build up a reserve of clean bitcoins which are ready on demand for smaller orders. The helix process has a maximum process time of 4 hours. So even without reserves you will start receiving your bitcoins in a timely manner.</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/06/helix-account.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/helix-account.png" />
 
 <p><strong>How to use?</strong><br />
     Helix is easy to use since it is integrated in to your normal Grams&#8217; account. Load bitcoins in to your account as you normally do. You will find a Helix withdraw form on your account bitcoin page. Once you put in the amount you wish to withdraw and the address to send to the system with start the process and use the coins already in your Grams&#8217; account.</p>

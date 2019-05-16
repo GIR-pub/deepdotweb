@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 <p>Better late than never, but justice has been served &#8211; According to a report in <a href="http://archiv.ihned.cz/c1-63752430-jak-se-praly-bitcoiny-miliony-z-ciziny-vila-napsana-na-dedecka">archiv.ihned.cz</a>,  The owner of Sheep Marketplace <span class="notranslate">Thomas</span> <span class="notranslate">Jiřikovský </span>&#8211; who was responsible to one the <a href="/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">biggest exit scam in Dark net history</a> of around $40M at the time (when the Bitcoin value was extremely high)  was arrest for money laundering after purchasing a luxury house and trying to launder the stolen money, after converting it from BTC, using fake companies and transferring it to his girlfriend account.</p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/jarvis_55145454e4b0336d5f6163ca1.jpeg">
 <p><span style="text-decoration: underline;"><strong>Full Translation of the Czech article:</strong></span></p>
 <p><span style="text-decoration: underline;">Credit for the translation and the notes: <a href="http://www.reddit.com/user/karelb">/u/karelb</a>  &#8211; who was also among the first investigators <a href="/2013/11/30/sheep-owner-just-got-doxxed/">to identify</a> Thomas as the owner of sheep, shortly after the scam (Eva&#8217;s denial can be found <a href="http://www.reddit.com/r/SheepMarketplace/comments/1rxjsc/ji%C5%99ikovsk%C3%BDs_girlfriend_made_a_statement_on_her/">here</a>).</span></p>
 <p><span style="text-decoration: underline;">Notes about the translation:</span></p>
@@ -27,7 +27,7 @@ Posted by: DeepDotWeb
 <p>Laundered house: villa in Lužice [&lt;- a small town] is, according to police, a &#8220;proceed of crime&#8221;. It was supposedly used for laundering dirty money. That&#8217;s why police seized it.</p>
 <p>Last year in January, a new bank account of 26-years old Eva Bartošová had a payment, that made Air Bank (Czech Bank) safety controls flash (an idiom). Almost 900 thousand Crowns from a foreign company that exchanges virtual bitcoins into real money.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/2.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/2.png">
 
 <p>The young woman could not credibly explain to the bank officers the source of the money. Only additional investigation revealed that millions already went using this road. And that behind it was a certain Tomáš Jiřikovský, that was connected by amateur internet investigators with stealing money from web marketplace Sheep Marketplace, where people traded in large numbers with the bitcoin currecy. The damage was described by the operators of the marketplace as more than 100 million.</p>
 <p>(My note to the above: as I said, the article is confused.)</p>
@@ -54,11 +54,11 @@ Posted by: DeepDotWeb
 <p>Full details about the Sheep marketplace scam can be <a href="/?s=sheep+dox">found here</a> (among some other details)</p>
 <p>This was the doxxed owner of sheep that turned out to be the real person behind the market:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/Atj08RFh1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/Atj08RFh1.png">
 
 <p>In Dec-2013, during a media interview &#8211; <a href="http://translate.google.com/translate?sl=cs&amp;tl=en&amp;js=n&amp;prev=_t&amp;hl=cs&amp;ie=UTF-8&amp;u=http%3A%2F%2Fbyznys.lidovky.cz%2Fobral-drogove-dealery-o-miliony-cech-jsem-nevinny-brani-se-programator-1md-%2Ffirmy-trhy.aspx%3Fc%3DA131206_112108_firmy-trhy_mev&amp;act=url">Thomas denied</a> being the person responsible for the Sheep Marketplace scam, Thomas was never arrested until know, even though that his name details were well known and reported to the Czech police soon after the scam.</p>
 <p>Some more pictures of the house he bought using the stolen BTC:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/house1.jpeg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/house1.jpeg">
 
 Updated: 2015-03-27

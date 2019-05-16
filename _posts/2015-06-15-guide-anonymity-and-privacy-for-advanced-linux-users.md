@@ -111,7 +111,7 @@ sudo ufw status</textarea></div>
 <p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/ufwbasics21.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/ufwbasics21.png">
 
 <p>you can see I’ve blocked some specific ports in this example</p>
 <p>For more advanced configuration <a href="https://help.ubuntu.com/community/UFW">visit</a>.</p>
@@ -125,7 +125,7 @@ sudo apt-get install macchanger
 <p>
     With macchanger-gtk</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/macchanger-gtk1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/macchanger-gtk1.png">
 
 <p>heck your current mac addresses for future reference</p>
 macchanger eth0
@@ -225,55 +225,55 @@ sudo nano /etc/network/if-post-down.d/random-mac</textarea></div>
 <p><strong>How to create a hidden encrypted volume with Veracrypt</strong></p>
 <p>Select Create Volume</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt11.png">
 
 <p>Select Create an Encrypted File Container</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt21.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt21.png">
 
     Select Hidden Veracrypt volume</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt31.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt31.png">
 
     Choose volume location and select never save history:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt41.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt41.png">
 
     Select your encryption algorithm, <span class="caps">AES</span> is fine, but you may chose more secure<br/>
     Select Hash Algorithm, <span class="caps">SHA</span>-512 is sufficient</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt51.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt51.png">
 
     Select Use Key files and click the key files box… <strong>optional:</strong></p>
 <p>&nbsp;</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt61.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt61.png">
 
     Generate save the new key.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt71.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt71.png">
 
     Click add files and add the key<br/>
     Click Generate Random Keyfile box if you want another key<br/>
     You may also use existing keys:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt81.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt81.png">
 
     Click format to create the volume that will be visible:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt101.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt101.png">
 
     Now it’s recommended to load this volume with contents that appear sensitive</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt111.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt111.png">
 
     You will follow the same steps, remember this is the hidden volume consider it’s security most important.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt121.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt121.png">
 
     When complete you will see this warning, read it carefully.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/veracrypt131.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/veracrypt131.png">
 
 <h2>Browsers</h2>
 <h3>Tor Browser</h3>
@@ -287,49 +287,49 @@ cd tordirectory
 <p>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/starttor1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/starttor1.png">
 
 <p>Forbidding javascript and other elements can make web browsing less convenient, but by allowing more elements you open yourself to potential vulnerabilities. It’s best to find the best possible security setting you can withstand while the web browsing experience is still functional.</p>
 <p><strong>Configuring Security Settings</strong></p>
 <p>Privacy and security settings can be easily configured. Click on the Onion in the top left.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/toronion_large1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/toronion_large1.png">
 
 <p>Select “Privacy and Security Settings” Adjust the slider to your desired level of security.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torprivacysettings1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torprivacysettings1.png">
 
 <p><strong>Noscript basics</strong></p>
 <p>Depending on your security level selected in Tor, Noscript may not provide any advantage. That main advantage of Noscript is it’s easier to tailor allowing on specific sites, or for specific elements on the fly. Click the S in the Top Left next to the Tor Onion symbol and select forbid scripts globally. You should see a red line across the S. If you allow specific sites, you should check that the red line is there for those you do not allow. Allowing only specific sites may create a fingerprint of your activity. There are some advanced settings under options worth taking a look at.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tornoscripts_large1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tornoscripts_large1.png">
 
 <h2>Tor bridge</h2>
 <p>in some cases if Tor is blocked or you wish to conceal the use of Tor a bridge can be configured. This makes it more difficult for an <span class="caps">ISP</span> to detect Tor. Bridges can help avoid censorship, and if your <span class="caps">ISP</span> Blocks Tor Traffic it is much more difficult to detect the nature of the traffic unless deep packet inspection is employed. It’s one of those things that since it’s there, might as well set it up as a per-cautionary measure and see if your connection is still, reliable and fast enough for your standards.</p>
 <ul>
 <li>Click Open Settings on the Pop-up Connection Box
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torconnectionpopup1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torconnectionpopup1.png">
 
 </a></li>
 <li>Click configure<br/>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torconfigurebridge1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torconfigurebridge1.png">
 
 <li>Select Yes to <span class="caps">ISP</span> Censors or Blocks
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torispblocks1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torispblocks1.png">
 
 <li>obfs3 is fine, see below for information on other options.<br/>
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torselectbridge1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torselectbridge1.png">
 
 <li>Most likely just skip use a local proxy</li>
 <li>Click connect
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torconnectbridge1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torconnectbridge1.png">
 
 </ul>
 <p>Optionally if Tor is already started you can:</p>
@@ -338,7 +338,7 @@ cd tordirectory
 <li>Open Network Settings</li>
 <li>check My <span class="caps">ISP</span> Blocks Connections and hit OK.
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/torbridgeselect1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/torbridgeselect1.png">
 
 <li>Use obfs 3 which is recommended, see next section on other types.</li>
 </ul>
@@ -349,7 +349,7 @@ cd tordirectory
 <p><strong>Optional Configuration:</strong></p>
 <p>In the <span class="caps">URL</span> Bar enter: about:config</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/aboutconfigbasics1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/aboutconfigbasics1.png">
 
 <ul>
 <li>geo.enabled = false</li>
@@ -443,11 +443,11 @@ cd tordirectory
 </ul>
 <p>If you have issue connecting to .i2p addresses check configuration by visiting: localhost:7657/confignet</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/networksettings1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/networksettings1.png">
 
 <p>One main issue is your firewall or router is blocking connections. Click networking.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/ports1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/ports1.png">
 
 <p>Basic port unblocking</p>
 <p>IP Tables</p>
@@ -491,7 +491,7 @@ cd tordirectory
     proxies etc……</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/proxychains1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/proxychains1.png">
 
 <p>You will need to search for public socks proxy lists to populate.</p>
 <p>start firefox in terminal: proxychains firefox</p>
@@ -514,51 +514,51 @@ cd tordirectory
 </ol>
 <p>Click new in the top left:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails11.png">
 
     Name your VM and select Linux 64bit or 32bit depending on which you downloaded:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails21.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails21.png">
 
     Set memory size at least 1024 for smooth performance</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails31.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails31.png">
 
     Create a virtual hard drive</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails41.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails41.png">
 
     VDI</span> Image is suitable</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails51.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails51.png">
 
     You can select dynamically allocated and set a starting amount at a couple gigabytes</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails61.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails61.png">
 
     Select the image and click start</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails81.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails81.png">
 
     Select the location of the .iso file you downloaded.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails71.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails71.png">
 
     Once started go to Applications→Tails→Tails Installer</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails91.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails91.png">
 
     Make sure the <span class="caps">USB</span> Drive is present you will see a green plus, over the usb icon in this image</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails101.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails101.png">
 
     Select clone and install and follow the steps for installation</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails111.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails111.png">
 
     Once you’ve started tails you can create a persistent volume to store static content</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/tails121.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/tails121.png">
 
 <ol>
 <li>Next reboot you will be prompted if you wish to use persistent or not, only use when necessary.</li>
@@ -574,27 +574,27 @@ cd tordirectory
 </ol>
 <p>Click file import appliance and select the Whonix Gateway .ova file:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/whonix11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/whonix11.png">
 
     Keep the settings default and click import</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/whonix21.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/whonix21.png">
 
     Repeat for workstation, select the .ova</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/whonix31.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/whonix31.png">
 
     Import without changing settings</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/whonix41.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/whonix41.png">
 
     Select both and start both at the same time.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/whonix51.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/whonix51.png">
 
     Once workstation has finished booting you will see this screen.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/whonix61.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/whonix61.png">
 
 <p>You will keep both VM Windows open but all activities will be within the Whonix-Workstation VM Window</p>
 <h3>Base System</h3>
@@ -619,7 +619,7 @@ cd tordirectory
     sudo apt-get install bleachbit<br/>
     sudo bleachbit</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/bleachbit11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/bleachbit11.png">
 
 <p>You can “Shred” files and folders from the file menu, and wipe free space, which may remove excess data that still exists, without pointers.<br/>
     file→Shred files<br/>
@@ -770,22 +770,22 @@ sudo sdmem</textarea></div>
 <p>If you open gpa it will guide you through creating your first key<br/>
     don’t put real information unless intended, obviously
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/gpa11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/gpa11.png">
 
     Click the clipboard</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/gpa71.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/gpa71.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/gpa81.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/gpa81.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/gpa91.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/gpa91.png">
 
     You will now see an encrypted message.<br/>
     To decrypt a message click the mail icon with the key, and it will allow you to choose the appropriate key.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/06/gpa101.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/gpa101.png">
 
 <p><strong>More details on <span class="caps">GPA</span></strong></p>
 <p>Exporting/Importing Public Key<br/>

@@ -21,20 +21,20 @@ Posted by: DeepDotWeb
 <p><strong>#Virtualbox</strong></p>
 <p>Virtualbox allows you to run other operating systems on top of your current one, kind of like an emulator. This is what we&#8217;ll be using to boot Tails so we wont have to reboot during the install. Head over to the <strong><a href="http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html#vbox">download page</a></strong> and select the download appropriate for your current OS.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails002.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails002.png">
 
 <p>After downloading, install it like you would any other program. Open it up and you should see the following screen.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails003.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails003.png">
 
 <p><strong>#Virtualbox Extensions</strong></p>
 <p>This is what will allow the USB stick to communicate with our guest OS, which will allow us to install the live system without needing to reboot. Go to the <strong><a href="http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html#extpack">download page</a></strong>, and download the extension pack for the most recent version. When it&#8217;s finished downloading, double click it to open it with Virtualbox.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails004.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails004.png">
 
 <p>The above should appear. Click install, follow through with the install process. If successful you should see the following window appear.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails005.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails005.png">
 
 <p>We&#8217;re done with Virtualbox for now. We&#8217;ll come back to it later when setting up the virtual machine.</p>
 <p><strong>Part 2 – Downloading and verifying Tails</strong></p>
@@ -42,53 +42,53 @@ Posted by: DeepDotWeb
 <p>If you want to know more check out the <strong><a href="https://tails.boum.org/about/index.en.html">&#8216;About&#8217; page</a></strong>, and it would also be a good idea to read over the <strong><a href="https://tails.boum.org/doc/about/warning/index.en.html">&#8216;Warning&#8217; page</a></strong> to get a better idea about what Tails can and cannot do.</p>
 <p><strong>#Downloading</strong></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails006.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails006.png">
 
 <p>Next you&#8217;re going to want to download the &#8216;signing key&#8217; from <strong><a href="https://tails.boum.org/download/index.en.html#verify">this link</a></strong>. Import the key into your PGP program of choice. We&#8217;ll be verifying the .iso by checking the PGP signature. If you don&#8217;t know how to use PGP, check out the guides we have for <strong><a href="/2015/02/17/basic-guide-pgp-linux/">GNU/Linux</a></strong>, <strong><a href="/2015/02/20/pgp-tutorial-os-x/">OS X</a></strong>, and <strong><a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">Windows</a></strong>.</p>
 <p><strong>#Verifying</strong></p>
 <p>Verifying the ISO is an important step. We want to make sure what we&#8217;re getting is actually from the Tails project. Like the intro said, we&#8217;ll be using the command line in Linux Mint . If you&#8217;re using Windows or OS X check out <strong><a href="https://tails.boum.org/download/index.en.html#index3h1">this link for instructions</a></strong>.</p>
 <p>First we need to import the Tails signing key. Change into the directory where you saved it, then import the key into GPG. Once it&#8217;s imported, the output from gpg should reflect that. Take a look at the below picture to make sure you did this step right. If you get an error saying “gpg: no ultimately trusted keys found” this means that you haven&#8217;t created your own keypair yet. This is fine just for verifying the .iso file, you can ignore it.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails009.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails009.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails010.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails010.png">
 
 <p><strong>Part 3 – Booting the .iso</strong></p>
 <p>Now that we&#8217;ve confirmed the .iso is genuine we can install it on the USB stick.</p>
 <p><strong>#Creating the virtual machine</strong></p>
 <p>Open up VirtualBox and plug in your USB stick. The first thing you&#8217;re going to do is click where it says &#8216;New&#8217; in the top left corner, which should open a window titled &#8216;Create Virtual Machine&#8217;. Create a name, select &#8216;Linux&#8217; as type, and version as &#8216;Linux 2.6 / 3.x (32 bit). See picture for an example.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails011.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails011.png">
 
 <p>The next screen will ask if you want to reate a virtual hard drive. Since we&#8217;ll be booting the .iso directly, there&#8217;s no need to create a hard drive. So click &#8216;Do not add virtual hard drive&#8217;, then click &#8216;Create&#8217;.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails012.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails012.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails013.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails013.png">
 
 <p>In order for Tails to boot properly and recognize the USB stick we need to edit some settings. Click on the virtual machine, then click &#8216;Settings&#8217; up at the top. The following window should appear.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails014.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails014.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails015.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails015.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails016.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails016.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails017.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails017.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails018.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails018.png">
 
 <p><strong>Part 4 – Tails on USB</strong></p>
 <p><strong>#Installing</strong></p>
 <p>I hope you aren&#8217;t bored yet, we&#8217;re almost done. Click on &#8216;Applications&#8217;, then &#8216;Tails&#8217;, then &#8216;Tails Installer&#8217;. You&#8217;ll see the following window. Click on &#8216;Clone &amp; Install&#8217;, and you should see something like the second picture.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails019.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails019.png">
 
 <p>Your USB drive should already be selected for the &#8216;Target Device&#8217;, if not do so. Then click &#8216;Install Tails&#8217;. It will confirm that you want to install Tails on the USB drive. Do so, then click &#8216;Yes&#8217;. This will take several minutes, and you&#8217;ll be able to see what part the installer is at during the process. Once finished, a pop up will appear reflecting such. Click &#8216;OK&#8217; to close the installer.</p>
 <p>Tails is now installed on the USB drive. The last thing we need to do is configure it.</p>
@@ -97,16 +97,16 @@ Posted by: DeepDotWeb
 <p>Follow the same steps as above. Select &#8216;Live System&#8217;, then keep &#8216;No&#8217; highlighted and click &#8216;Login&#8217;. You&#8217;ll now be at the Tails desktop.</p>
 <p>The first thing we&#8217;ll do is set up persistent storage. This will take up the rest of the free space on your USB drive. Go to &#8216;Applications&#8217;, &#8216;Tails&#8217;, then click &#8216;Configure persistent volume&#8217;. The following window should appear. You&#8217;ll want to create a strong password, confirm it, then click &#8216;Create&#8217;. This will take several minutes.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails021.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails021.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails022.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails022.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails023.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails023.png">
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/tails024.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tails024.png">
 
 <p>To access the internet through the Tor network, just click on the green globe icon on the left of the system tray. You will also want to disable scripts globally, which you can do by clicking on the NoScript icon to the left of the URL bar. There is also a so-called &#8216;Unsafe Web Browser&#8217; which you can use if you need to get on a website that doesn&#8217;t allow Tor connections. You can find that by going to &#8216;Applications&#8217; then &#8216;Internet&#8217;.</p>
 <p><strong>#Bitcoin Wallet</strong></p>

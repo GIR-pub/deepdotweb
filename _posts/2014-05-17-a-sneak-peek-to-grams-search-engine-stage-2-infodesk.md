@@ -13,13 +13,13 @@ Posted by: DeepDotWeb
 <p>The whole system is only about 60% done but I think when it is done and I launch stage 2. Users will be able to get all the info they need straight from grams to make an informed decision about buying from a certain vendor.</p>
 <p>Anyways I got about 2 weeks until &#8220;stage 2&#8221; is done.</p></blockquote>
 <p><strong>Here are some screenshots from the new infodesk:</strong></p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/4he9g.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/4he9g.png" />
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/itxa4.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/itxa4.png" />
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/n65fv.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/n65fv.png" />
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/wn4g5.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/wn4g5.png" />
 
 
 Updated: 2014-05-17

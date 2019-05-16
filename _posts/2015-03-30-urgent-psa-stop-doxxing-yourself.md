@@ -19,7 +19,7 @@ Posted by: DeepDotWeb
 <li>Their social network profiles</li>
 </ul>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/fruit.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/fruit.png">
 
 <strong>Whatever it is, WE DON&#8217;T WANT TO KNOW. <span style="text-decoration: underline;">PLEASE STOP</span>!</strong> For the seriously low hanging fruits among you, i will be more specific:</p>
 <ol>

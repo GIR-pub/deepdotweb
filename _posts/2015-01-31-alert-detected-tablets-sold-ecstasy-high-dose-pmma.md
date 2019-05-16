@@ -20,11 +20,11 @@ Posted by: DeepDotWeb
 <p><em>Energy Control is a project from an NGO that emerged in 1997 as a pioneer project in Spain in the area of reducing the risks associated with recreational drug use, having since received recognition from numerous government administrations (European, state, community and local), health professionals and, most of all, users.</em></p>
 <p>Images of the pills:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/01/superman.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/superman.jpg">
 
 </a> 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/01/Superman2.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/Superman2.jpg">
 
 
 Updated: 2015-01-31

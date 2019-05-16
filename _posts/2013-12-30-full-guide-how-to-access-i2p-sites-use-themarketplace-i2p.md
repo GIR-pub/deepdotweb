@@ -153,17 +153,17 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li>You will be presented with the I2P command box:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/3.png" rel="lightbox"> <img class="alignnone  wp-image-3226" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/31.png" alt="3" width="674" height="340" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/3.png" rel="lightbox"> <img class="alignnone  wp-image-3226" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/31.png" alt="3" width="674" height="340" />
 
 <ol>
 <li>followed shortly by your default browser opening with the I2P web interface:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/41.png" rel="lightbox"> <img class="alignnone size-full wp-image-3238" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/41.png" alt="4" width="800" height="800" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/41.png" rel="lightbox"> <img class="alignnone size-full wp-image-3238" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/41.png" alt="4" width="800" height="800" />
 
 <p>7-At this point it takes I2P several minutes to initialise and find the necessary connections to other participants in the network. Click the I2P logo in the top left hand corner (market in red in the screenshot below) to change the management bar to reflect the details of your I2P connection. You may need to click twice before the full management view is visible.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/51.png" rel="lightbox"> <img class="alignnone size-full wp-image-3239" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/51.png" alt="5" width="206" height="907" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/51.png" rel="lightbox"> <img class="alignnone size-full wp-image-3239" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/51.png" alt="5" width="206" height="907" />
 
 <p>Once the management bar is visible look down and once you see <b>Network: OK</b> (in the green box in the above screenshot), you are connected to the I2P network. The lower box that says “Rejecting tunnels: starting up” will eventually change to “Accepting tunnels”. You can optionally wait for this stage if you want to ensure you are a full participant in the I2P network. It can take about 30 minutes. 8. Now that I2P has loaded, you need to configure your browser in order to access the marketplace. As indicated in the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#prerequisites">pre-requisites</a>, we’ll be using <b>Mozilla Firefox</b>. The next stage is therefore to install <b>Mozilla Firefox</b> and the <b>QuickJS</b> and <b>FoxyProxy</b> extensions. 9. Once you have installed <b>Mozilla Firefox</b> and the extensions, you should see two new icons in the browser: <a href="/wp-content/uploads/2014/01/61.png" rel="lightbox"> <img class="alignnone size-full wp-image-3240" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/61.png" alt="6" width="1011" height="80" /> </a> 10. Click the <b>FoxyProxy</b> icon to bring up the configuration window: <a href="/wp-content/uploads/2014/01/7.png" rel="lightbox"> <img class="alignnone size-full wp-image-3242" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/71.png" alt="7" width="721" height="465" /> </a></p>
 <p>Ensure the window looks like the screenshot above and select <b>Add New Proxy</b> from the menu on the left side. When the <b>Proxy Settings</b> window is displayed, choose the <b>Proxy Details</b> tab and enter <b>127.0.0.1</b> in the <b>Host or IP Address</b> box and <b>4444</b> in the <b>Port</b> box: <a href="/wp-content/uploads/2014/01/8.png" rel="lightbox"> <img class="alignnone size-full wp-image-3243" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/8.png" alt="8" width="820" height="647" /> </a></p>
@@ -175,10 +175,10 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li>In the address bar of <b>Mozilla Firefox</b> enter <b>http://themarketplace.i2p</b> – The I2P network will then wander off to try and route your connection. It is likely that you will receive a window saying <b>Warning Eepsite Not Found in Addressbook</b>. When this appears, click the <b>stats.i2p jump service</b> link.</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/11.png" rel="lightbox"> <img class="alignnone size-full wp-image-3247" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/111.png" alt="11" width="1018" height="870" /> </a> When this returns, you should receive a <b>Success</b> window like the one below. <a href="/wp-content/uploads/2014/01/12.png" rel="lightbox"> <img class="alignnone  wp-image-3248" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/121.png" alt="12" width="1018" height="870" /> </a> You will be automatically directed to save the address to your router configuration (see screenshot below), when this window displays choose <b>Save themarketplace.i2p to router address book and continue to eepsite</b>. It may take several attempts to get this process to happen. You only need to do this once though, when you navigate to <b>http://themarketplace.i2p</b> in future, it should route you directly. <a href="/wp-content/uploads/2014/01/13.png" rel="lightbox"> <img class="alignnone size-full wp-image-3249" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/141.png" alt="14" width="1006" height="520" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/11.png" rel="lightbox"> <img class="alignnone size-full wp-image-3247" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/111.png" alt="11" width="1018" height="870" /> </a> When this returns, you should receive a <b>Success</b> window like the one below. <a href="/wp-content/uploads/2014/01/12.png" rel="lightbox"> <img class="alignnone  wp-image-3248" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/121.png" alt="12" width="1018" height="870" /> </a> You will be automatically directed to save the address to your router configuration (see screenshot below), when this window displays choose <b>Save themarketplace.i2p to router address book and continue to eepsite</b>. It may take several attempts to get this process to happen. You only need to do this once though, when you navigate to <b>http://themarketplace.i2p</b> in future, it should route you directly. <a href="/wp-content/uploads/2014/01/13.png" rel="lightbox"> <img class="alignnone size-full wp-image-3249" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/141.png" alt="14" width="1006" height="520" />
 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/14.png" rel="lightbox"> <img class="alignnone size-full wp-image-3250" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/151.png" alt="15" width="673" height="651" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/14.png" rel="lightbox"> <img class="alignnone size-full wp-image-3250" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/151.png" alt="15" width="673" height="651" />
 
 <ol>
 <li>Select the <b>[Register]</b> button to begin the registration process. As part of this process you will need to supply a PGP encryption key. This ensures that all correspondence between you and any other vendors of the site is encrypted. If you have already got a PGP public key, you can paste it in here and skip past the following steps, if not – you need to install the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#prerequisites">GPG4Win 2.2.1</a> package listed in the prerequisites and follow the instructions below to create your key.</li>
@@ -187,7 +187,7 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li>When the <b>Generate key</b> wizard displays, enter your username that you intend to use on The Marketplace:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/15.png" rel="lightbox"> <img class="alignnone  wp-image-3251" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/16.png" alt="16" width="692" height="630" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/15.png" rel="lightbox"> <img class="alignnone  wp-image-3251" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/16.png" alt="16" width="692" height="630" />
 
 <ol>
 <li>Click <b>[Forward]</b> and enter a fake email address of {THE-MARKETPLACE-USERNAME}@themarketplace.i2p, E.g. <b><a class="__cf_email__" href="http://www.cloudflare.com/email-protection" data-cfemail="c6b2abb6b2a3b5b2a7a5a5a9b3a8b286b2aea3aba7b4ada3b2b6aaa7a5a3e8aff4b6">[email protected]</a><script type="text/javascript">// <![CDATA[
@@ -198,7 +198,7 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li>You’ve now created the keys you need for your <b>The Marketplace</b> registration, now to export the keys. Right click your new key and select <b>Export Keys…</b> from the menu</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/16.png" rel="lightbox"> <img class="alignnone size-full wp-image-3253" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/17.png" alt="16" width="696" height="638" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/16.png" rel="lightbox"> <img class="alignnone size-full wp-image-3253" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/17.png" alt="16" width="696" height="638" />
 
 <ol>
 <li>You will be prompted to save the public portion of your key (this is the bit you can circulate to anyone so they can encrypt communications for you) to a file. Choose a location on your hard disk E.g. c:\temp\tmp\mypubkey.txt</li>
@@ -206,7 +206,7 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li id="checkout">You will now be logged in. Click the <b>Products</b> link from the menu bar and shop for some legal, medicinal remedies. Once you’ve chosen, lets cover how you actually pay for your item… Navigate to your cart and click the <b>[Checkout]</b> button</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/17.png" rel="lightbox"> <img class="alignnone size-full wp-image-3254" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/18.png" alt="18" width="745" height="446" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/17.png" rel="lightbox"> <img class="alignnone size-full wp-image-3254" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/18.png" alt="18" width="745" height="446" />
 
 <p>Your order will now be created and require payment. <b>The Marketplace</b> is unique in that it requires multi-signature transactions, which basically means that you, the vendor and TMP Staff all have keys to your transaction, <b>but</b> in order for any one person to claim it, two of you have to agree. This ensures that the TMP staff can’t walk away with your (or the vendors) money. It would require either collusion between the TMP staff and the vendor, or yourself – either way, the potential damage is limited. On the screen under <b>Order requires payment</b> choose <b>Please click here to create the escrow address</b> <a href="/wp-content/uploads/2014/01/18.png" rel="lightbox"> <img class="alignnone size-full wp-image-3255" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/19.png" alt="18" width="914" height="349" /> </a></p>
 <p>You will now be requested to enter the <b>Public Key</b> that will be used to create the new wallet to which you will send funds. The terminology says “wallet”, but what it actually means is: “create a new Bitcoin Deposit Address that is unique to this order and to which you will pay your Bitcoins”. Each order will involve creating a different Bitcoin Address, unique to that order into which you will deposit your cash to pay for your order. <a href="/wp-content/uploads/2014/01/19.png" rel="lightbox"> <img class="alignnone  wp-image-3256" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/20.png" alt="19" width="905" height="322" /> </a></p>
@@ -217,27 +217,27 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li>Highlight the <b>Public Key (130 characters [0-9A-F]):</b> value and copy it to your clipboard.</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/21.png" rel="lightbox"> <img class="alignnone size-full wp-image-3258" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/221.png" alt="21" width="1016" height="501" /> </a>Return to <b>The Marketplace</b> and paste this into the <b>Public key (SEC)</b> box and click <b>[Create escrow address]</b> <a href="/wp-content/uploads/2014/01/22.png" rel="lightbox"> <img class="alignnone size-full wp-image-3259" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/23.png" alt="22" width="931" height="311" /> </a> Your single use Bitcoin Deposit Address will now be created: <a href="/wp-content/uploads/2014/01/23.png" rel="lightbox"> <img class="alignnone size-full wp-image-3260" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/24.png" alt="23" width="889" height="458" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/21.png" rel="lightbox"> <img class="alignnone size-full wp-image-3258" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/221.png" alt="21" width="1016" height="501" /> </a>Return to <b>The Marketplace</b> and paste this into the <b>Public key (SEC)</b> box and click <b>[Create escrow address]</b> <a href="/wp-content/uploads/2014/01/22.png" rel="lightbox"> <img class="alignnone size-full wp-image-3259" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/23.png" alt="22" width="931" height="311" /> </a> Your single use Bitcoin Deposit Address will now be created: <a href="/wp-content/uploads/2014/01/23.png" rel="lightbox"> <img class="alignnone size-full wp-image-3260" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/24.png" alt="23" width="889" height="458" />
 
 <p>Send the exact amount required to this address using the Bitcoin QT client (or Electrum if you are using it) and record the transaction ID. To do this, open Bitcoin-QT and click the <b>[Send]</b> button. Copy the details carefully from <b>The Marketplace</b> order window and send the required funds. You can use the <b>Label:</b> field if you are using Bicoin-QT to record the Private Key you generated in Step 24 for your order (it’s only visible to you). This makes it easier to find the key you need in the event of a refund you need to claim. The format <b>{FRIENDLY-LABEL}</b> – PRIV KEY: <b>{REPURPOSED-BTC-ADDRESS-PRIVATE-KEY}</b> ADDRESS: <b>{REPURPOSED-BTC-ADDRESS}</b> works well.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/24.png" rel="lightbox"> <img class="alignnone size-full wp-image-3261" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/25.png" alt="24" width="819" height="224" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/24.png" rel="lightbox"> <img class="alignnone size-full wp-image-3261" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/25.png" alt="24" width="819" height="224" />
 
 <ol>
 <li>Once the funds have been sent, you need to retrieve the transaction id so that <b>The Marketplace</b> knows that you’ve paid. In Bitcoin-QT, click the <b>[Transactions]</b> button, simply highlight the recent transaction you’ve just made, right click and select <b>Copy transaction id</b>. The transaction will be copied to your clipboard.</li>
 <li>Return to <b>The Marketplace</b> and paste the transaction ID into the box and click <b>[Record transaction]</b>. <b>Note:</b> Ensure you strip off the “-000″ that Bitcoin-QT appends so for example: <b>8512e2728ca2153be0809d1252ecd8dfc6833a53fbfe1f8ba6f64ae19eaed663-000</b> you remove the <b>-000</b> so it’s just <b>8512e2728ca2153be0809d1252ecd8dfc6833a53fbfe1f8ba6f64ae19eaed663</b> before clicking <b>[Record transaction]</b>.</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/25.png" rel="lightbox"> <img class="alignnone size-full wp-image-3263" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/26.png" alt="25" width="857" height="194" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/25.png" rel="lightbox"> <img class="alignnone size-full wp-image-3263" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/26.png" alt="25" width="857" height="194" />
 
 <p><b>The Marketplace</b> will now take over and monitor the transaction. Once it reaches the required number of confirmations, it will be forwarded to the vendor for processing. Note: You can cancel the transaction even after it has been paid but before it has been passed to the vendor. For more information on refunds and how to claim one, see the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#refunds">Refunds</a> section. But we’re not done quite yet! Finally, you need to set your address so the vendor knows when to send your order. Click the <b>[Set Address]</b> button.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/26.png" rel="lightbox"> <img class="alignnone  wp-image-3265" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/27.png" alt="26" width="888" height="122" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/26.png" rel="lightbox"> <img class="alignnone  wp-image-3265" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/27.png" alt="26" width="888" height="122" />
 
 <p><b></b>You now need to encrypt your delivery address, and send it to the vendor. In the top right hand of the screen, click the <b>[View vendors PGP Key]</b> <a href="/wp-content/uploads/2014/01/27.png" rel="lightbox"> <img class="alignnone size-full wp-image-3266" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/28.png" alt="27" width="898" height="389" /> </a></p>
 <p>A new window will open and inside will be the vendors PGP public key, which you use if you want to send them any correspondence. Copy the text contents of this window to your clipboard, open Notepad (or your favourite text editor), paste it in and save the file to somewhere on your hard-disk, E.g. C:\temp\tmp\myvendorpubkey.txt</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/28.png" rel="lightbox"> <img class="alignnone size-full wp-image-3267" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/29.png" alt="28" width="557" height="612" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/28.png" rel="lightbox"> <img class="alignnone size-full wp-image-3267" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/29.png" alt="28" width="557" height="612" />
 
 <ol>
 <li>You can close the browser tab once you’ve saved the key. Just keep the tab that requires your delivery address open.</li>
@@ -245,12 +245,12 @@ title: "Full guide: How to access I2p sites &#038; Use TheMarketplace.i2p"
 <li>Click the <b>[Import]</b> button on the toolbar, and navigate to where you saved the vendors public key you just copied from your browser. The key will be imported and you should see it listed:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/29.png" rel="lightbox"> <img class="alignnone size-full wp-image-3268" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/30.png" alt="29" width="696" height="638" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/29.png" rel="lightbox"> <img class="alignnone size-full wp-image-3268" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/30.png" alt="29" width="696" height="638" />
 
 <p>Each vendor will have their own key. This ensures that if <b>The Marketplace</b> is ever breached, any communications intercepted between vendors and buyers are effectively unreadable. Click the <b>Clipboard</b> button. The <b>GNU Privacy Assistant – Clipboard</b> is where you encrypt any communications to vendors and decrypt any communications in messages sent to you. Enter your delivery address in the window <a href="/wp-content/uploads/2014/01/30.png" rel="lightbox"> <img class="alignnone  wp-image-3269" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/311.png" alt="30" width="656" height="518" /> </a></p>
 <p>Once you have entered it, click the <b>[Encrypt]</b> button and choose the vendors key. The text will be replaced by the encrypted version which can only be decrypted by the intended recipient (your vendor in this case).</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/31.png" rel="lightbox"> <img class="alignnone size-full wp-image-3270" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/32.png" alt="31" width="656" height="518" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/31.png" rel="lightbox"> <img class="alignnone size-full wp-image-3270" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/32.png" alt="31" width="656" height="518" />
 
 <p>Copy this encrypted text to your clipboard and paste it into <b>The Marketplace</b> <b>Update address</b> window and click <b>[Submit]</b>. <a href="/wp-content/uploads/2014/01/32.png" rel="lightbox"> <img class="alignnone size-full wp-image-3271" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/33.png" alt="32" width="745" height="393" /> </a></p>
 <p>That’s it, your order is now with the vendor. In due course you should receive your order. When you do, you need to login to the site to finalize: <a href="/wp-content/uploads/2014/01/33.png" rel="lightbox"> <img class="alignnone  wp-image-3272" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/34.png" alt="33" width="969" height="395" /> </a></p>
@@ -417,7 +417,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <p>To run these commands you will need to have Bitcoin-QT installed and connected to the internet. You will also need the Private Key from your repurposed Bitcoin Address that you stored when you created your order (See <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#buyerkey">Steps 24-to-27 in the Buyers Guide</a>). Before we get to the Bitcoin-QT commands, we’re going to decode and check the transaction on <a href="https://blockchain.info/decode-tx">https://blockchain.info/decode-tx</a>. This (and the following step) are purely optional stages, but just lets you feel comfortable that your refund is going to go to the Bitcoin Address you have nominated. Highlight the text between the quotes as demonstrated in the screenshot below, and copy it to your clipboard: <a href="/wp-content/uploads/2014/01/75.png" rel="lightbox"> <img class="alignnone size-full wp-image-3319" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/75.png" alt="75" width="977" height="735" /> </a></p>
 <p>Navigate to <a href="https://blockchain.info/decode-tx">https://blockchain.info/decode-tx</a> inside the TOR browser (to protect your privacy) and paste the text in and click the <b>[Submit Transaction]</b>. The result should be something like that shown below: <a href="/wp-content/uploads/2014/01/76.png" rel="lightbox"> <img class="alignnone size-full wp-image-3320" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/76.png" alt="76" width="1206" height="541" /> </a> Now that you’re happy with the proposed refund, you want to sign it off and get back the Bitcoins. Open Bitcoin-QT, go to <b>Menu</b>-&gt;<b>Debug Window</b> and click the <b>Console</b> tab. The view should look like this:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/77.png" rel="lightbox"> <img class="alignnone size-full wp-image-3321" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/77.png" alt="77" width="756" height="488" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/77.png" rel="lightbox"> <img class="alignnone size-full wp-image-3321" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/77.png" alt="77" width="756" height="488" />
 
 <ol>
 <li>You now need to create the <b>signrawtransaction</b> command from the transaction text provided by <b>TMP</b> and the Private Key from the repurposed Bitcoin Address. Mercifully, there are some quick and dirty formatting tools to do most of the work for you at the base of this guide under the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransaction-refundtools">Transaction String Formatting – Refunds</a> heading. There are two stages:
@@ -430,7 +430,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>You should receive a result something like this in the black text:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/78.png" rel="lightbox"> <img class="alignnone size-full wp-image-3322" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/78.png" alt="78" width="1059" height="583" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/78.png" rel="lightbox"> <img class="alignnone size-full wp-image-3322" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/78.png" alt="78" width="1059" height="583" />
 
 <ol>
 <li>The most important thing to look out for <b>complete: true</b> – this is the gold you want to see and means the process has worked. The money is <i>nearly</i> yours.</li>
@@ -439,7 +439,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>You’re done. The return from the <b>sendrawtransaction</b> command will be a transaction ID you can use to monitor the progress of the transaction on the Bitcoin network:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/79.png" rel="lightbox"> <img class="alignnone size-full wp-image-3323" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/79.png" alt="79" width="1059" height="583" /> </a> The very last step is to return to <b>TMP</b> and click the <b>[Mark as Claimed]</b> button. This just removes the refund from your list so <span style="text-decoration: underline;"><b>don’t [Mark as Claimed] until you’ve confirmed your Bitcoins have been successfully refunded</b></span>. <a href="/wp-content/uploads/2014/01/80.png" rel="lightbox"> <img class="alignnone size-full wp-image-3324" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/80.png" alt="80" width="997" height="731" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/79.png" rel="lightbox"> <img class="alignnone size-full wp-image-3323" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/79.png" alt="79" width="1059" height="583" /> </a> The very last step is to return to <b>TMP</b> and click the <b>[Mark as Claimed]</b> button. This just removes the refund from your list so <span style="text-decoration: underline;"><b>don’t [Mark as Claimed] until you’ve confirmed your Bitcoins have been successfully refunded</b></span>. <a href="/wp-content/uploads/2014/01/80.png" rel="lightbox"> <img class="alignnone size-full wp-image-3324" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/80.png" alt="80" width="997" height="731" />
 
 <h1 id="selling">Selling on The Marketplace</h1>
 <p>This section covers the setup of your shop and the creation and sale of your first product. The great thing at <b>TMP</b> is that you can configure your store-front and sell yourself one of your products without having to actually obtain full permission from <b>TMP</b> staff to offer products. No one else will be able to buy your products until you are approved, but it does provide a great way to test the process end-to-end without relying on some third party to buy something. The product that we will be creating will be a test. <b>Note:</b> that you will pay a service fee for every completed order to <b>TMP</b>, even if you’ve sold to yourself. So we’ll be using the minimum values possible to reduce your exposure but the process won’t be free. Log in to your <b>TMP</b> account and select the <b>[Become a vendor]</b> menu option on the left hand side: <a href="/wp-content/uploads/2014/01/81.png" rel="lightbox"> <img class="alignnone size-full wp-image-3325" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/81.png" alt="81" width="931" height="443" /> </a></p>
@@ -448,7 +448,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>In the <b>Vendor Creation: Shop Settings</b> window provide the name of your shop and an appropriate tag line. Leave the <b>Public</b> checkbox unchecked for now (You will need to change this when you’re account is approved and you want buyers to be able to see your shop). Once you’re happy, click <b>[Next]</b></li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/82.png" rel="lightbox"> <img class="alignnone size-full wp-image-3326" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/82.png" alt="82" width="974" height="419" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/82.png" rel="lightbox"> <img class="alignnone size-full wp-image-3326" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/82.png" alt="82" width="974" height="419" />
 
 <p>In the <b>Vendor Creation: Profile</b> window, provide some information about yourself, your terms and conditions etc and click <b>[Next]</b> <a href="/wp-content/uploads/2014/01/83.png" rel="lightbox"> <img class="alignnone size-full wp-image-3327" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/83.png" alt="83" width="978" height="459" /> </a></p>
 <p>In the final agreement window, click <b>[Finish]</b> and your shop will be created. You will now notice that a <b>Shop Management</b> icon has appeared across the top of your menu. Click this to navigate to the shop interface. <b>Note:</b> To approve your shop so that you can receive real orders, you will need to contact the individual listed. This is not necessary for the purposes of this test shop, but remember; until approved your shop is only visible to you. <a href="/wp-content/uploads/2014/01/84.png" rel="lightbox"> <img class="alignnone  wp-image-3328" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/84.png" alt="84" width="952" height="403" /> </a></p>
@@ -458,7 +458,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li id="selling-s8">every-time a buyer wants to pay you for an order, <b>TMP</b> forms a <b>Bitcoin Deposit Address</b> from one of your keys, a key it generates internally behind the scenes, and a key provided by the buyer (See steps 23-to-27 of the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#installation">installation</a> section of this guide for a recap of this process from the buyers perspective).</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/86.png" rel="lightbox"> <img class="alignnone size-full wp-image-3330" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/86.png" alt="86" width="982" height="271" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/86.png" rel="lightbox"> <img class="alignnone size-full wp-image-3330" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/86.png" alt="86" width="982" height="271" />
 
 <p>As a seller, you therefore need a large stock of keys that can be used by <b>TMP</b> and your buyers to generate a unique <b>Bitcoin Deposit Address</b>. For every <b>Bitcoin Deposit Address</b> created, one of your keys is consumed. Annoyingly this can mean that buyers can enter their key, TMP generates the <b>Bitcoin Deposit Address</b> using one of yours, one of its own and the buyers key, but then the buyer doesn’t pay and you’re down a key. It is therefore important to remember that the <b>signing wallet count</b> (See Step 6 screenshot) is not reflective of the number of orders you will have. Unpaid orders will never be seen by you – they just cost you a key.</p>
 <p>Since a key (read: “wallet”) is just a repurposed Bitcoin Address, there are a number of ways to generate them. One of the easiest way to create a bulk lot of Bitcoin Addresses is using the Bitcoind.exe that comes with Bitcoin-QT (see <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#prerequisites">prerequisites</a> for links). This is a great way to do it because bitcoind then takes care of storing your Bitcoin Addresses (your keys) securely in its own wallet.dat and you can also easily access the private part of each ‘key’ that you need when you come to claim your Bitcoins from completed orders. You’re basically using Bitcoin-QT as a vault to store all your order keys. A guide on this will be covered elsewhere.</p>
@@ -498,7 +498,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>Open the <b>Notepad</b> file you created back in stage 10, and copy the Private Key associated with the Bitcoin Address indicated in the <b>TMP</b> Transaction window to your clipboard (highlighted in blue below):</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/106.png" rel="lightbox"> <img class="alignnone size-full wp-image-3364" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/106.png" alt="106" width="1188" height="278" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/106.png" rel="lightbox"> <img class="alignnone size-full wp-image-3364" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/106.png" alt="106" width="1188" height="278" />
 
 <ol>
 <li>You now need to insert the private key in place of the text marked <b>PRIVATEKEYHERE</b> in the string and then copy everything from the word <b>signrawtransaction</b> to your clipboard and paste the result into the Bitcoin-QT debug window. Mercifully, there are some quick and dirty string formatting tools to do most of the work for you at the base of this guide under the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransaction-paymentretrieval">Transaction String Formatting – Payment Retrieval</a> heading.</li>
@@ -507,7 +507,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>You should receive a result something like this in black text:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/107.png" rel="lightbox"> <img class="alignnone size-full wp-image-3365" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/107.png" alt="107" width="1059" height="583" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/107.png" rel="lightbox"> <img class="alignnone size-full wp-image-3365" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/107.png" alt="107" width="1059" height="583" />
 
 <ol>
 <li>The most important thing to look out for <b>complete: true</b> – this is the gold you want to see and means the process has worked. The money is <i>nearly</i> yours.</li>
@@ -516,11 +516,11 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>You’re done. The return from the <b>sendrawtransaction</b> command will be a transaction ID you can use to monitor the progress of the transaction on the Bitcoin network:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/108.png" rel="lightbox"> <img class="alignnone size-full wp-image-3366" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/108.png" alt="108" width="1059" height="583" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/108.png" rel="lightbox"> <img class="alignnone size-full wp-image-3366" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/108.png" alt="108" width="1059" height="583" />
 
 <p>The very last step is to return to <b>TMP</b> and click the <b>[Mark as Claimed]</b> button. This just removes the transaction from your list so <span style="text-decoration: underline;"><b>don’t [Mark as Claimed] until you’ve confirmed your Bitcoins have been successfully redeemed</b></span>.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/109.png" rel="lightbox"> <img class="alignnone size-full wp-image-3367" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/109.png" alt="109" width="1040" height="354" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/109.png" rel="lightbox"> <img class="alignnone size-full wp-image-3367" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/109.png" alt="109" width="1040" height="354" />
 
 <p>A few final words. Don’t worry about re-running the claim commands a few times, when you broadcast the transaction (<b>sendrawtransaction</b>) the Bitcoin network will only recognise the first successful attempt, so any further tries won’t yield more Bitcoins, they’ll just be ignored.</p>
 <h1 id="whatif">Finalising transactions outside of The Marketplace</h1>
@@ -535,15 +535,15 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <p>Let’s begin…</p>
 <p>Place an order with yourself by following <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#selling">Steps 8 to 18 inclusive of the Sellers</a> section. Click the <b>[Shop Management]</b> link on the top menu-bar to view your shops overview. You should see your recently <b>paid</b> order sitting in the <b>New Orders</b> sub-window:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/109.png" rel="lightbox"> <img class="alignnone size-full wp-image-3367" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/109.png" alt="109" width="1040" height="354" /> </a> <a href="/wp-content/uploads/2014/01/110.png" rel="lightbox"> <img class="alignnone size-full wp-image-3368" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/110.png" alt="110" width="987" height="357" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/109.png" rel="lightbox"> <img class="alignnone size-full wp-image-3367" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/109.png" alt="109" width="1040" height="354" /> </a> <a href="/wp-content/uploads/2014/01/110.png" rel="lightbox"> <img class="alignnone size-full wp-image-3368" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/110.png" alt="110" width="987" height="357" />
 
 <p>Click the <b>[View]</b> button adjacent to order to bring up the order detail screen. When this displays, click the <b>[Show Payment Information]</b> button along the top:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/1111.png" rel="lightbox"> <img class="alignnone size-full wp-image-3369" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/1111.png" alt="111" width="990" height="384" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/1111.png" rel="lightbox"> <img class="alignnone size-full wp-image-3369" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/1111.png" alt="111" width="990" height="384" />
 
 <p>to display the payment information associated with this order:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/112.png" rel="lightbox"> <img class="alignnone size-full wp-image-3370" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/112.png" alt="112" width="1198" height="960" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/112.png" rel="lightbox"> <img class="alignnone size-full wp-image-3370" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/112.png" alt="112" width="1198" height="960" />
 
 <p>Now that you hopefully have a better understanding of the information shown on the <b>Payment Information</b> screen, you will want to know which bits are actually relevant to make you able to retrieve the Bitcoins outside of <b>TMP</b>. The only pieces of information you need from this screen are:</p>
 <ul>
@@ -557,7 +557,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <p><b>Note:</b> Because you are also acting as the buyer in this tutorial, you will also have access to the buyers Private key which you recorded in <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#buyerkey">Steps 24 and 25 of the Buyers section</a> when you placed your order. In normal circumstances you would not have access to this and so once you created and signed the transaction (inserted your key), you would pass the signed transaction to the buyer for them to also sign-off (insert their key) and broadcast the result to Bitcoin Network to release the Bitcoins from the <b>Bitcoin Deposit Address</b>. Don’t worry, this will all be covered in detail in the following steps.</p>
 <p>Open <b>Notepad</b> or your favourite text editor, and create four columns: <b>Bitcoin Deposit Address</b>, <b>Transaction ID</b>, <b>Redeem Script</b> and <b>Sellers Public Key</b>. Copy the values from the <b>Payment Information</b> screen. The result should look something like this:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/113.png" rel="lightbox"> <img class="alignnone size-full wp-image-3371" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/113.png" alt="113" width="1640" height="841" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/113.png" rel="lightbox"> <img class="alignnone size-full wp-image-3371" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/113.png" alt="113" width="1640" height="841" />
 
 <p>You now have the information you – as the seller – need to create and sign (insert your key) the transaction. For the next part we’re going to be using a combination of <a href="https://blockchain.info/rawtx">https://blockchain.info/rawtx</a> (Visit in TOR) and the Bitcoin-QT Debug window. You can do <i>everything</i> in the Bitcoin-QT Debug window but by using <a href="https://blockchain.info">blockchain.info</a>, we minimize the chances of mistakes.</p>
 <p>The Bitcoin commands we will be running are:</p>
@@ -568,7 +568,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 </ul>
 <p>To run the commands open Bitcoin-QT, go to Menu-&gt;Debug Window and click the Console tab. The view should look like this:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/114.png" rel="lightbox"> <img class="alignnone size-full wp-image-3372" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/114.png" alt="114" width="756" height="488" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/114.png" rel="lightbox"> <img class="alignnone size-full wp-image-3372" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/114.png" alt="114" width="756" height="488" />
 
 <ol>
 <li>To create the raw transaction, we need to know some information about the transaction that was used to deposit the Bitcoins into the <b>Bitcoin Deposit Address</b>. Fortunately, <a href="https://blockchain.info">blockchain.info</a> stores this information in an easily accessible manner, but you need to go to a special URL to get it. You can reach it by manually putting <b>https://blockchain.info/rawtx/{REPLACE-ME-WITH-THE-TRANSACTION-ID-YOU-RECORDED-IN-THE-TEXT-FILE-IN-STEP-3}?scripts=true</b> into your address bar, but mercifully, tools exist under the <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransaction-rawtx">Transaction String Formatting – Create My Own Raw Transaction</a> to guide you through the process (which is what we’ll use). The five stages are:
@@ -585,16 +585,16 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <li>Ensuring you leave all the boxes in <b>Stage 2</b> populated, move on to <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransactionrawtx-stage3">Stage 3</a>. For this you will need the Private key that is associated with the repurposed Bitcoin Address that you have – as the seller – used as your key to the <b>Bitcoin Deposit Address</b>. You should have this in a <b>Notepad</b> file which you made in <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#selling-s10">Step 10 of the Sellers section</a>. Search this file for the <b>sellers public key</b> you recorded back in <b>Step 3.</b> and enter the Private Key that is on the same row:</li>
 </ol>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/116.png" rel="lightbox"> <img class="alignnone size-full wp-image-3374" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/116.png" alt="116" width="1165" height="525" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/116.png" rel="lightbox"> <img class="alignnone size-full wp-image-3374" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/116.png" alt="116" width="1165" height="525" />
 
 <p>Once you’ve got the <i>signrawtransaction</i> command text back from half-way through <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransactionrawtx-stage3">Stage 3</a>, run it in Bitcoin-QT Debug window. Notice that the result says <b>complete: false</b> (highlighted in green in the screenshot below). This means that only one signatory (you; the seller) has signed off (inserted their key). One more signatory is required (the buyer) before the Bitcoins in the <b>Bitcoin Deposit Address</b> can be released.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/116.png" rel="lightbox"> <img class="alignnone size-full wp-image-3374" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/116.png" alt="116" width="1165" height="525" /> </a> <a href="/wp-content/uploads/2014/01/117.png" rel="lightbox"> <img class="alignnone size-full wp-image-3375" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/117.png" alt="117" width="1059" height="631" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/116.png" rel="lightbox"> <img class="alignnone size-full wp-image-3374" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/116.png" alt="116" width="1165" height="525" /> </a> <a href="/wp-content/uploads/2014/01/117.png" rel="lightbox"> <img class="alignnone size-full wp-image-3375" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/117.png" alt="117" width="1059" height="631" />
 
 <p>Copy the resulting black text (everything inside the red box in the screenshot above) into the <b>Seller Signed Transaction Text</b> box <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#createtx-stage35">midway through <b>Stage 3</b></a> and click the <b>[Generate Transaction Signing Text For Buyer]</b>. At this stage, you would normally send the resulting text to the buyer who would then continue the process from <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransactionrawtx-stage2">Stage 4</a>, but since you are also the buyer just paste the resulting output into the <b>Transaction Text provided to you by the Seller</b> box along with the buyers Private Key (You should have hopefully stored this when you paid for your order – see <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#buyerkey">Steps 24-to-27 in the Buyers Section</a> to recap).</p>
 <p>Press the <b>[Generate Buyers Transaction Signing Command]</b> and run the resulting output in Bitcoin-QT Debug Window. If the process has worked, you will see <b>complete: true</b> (highlighted in green in the screenshot below) . This is the gold you are looking for. This means the transaction is ready to be broadcast to the Bitcoin Network. The money is nearly yours!</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/118.png" rel="lightbox"> <img class="alignnone size-full wp-image-3376" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/118.png" alt="118" width="1059" height="631" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/118.png" rel="lightbox"> <img class="alignnone size-full wp-image-3376" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/118.png" alt="118" width="1059" height="631" />
 
 <ol>
 <li>Copy all the black text highlighted in the red box in the screenshot above to your clipboard and paste it in to the <b>Signed Transaction Text provided by the Buyer</b> box in <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p#formattransactionrawtx-stage5">Stage 5</a>. Click the <b>[Generate Buyer-Seller Signed Broadcast Transaction Command]</b> to generate the final command.</li>
@@ -671,7 +671,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <p>Sellers Private Key: (Your key – as the seller – to the <b>Bitcoin Deposit Address</b>)</p>
 <p>Unsigned Transaction Text:<textarea id="createtx-transactiontext-s3" cols="60" rows="5"></textarea></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/124.png" rel="lightbox"> <img class="alignnone size-full wp-image-3382" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/124.png" alt="124" width="318" height="190" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/124.png" rel="lightbox"> <img class="alignnone size-full wp-image-3382" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/124.png" alt="124" width="318" height="190" />
 
 <p>Result (Paste this into your DOS command box):</p>
 <div id="createtx-transaction-result-s3"></div>
@@ -723,7 +723,7 @@ with a degree of security and once you are happy, you can begin experimenting wi
 <h3 id="formattransactionrawtx-stage5">Stage 5. Generate *BUYER OR SELLER RAWTX* DOS bitcoind.exe compatible or Bitcoin-QT GUI Debug compatible <i>sendrawtransaction</i> command</h3>
 <p>Paste the result of running the <i>signrawtransaction</i> text from <b>Step 4</b> above in Bitcoin-QT, into the box below to generate the command to tell the Bitcoin Network to move the Bitcoins from the <b>Bitcoin Deposit Address</b>. You should see the words <b>complete: true</b> in the text you paste in.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/125.png" rel="lightbox"> <img class="alignnone size-full wp-image-3383" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/125.png" alt="125" width="318" height="190" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/125.png" rel="lightbox"> <img class="alignnone size-full wp-image-3383" src="https://www.deepdotweb.com/wp-content/uploads/2014/01/125.png" alt="125" width="318" height="190" />
 
 <p>Signed Transaction Text provided by the Buyer:<textarea id="createtx-transactiontext-s5" cols="60" rows="5"></textarea></p>
 <p>Result (Paste this into your DOS command box):</p>

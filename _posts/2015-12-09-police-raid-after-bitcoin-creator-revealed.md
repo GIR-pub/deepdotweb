@@ -8,14 +8,14 @@ Posted by: DeepDotWeb
 
 <p>Hours after <a href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/" target="_blank">Wired</a> &amp; <a href="http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692?rev=1449615811696" target="_blank">Gizmodo</a> magazines claimed bitcoin was created by an &#8220;unknown Australian genius&#8221; called Craig Wright, his home is raided.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/raid.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/raid.jpg">
 
 <p class="story__intro">Police have raided the Sydney home of a man named as the likely creator of cryptocurrency bitcoin, according to the <a href="http://www.reuters.com/article/us-australia-bitcoin-exclusive-idUSKBN0TS0AB20151209" target="_blank">Reuters news agency</a>.</p>
 <p>Bitcoin&#8217;s code was released in 2009 under the pseudonym of Satoshi Nakamoto, and journalists and investors have been trying to track down the creator ever since.</p>
 <p>On Wednesday afternoon around a dozen federal police officers raided the house after a locksmith broke open the door &#8211; just hours after Wired magazine named Craig Wright as the man responsible for bitcoin.</p>
 <p>A Reuters reporter said officers told them that police were &#8220;clearing the house&#8221;.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/12/CraigWright.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/CraigWright.png">
 
 <p>However the police force said in a statement that the move was not linked to &#8220;media reporting &#8230; about bitcoins&#8221;.</p>
 <p>Instead it directed all inquiries to the Australian Tax Office, suggesting the raid could be linked to tax issues.</p>

@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 <p>After the <a href="#">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/03/uptime.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/uptime.png">
 
 <ol>
 <li>Donate to Peter Nash fund, the arrested silk road moderator <a href="#">here</a>)</li>

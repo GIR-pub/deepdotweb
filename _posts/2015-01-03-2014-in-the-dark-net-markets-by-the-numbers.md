@@ -37,11 +37,11 @@ Posted by: DeepDotWeb
 </ol>
 <p>With this additional data, we can fill out our picture of the lifecycle of blackmarkets with a more precise survival curve drawing on the full dataset:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/01/1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/1.png">
 
 <p>Blackmarkets thus far seem to have a steady mortality rate for the first year, but then it looks like risks shoot up steeply: very few blackmarkets thus far have passed the first-year mark, but it&#8217;s hard to be sure why, it may be that most of them died too young or not enough time has elapse for them to reach that mark. It may be better to break down the deaths by cause as above, to get a &#8216;competing risks&#8217; survival curve:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/01/2.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/2.png">
 
 <p>(This would benefit from a confidence interval like the survival curve graph, but I haven&#8217;t figured out how to add those yet.) I draw a few lessons from eyeballing the graph:</p>
 <ul>

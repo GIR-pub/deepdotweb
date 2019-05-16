@@ -24,7 +24,7 @@ Posted by: DeepDotWeb
 </ol>
 <p>This should only take a few minutes to complete. See this picture to confirm you&#8217;re doing the steps correctly:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/TVjAVPp1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/TVjAVPp1.png">
 
 <h3>Part 2 – Generating your keypair</h3>
 <p>Part 1 was easy, eh? Don&#8217;t worry things don&#8217;t get much harder. The next step is to create your keypair. We&#8217;ll be using 4096 bit RSA to keep things extra secure!</p>
@@ -32,40 +32,40 @@ Posted by: DeepDotWeb
 <li>In your Terminal, type without quotes &#8216;gpg &#8211;gen-key&#8217;, then hit &#8216;enter&#8217;</li>
 <li>It will ask you what kind of key you want. For our usecase, we want option &#8216;1&#8217; :
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/TsvxqSl1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/TsvxqSl1.png">
 
 <li>Next step is key length. The longer the length, the more secure it is. We&#8217;ll go with 4096 bits: 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/33FN8mb1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/33FN8mb1.png">
 
 <li>It will now ask if you want your key to expire after a certain amount of time. This is up to personal preference, but we&#8217;ll choose &#8216;key does not expire&#8217;, so just hit &#8216;enter&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/EmYMtKE1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/EmYMtKE1.png">
 
 <li>Confirm that yes, the key will not expire. Type &#8216;y&#8217;, then hit &#8216;enter&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/eGqruqQ1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/eGqruqQ1.png">
 
 <li>The next step will be to enter an ID to make it easier for people to identify your key. If you&#8217;ve made it this far, you should know what to do 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/LgkPV7n1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/LgkPV7n1.png">
 
 <li>It will ask if this information is correct. If it is, type &#8216;O&#8217; and hit &#8216;enter&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/xxdJ8g41.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/xxdJ8g41.png">
 
 <a href="https://xkcd.com/936/">Here is a great XKCD comic on creating secure passphrases</a></li>
 <li>Enter a passphrase to protect your secret key. 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/ZKXIiPW1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/ZKXIiPW1.png">
 
 <li>Here comes the fun part. It&#8217;s going to generate your key, and will ask you to do some random stuff to create entropy. I like to have a Youtube video going with a torrent running in the background, while randomly mashing keys in a text editor. See the picture for an example of what will be output in the terminal 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/bshPVDM1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/bshPVDM1.png">
 
 <li>annnddddd we&#8217;re done! 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/QFynRxp1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/QFynRxp1.png">
 
 </ol>
 <h3>Part 3 – Obtaining your public key</h3>
@@ -74,11 +74,11 @@ Posted by: DeepDotWeb
 <li>Open Terminal, type &#8216;sudo gpa&#8217;, hit &#8216;enter&#8217;. Type in your password <sup>yeahIknowwhatyou&#8217;rethinking</sup></li>
 <li>You&#8217;ll be greeted by this beautiful window 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/eNSqF341.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/eNSqF341.png">
 
 <li>Click on the keypair you just created, click &#8216;Keys&#8217; up at the top, then &#8216;Export keys&#8230;&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/reYpsUv1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/reYpsUv1.png">
 
 <li>Select where you want it saved, enter a filename, and click &#8216;Save&#8217;</li>
 <li>Browse to the location in your file manager, open up that file with a text editor</li>
@@ -90,12 +90,12 @@ Posted by: DeepDotWeb
 <li>Hopefully you still have GPA open. If not, follow step #1 of Part 3</li>
 <li>Click on your keypair, click &#8216;Keys&#8217; up at the top then &#8216;Backup&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/reYpsUv11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/reYpsUv11.png">
 
 <li>Select where you want it saved, keep the filename it gives you, and click &#8216;Save&#8217;</li>
 <li>A window will pop up, you can back up to a floppy if you&#8217;re stuck in the &#8217;80s 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/ucMIWk61.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/ucMIWk61.png">
 
 </ol>
 <p>Remember to keep this file safe! Don&#8217;t forget your passphrase!</p>
@@ -106,15 +106,15 @@ Posted by: DeepDotWeb
 <li>Copy everything, paste into a text editor, save it somewhere</li>
 <li>Up at the top, click &#8216;Keys&#8217;, then &#8216;Import key&#8230;&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/reYpsUv12.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/reYpsUv12.png">
 
 <li>Select the key, then click &#8216;Open&#8217;. You&#8217;ll see this window 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/QKWYuU51.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/QKWYuU51.png">
 
 <li>We&#8217;re done! 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/yFoD0X41.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/yFoD0X41.png">
 
 </ol>
 <p>I used some random key found on DDG. Thanks Alan!</p>
@@ -123,12 +123,12 @@ Posted by: DeepDotWeb
 <ol>
 <li>Up at the top, select &#8216;Keys&#8217;, then &#8216;Import Keys&#8230;&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/DT815bw1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/DT815bw1.png">
 
 <li>Select your backup, it should have a file extension of .asc</li>
 <li>This window will appear 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/q96G5m81.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/q96G5m81.png">
 
 <li>Your key is now imported</li>
 </ol>
@@ -138,24 +138,24 @@ Posted by: DeepDotWeb
 <ol>
 <li>Click &#8216;Windows&#8217; at the top, then &#8216;Clipboard&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/Rxffusl1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/Rxffusl1.png">
 
 <li>This beautiful window will appear 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/BLjxPd01.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/BLjxPd01.png">
 
 <li>Type in your message 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/56KECk81.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/56KECk81.png">
 
 <li>Click the envelope with the blue key</li>
 <li>Select the recipient of the message, sign it with your key if you want, then click &#8216;Ok&#8217; 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/VGhlx8M1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/VGhlx8M1.png">
 
 <li>Your encrypted message will now appear in the buffer. Copy everything and send this to the recipient 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/URp5e5a1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/URp5e5a1.png">
 
 </ol>
 <h3>Part 8 – Decrypting a message</h3>
@@ -163,16 +163,16 @@ Posted by: DeepDotWeb
 <ol>
 <li>Copy everything the vendor sent you, paste it into the buffer 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/SMpYD1U1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/SMpYD1U1.png">
 
 <li>Click the envelope at the top with the yellow key</li>
 <li>Enter your passphrase 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/Iki22bD1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/Iki22bD1.png">
 
 <li>Read your message 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/02/UyOiGI11.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/UyOiGI11.png">
 
 </ol>
 <h3>Part 9 – Conclusion</h3>

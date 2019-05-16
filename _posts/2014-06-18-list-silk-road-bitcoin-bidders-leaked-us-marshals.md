@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 <span>June 18, 2014</span>
 
 <p>As it was published in <a href="http://www.coindesk.com/list-possible-silk-road-bitcoin-bidders-allegedly-leaked-us-marshals/" target="_blank">Coindesk</a>:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/06/bitcoin-reply-all1.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/bitcoin-reply-all1.png" />
 
 <blockquote><p>A list of potential buyers for almost 30,000 bitcoins confiscated from the now-defunct Silk Road black marketplace has been leaked via email by the US Marshals Service (USMS).</p>
 <p>The original intent of the email was to inform interested parties about an updated <a href="http://www.usmarshals.gov/assets/2014/bitcoins/" target="_blank">FAQ related to the bitcoin auction</a>. The USMS staffer who sent the email allegedly inadvertently CC’ed the list rather than BCC’ed, making the names viewable for all recipients.</p>

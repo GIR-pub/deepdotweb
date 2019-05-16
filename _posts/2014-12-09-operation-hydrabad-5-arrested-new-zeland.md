@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>December 9, 2014</span>
 
 <p>As it was published in a Press Release from <a href="http://www.police.govt.nz/news/release/police-and-customs-operation-seizes-large-quantity-illicit-drugs">New Zealand Police</a>:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/methamphetamine_-_op_hydrabad1.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/methamphetamine_-_op_hydrabad1.jpg" />
 
 <blockquote><p>A joint Manawatü Police and Customs operation has resulted in the arrest of five people in relation to the importation of nearly half a million dollars worth of the Class A drug methamphetamine.</p>
 <p>Operation Hydrabad commenced on 1 September, 2014 when the first of several packages containing MDMA and methamphetamine was intercepted by Customs. A total of 432 grams of methamphetamine was seized in the operation.</p>
@@ -18,7 +18,7 @@ Posted by: DeepDotWeb
 <p>He has been charged with importing a Class A drug — methamphetamine, importing Class B drug — MDMA, importing Class A drug — LSD, and will appear in the Palmerston North District Court today.</p>
 <p>Detective Sergeant Dave Thompson of the Manawatü CIB says: &#8220;When you deal in illicit drugs you risk everything, and the consequences could see you spend many years behind bars as well as the seizure and forfeiture of any property obtained through the proceeds of crime.&#8221;</p>
 <p>&#8220;Working alongside Customs and our other partner agencies we will continue to strike at the core of organised criminal networks and prevent harm from being caused in our communities.&#8221;</p></blockquote>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/12/mdma-_op_hydrabad1.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/12/mdma-_op_hydrabad1.jpg" />
 
 
 Updated: 2014-12-09

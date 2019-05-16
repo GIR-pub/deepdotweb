@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 <p><em>Introduction by James Martin (The Author)</em></p>
 <p><em><a href="http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045">Drugs on the Dark Net: How Cryptomarkets Are Transforming the Global Trade in Illicit Drugs</a></em>, explores the fascinating world of online drug trading. It is a non-technical book intended for both academics and non-specialist audiences, combining criminological analysis with original research gathered on the dark net. The primary focus is on cryptomarkets, online trading hubs which facilitate the sale and distribution of illicit drugs, as well as vast range of other black market goods and services.</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/drugsonthedarknetbook1.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/drugsonthedarknetbook1.png" />
 
 <p>There are four main analysis chapters, each dedicated to examining cryptomarkets from a different perspective:</p>
 <p>The first chapter grounds the concept of the cryptomarket in broader scholarly knowledge and presents these illicit sites as complex and multifaceted entities. Online drug dealing is discussed in relation to various conceptions of cybercrime. Cryptomarkets are also analysed as sites of informal nodal governance, and various nodal resources, mentalities, technologies and institutions are identified. Other issues discussed include online collective identity, inter-site migration and digital ‘refugees’, as well as community and political affiliations.</p>

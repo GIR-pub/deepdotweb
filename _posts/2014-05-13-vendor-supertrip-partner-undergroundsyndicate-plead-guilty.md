@@ -22,7 +22,7 @@ Posted by: DeepDotWeb
 <p><a href="https://twitter.com/search?q=%23SilkRoad&amp;src=hash">#SilkRoad</a> vendor UnderGroundSyndicate, (<a href="http://t.co/bq1ui97Gus">http://t.co/bq1ui97Gus</a> …) Plea Agreement <a href="http://t.co/ixxBTb9awG">http://t.co/ixxBTb9awG</a> (h/t <a href="https://twitter.com/kimjnews">@kimjnews</a>)</p>
 <p>&mdash; Moustache (@lamoustache) <a href="https://twitter.com/lamoustache/statuses/466293358030487552">May 13, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/antilop.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/antilop.png" />
 
 <p>This is the plea of UndergroundSyndicate, uploaded to Scribd for our convenience :<br/>
 <iframe id="doc_16269" class="scribd_iframe_embed" src="//www.scribd.com/embeds/223837739/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>

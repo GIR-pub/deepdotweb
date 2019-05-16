@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
 <p><strong>dnmfekemzvbdcis4.onion</strong></p>
 <p>Here is the official flyer! It&#8217;s time to get hype:</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/04/6UJtiJg1.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/04/6UJtiJg1.png">
 
 <h2 class="section-heading">Meet your favorite mods &amp; vendors</h2>
 <p class="lead">Market mods and admins, as well as some of your<br/>

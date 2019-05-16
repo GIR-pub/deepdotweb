@@ -31,9 +31,9 @@ Posted by: DeepDotWeb
 <p><strong>We just can&#8217;t conduct business this way!</strong></p>
 <p>Then you should probably not be selling illegal substances.<br />
     We are getting paid to provide a very specific service, and as we see it, the main nature of that service is anonymity and security of your money and your information. It is NEVER going to be as stable as a similar legal marketplace. Even when we fix our current issues there are still going to be situations when the market will be offline, where there will be problems, etc. In the exact same way that you can&#8217;t insure your street-corner drug enterprise, the main difference being that on the street you have to risk dealing with LE directly, and here you shift most of that risk to us and accept getting hit with some market downtime or bugs caused by our security protocols.</p></blockquote>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/agora-Downtimes.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/agora-Downtimes.png" />
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/agora-Downtimes2.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/agora-Downtimes2.png" />
 
 <p>From now on we will provide this post as an explanation every time that some one will mail us asking about the market being down.</p>
 

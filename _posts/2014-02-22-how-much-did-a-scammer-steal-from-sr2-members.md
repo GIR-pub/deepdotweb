@@ -14,7 +14,7 @@ Posted by: DeepDotWeb
 <p>We have no idea about the full story behind this vendor and the scam he was running but this looks like a great piece of evidence about how much and how easy it is for scammers to flourish without being banned on some markets, and we hate this, so posting this is our humble contribution. (click on image to enlarge in a new window)</p>
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/Herby_The_Scammer_v4_larger_Feb21.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/Herby_The_Scammer_v4_larger_Feb21.jpg" />
 
     
 

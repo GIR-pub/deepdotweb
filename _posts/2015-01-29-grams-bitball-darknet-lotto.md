@@ -37,12 +37,12 @@ Posted by: DeepDotWeb
 <li>Ticket buying will be suspended 1 hour before a drawing and resume 1 hour after.</li>
 </ul>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/01/bitball.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/bitball.png">
 
 <p><strong>Winnings Claim</strong></p>
 <p>We made the winnings claim process easy. Winners can enter their ticket hashcode in the claim form and will be prompted for a bitcoin address. For the first couple of drawings I will be manually approving winnings payouts to check for fraud or bugs. During that time it could take up to 24 hours for winners to get their winnings. After that it will be an automatic process and winners will have their bitcoins within 20 minutes!</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/01/claims.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/claims.png">
 
 <p><strong>All the proceeds get donated to the Tor Project</strong></p>
 <p>The donations will be given to the Tor Project once a week and displayed on the Bitball homepage. To prove the profits will be donated I already donated 2 BTC this week for the launch. You can verify the the transaction of the donation on the home page&#8217;s donations section. I know a transaction hash doesn&#8217;t prove I donated it, but anyone who doubts me can email the Tor project and ask if they received it. I made this donation, and will make all donations, under the email <strong><a href="#">

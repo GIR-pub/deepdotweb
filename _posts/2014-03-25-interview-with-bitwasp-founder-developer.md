@@ -17,7 +17,7 @@ Posted by: DeepDotWeb
     The developer is working full time on this project, is unemployed and living off the donations so he would really appreciate donations!<br />
     You can find more information here: <a href="http://bitwasp.co/" target="_blank">http://bitwasp.co/</a></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/bitwasp-new-design.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/bitwasp-new-design.png"/>
 <p><b>So, What can you tell us about the new finished, but beta version of Bitwasp?</b></p>
 <p><span style="text-decoration: underline;">Thomas</span>: Our major milestone will be publishing a full version of the Bitwasp code running multisig. Multisig will remove the trust users need to have in the site operator, and at each step of making payment and signing, the user has all the information they need to make an informed decision before proceeding. Users will never pay to an address that one party has control over, meaning less exposure when operators setting up a site. No one wants to be responsible for losing coin, as there&#8217;s often little recourse. But with multisig, even if the site experiences downtime, once buyers and sellers can communicate on another channel they can recover the funds.</p>
 <p>Multisig, or P2SH addresses, have been supported since 2012, so it&#8217;s insane that there isn&#8217;t more support for it. Bitwasp will be one of the first few sites to implement multisig, let alone publish all the code behind it.</p>
@@ -40,7 +40,7 @@ Posted by: DeepDotWeb
 <p><b>Will You have all these SQL Injections issues sorted in the new version? How come they are not sorted till now?</b></p>
 <p><span style="text-decoration: underline;">Cameron</span>: Give us more info on this SQL injections&#8230; what have you heard about them? We&#8217;ve gotten little to no feedback in this area as far as I know.</p>
 <p><strong>I don&#8217;t know much about them, only that they exists, i have reached out to couple of the security guys who have experienced with Bitwasp Injections and offered that they will contact you. but here is one example taken from a <a href="/2014/03/23/security-sunday-fails-redsunexxtacy-unnamed-market/">previous published</a> post about security exploits:</strong></p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/VDMpbLU.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/VDMpbLU.png" />
 
 <p><span style="text-decoration: underline;">Thomas</span>: Hard to say without details. Most likely an error in the items by categories / locations pages. I&#8217;ve noticed that most of the &#8216;hacked&#8217; accusations take place on reddit, little technical detail is ever gven.</p>
 <p><b>Do you get the inputs from all the hacked markets (i mean on the technical level) about stuff that needs to be fixed?</b></p>

@@ -24,7 +24,7 @@ Posted by: DeepDotWeb
 <p>And you can donate directly at this address:</p>
 <p style="text-align: center;"> 
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/Screen-Shot-2014-06-26-at-17.01.32-300x3001.png"/>
 <p style="text-align: center;"><strong>1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv</strong></p>
 <p>Article Source: http://www.theguardian.com/technology/2014/aug/22/silk-road-suspect-ross-ulbricht-narcotics-trafficking</p>
 

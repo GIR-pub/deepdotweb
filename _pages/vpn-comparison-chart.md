@@ -151,7 +151,7 @@ td.chart-col-410, td.chart-col-417, td.chart-col-411 {width:63px; }
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/CG.png" width="130" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/CG.png" width="130" />
 
 <h3 style="text-align: center;"><strong>$2.75</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourhalfstars.png" style="width: 124px; height: 23px;" /></p>
@@ -166,7 +166,7 @@ Torrents Allowed<br />
 45 Day Refund</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -175,7 +175,7 @@ Torrents Allowed<br />
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/CG.png" width="130" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/CG.png" width="130" />
 
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="https://cybershield.cc/deepdogen_4vgxlcga4.html?aff_sub=DDWChart" rel="nofollow" target="_blank">&gt;&gt; Visit CyberGhost&nbsp;&lt;&lt;</a></strong></p>
@@ -199,7 +199,7 @@ Torrents Allowed<br />
 <h1 style="text-align: center;"><strong>96%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourhalfstars.png" style="width: 124px; height: 23px;" /></p>
 </td>
@@ -208,7 +208,7 @@ Torrents Allowed<br />
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/nordvpn.png" width="127" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/nordvpn.png" width="127" />
 
 <h3 style="text-align: center;"><strong>$11.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
@@ -222,7 +222,7 @@ No Logs<br />
 No DCMA response</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -231,7 +231,7 @@ No DCMA response</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/nordvpn.png" width="127" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/nordvpn.png" width="127" />
 
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=DDWChart" rel="nofollow" target="_blank">&gt;&gt; Visit NordVPN &lt;&lt;</a></strong></p>
@@ -254,7 +254,7 @@ No DCMA response</p>
 <h1 style="text-align: center;"><strong>91%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
 </td>
@@ -263,7 +263,7 @@ No DCMA response</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <h3 style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" />
 
 <h3 style="text-align: center;"><strong>$10.00</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
@@ -277,7 +277,7 @@ Good Speed<br />
 DNS Leak Protect</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
@@ -287,7 +287,7 @@ DNS Leak Protect</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/ip-vanish.png" style="width: 130px; height: 33px;" />
 
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="https://www.ipvanish.com/ddw/?a_bid=48f95966&amp;a_aid=563749ce0713e&amp;a_bid=48f95966&amp;chan=ipvmt" rel="nofollow" target="_blank">&gt;&gt; Visit IPVanish &lt;&lt;</a></strong></p>
@@ -309,7 +309,7 @@ DNS Leak Protect</p>
 <h1 style="text-align: center;"><strong>88%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="width: 100px; height: 19px;" /></p>
 <p style="text-align: center;">&nbsp;</p>
@@ -319,12 +319,12 @@ DNS Leak Protect</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" />
 
 <h3 style="text-align: center;"><strong>$10.00</strong></h3>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" />
 
 <p style="text-align: center;"><a href="/2016/05/14/strong-vpn-review/" style="text-align: center;">Strong VPN Review</a></p>
 </td>
@@ -336,7 +336,7 @@ Easy To Use<br />
 Unlimited Bandwidth</p>
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
@@ -346,7 +346,7 @@ Unlimited Bandwidth</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/StrongVPN-logosm.jpg" style="width: 145px; height: 39px;" />
 
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;"><strong><a href="https://strongvpn.com/?tr_aid=5ac36678ce051&amp;chan=ddwmt" rel="nofollow" target="_blank">&gt;&gt; Visit StrongVPN &lt;&lt;</a></strong></p>
@@ -368,7 +368,7 @@ Unlimited Bandwidth</p>
 <h1 style="text-align: center;"><strong>85%</strong></h1>
 <h1 style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 40px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/fourstars.png" style="text-align: center; width: 119px; height: 19px;" /></p>
 </td>
@@ -377,7 +377,7 @@ Unlimited Bandwidth</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" />
 
 <h3 style="text-align: center;"><strong>$9.99</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
@@ -390,7 +390,7 @@ Unlimited Bandwidth</p>
 Pretty Good Speed</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -399,7 +399,7 @@ Pretty Good Speed</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/torGaurd.png" style="width: 104px; height: 26px;" />
 
 <p>&nbsp;</p>
 <p><strong style="text-align: center;"><a href="https://torguard.net/aff.php?aff=1562" rel="nofollow" target="_blank">&gt;&gt; Visit TorGuard&nbsp;&lt;&lt;</a></strong></p>
@@ -421,7 +421,7 @@ Pretty Good Speed</p>
 <h1 style="text-align: center;"><strong>78%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
@@ -430,7 +430,7 @@ Pretty Good Speed</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" />
 
 <h3 style="text-align: center;"><strong>$7.50</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
@@ -443,7 +443,7 @@ P2P Torrents<br />
 SafeJumper Feature</p>
 <p>&nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -452,7 +452,7 @@ SafeJumper Feature</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/proxysh-logo-450-1.png" style="width: 104px; height: 31px;" />
 
 <p>&nbsp;</p>
 <p><strong style="text-align: center;"><a href="https://proxy.sh/panel/aff.php?aff=995" rel="nofollow" target="_blank">&gt;&gt; Visit Proxy.sh &lt;&lt;</a></strong></p>
@@ -474,7 +474,7 @@ SafeJumper Feature</p>
 <h1 style="text-align: center;"><strong>73%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
@@ -483,7 +483,7 @@ SafeJumper Feature</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" />
 
 <h3 style="text-align: center;"><strong>$8.33</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
@@ -496,7 +496,7 @@ P2P Torrents<br />
 Multihop Feature</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -505,7 +505,7 @@ Multihop Feature</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/logo-ivpn-red.png" style="width: 118px; height: 37px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -525,7 +525,7 @@ Multihop Feature</p>
 <h1 style="text-align: center;"><strong>74%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
  </td>
@@ -534,7 +534,7 @@ Multihop Feature</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" />
 
 <h3 style="text-align: center;"><strong>$5.57</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
@@ -547,7 +547,7 @@ P2P torrents<br />
 LiquidDNS&nbsp;Included</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -556,7 +556,7 @@ LiquidDNS&nbsp;Included</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/Liquid_VPN_225.png" style="width: 104px; height: 38px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -576,7 +576,7 @@ LiquidDNS&nbsp;Included</p>
 <h1 style="text-align: center;"><strong>70%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threehalfstars.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
@@ -585,7 +585,7 @@ LiquidDNS&nbsp;Included</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" />
 
 <h3 style="text-align: center;"><strong>$6.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threestars.png" style="text-align: center; width: 104px; height: 19px;" /></p>
@@ -598,7 +598,7 @@ SOCKS5 Proxy<br />
 No Logs</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -607,7 +607,7 @@ No Logs</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/pia.png" style="width: 97px; height: 35px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -627,7 +627,7 @@ No Logs</p>
 <h1 style="text-align: center;"><strong>67%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/threestars.png" style="text-align: center; width: 104px; height: 19px;" /></p>
 </td>
@@ -636,7 +636,7 @@ No Logs</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" />
 
 <h3 style="text-align: center;"><strong>$7.00</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars-1.png" style="text-align: center; width: 100px; height: 19px;" /></p>
@@ -649,7 +649,7 @@ Unlimited Bandwidth</p>
 <p>&nbsp;</p>
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -658,7 +658,7 @@ Unlimited Bandwidth</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/hide-ip-vpn-logo.png" style="width: 104px; height: 28px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -677,7 +677,7 @@ Unlimited Bandwidth</p>
 <h1 style="text-align: center;"><strong>63%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars-1.png" style="text-align: center; width: 100px; height: 19px;" /></p>
 </td>
@@ -686,7 +686,7 @@ Unlimited Bandwidth</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" />
 
 <h3 style="text-align: center;"><strong>$6.67</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/3.png" style="text-align: center; width: 100px; height: 17px;" /></p>
@@ -698,7 +698,7 @@ Unlimited Bandwidth<br />
 1 Day Trail</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -707,7 +707,7 @@ Unlimited Bandwidth<br />
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/bolehvpn_logo.png" style="width: 104px; height: 24px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -726,7 +726,7 @@ Unlimited Bandwidth<br />
 <h1 style="text-align: center;"><strong>60%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/3.png" style="text-align: center; width: 100px; height: 17px;" /><br style="text-align: center;" />
 &nbsp;</p>
@@ -736,7 +736,7 @@ Unlimited Bandwidth<br />
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/mullvad.jpg" width="120" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/mullvad.jpg" width="120" />
 
 <h3 style="text-align: center;"><strong>$5.60</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
@@ -748,7 +748,7 @@ DNS Leak Protection<br />
 Token System</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -757,7 +757,7 @@ Token System</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/mullvad.jpg" width="120" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/mullvad.jpg" width="120" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -777,7 +777,7 @@ Token System</p>
 <h1 style="text-align: center;"><strong>59%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
 </td>
@@ -786,7 +786,7 @@ Token System</p>
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" />
 
 <h3 style="text-align: center;"><strong>$9.95</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
@@ -798,7 +798,7 @@ P2P&nbsp;Torrents​<br />
 <span style="line-height: 20.8px;">No DCMA Response</span></p>
 <h1>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -807,7 +807,7 @@ P2P&nbsp;Torrents​<br />
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/btgaurd.gif" style="width: 104px; height: 22px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -827,7 +827,7 @@ P2P&nbsp;Torrents​<br />
 <h1 style="text-align: center;"><strong>56%</strong></h1>
 <h1 style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 17px;" /></p>
 </td>
@@ -836,7 +836,7 @@ P2P&nbsp;Torrents​<br />
 <td class="hideDesktop  hidePad  chart-col-421">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" />
 
 <h3 style="text-align: center;"><strong>$7.50</strong></h3>
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 19px;" /></p>
@@ -848,7 +848,7 @@ SmartDNS Included<br />
 $2 for&nbsp;2 day&nbsp;trial.</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 </td>
 <td class=" hideMobile hidePad  chart-col-416">
@@ -857,7 +857,7 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 <td class=" hideMobile   chart-col-409">
 <p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/vpn-s-logo.png" style="width: 104px; height: 37px;" />
 
 </td>
 <td class=" hideMobile   chart-col-417">
@@ -877,7 +877,7 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 <h1 style="text-align: center;"><strong>54%</strong></h1>
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/charts/default/0001/01/DDWNew.png" style="width: 130px; height: 39px;" />
 
 <p style="text-align: center;"><img alt="" src="/imgs/charts/default/0001/01/2.5-stars.png" style="text-align: center; width: 118px; height: 19px;" /></p>
 </td>
@@ -885,7 +885,7 @@ $2 for&nbsp;2 day&nbsp;trial.</p>
 </tbody>
 </table>
 <label for="show-more-29" style="display: none;"></label>
-<img src="https://info-gir.github.io/deepdotweb/chart/show/29" width="1" height="1" />
+<img src="https://G-I-R.github.io/deepdotweb/chart/show/29" width="1" height="1" />
 
 <script>try{wpCookies.set( '9c08330e901e764fd8ca3689c7cfffbf0e9ad39e', '29', 0, '/' );} catch (e) {}</script>
 </div>

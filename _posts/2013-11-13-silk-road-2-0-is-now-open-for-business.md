@@ -27,7 +27,7 @@ title: "Silk Road 2.0 Is now open For Business"
 <p>DPR&#8221;</p>
 <p>===End Quote===</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/11/depositsilkroad2.jpg"/>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/depositsilkroad2.jpg"/>
 <p>&nbsp;</p>
 <p>While the reactions on the forum itself varied from &#8220;yes!&#8221; &#8220;Great!&#8221; and &#8220;your are awesome, my master&#8221; the reddit thread seemed to offer a bit of a more balanced approach saying:</p>
 <div>

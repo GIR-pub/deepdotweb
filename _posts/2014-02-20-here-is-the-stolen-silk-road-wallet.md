@@ -12,10 +12,10 @@ Posted by: DeepDotWeb
 <p>The live listing is here: http://silkroad6ownowfk.onion/items/here-is-the-stolen-silk-rd-wallet<br/>
     Reddit discussion is here: http://www.reddit.com/r/SilkRoad/comments/1yecja/the_hackers_btc_wallet_found/<br/>
     Another interesting read about the &#8220;Hack&#8221; on bitcointalk.org  forums: https://bitcointalk.org/index.php?topic=463896.0;all</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/walletdfd.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/walletdfd.png" />
 
 <div>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/pic2.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/pic2.png" />
 
 <p><strong>===Start Quote===</strong></p>
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br/>

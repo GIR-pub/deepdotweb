@@ -11,13 +11,13 @@ Posted by: DeepDotWeb
 <p><strong><span class="title may-blank loggedin">Edit:</span><a class="title may-blank loggedin" tabindex="1" href="http://www.reddit.com/r/SilkRoad/comments/209z3t/subreddit_has_been_reopened/" target="_blank">Subreddit has been reopened</a></strong></p>
 <p>Due to the recent events of silk road being hacked and all the other technical problems &#8211; along with the common belief that silk road is not a safe marketplace to us, the well known <a href="http://www.reddit.com/r/silkroad">Silk road Sub reddit</a> is no more!</p>
 <p>For the past week or so the moderators debated privately if they should privatize the sub in order to force users into trying other markets that are probably safer and more functional than the current state of silk road. if you will try to access the silk road sub now, you will be redirected to the <a href="http://www.reddit.com/r/DarkNetMarkets/">Darknetmarkets</a> sub Reddit:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/redirect.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/redirect.png" />
 
 <p>The silk road sub Reddit was without a doubt the most active sub Reddit any marketplace ever had, and was the most useful resource outside the silk road forums, this is how it looked like:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/r-sr.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/r-sr.png" />
 
 <p>Its a shame to is it gone. This is the official statement from the mods and can be found in this thread: http://www.reddit.com/r/DarkNetMarkets/comments/1zerem/rsilkroad_is_now_restricted_welcome_to/</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/sr2-gone.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/sr2-gone.png" />
 
 <div>
 <div>

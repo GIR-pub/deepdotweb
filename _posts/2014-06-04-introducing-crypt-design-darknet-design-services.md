@@ -10,7 +10,7 @@ Posted by: DeepDotWeb
 </p>
 <p>This is one interesting service &#8211; while browsing Grams few months ago i saw a banner saying &#8220;Design services for the Dark Net&#8221; and i also saw that this service was used to design the Grams sub reddit, at the time i was looking for someone to redesign DDW so i contacted this service called Crypt &#8211; and as you can probably see we had the whole site redesigned from scratch.</p>
 <p>The concept of this service Crypt is offering can be  <strong>very</strong> useful for DNM owners or deep web site owners in general, as we all know &#8211; in the onion land, user experience and design is a major flaw in most sites, and as this scene is growing larger by the day, it shouldn&#8217;t be like that. Since i had the pleasure of working with Crypt design and i found his service to be super professional and quick, i asked him to give me a short interview to introduce his service with the hope that other site owners will find it useful as i did &#8211;  <strong>Anonymous Design Services For Dark Net Sites</strong>:</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/crypt-slider-banner.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/crypt-slider-banner.jpg" />
 
 <strong>Tell us a bit about yourself / service?</strong></p>
 <p><a href="http://cryptdesign.com">Crypt Design</a> is a design team for the deep web. We mostly produce graphics and code websites. Clients come to us saying they need a logo or they&#8217;ve built an ugly marketplace or need a WordPress theme created.</p>
@@ -25,9 +25,9 @@ Posted by: DeepDotWeb
 <p><strong>What Kind of interesting stuff (without naming names) have you had the chance to design on the DarkNet?</strong></p>
 <p>Aside from the recent overhaul of your DeepDotWeb site where we took your old site and gave it a modern, clean new face, we can&#8217;t reveal any commercial work. We have designed marketplaces, forums, WordPress themes, logos, banner adverts, subreddits and static HTML sites. We&#8217;re also big into open source projects and do a lot of bits and pieces for any worthy project that needs help.</p>
 <p>Something we can happily talk about is Grams (http://grams7enufi7jmdl.onion) which has been all over the news. We love the idea of Grams but we noticed they had a pretty weak version of the logo and their <a href="http://reddit.com/r/grams">subreddit design</a> so we quickly made some small but important improvements. We&#8217;re now collaborating with them on advert design and future features which are going to be really cool.</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/ddw-redesign.jpg" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/ddw-redesign.jpg" />
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/grams-old-new-doodle.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/grams-old-new-doodle.png" />
 
 <p><strong>How do you market yourself on the deepweb?</strong></p>
 <p>It&#8217;s all referrals. Help someone out and do a solid job, discreetly, and someone will recommend you.</p>

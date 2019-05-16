@@ -26,10 +26,10 @@ title: "Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo"
 <p>This is the full 13 pages indictment document that was released regarding the 3 mods that were arrested:<br/>
 <iframe id="doc_1794" src="//www.scribd.com/embeds/192754111/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-1stmj0hy5tzne359uft9&amp;show_recommendations=true" height="600" width="100%" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="0.772922022279349"></iframe></p>
 <p>It appears that these arrest were the fallout from the arrest of Ross Ulbrichts, the alleged owner of the first silk road that was known by the alias of &#8220;Dread Pirate Roberts&#8221;, and that the information which led to these arrests was gathered from hes computers or from the servers he owned that were seized during the first Silk Road bust at the beginning of October, it was suggested by few distinguished members on the (new) silk road forums that prior to hiring the silk road&#8217;s staff &#8211; Ross had collected from them all their personal information such as real names, addressees, Id numbers and work places, and kept this info on one of the electronic medias that were seized &#8211; leading for these arrests. These are the forums posts that suggested this:</p>
-<blockquote><img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/drclu.png" />
+<blockquote><img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/drclu.png" />
 
 </a>The arrests today were the continued fallout of the Silk Road 1.0 seizure. Three moderators that were heavily involved in the previous operation were taken into custody. This was done via the data retrieved following Ross&#8217; arrest. Some are out on bail but for obvious reasons, they are unable to provide status updates for you all. DPR is currently weighing his options on how to proceed going forward, but rest assured that he is ensuring the safety of all those involved.</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/night.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/night.png" />
 
     I received the following in the last little while:</p>
 <p>As a respected member of the forums, I thought i&#8217;d pass on some insight<br/>
@@ -46,7 +46,7 @@ title: "Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo"
 <blockquote>
 <div style="width: 747px" class="wp-caption alignnone">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/vrt.jpg" width="737" height="375" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/vrt.jpg" width="737" height="375" />
 
 <p>Guys I was arrested yesterday and out on bond now. But something is fucked! I know I&#8217;m risking more warning you guys and my attorney doesn&#8217;t even want me on the internet but you guys need to know this. <span style="color: #ff0000;"><strong>When I was in the interview room they showed me all sorts of shit that they should not know or have access to including conversations I&#8217;ve had with buyers and even DPR. I don&#8217;t fucking understand.. and when I was in there I was at a loss for words. Something is definitely wrong and they have the ability to see things on here only mods or admins should like btc transfers and a dispute I had</strong>.</span> WHAT THE FUCK?</p></blockquote>
 <p>Which one is the correct one?  we cannot know, but this is a very strong indication that its not just a SR1 fallout but a potential security breach on Silk Road 2.0.</p>

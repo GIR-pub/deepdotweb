@@ -166,7 +166,7 @@ title: Dark Net Markets Comparison Chart - 2014
 <td>
 <div align="center"><div style="display:none;">1</div>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/warning.png" align="none"></a></div> </td>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/warning.png" align="none"></a></div> </td>
 <td>
 <div align="center">None<br></div> </td>
 <td>
@@ -393,7 +393,7 @@ title: Dark Net Markets Comparison Chart - 2014
 <td>
 <div align="center">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/warning.png" align="none" width="32"></a><br></div> </td>
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/warning.png" align="none" width="32"></a><br></div> </td>
 <td>
 <div align="center">None<br></div> </td>
 <td>

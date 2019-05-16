@@ -10,7 +10,7 @@ Posted by: DeepDotWeb
 </p>
 <p>Well, this Basically:<br/>
     (We held back this report until now for the case it might be back, but considering the fact that the Admin were pretty active on the forums / Reddit, and we have yet to hear from them, it seems pretty unlikely to happen now)</p>
-<div style="width: 490px" class="wp-caption aligncenter"><img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/gone.jpg" alt="" width="480" height="360" />
+<div style="width: 490px" class="wp-caption aligncenter"><img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/gone.jpg" alt="" width="480" height="360" />
 
 <p>The same story over again, for an traditional escrow marketplace:</p>
 <p>1. Build reputation (let me remind that this market was not only a market but also a third party escrow service &#8211; so they had shit load of money in escrow, being an escrow service)</p>

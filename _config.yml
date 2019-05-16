@@ -20,7 +20,7 @@ title                    : "Archive - Deep Dot Web - Privacy Guides"
 title_separator          : "-"
 name                     : "GIR"
 description              : "Deep Dot Web -UNOFFICIAL-Blog Archive - and Privacy Guide"
-url                      : https://info-gir.github.io
+url                      : https://G-I-R.github.io
 baseurl                  : /deepdotweb
 repository               : "info-gir/deepdotweb"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

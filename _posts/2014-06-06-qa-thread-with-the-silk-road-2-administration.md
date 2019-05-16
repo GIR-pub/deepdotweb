@@ -13,7 +13,7 @@ Posted by: DeepDotWeb
 <p>Large changes are in store for this community. This year will be remembered. Your loyalty is enabling a historic repayment.</p>
 <p>Post questions here. We will answer for two hours beginning in one hour from now.</p>
 <p>And, hello.</p></blockquote>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/06/khufu.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/khufu.png" />
 
 <p>And these are the published questions and answers that were posted on this thread (will update if he answers more questions):<br/>
 <strong>Why is the conversion rate that SR uses incorrect? &#8211; SensiJackSilver</strong></p>

@@ -24,7 +24,7 @@ Posted by: iBurnEZ </a></span>
 <p><strong>Bitcoin transaction malleability:</strong></p>
 <p>The theory behind Bitcoin transaction malleability is to intercept the transaction information before it reaches the block chain and make minor changes to the peripheral information that will generate a new transaction ID but not invalidate the transaction.</p>
 <p>Peripheral information includes the byte length of the transaction which can be changed while still maintaining the integrity of the data. For example if the byte length of the transaction is 2 bytes, it could also be written 002 bytes. When the new information is hashed this slight change generates an entirely new transaction ID.</p>
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/08/standard-mutated-BTC.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/08/standard-mutated-BTC.png" />
 
 <p>This creates a race condition between the two transaction IDs, the mutated transaction ID must arrive to the block chain first to invalidate the original transaction ID. The block chain treats these transactions as duplicates and validates the first transaction ID and rejects the second transaction ID. When the mutated transaction ID is verified the funds are transferred to the recipient.</p>
 <p>The sender tracks the original transaction ID and has no idea a mutated transaction ID exists or it has been verified. The funds have been transferred from but there is no record of this activity from the senders account. Since original transaction ID has failed there is no reason to deduct anything from the balance of the senders account.</p>

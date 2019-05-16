@@ -333,13 +333,13 @@ http://cgmcoopwhempo6a5.onion/
 <td class="    chart-col-27">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/yes.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/yes.png" />
 
 </td>
 <td class="    chart-col-28">
 <div align="center">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/no-warning.png" width="22" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/no-warning.png" width="22" />
 
 </td>
 <td class="    chart-col-29">
@@ -354,13 +354,13 @@ http://cgmcoopwhempo6a5.onion/
 <td class="    chart-col-32">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/yes.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/yes.png" />
 
 </td>
 <td class="    chart-col-33">
 <p style="text-align: center;">
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/yes.png" />
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/yes.png" />
 
 </td>
 <td class="    chart-col-34">
@@ -490,7 +490,7 @@ http://cannazonceujdye3.onion
 </tr>
 </tbody>
 </table>
-<img src="https://info-gir.github.io/deepdotweb/chart/show/2" width="1" height="1" />
+<img src="https://G-I-R.github.io/deepdotweb/chart/show/2" width="1" height="1" />
 
 <script>try{wpCookies.set( 'b83ce7cb9612e869d7da403e2551a77fe0b651b3', '2', 0, '/' );} catch (e) {}</script>
 

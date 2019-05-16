@@ -11,7 +11,7 @@ Posted by: DeepDotWeb
 <blockquote><p>Sorry for the silence, we are still investigating what exactly the problem is.<br/>
     We know the info and the money is safe (multiple backups as per our protocols), but we are going to need some more time to know how long it will take us to take service online again securely. We shall update.</p></blockquote>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/04/agd.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/04/agd.png">
 
 
 Updated: 2015-04-15

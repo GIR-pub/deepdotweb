@@ -6,30 +6,30 @@ Posted by: pesa_mic
 
 <span>July 29, 2015</span>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/14.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/14.jpg">
 
 <p>This week was mostly a sideways range bound trend, that didn’t break out until Friday/Saturday. <em>Marubozu</em><strong> &#8211; </strong>a flat ended long candlestick is common in break outs, to force past resistances or support. What followed was a gradual trend approaching $ 300 in a series of steps &#8211; highest top at $ 298. At the time of writing this, price is at $ 295, and another flat trend is seemingly taking shape. Perhaps gathering steam for another [expected] breakout?</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/23.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/23.jpg">
 
 <p>From last 2 weeks, we see it is part of a developing trend after a top retracement at $316. I posited a reversal with a low target of $ 250 in last week’s analysis; $ 271 was the effective reversal point, bouncing a second time off $ 273, up to price now marked by an arrow.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/33.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/33.jpg">
 
 <p>The 1 week chart I regularly track bounced off 23% fibonacci level, reinforced by 30 Day EMA. To complete, the <em>Marubozu</em> candle should be fully retraced in green candles. Its upper level is key to break, likely reinforced by 200 and 50 day EMA. Watch the trendline from $ 166 on any retracements down.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/41.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/41.jpg">
 
 <p>On the 3 day and 1 day chart respectively, the price halted at $ 298 where 100 day EMA line cuts across. Similarly, on 1 day charts, we see a local level at $ 273 forcing price to bounce after finding support. These indicators are targets to look out for when trading as ‘feels’ for market intent on a certain a level.</p>
 <p>Like the $309 mark for instance has been fascinating over the last 6 months.</p>
 <p><em>“Such a quick trip over it [ $ 300 ] in Late Feb/Early March then long drop after, and then more recently popping up over and a pretty reasonable retrace. Current climb seems pretty steady though. This bull seems to be getting stronger.”</em></p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/53.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/53.png">
 
 <p>My forecast this week is bullish to neutral, with target of $320 &#8211; $335.</p>
 <p>The channel delineates a path to higher targets &#8211; if $ 320 folds. Recall the cup with handle pattern from last week which is yet to fully form. It has to break over $ 309 to excite entry positions. Almost everyone is watching this pattern keenly, along with the entry price &#8211; watch out for FOMO (fear of missing out).</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/62.jpg">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/62.jpg">
 
 <p>A slight reason to be cautious despite bullish forecast is the decisive market levels &#8211; greater than $ 320 or below $ 270. Bulls really need to breakout on this one. With all that is going on on China’s Stock Market, and finger pointing at suspected Chinese gold bear raiders, bitcoin is within ripple effects of spillovers.</p>
 <p><em>“The Chinese are getting in the mood to short everything. Once they realize they make more money with their money by putting up as margin shorting than buying becomes the new fad. You think they won&#8217;t short Bitcoin too?”</em></p>
@@ -42,7 +42,7 @@ Posted by: pesa_mic
 <p><strong>Global Macro Investor Raoul Pal talks bitcoin on July Newsletter</strong></p>
 <p>Infamous macro investor Raoul Pal, of Real Vision Television TV, briefly covered bitcoin on his latest newsletter ‘Group Think. . . Again’ (<a href="http://www.scribd.com/doc/272660136/Raoul-Pal-GMI-July2015-Monthly">on scribd</a>) on global macro expectations across multiple assets. This chart on bitcoin’s formation pattern was posted on his twitter.</p>
 
-<img src="https://info-gir.github.io/deepdotweb/imgs/2015/07/71.png">
+<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/71.png">
 
 <p>A former Goldman Sachs Hedge fund manager, he has often voiced his $ 100,000 valuations of XBT, more than once in the past year. His high profile and clout amongst top investors is a win for XBT by any measure whenever he talks bitcoin!</p>
 <p><strong>Sidenote:</strong></p>
