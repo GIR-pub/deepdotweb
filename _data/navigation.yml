@@ -1,31 +1,35 @@
 # main links
 main:
+  - title: "About DeepDotWeb"
+    url: "/about-deepdotweb/"
   - title: "Blog Archive"
     url: /year-archive/
   - title: "Security Tutorials"
     url: "/security-tutorials/"
   - title: "Jolly Rogers Security Guide"
     url: /jolly-rogers-security-guide-for-beginners/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Dark Net Markets Comparison Chart - 2014"
+    url: /dark-net-market-comparison-chart11111/
+  - title: "Dark Net Markets Comparison Chart - 2015"
+    url: /dark-net-market-comparison-chart/
+  - title: "How to Access Onion Sites"
+    url: /how-to-access-onion-sites/
 
 security:
   - title: "• Security Tutorials Index"
     url: "/security-tutorials/"
   - title: "• Lets Talk Security"
-    url: "/lets-talk-security/"
+    url: "/security-tutorials/lets-talk-security/"
   - title: "• Chain Socks Tor"
-    url: "/chain-socks-tor/"
+    url: "/security-tutorials/chain-socks-tor/"
   - title: "• Encrypting Your Hard Drive With Truecrypt"
-    url: "/encrypting-hard-drive-truecrypt/"
+    url: "/security-tutorials/encrypting-hard-drive-truecrypt/"
   - title: "• Securing Firefox"
-    url: "/securing-firefox/"
+    url: "/security-tutorials/securing-firefox/"
   - title: "• Needle in a Haystack ~ Tor Relays"
-    url: "/needle-haystack-tor-relays/"
+    url: "/security-tutorials/needle-haystack-tor-relays/"
   - title: "• Word of Warning &#8212; All versions of PGP are NOT created equally!"
-    url: "/warning-versions-pgp-not-created-equally/"
+    url: "/security-tutorials/warning-versions-pgp-not-created-equally/"
 
 jolly:
   - title: "• INTRODUCTION TO SECURE COMMUNICATION &#8211; TOR, HTTPS, SSL"  
