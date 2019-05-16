@@ -13,6 +13,8 @@ sidebar:
     nav: "security"
   - title: "Jolly Rogers Security Guide"
     nav: "jolly"
+  - title: "Blog Archive"
+    nav: "blognav"
 
 ---
 

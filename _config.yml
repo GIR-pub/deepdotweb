@@ -294,8 +294,8 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      classes: wide
       related: true
-      toc: true
       sidebar:
         - title: "Blog Archive"
           nav: "blognav"
