@@ -50,7 +50,7 @@ Though I'm grateful for the internet archive, I thought I could do something nic
 * [WiReD: FEDS DISMANTLED THE DARK-WEB DRUG TRADE—BUT IT'S ALREADY REBUILDING](https://www.wired.com/story/dark-web-drug-takedowns-deepdotweb-rebound/)
 * [DeepDotWeb Dark web resource dies with FBI seizure](https://www.zdnet.com/article/deepdotweb-dies-with-fbi-seizure/)
 
-![](https://g-i-r.github.io/deepdotweb-seized.png)
+![](https://g-i-r.github.io/deepdotweb/deepdotweb-seized.png)
 
 ## How I Created this Archive
 
