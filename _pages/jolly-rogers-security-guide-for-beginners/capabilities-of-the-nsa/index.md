@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "CAPABILITIES OF THE NSa"
 ---
 4130

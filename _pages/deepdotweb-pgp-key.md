@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Our PGP Key - Deep Dot Web"
 permalink: "deepdot-pgp-key"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Needle in a Haystack ~ Tor Relays"
 sidebar:
   - title: "Security Tutorials"

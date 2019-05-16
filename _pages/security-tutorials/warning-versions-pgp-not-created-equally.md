@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Word of Warning &#8212; All versions of PGP are NOT created equally!"
 permalink: "/warning-versions-pgp-not-created-equally/"
 sidebar:

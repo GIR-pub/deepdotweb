@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "BITCOIN CLIENTS IN TAILS &#8211; BLOCKCHAIN AND ELECTRUm"
 sidebar:
   - title: "Jolly Rogers Security Guide"

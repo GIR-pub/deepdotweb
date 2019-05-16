@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "HIDING TOR FROM YOUR ISP &#8211; PART 1 &#8211; BRIDGES AND PLUGGABLE TRANSPORTs"
 ---
 4128

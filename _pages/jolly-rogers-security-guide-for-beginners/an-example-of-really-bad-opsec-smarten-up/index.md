@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "AN EXAMPLE OF REALLY BAD OPSEC &#8211; SMARTEN UP!"
 sidebar:
   - title: "Jolly Rogers Security Guide"

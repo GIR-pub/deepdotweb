@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "LOCALBITCOINS PART 4 &#8211; SELLERS BUSTED FOR MONEY LAUNDERINg"
 ---
 4132

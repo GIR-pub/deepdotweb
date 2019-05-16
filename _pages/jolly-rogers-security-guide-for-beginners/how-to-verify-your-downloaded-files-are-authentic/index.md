@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIc"
 ---
 4081

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "PGP, TAILS, VIRTUAL BOX"
 ---
 

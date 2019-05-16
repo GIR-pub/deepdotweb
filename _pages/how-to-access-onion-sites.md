@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "How to access onion sites?"
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "IT IS OBVIOUS WHEN YOU ARE USING TOr"
 ---
 4115

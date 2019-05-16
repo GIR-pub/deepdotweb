@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "INTRODUCTiON TO SECURE COMMUNICATION &#8211; TOR, HTTPS, SSl"
 ---
 3976

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Buy Bitcoins With Paypal &#038; Credit Cards!"
 ---
 

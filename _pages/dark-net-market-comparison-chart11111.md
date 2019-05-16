@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Dark Net Markets Comparison Chart - 2014
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "LOCALBITCOINS PART 3 &#8211; MORE SCAM STORIEs"
 ---
 4125

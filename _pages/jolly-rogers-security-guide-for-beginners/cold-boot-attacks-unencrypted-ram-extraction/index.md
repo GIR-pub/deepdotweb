@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "COLD BOOT ATTACKS, UNENCRYPTED RAM EXTRACTIOn"
 ---
 4105

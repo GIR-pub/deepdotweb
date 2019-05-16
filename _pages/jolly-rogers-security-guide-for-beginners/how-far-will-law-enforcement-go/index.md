@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "HOW FAR WILL LAW ENFORCEMENT GO?"
 ---
 4020

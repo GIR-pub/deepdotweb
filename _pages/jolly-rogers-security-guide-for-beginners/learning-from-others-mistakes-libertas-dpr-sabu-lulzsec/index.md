@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "LEARNING FROM OTHERS&#8217; MISTAKES. LIBERTAS, DPR, SABU, LULZSEc"
 ---
 4017

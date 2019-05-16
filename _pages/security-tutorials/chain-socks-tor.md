@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "How to chain socks with Tor"
 sidebar:
   - title: "Security Tutorials"

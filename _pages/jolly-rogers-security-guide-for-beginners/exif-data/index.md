@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "EXIF DATa"
 ---
 3996

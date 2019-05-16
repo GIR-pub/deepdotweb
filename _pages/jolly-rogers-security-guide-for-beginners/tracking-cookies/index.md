@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "TRACKING COOKIEs"
 ---
 4014

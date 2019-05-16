@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "VPN FOR WINDOWS USERs"
 ---
 4010

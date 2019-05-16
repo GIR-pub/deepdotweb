@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "LOCALBITCOINS PART 1 &#8211; POLICE ARE WATCHING IT!"
 ---
 4121

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "LOCALBITCOINS PART 2 &#8211; THIEVES, SCAMMERS AND COUNTERFEIT BILLS!"
 ---
 4123

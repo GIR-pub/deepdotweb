@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Rules For Market &#038; Vendor Shops Listing"
 ---
 

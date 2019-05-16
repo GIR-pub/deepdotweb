@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Encrypting Your Hard Drive With Truecrypt"
 sidebar:
   - title: "Security Tutorials"

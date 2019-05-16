@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "About DeepDotWeb"
 ---
 

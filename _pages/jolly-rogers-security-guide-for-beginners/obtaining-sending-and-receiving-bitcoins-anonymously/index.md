@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "OBTAINING, SENDING AND RECEIVING BITCOINS ANONYMOUSLY"
 ---
 

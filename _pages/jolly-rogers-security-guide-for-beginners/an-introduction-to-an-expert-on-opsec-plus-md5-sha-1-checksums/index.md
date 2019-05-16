@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "AN INTRODUCTION TO AN EXPERT ON OPSEC, PLUS MD5 &#038; SHA-1 CHECKSUMs"
 sidebar:
   - title: "Jolly Rogers Security Guide"

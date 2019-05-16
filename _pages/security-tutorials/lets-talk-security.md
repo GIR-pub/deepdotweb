@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Let&#8217;s talk about security"
 sidebar:
   - title: "Security Tutorials"

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Rules for Posting Market Reviews"
 ---
 

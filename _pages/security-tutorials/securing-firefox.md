@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Securing Firefox"
 sidebar:
   - title: "Security Tutorials"

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "WHOLE DISK ENCRYPTION AND FILE SHREDDINg"
 ---
 3987

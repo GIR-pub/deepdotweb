@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "PGP CONTINUEd"
 ---
 3985

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "THE STRENGH OF CRYPTOGRAPHY AND ANONYMITY WHEN USED PROPERLY"
 ---
 

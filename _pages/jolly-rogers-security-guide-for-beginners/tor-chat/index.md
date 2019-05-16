@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "TOR CHAT"
 ---
 4090

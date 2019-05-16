@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "WHY YOU SHOULD ALWAYS BACK UP YOUR DRIVES, ESPECIALLY ENCRYPTED DRIVEs"
 sidebar:
   - title: "Jolly Rogers Security Guide"

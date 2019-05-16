@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "A FEW RECOMMENDATIONS"
 sidebar:
   - title: "Jolly Rogers Security Guide"
