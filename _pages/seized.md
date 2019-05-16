@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Domain Seizure"
+permalink: seized/
+redirect_from: seized
 ---
 
 <img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDoAAAMFCAIAAAAaxAEYAAAKvmlDQ1BJQ0MgUHJv

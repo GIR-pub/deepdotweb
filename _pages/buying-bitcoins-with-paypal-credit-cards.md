@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Buy Bitcoins With Paypal &#038; Credit Cards!"
+permalink: "buying-bitcoins-with-paypal-credit-cards/"
+redirect_from: "buying-bitcoins-with-paypal-credit-cards"
 ---
 
 

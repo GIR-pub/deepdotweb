@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Rules For Market &#038; Vendor Shops Listing"
+permalink: rules-for-market-vendor-shops-listing/
+redirect_from: rules-for-market-vendor-shops-listing
 ---
 
 

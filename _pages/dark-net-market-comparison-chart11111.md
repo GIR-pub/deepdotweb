@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Dark Net Markets Comparison Chart - 2014
+permalink: "dark-net-market-comparison-chart11111/"
+redirect_from: "dark-net-market-comparison-chart11111"
 ---
 
 <p><strong></strong> - This chart integrates marketplace data with our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a> ratings, along with uptime status data provided By <a href="https://dnstats.net/">Dnstats.net</a> and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain all dark net markets. For the full list of dark net markets, visit the <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="https://g-i-r.github.io/deepdotweb/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>

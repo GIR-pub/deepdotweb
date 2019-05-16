@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "About DeepDotWeb"
+permalink: about-deepdotweb/
+redirect_from: about-deepdotweb
 ---
 
 <p>This page provides a short introduction and insight about DeepDotWeb.</p>

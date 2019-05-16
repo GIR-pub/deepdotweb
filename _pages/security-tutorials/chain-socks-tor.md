@@ -8,7 +8,7 @@ sidebar:
     nav: "jolly"
   - title: "Blog Archive"
     nav: "blognav"
-
+permalink: "security-tutorials/chain-socks-tor/"
 ---
 
 <p><strong>How to chain socks with Tor</strong></p>

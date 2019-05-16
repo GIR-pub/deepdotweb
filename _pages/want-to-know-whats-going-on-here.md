@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories."
+permalink: want-to-know-whats-going-on-here/
+redirect_from: want-to-know-whats-going-on-here
 ---
 
 

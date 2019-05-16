@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Word of Warning &#8212; All versions of PGP are NOT created equally!"
-permalink: "/warning-versions-pgp-not-created-equally/"
 sidebar:
   - title: "Security Tutorials"
     nav: "security"
@@ -9,7 +8,10 @@ sidebar:
     nav: "jolly"
   - title: "Blog Archive"
     nav: "blognav"
-
+permalink: "security-tutorials/warning-versions-pgp-not-created-equally/"
+redirect_from: 
+  - "security-tutorials/word-warning-versions-pgp-created-equally"
+  - "security-tutorials/warning-versions-pgp-not-created-equally"
 ---
 
 <p>The version lines that are usually shown by default in PGP keys and PGP signature blocks, often reveal which OS the person is using.</p>

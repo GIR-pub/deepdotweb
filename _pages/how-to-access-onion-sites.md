@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "How to access onion sites?"
+permalink: "how-to-access-onion-sites/"
+redirect_from: "how-to-access-onion-sites"
 ---
 
 <p>In order to use most of the sites on the <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace list</a>, you must be able to access and browse .onion sites on the TOR network. Accessing these sites is a very simple process; for those of you that are still not familiar with the TOR browser and network, we have created a simple tutorial to help you access any onion site on the deep web.</p>

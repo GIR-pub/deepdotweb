@@ -1,39 +1,13 @@
 ---
 layout: single
 title: "Our PGP Key - Deep Dot Web"
-permalink: "deepdot-pgp-key"
+permalink: "deepdotweb-pgp-key/"
+redirect_from: "deepdotweb-pgp-key"
 ---
 
 
-    -----BEGIN PGP PUBLIC KEY BLOCK-----
-    Version: GnuPG v2.0.22 (MingW32)
-     
-    mQINBFc9jkYBEADzkOm1I2tsxdDctUFISOgsDqXzULWG6RRoa+bIohR1zFH2xk0d
-    rMBPfaB6SAl08BhcfsgZdPfTdyx4FTgm2CZSmGzEWR1DNkthS2esX64/e7VPY1bz
-    wqwVQStnyRn9jFSnQ93BaRPhFEFgy/NJHPji0UAthjlYMm1oTG2CVX6HDvefXESU
-    /Pdflewq/3wOcRaqblhid7UndP+0jv6sJRZV6uUHWUU/n57j5JKotDgmSkKrsUAu
-    wRxOWLmP0s0RG9piiISl1u0F8HHScSpN3Op1pdgMVSTwDNScX3aZW2CGa7gUDfmB
-    QHWhQgu2WIreF4DeA5Y7cDdgD8qPpoVbasidJVv2kAo+vSYjyJ2JMSwtenSBezmN
-    Zi8gJO6NcgXRUrcNG8HNJ2zHvdI92WOI6QcqRrrp5vQ7viXpldb3gd6VfdGbhHn/
-    c7vxfkpompUOOpZNFuyTJSHEai20RA4jl9wrPQYNaPBie7QT3Cg/p2RpLZwhwiKj
-    O7NgrXis2jYWIhzDCPISLgFK6ddUiT41PWgHQ7581jXil3j8TNez0RlVM/GbqCAM
-    duCj5IE5Ae8SboXlpecs3vIN9eXs+CdmkVOXq8xfrD8kToEuk6G0y/9FXWuDmdFX
-    aNx0mez0DDSKTpFndVFXb7mZnudEQ6eKrgiBbt+i8DVuRugmZow0IoD31QARAQAB
-    tCNEZWVwRG90V2ViIDxkZWVwZG90QGRlZXBkb3R3ZWIuY29tPokCOQQTAQIAIwUC
-    Vz2ORgIbDwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEFZsp31vYLzOir0P
-    /jDFe3mLO2jbkIb4/JlFDRmO2T1dgttHBdwuT1uNQ0SY+0JQYrfvvSjSRzl+ndxJ
-    L2tEdgi6IoRR5uZF7jAeP3qtsnM9hHGY80J92XSr6PS7BCuxOhiP76RdxoulzNJI
-    1Afd3O5r1PNFd1xRCv4X4dEpEGxhqkJZXT3xcmuQbZUW8hDVzHtjpgujaYWqhYr2
-    wPR40cAzkG/bNMT502BBqiaM9WwDk+ot9ckVntSkD7Q1RSLD3yoYPihn/DhPDBWD
-    0KaBQPxwWR571SisRya2MaX9m/YM5AiPeq9FloRAVPM2fiM2nKxVs40ctY1c4g+F
-    tAq4N3EnU6998ESQLdo422hAHwuUVzz01KsUPAJzDffn3ea0hyrkxX5pjX4wY1Np
-    nvmHSwjXQAb+GGc/PuRbHla/5htjDBibhBNoexyiJWZpj4Of4LKQQGWNDwDtw5h0
-    GEB1yC84Tg6MYsOwAFbltKi3lNGG3oGQ/K0tSx2N/ChF+a86tk0zVTWQANmitB7q
-    9jlIGkjdsnqqJYRQxXvGOa/YCUGq5qYoOpvoh1ggqCPQ9mGsZZmckhIganpnpJO7
-    dh9OQ1eZZkTtBxLc9yNQKlJRT5SPVDRp+dVBEXLVaTCN2M+z20SZ4pvfQ/rRKT2J
-    99Y+FisnVWyngYjS+k0NL1Bf7m9coop2fM8x8I0pRiWs
-    =bOKQ
-    -----END PGP PUBLIC KEY BLOCK-----
+* [web.archive.org - DeepDotWeb PGP Key](https://web.archive.org/web/20190212015104/https://www.deepdotweb.com/our-pgp-key/)
+
 
 <div class="crayon-main" style="">
 <table class="crayon-table">

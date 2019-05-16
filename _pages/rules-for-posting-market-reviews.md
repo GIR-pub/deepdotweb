@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Rules for Posting Market Reviews"
+permalink: rules-for-posting-market-reviews/
+redirect_from: rules-for-posting-market-reviews
 ---
 
 

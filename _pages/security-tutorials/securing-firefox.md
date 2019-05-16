@@ -8,7 +8,7 @@ sidebar:
     nav: "jolly"
   - title: "Blog Archive"
     nav: "blognav"
-
+permalink: "security-tutorials/securing-firefox/"
 ---
 
 
