@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Deep Dot Web -UNOFFICIAL- Blog Archive and Privacy Guides"
 description: "The world needs user-friendly access to the educational materials that were previously available on deepdotweb.com."
 header:
