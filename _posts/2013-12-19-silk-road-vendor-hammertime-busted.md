@@ -2,7 +2,7 @@
 title: "Silk Road Vendor &#8220;Hammertime&#8221; Busted"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 19, 2013</span>
 
 

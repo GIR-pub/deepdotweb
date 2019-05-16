@@ -2,7 +2,7 @@
 title: "Silk Road tales and archives"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 1, 2013</span>
 
 <span><a href="/2013/11/01/silk-road-tales-and-archives/#respond">Leave a comment</a></span>

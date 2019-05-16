@@ -2,7 +2,7 @@
 title: "Get Ready To Silk Road&#8217;s&#8230;. Newspaper?!"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 
 <p>Every time we think that we have seen just about everything we find another surprise, this time at the form of a plan to create a newspaper to report whats new on the silk road, a user under the name of &#8221; Raoul Duke &#8221; posted the following:</p>
 <p>&nbsp;</p>

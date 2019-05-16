@@ -1,7 +1,7 @@
 ---
 title: "Russian Hidden Marketplace Is Thriving"
 ---
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 13, 2013</span>
 
 <p>Are you from russia and looking for a domestic order?</p>

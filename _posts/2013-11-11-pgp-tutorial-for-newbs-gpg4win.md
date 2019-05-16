@@ -1,7 +1,7 @@
 ---
 title: "PGP Tutorial For Newbs (Gpg4Win)"
 ---
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 11, 2013</span>
 
 <div>

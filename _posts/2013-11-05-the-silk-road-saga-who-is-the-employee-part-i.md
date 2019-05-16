@@ -2,7 +2,7 @@
 title: "The Silk Road Saga: Who is 'The Employee'? – Part I"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: DeepDotWeb </span>    
 <span>November 5, 2013</span>
 
 

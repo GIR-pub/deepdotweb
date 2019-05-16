@@ -6,7 +6,7 @@ title: "Drugs Smuggling Cat Was Arrested at a Moldovan Jail"
 
     
     
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: DeepDotWeb </span>    
 <span>October 19, 2013</span>
     
 	

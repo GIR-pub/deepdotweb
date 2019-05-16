@@ -3,7 +3,7 @@ title: "Press Release: Family of alleged Silk Road Operator Ross Ulbricht Launch
 ---
 
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 21, 2013</span>
 
 

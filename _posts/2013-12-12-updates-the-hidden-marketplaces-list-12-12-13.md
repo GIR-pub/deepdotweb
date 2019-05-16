@@ -2,7 +2,7 @@
 title: "Hidden Marketplaces List Updates: 12-12-13"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 12, 2013</span>
 
 

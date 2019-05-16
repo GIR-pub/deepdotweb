@@ -2,7 +2,7 @@
 title: "How to use Tor as a Socks5 proxy"
 ---
 
-Posted by: <a href="/author/chrishansen/" title="">ChrisHansen </a></span>
+Posted by: ChrisHansen </span>
 <span>May 23, 2014</span>
 
 <p>Hey everyone! First off, thanks a lot to everyone at DeepDotWeb for allowing me to make this and many more posts to come! I really hope everyone on the website finds it useful! So, on to the tutorial. Tor, as we all know, Tor is a network that uses peer-to-peer connections. These connections from one person to another are very strongly encrypted, not only allowing people to securely go to websites without leaving a trace of who they are, but they allow people to encrypt everyday internet connections. Today, I will be focusing the main part of today’s tutorial on connecting to IRC networks via Tor. Keep in mind, I will be explaining this from complete start to end as if you are just learning about what Tor is.</p>

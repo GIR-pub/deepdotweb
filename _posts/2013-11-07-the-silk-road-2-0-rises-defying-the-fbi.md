@@ -2,7 +2,7 @@
 title: "The Silk Road 2.0 Rises: Defying the FBI"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 7, 2013</span>
 
 

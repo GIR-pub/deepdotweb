@@ -2,7 +2,7 @@
 title: "Government Claims Crackdown On Tor: “We will catch you”"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>October 26, 2013</span>
 
 <span><a href="/2013/10/26/government-claims-crackdown-on-tor-we-will-catch-you/#comments">3 Comments</a></span>

@@ -2,7 +2,7 @@
 title: "Pandora Market: Scam or just Down?"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 25, 2013</span>
 
 

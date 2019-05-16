@@ -2,7 +2,7 @@
 title: "Simple TAILS Installation"
 ---
 
-Posted by: <a href="/author/chris/" title="">Chris </a></span>
+Posted by: Chris </span>
 <span>June 14, 2014</span>
 
 <p>Right up there with Whonix as a contender for the best OS to access the deep web is Tails. The Amnesic Incognito Live System or “Tails” is a live system that aims to preserve your privacy and anonymity which is very important when accessing the deep web. Unlike Whonix, it is not made to be run on a virtual machine but instead off of a DVD, USB stick or SD card. While this is a bit more of a hassle, you may want to go with this option because of the additional features that serve to protect your identity.</p>

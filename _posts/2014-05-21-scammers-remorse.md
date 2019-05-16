@@ -2,7 +2,7 @@
 title: "A Scammer&#8217;s Remorse"
 ---
 
-Posted by: <a href="/author/black-ink/" title="">Black Ink </a></span>
+Posted by: Black Ink </span>
 <span>May 21, 2014</span>
     
 

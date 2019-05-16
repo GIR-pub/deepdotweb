@@ -2,7 +2,7 @@
 title: "Sum up: The Arrest of Silk Road Admins/Mods SSBD, Libertas &#038; Inigo"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 21, 2013</span>
 
 <p style="text-align: center;"><strong><span style="color: #ff0000;">Update</span>: <a href="/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/" target="_blank">Warning &#8211; Sr2.0 &amp; DPR might be compromised!</a></strong></p>

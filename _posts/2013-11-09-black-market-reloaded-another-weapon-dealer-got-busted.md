@@ -2,7 +2,7 @@
 title: "Black Market Reloaded: Another Weapon Dealer Got Busted"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 9, 2013</span>
 
 

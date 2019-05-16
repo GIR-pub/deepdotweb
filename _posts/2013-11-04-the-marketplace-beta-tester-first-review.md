@@ -2,7 +2,7 @@
 title: "The Marketplace Beta Tester First Review"
 ---
     
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: DeepDotWeb </span>    
 <span>November 4, 2013</span>
 
         

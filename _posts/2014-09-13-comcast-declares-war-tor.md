@@ -3,7 +3,7 @@ title: "Comcast Declares War on Tor?"
 ---
 
 7053  tag-comcast tag-declares  tag-war
-Posted by: <a href="/author/nathan/" title="">Nathan Wold </a></span>
+Posted by: Nathan Wold </span>
 <span>September 13, 2014</span>
 
 <a href="/2014/09/13/comcast-declares-war-tor/#comments">105 Comments</a></span>
@@ -28,5 +28,5 @@ Posted by: <a href="/author/nathan/" title="">Nathan Wold </a></span>
 <p><strong>EDIT2 15.9.14</strong>:  Comcast released a post <a href="http://corporate.comcast.com/comcast-voices/setting-the-record-straight-on-tor" target="_blank">Setting the Record Straight on Tor</a> denying the above and stating: &#8220;The anecdotal chat room evidence described in these reports is not accurate.&#8221;  Without explaining what is the &#8220;accurate&#8221; explanation?</p>
 </div>
 <a href="/tag/comcast/" rel="tag">comcast</a> <a href="/tag/declares/" rel="tag">declares</a>  <a href="/tag/war/" rel="tag">war</a></span> 
-Updated: 2014-09-13<a href="/author/nathan/" title="Posts by Nathan Wold" rel="author">Nathan Wold</a></strong></div>
+Updated: 2014-09-13Nathan Wold</strong></div>
     

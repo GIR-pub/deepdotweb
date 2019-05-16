@@ -3,7 +3,7 @@ title: "Cypherpunk and Dark Net Marketplaces"
 ---
 
 6801  tag-cypherpunk tag-marketplaces tag-net
-Posted by: <a href="/author/cipher/" title="">Cipher </a></span>
+Posted by: Cipher </span>
 <span>September 12, 2014</span>
     
 <a href="/2014/09/12/cypherpunk-dark-net-marketplaces/#respond">Leave a comment</a></span>

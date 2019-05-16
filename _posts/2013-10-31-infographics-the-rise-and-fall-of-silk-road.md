@@ -2,7 +2,7 @@
 title: "Infographics: The Rise And Fall of Silk Road"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>October 31, 2013</span>
 
 <span><a href="/2013/10/31/infographics-the-rise-and-fall-of-silk-road/#comments">3 Comments</a></span>

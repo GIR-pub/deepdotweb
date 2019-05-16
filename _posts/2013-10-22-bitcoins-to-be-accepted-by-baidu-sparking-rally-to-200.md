@@ -2,7 +2,7 @@
 title: "Bitcoins To Be Accepted By Baidu, Sparking Rally To $200"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>October 22, 2013</span>
 
 

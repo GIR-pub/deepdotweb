@@ -2,7 +2,7 @@
 title: "And Vice-produced Silk Road documentary Coming soon"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>October 23, 2013</span>
 
 

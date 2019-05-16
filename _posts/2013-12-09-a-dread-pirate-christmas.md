@@ -2,7 +2,7 @@
 title: "A Dread Pirate Christmas"
 ---
 
-<span>Posted by: <a href="/author/roul/" title="">Raoul Duke </a></span>
+<span>Posted by: Raoul Duke </span>
 <span>December 9, 2013</span>
 
 
@@ -152,6 +152,6 @@ title: "A Dread Pirate Christmas"
 <p>Reporting from the edge, this is Raoul Duke.</p>
 </div>
 
-Updated: 2013-12-09<a href="/author/roul/" title="Posts by Raoul Duke" rel="author">Raoul Duke</a></strong></div>
+Updated: 2013-12-09Raoul Duke</strong></div>
 
 

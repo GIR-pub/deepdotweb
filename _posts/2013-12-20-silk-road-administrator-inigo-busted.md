@@ -2,7 +2,7 @@
 title: "Silk Road Administrator &#8220;Inigo&#8221; Busted?!"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 20, 2013</span>
 
 <p style="text-align: center;"><strong><span style="color: #ff0000;">Update 2 :</span> <a href="/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/" target="_blank">Warning &#8211; Sr2.0 &amp; DPR might be compromised!</a></strong></p>

@@ -1,7 +1,7 @@
 ---
 title: "The Silk Road Saga: Who is “The Employee”? – Part II"
 ---
-<span>Posted by: <a href="/author/keving/" title="">Kevin H. Danielsen </a></span>
+<span>Posted by: Kevin H. Danielsen </span>
 <span>November 8, 2013</span>
 
 

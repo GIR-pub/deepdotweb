@@ -2,7 +2,7 @@
 title: "Darkcoin Now Accepted on Minor Dark Net Markets"
 ---
 
-Posted by: <a href="/author/cipher/" title="">Cipher </a></span>
+Posted by: Cipher </span>
 <span>October 21, 2014</span>
 
 <p>As cryptocurrency developers fight it out to differentiate themselves from the crowd it is increasingly clear that two approaches are being staked out: coins with a business/corporate angle and coins focused on anonymity. In the latter case there is a long-standing battle between various coins promising various methods of anonymizing transactions. Despite Bitcoin’s reputation for discrete trade it is, in fact, built a quite open form of exchange, the public ledger, and in many ways the ability to analyze it means Bitcoin is less private than using a bank (this changes if the law needs to look into your finances, of course). Hence for the past few years coin-mixing has been the order of the day for clients and vendors on dark net marketplaces. Frustratingly this has meant delays to allow for mixing and a cut going to the mixing service providers. In such scenarios sloppiness surely becomes a danger as people get frustrating pinging their Bitcoin around a bunch of sites they are forced to trust.</p>

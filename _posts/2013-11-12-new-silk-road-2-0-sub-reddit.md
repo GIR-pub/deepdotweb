@@ -1,7 +1,7 @@
 ---
 title: "New Silk Road 2.0 Sub Reddit"
 ---
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 12, 2013</span>
 <span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="/2013/11/12/new-silk-road-2-0-sub-reddit/#comments">1 Comment</a></span>

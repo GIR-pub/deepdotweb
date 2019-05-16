@@ -2,7 +2,7 @@
 title: "Teen Dies From A MASSIVE MDMA Dose Purchased on Silk Road"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 16, 2013</span>
 
 

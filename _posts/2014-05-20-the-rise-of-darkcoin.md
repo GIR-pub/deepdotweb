@@ -2,7 +2,7 @@
 title: "The Rise of Darkcoin"
 ---
 
-Posted by: <a href="/author/cipher/" title="">Cipher </a></span>
+Posted by: Cipher </span>
 <span>May 20, 2014</span>
 
 <p>Edit: Due to some error on the site i reposted this article again, losing all its social stats. sorry.</p>

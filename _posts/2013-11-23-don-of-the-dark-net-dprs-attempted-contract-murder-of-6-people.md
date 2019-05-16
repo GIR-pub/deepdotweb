@@ -2,7 +2,7 @@
 title: "Don of the Dark Net: DPR’s Attempted Contract Murder of 6 People"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 23, 2013</span>
 
 <p>Even more information has come to light about Ross Ulbricht’s dirty dealings, while running Silk Road.  Already known was one contract-hit attempt against ‘<a href="/2013/11/08/the-silk-road-saga-who-is-the-employee-part-ii/">The Employee’ Curtis Green</a>; however, investigators have uncovered evidence suggesting that Dread Pirate Roberts had attempted to kill 5 others in order to tie off loose ends and silence a blackmailer.</p>

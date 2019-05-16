@@ -2,7 +2,7 @@
 title: "Ross Ulbricht&#8217;s mother plea on Facebook and CrowdTilt"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 11, 2013</span>
 
 

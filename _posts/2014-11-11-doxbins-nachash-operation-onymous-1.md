@@ -2,7 +2,7 @@
 title: "Doxbin’s Nachash On Operation Onymous (P.1)"
 ---
 
-Posted by: <a href="/author/nealrauhauser/" title="">Neal Rauhauser </a></span>
+Posted by: Neal Rauhauser </span>
 <span>November 11, 2014</span>
 
 <p><strong>Second part avilable at &#8211; <a href="tag/nashcashtag/">#Nashcash Tag</a> (After publishing) &#8211; Read the other posts related to <a href="tag/silkroad2bust/" target="_blank">Operation Onymous Here</a></strong></p>

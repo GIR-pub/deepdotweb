@@ -2,7 +2,7 @@
 title: "Arrests around the world related to Silk Road&#8230;.So far"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: DeepDotWeb </span>    
 <span>October 25, 2013</span>
 
 <p>An interesting forum post on the Silk Road 2.0 forums (being set up as we speak) counting the arrests that happened so far that are related to silk road &#8211; you can read the original post here:<br />

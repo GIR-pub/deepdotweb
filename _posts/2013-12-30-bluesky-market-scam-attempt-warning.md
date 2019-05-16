@@ -2,7 +2,7 @@
 title: "BlueSky Marketplace Scam Attempt Warning"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 30, 2013</span>
 
 

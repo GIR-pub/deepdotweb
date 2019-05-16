@@ -2,7 +2,7 @@
 title: "Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>October 21, 2013</span>
 <span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="/2013/10/21/silk-road-drug-dealer-nod-was-flipped-by-feds/#comments">6 Comments</a></span>

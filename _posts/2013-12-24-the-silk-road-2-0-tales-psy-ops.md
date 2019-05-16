@@ -2,7 +2,7 @@
 title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 24, 2013</span>
 
 

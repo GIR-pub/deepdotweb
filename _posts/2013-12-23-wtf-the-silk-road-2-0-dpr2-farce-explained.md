@@ -2,7 +2,7 @@
 title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 23, 2013</span>
 
 <p><span style="text-decoration: underline;"><strong>Update 2#:</strong></span> <span style="color: #ff0000;">Must Read &#8211; <a href="/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank"><span style="color: #ff0000;">The Silk Road Tale And Psy-Ops!</span></a></span></p>

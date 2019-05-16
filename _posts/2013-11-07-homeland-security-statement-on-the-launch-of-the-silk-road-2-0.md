@@ -1,7 +1,7 @@
 ---
 title: "Homeland Security: Statement On The Launch Of The Silk Road 2.0"
 ---
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 7, 2013</span>
 
 

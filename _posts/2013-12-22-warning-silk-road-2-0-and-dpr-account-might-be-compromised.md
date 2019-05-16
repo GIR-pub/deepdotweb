@@ -2,7 +2,7 @@
 title: "Warning: Silk Road 2.0 And DPR account might be compromised!"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 22, 2013</span>
 
 

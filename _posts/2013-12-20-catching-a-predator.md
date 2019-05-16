@@ -6,7 +6,7 @@ title: "Catching a Predator"
 {% include video id="7iqG7IhWTWU" provider="youtube" %}
 
 
-<span>Posted by: <a href="/author/chrisk/" title="">Chris K. </a></span>
+<span>Posted by: Chris K. </span>
 <span>December 20, 2013</span>
 
 

@@ -3,7 +3,7 @@ title: "Tormarket Hacked &#8211; Database Leaked By&#8230; Dread Pirate Roberts"
 ---
 
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 14, 2013</span>
 <span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
 <span><a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/#comments">3 Comments</a></span>

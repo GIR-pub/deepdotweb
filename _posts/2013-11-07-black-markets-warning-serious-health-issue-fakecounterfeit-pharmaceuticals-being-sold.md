@@ -2,7 +2,7 @@
 title: "Black Markets Warning: Serious Health Issue &#8211; Fake/Counterfeit Pharmaceuticals Being Sold!"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: DeepDotWeb </span>    
 <span>November 7, 2013</span>
 
 

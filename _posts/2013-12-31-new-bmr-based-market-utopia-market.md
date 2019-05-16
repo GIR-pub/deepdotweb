@@ -2,7 +2,7 @@
 title: "BMR Based Market: Utopia Market"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>December 31, 2013</span>
 
 <ul>

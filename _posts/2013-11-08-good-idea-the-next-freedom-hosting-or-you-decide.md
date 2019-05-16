@@ -2,7 +2,7 @@
 title: "Good Idea, the Next Freedom Hosting, Or&#8230;? You decide."
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 8, 2013</span>
 
 

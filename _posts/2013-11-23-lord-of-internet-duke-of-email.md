@@ -2,7 +2,7 @@
 title: "Lord of Internet, Duke of Email"
 ---
 
-<span>Posted by: <a href="/author/chrisk/" title="">Chris K. </a></span>
+<span>Posted by: Chris K. </span>
 <span>November 23, 2013</span>
 
 

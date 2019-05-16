@@ -1,7 +1,7 @@
 ---
 title: "Darknet Distrust: The Reaction To SR 2.0 In Competing Marketplaces?"
 ---
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 11, 2013</span>
 
 

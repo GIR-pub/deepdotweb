@@ -2,7 +2,7 @@
 title: "Analogue Players In a Digital World: How Silk Road Stumped the Justice Department"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 20, 2013</span>
 
 

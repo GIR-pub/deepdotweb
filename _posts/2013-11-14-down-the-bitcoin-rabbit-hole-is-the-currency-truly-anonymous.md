@@ -2,7 +2,7 @@
 title: "Down the Bitcoin Rabbit Hole: Is the Currency Truly Anonymous?"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>November 14, 2013</span>
 
 <p>Researchers have asked a very important question about the bitcoin, a question that has spurred the unregulated currency’s popularity, as well as its controversy: is bitcoin anonymous, or can it be tracked?</p>

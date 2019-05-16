@@ -2,7 +2,7 @@
 title: "Interview with Gopnik Tor botnet Programmer"
 ---
 
-Posted by: <a href="/author/chrishansen/" title="">ChrisHansen </a></span>
+Posted by: ChrisHansen </span>
 <span>May 26, 2014</span>
 
 <p>Disclaimer: We do not support the use of such tools and the below info is for informational / technical purposes only, exactly as it was provided to us by our reporter &#8220;Chris Hansen&#8221;</p>

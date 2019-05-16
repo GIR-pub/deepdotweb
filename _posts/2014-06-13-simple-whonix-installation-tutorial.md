@@ -2,7 +2,7 @@
 title: "Simple Whonix Installation Tutorial"
 ---
 
-Posted by: <a href="/author/chris/" title="">Chris </a></span>
+Posted by: Chris </span>
 <span>June 13, 2014</span>
 
 <p>Whonix is an operating system focused on anonymity, privacy and security. It&#8217;s based on the Tor anonymity network and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user&#8217;s real IP. This makes it a safer way to access the Deep Web opposed to just using Tor on your current operating system. It is especially discouraged to be using Tor with a Windows operating system because of the direct access that the NSA has to Microsoft’s systems and the information that Microsoft is willing to hand over to them.</p>

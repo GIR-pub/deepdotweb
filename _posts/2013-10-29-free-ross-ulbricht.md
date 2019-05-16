@@ -3,7 +3,7 @@ title: "Free Ross Ulbricht"
 ---
 
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>    
+<span>Posted by: DeepDotWeb </span>    
 <span>October 29, 2013</span>
 
 

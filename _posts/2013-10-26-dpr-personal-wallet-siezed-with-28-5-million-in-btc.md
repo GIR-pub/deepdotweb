@@ -2,7 +2,7 @@
 title: "Official: DPR Personal Wallet Siezed With $28.5 Million in BTC (FBI Press Release)"
 ---
 
-<span>Posted by: <a href="/author/admin/" title="">DeepDotWeb </a></span>
+<span>Posted by: DeepDotWeb </span>
 <span>October 26, 2013</span>
 
 
