@@ -299,6 +299,8 @@ defaults:
       sidebar:
         - title: "Blog Archive"
           nav: "blognav"
+        - title: "DeepDotWeb"
+          nav: pages
         - title: "Security Tutorials"
           nav: "security"
         - title: "Jolly Rogers Security Guide"
@@ -316,6 +318,8 @@ defaults:
       toc: true
       related: true
       sidebar:
+        - title: "DeepDotWeb"
+          nav: pages
         - title: "Security Tutorials"
           nav: "security"
         - title: "Jolly Rogers Security Guide"
