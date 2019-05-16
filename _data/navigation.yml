@@ -7,13 +7,13 @@ main:
   - title: "Security Tutorials"
     url: "/security-tutorials/"
   - title: "Jolly Rogers Security Guide"
-    url: /jolly-rogers-security-guide-for-beginners/
+    url: "/jolly-rogers-security-guide-for-beginners/"
   - title: "Dark Net Markets Comparison Chart - 2014"
-    url: /dark-net-market-comparison-chart11111/
+    url: "/dark-net-market-comparison-chart11111/"
   - title: "Dark Net Markets Comparison Chart - 2015"
-    url: /dark-net-market-comparison-chart/
+    url: "/dark-net-market-comparison-chart/"
   - title: "How to Access Onion Sites"
-    url: /how-to-access-onion-sites/
+    url: "/how-to-access-onion-sites/"
 
 security:
   - title: "• Security Tutorials Index"
