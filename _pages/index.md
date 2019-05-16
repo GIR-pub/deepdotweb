@@ -10,6 +10,8 @@ toc: true
 permalink: /
 share: true
 sidebar:
+  - title: DeepDotArchive
+    nav: "pages"
   - title: "Security Tutorials"
     nav: "security"
   - title: "Jolly Rogers Security Guide"
@@ -34,7 +36,7 @@ I certainly don't have any problem with the use of the markets, in fact I think 
 
 ![](https://imgur.com/T7QpFTM.png)
 
-## Why Did I Build This Archive?
+## Why am I Building This Archive?
 
 Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://www.deepdotweb.com/), which begs the question: Why did I build this archive?
 
@@ -52,7 +54,7 @@ Though I'm grateful for the internet archive, I thought I could do something nic
 
 ![](https://g-i-r.github.io/deepdotweb/deepdotweb-seized.png)
 
-## How I Created this Archive
+## How am I building this Archive?
 
 [Download a Website from the Archive.org Wayback Machine](https://superuser.com/questions/828907/how-to-download-a-website-from-the-archive-org-wayback-machine)
 
