@@ -303,3 +303,22 @@ defaults:
           nav: "security"
         - title: "Jolly Rogers Security Guide"
           nav: "jolly"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: # true
+      share: true
+      toc: true
+      related: true
+      sidebar:
+        - title: "Security Tutorials"
+          nav: "security"
+        - title: "Jolly Rogers Security Guide"
+          nav: "jolly"
+        - title: "Blog Archive"
+          nav: "blognav"
