@@ -316,6 +316,7 @@ defaults:
       comments: # true
       share: true
       toc: true
+      classes: wide
       related: true
       sidebar:
         - title: "DeepDotWeb"
