@@ -6,7 +6,7 @@ title: "BMR Based Market: Utopia Market"
 <span>December 31, 2013</span>
 
 <ul>
-<li><strong>Update 3.2.14</strong> &#8211; Utopia Marketplace is now <a href="/2014/02/03/utopia-marketplace-is-now-officialy-open/">officially open</a></li>
+<li><strong>Update 3.2.14</strong> &#8211; Utopia Marketplace is now <a href="https://g-i-r.github.io/deepdotweb/2014/02/03/utopia-marketplace-is-now-officialy-open/">officially open</a></li>
 </ul>
 <p><strong>Side note</strong>: Two Hours after posting this, people told us that it was suppose to be some kind of a &#8220;secret&#8221;&#8230; We became aware of the market/url on several forums posts on several different  forums &#8211; and just hours later became aware of the post saying to &#8220;keep it secret&#8221; on bmr, so it is pretty much out there anyway.</p>
 <p>There is a new market being developed now, it is called Utopia market &#8211; apparently it is being endorsed / supported in some way by Backopy &#8211; the Black Market Reloaded owner, who shut down recently,</p>
@@ -27,7 +27,7 @@ title: "BMR Based Market: Utopia Market"
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/homeu.jpg" />
 
-<p>The forum is very new at this point bit it seem that it already has a decent user base of people who migrated from BMR. This sounds like an interesting market to come and we will be following this one to see where its headed. since the fall of the first SR, people are still looking for the next stable and trustworthy market, at this time &#8211; the way we see it, there are few candidates &#8211; <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">TheMarketplace.i2p</a> ,  <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Agora</a>,  And by the users reaction and the fact that its being supported by backopy (in some way at least) and that some old BMR moderators and users are there, it seems that we can also add Utopia to the list of potential stable markets.</p>
+<p>The forum is very new at this point bit it seem that it already has a decent user base of people who migrated from BMR. This sounds like an interesting market to come and we will be following this one to see where its headed. since the fall of the first SR, people are still looking for the next stable and trustworthy market, at this time &#8211; the way we see it, there are few candidates &#8211; <a href="https://g-i-r.github.io/deepdotweb/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">TheMarketplace.i2p</a> ,  <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Agora</a>,  And by the users reaction and the fact that its being supported by backopy (in some way at least) and that some old BMR moderators and users are there, it seems that we can also add Utopia to the list of potential stable markets.</p>
 <p>There are several threads on the BMR forums regarding this market and people seem excited. if you can access the forum you probably saw (since new registrations are disabled there) Even some of the BMR Admins already mentioned they are registered there:</p>
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/bmradmins.png" />
 
@@ -39,7 +39,7 @@ title: "BMR Based Market: Utopia Market"
     We&#8217;re just creating a little safe heaven for buyers/vendors in this dark darknet</p>
 <p>I&#8217;m already registered on the forum, LC too along with cosa.</p></blockquote>
 <p>Keep yourself updated at the Utopia Market URL (currently just the forum):  http://ysas7uv4drg7rlwv.onion/</p>
-<p>We will update the url in our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden marketplaces</a> &#8211; so far at the new markets section &#8211; until we have some real reviews.</p>
+<p>We will update the url in our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden marketplaces</a> &#8211; so far at the new markets section &#8211; until we have some real reviews.</p>
 
 
 Updated: 2013-12-31

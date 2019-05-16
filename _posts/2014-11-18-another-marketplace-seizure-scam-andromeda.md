@@ -40,7 +40,7 @@ Posted by: DeepDotWeb
 </ol>
 </blockquote>
 <p>The above information has not yet been verified, but it sounds similar to the things that happened on Sheep, Pandora &amp; The pirate market before they executed their exit scam.</p>
-<p>3. New Diabolus / SR3 market looks very similar to Andromeda and its former incarnations, <a href="/2014/05/01/marketplace-merge-darkbay-andromeda/">Darkbay, UltraVioletCity</a>—in terms of design and code, and another past attempt at…. Silk road3 (From the market list <a href="hidden-marketplace-list-changelog/">changelog</a>: “<em>15.4.14 – Changed SilkRoad 3 name to Andromeda</em>“). So, this market is basically:  <strong>Darkbay = Ultravioletcity = Silk Road 3 (past) = Andromeda = Diabolus = Silk Road 3 (current)</strong></p>
+<p>3. New Diabolus / SR3 market looks very similar to Andromeda and its former incarnations, <a href="https://g-i-r.github.io/deepdotweb/2014/05/01/marketplace-merge-darkbay-andromeda/">Darkbay, UltraVioletCity</a>—in terms of design and code, and another past attempt at…. Silk road3 (From the market list <a href="hidden-marketplace-list-changelog/">changelog</a>: “<em>15.4.14 – Changed SilkRoad 3 name to Andromeda</em>“). So, this market is basically:  <strong>Darkbay = Ultravioletcity = Silk Road 3 (past) = Andromeda = Diabolus = Silk Road 3 (current)</strong></p>
 <p>4. And the final point of evidence supporting the scam theory can be found <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2modbl/andromeda_seized_today/cm6apbu">right here</a>, written by Gwern.</p>
 
 Updated: 2014-11-18

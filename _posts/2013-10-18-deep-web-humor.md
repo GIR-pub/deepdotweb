@@ -6,7 +6,7 @@ title: "Deep Web Humor"
     
 <span>Posted by: DeepDotWeb </span>    
 <span>October 18, 2013</span>
-<span>in <a href="/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
+<span>in <a href="https://g-i-r.github.io/deepdotweb/category/memes/" title="View all posts in Memes &amp; Funny" rel="category tag">Memes &amp; Funny</a></span>
     
 
 </div><span class="wpsr_floatbts_anchor" data-offset="25" ></span><p>Found this on reddit today in the dark market sub reddits<br />

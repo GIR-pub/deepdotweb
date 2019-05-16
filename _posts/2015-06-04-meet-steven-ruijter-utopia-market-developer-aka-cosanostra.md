@@ -7,8 +7,8 @@ Posted by: DeepDotWeb
 <span>June 4, 2015</span>
     
 
-<p><strong>Update</strong>: At the 10th of June 2015 &#8211; <a href="/2015/06/10/utopia-market-developer-sentence-by-higher-courtroom-in-arnhem/">Steven was sentenced</a> to a lengthy Jail term along with 15K Euro fine, if you want to help feel free to donate to him via this address: <strong>12CogZNo4CFLZ6ViMZL5NcrwBA5svX<wbr/>i12V</strong></p>
-<p><a href="/?s=UTOPIA">Utopia</a> was one of the markets with <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/">the shortest lifespan</a>, only one week before its founders, former staff member of BlackMarketReloaded were raided, arrested and sentenced to lengthy jail terms. Today for the first time, we are happy to publish an interview with one of the mods of BMR who was also the developer of Utopia &#8211;  Steven Ruijter AKA &#8220;CosaNostra&#8221; who was recently released after spending 1 year in prison, along with some more info from the legal documents of this case, presented here publicly for the first time.</p>
+<p><strong>Update</strong>: At the 10th of June 2015 &#8211; <a href="https://g-i-r.github.io/deepdotweb/2015/06/10/utopia-market-developer-sentence-by-higher-courtroom-in-arnhem/">Steven was sentenced</a> to a lengthy Jail term along with 15K Euro fine, if you want to help feel free to donate to him via this address: <strong>12CogZNo4CFLZ6ViMZL5NcrwBA5svX<wbr/>i12V</strong></p>
+<p><a href="https://g-i-r.github.io/deepdotweb/?s=UTOPIA">Utopia</a> was one of the markets with <a href="https://g-i-r.github.io/deepdotweb/2014/02/11/utopia-marketplace-seized-by-dutch-police/">the shortest lifespan</a>, only one week before its founders, former staff member of BlackMarketReloaded were raided, arrested and sentenced to lengthy jail terms. Today for the first time, we are happy to publish an interview with one of the mods of BMR who was also the developer of Utopia &#8211;  Steven Ruijter AKA &#8220;CosaNostra&#8221; who was recently released after spending 1 year in prison, along with some more info from the legal documents of this case, presented here publicly for the first time.</p>
 <p><span style="text-decoration: underline;">Spoiler</span>: Nobody got something even remotely close to life without parole.</p>
 <p><strong>Who are you and whats your relation to BMR / Utopia?</strong></p>
 <p>My real name is Steven Ruijter, I was a user under the nickname CosaNostra.</p>
@@ -19,7 +19,7 @@ Posted by: DeepDotWeb
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/utopiagun.png">
 
-<p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
+<p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="https://g-i-r.github.io/deepdotweb/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
 <p>I don&#8217;t know how backopy is doing at this moment. The judges asked me the same question, I told them he is doing fine&#8230; That&#8217;s kinda based on no thing , but i think he is really doing fine preparing for the next steps. Hope to hear from him in the future. I was jailed so didn&#8217;t notice the takedown of the BMR forum.. Why should anyone take down an discussion forum nothing going on there, but some east European country are retarded so its plausible.</p>
 
 

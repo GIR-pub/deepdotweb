@@ -9,7 +9,7 @@ Posted by: pesa_mic
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/08/11.jpg">
 
-<p>Over the August 8 weekend, Ether (ETH), the native token of decentralized platform <a href="/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum</a> began trading on exchanges after the launch of its first live release, ‘Ethereum frontier’. The release came out with set conditions, measures put in place by devs. As soon as trading went live on some exchanges, led by kraken over miscommunication, ‘ether dumping’ set off a panic price fall, down 80% from prices at $3.0 just days ago.</p>
+<p>Over the August 8 weekend, Ether (ETH), the native token of decentralized platform <a href="https://g-i-r.github.io/deepdotweb/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum</a> began trading on exchanges after the launch of its first live release, ‘Ethereum frontier’. The release came out with set conditions, measures put in place by devs. As soon as trading went live on some exchanges, led by kraken over miscommunication, ‘ether dumping’ set off a panic price fall, down 80% from prices at $3.0 just days ago.</p>
 <p><em>“The market cap was around 170, now 88 ? Price halved in a single day?”</em></p>
 <p><strong>Ether Crowdsale, About a Year Ago</strong></p>
 

@@ -75,7 +75,7 @@ Posted by: DeepDotWeb
     http://outfor6jwcztwbpd.onion/index.php<br />
 <strong>Forum:</strong> http://outforumbpapnpqr.onion
 </div></div>
-<p>You can also find the site with some details at our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a></p>
+<p>You can also find the site with some details at our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a></p>
 </div>
 
 Updated: 2014-01-23

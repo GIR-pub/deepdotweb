@@ -7,12 +7,12 @@ Posted by: DeepDotWeb
 <span>February 13, 2014</span>
 
 <p><strong>Update 5</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
-<p><strong>Update 4</strong>: <span style="color: #000000;"><a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
-<p><strong>Update 3: </strong><span style="color: #000000;"><a href="/2014/02/16/silk-road-2-0-admin-silk-road-is-not-dead/"><span style="color: #000000;">Silk Road 2 Admin &#8211; Silk Road is not dead!</span></a></span></p>
+<p><strong>Update 4</strong>: <span style="color: #000000;"><a href="https://g-i-r.github.io/deepdotweb/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
+<p><strong>Update 3: </strong><span style="color: #000000;"><a href="https://g-i-r.github.io/deepdotweb/2014/02/16/silk-road-2-0-admin-silk-road-is-not-dead/"><span style="color: #000000;">Silk Road 2 Admin &#8211; Silk Road is not dead!</span></a></span></p>
 <p><strong>Update 2</strong>: <span style="color: #000000;">As the time passes there are more and more suspicions that this was in fact a <strong>SCAM</strong> by the Silk Road staff &#8211; and not a hack, we will post more details about it once, and if we get the full picture.</span></p>
 <div class="box  info"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
-<strong>Looking for new marketplace</strong>? Try this <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">List of hidden markets</a><br />
-<strong>Must Read</strong>: <a href="/2014/02/06/leave-the-scammer-op-behind/" target="_blank">Leave the Scammer-Op Behind!</a>
+<strong>Looking for new marketplace</strong>? Try this <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">List of hidden markets</a><br />
+<strong>Must Read</strong>: <a href="https://g-i-r.github.io/deepdotweb/2014/02/06/leave-the-scammer-op-behind/" target="_blank">Leave the Scammer-Op Behind!</a>
 </div></div>
 <p><strong>Update</strong>: <span style="color: #ff0000;"><span style="color: #000000;">The amount of BTC that was stolen was calculated by Nicholas Weaver <a href="https://twitter.com/NCWeaver"><span style="color: #000000;">@NCWeaver</span></a> &#8211; Computer Security Researcher, to be around:  4474.266369160003BTC that are with the value of about $2.7 Million.</span><br />
 </span></p>
@@ -86,7 +86,7 @@ Posted by: DeepDotWeb
     address,txid_cleaned<br />
     {Here some big list of withdrawal addresses with the stolen bitcoins}</p>
 <p><strong>=====End Quote====</strong></p>
-<p>Aside from the endless marketplaces being hacked every day now, this is the most shocking event we have encountered &#8211; as Silk Road being the largest DarkNet market nowadays was probably holding the largest sum of money of them all &#8211; it is not yet clear how many Bitcoins were stolen exactly, but its almost certain that this is about to become the largest theft in the Deep Web history &#8211; bigger than the <a href="/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Marketplace Scam </a> that had amount equal at the time to $40 million in bitcoins stolen by its admins.</p>
+<p>Aside from the endless marketplaces being hacked every day now, this is the most shocking event we have encountered &#8211; as Silk Road being the largest DarkNet market nowadays was probably holding the largest sum of money of them all &#8211; it is not yet clear how many Bitcoins were stolen exactly, but its almost certain that this is about to become the largest theft in the Deep Web history &#8211; bigger than the <a href="https://g-i-r.github.io/deepdotweb/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Marketplace Scam </a> that had amount equal at the time to $40 million in bitcoins stolen by its admins.</p>
 <p>This case only serves as <strong>ANOTHER, Very Painful</strong> lesson about &#8211; why on-site escrows are bad, and should not be used! only direct transaction or mulsig escrow like the one offered at themarketplace.i2p are the safe way to conduct business on these sites.</p>
 <p><strong>Is this the end of the centralized marketplaces?</strong></p>
 <p>We sure hope so!  as we posted here again and again, they are not safe, and will always end up being hacked or having the money stolen by their admins.</p>
@@ -109,7 +109,7 @@ Posted by: DeepDotWeb
 <p>DEFCON GO FUCK YOUR SELF , U GUYS HAVE NOT DOMNE NOTHING ABOUT THE ESCROW SYSTEM , U HAVE DONE NOTHIGN ABOUT VENDOR REFUND , ALL U GUYS DID IS LET THE FUCKING BANK  BUILD UP AND SORRY GUYS WE HAVE BEEN HACKED</p>
 <p>EVERY DOG GETS THERE DAY AND I CANT WAIT TILL I SEE ONE OF U FALL</p></blockquote>
 <p>Some even tried to help in some way.</p>
-<p>For us &#8211; the big question is &#8220;how much&#8221;? , we will keep following up on this and updating this post as we get new information &#8211; for now, you can check out other site <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on this list</a>.</p>
+<p>For us &#8211; the big question is &#8220;how much&#8221;? , we will keep following up on this and updating this post as we get new information &#8211; for now, you can check out other site <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on this list</a>.</p>
 
 Updated: 2014-02-13
     

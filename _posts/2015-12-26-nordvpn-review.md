@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>December 26, 2015</span>
     
 
-<p>For some time now, we have been hearing a lot of good things about <a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=NordDDWRev" target="_blank">NordVPN</a>. And because of this, we have decided to conduct a comprehensive review of their <a href="/vpn-comparison-chart/" target="_blank">VPN features and services</a>, so that we can determine if the title “The world’s most advanced VPN” really applies to them.</p>
+<p>For some time now, we have been hearing a lot of good things about <a href="http://go.nordvpn.net/aff_c?offer_id=121&amp;aff_id=1758&amp;url_id=433&amp;aff_sub=NordDDWRev" target="_blank">NordVPN</a>. And because of this, we have decided to conduct a comprehensive review of their <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/" target="_blank">VPN features and services</a>, so that we can determine if the title “The world’s most advanced VPN” really applies to them.</p>
 <p>To kick off with the review, here are several helpful information that you can use to get an idea about their company.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/image0012.jpg">
@@ -190,7 +190,7 @@ Posted by: DeepDotWeb
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/image0211.jpg">
 
-<p>NordVPN supplies its users with a 24/7 customer support via Contact form, email (<a href="/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692bcbda0b6a4a2bcfcb1bdbf"><span class="__cf_email__" data-cfemail="71020401011e0305311f1e031507011f5f121e1c">[email&#160;protected]</span></a>), and live chat that you can access on their website. In addition, answers to common questions can also be obtained via their knowledgebase and FAQ page.</p>
+<p>NordVPN supplies its users with a 24/7 customer support via Contact form, email (<a href="https://g-i-r.github.io/deepdotweb/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692bcbda0b6a4a2bcfcb1bdbf"><span class="__cf_email__" data-cfemail="71020401011e0305311f1e031507011f5f121e1c">[email&#160;protected]</span></a>), and live chat that you can access on their website. In addition, answers to common questions can also be obtained via their knowledgebase and FAQ page.</p>
 <p>Based on our review, their support service is great, because we were able to get answers to all of our questions within a few minutes, plus the contents of their knowledgebase, FAQ page and tutorial section was really sufficient and helpful.</p>
 <h2>Conclusion – NordVPN</h2>
 <p>NordVPN is really a good VPN service provider. Their service is packed with multiple features that further enhance the security and privacy of their online users. Furthermore, their customer support is world class and reliable.</p>

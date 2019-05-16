@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>March 18, 2015</span>
 
 <p>Another article in the <a href="#">#Evoscam</a> series:</p>
-<p>Today DeepDotWeb conducted a short interview with <a href="http://www.reddit.com/user/NSWGreat">NSWGreat,</a> the now former Evolution market staff member who was the first to publicly announce the <a href="/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution market scam</a> via a post <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2zeuxo/complaintwarning_evolution_admins_exit_scamming/">on Reddit</a>. DeepDotWeb inquired about an interview in an attempt shed more light on the situation. Unfortunately, we cannot say that we have learned a great deal of new information regarding a resolution to the scam, but that is not to say that DeepDotWeb did not learn valuable information about the events that lead up to the collapse of the largest darknet market. One must bear in mind that scams of this nature typically don’t hold much hope of ever revealing the true motive behind it.</p>
+<p>Today DeepDotWeb conducted a short interview with <a href="http://www.reddit.com/user/NSWGreat">NSWGreat,</a> the now former Evolution market staff member who was the first to publicly announce the <a href="https://g-i-r.github.io/deepdotweb/2015/03/18/evolution-marketplace-exit-scam-biggest-exist-scam-ever/">Evolution market scam</a> via a post <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2zeuxo/complaintwarning_evolution_admins_exit_scamming/">on Reddit</a>. DeepDotWeb inquired about an interview in an attempt shed more light on the situation. Unfortunately, we cannot say that we have learned a great deal of new information regarding a resolution to the scam, but that is not to say that DeepDotWeb did not learn valuable information about the events that lead up to the collapse of the largest darknet market. One must bear in mind that scams of this nature typically don’t hold much hope of ever revealing the true motive behind it.</p>
 <p>Proof of ID can be <a href="http://pastebin.com/GnEqLjLv">found here</a>, a PGP signed message with the initial version of this interview. (Editor’s note: more information was added later.)</p>
 <p>His PGP Key can be verified by checking his Agora Profile: <a href="http://agorahooawayyfoe.onion/vendor/NSWGreat#"><b>http://agorahooawayyfoe.onion/vendor/NSWGreat#</b></a></p>
 <p><b>Who are you? (Vendor etc…)</b></p>
@@ -44,6 +44,6 @@ Posted by: DeepDotWeb
 <p><b>Do you think anyone else was cooperating with the admins – like mods or vendors?</b></p>
 <p>None. They did it of their own accord.</p>
 <p><b>Anything else you want to add – warn people / some advice to minimize their losses in future market scams?</b></p>
-<p>Fund decentralized market projects such as <a href="/2014/07/17/cloakcoin-promises-holy-grail-cryptocurrency-anonymity/">CloakCoin</a> and their market, they are the only way for this to work.</p>
+<p>Fund decentralized market projects such as <a href="https://g-i-r.github.io/deepdotweb/2014/07/17/cloakcoin-promises-holy-grail-cryptocurrency-anonymity/">CloakCoin</a> and their market, they are the only way for this to work.</p>
 
 Updated: 2015-03-18

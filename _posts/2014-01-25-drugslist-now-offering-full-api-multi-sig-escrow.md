@@ -6,8 +6,8 @@ Posted by: DeepDotWeb
 
 <span>January 25, 2014</span>
 
-<p>It seems that some marketplaces are headed in the right direction, as we previously reported &#8211; the Drugslist marketplace, started <a href="/2014/01/19/drugslist-marketplace-now-offering-multisig-escrow/">offering a Multisig</a> escrow that is meant to help buyers and sellers protect themselves from the option of losing all their funds in case the marketplace gets shut down or the owner is deciding to scam everyone, but the problem with &#8220;regular&#8221; multisig (i.e Multi-sig Lite) escrow is that the marketplace still being the one who holds the private keys for the transaction &#8211; which means he can still &#8220;finalize&#8221; them and steal the funds.</p>
-<p>In the new Multisig version that was launched by the marketplace owners, the marketplace does not hold the private keys &#8211; hence, cannot collect all the escrow funds and shut down the market, running away with everyone&#8217;s BTC, druglist currently being only the second market (out of about 30 marketplaces) to offer such functionality while the first one is  <a href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/" target="_blank">themarketplace.i2p</a> (not exactly the same, but with the same bottom line), and this is how this works on the technical side, quoted from the Reddit post mad by the Admins:</p>
+<p>It seems that some marketplaces are headed in the right direction, as we previously reported &#8211; the Drugslist marketplace, started <a href="https://g-i-r.github.io/deepdotweb/2014/01/19/drugslist-marketplace-now-offering-multisig-escrow/">offering a Multisig</a> escrow that is meant to help buyers and sellers protect themselves from the option of losing all their funds in case the marketplace gets shut down or the owner is deciding to scam everyone, but the problem with &#8220;regular&#8221; multisig (i.e Multi-sig Lite) escrow is that the marketplace still being the one who holds the private keys for the transaction &#8211; which means he can still &#8220;finalize&#8221; them and steal the funds.</p>
+<p>In the new Multisig version that was launched by the marketplace owners, the marketplace does not hold the private keys &#8211; hence, cannot collect all the escrow funds and shut down the market, running away with everyone&#8217;s BTC, druglist currently being only the second market (out of about 30 marketplaces) to offer such functionality while the first one is  <a href="https://g-i-r.github.io/deepdotweb/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/" target="_blank">themarketplace.i2p</a> (not exactly the same, but with the same bottom line), and this is how this works on the technical side, quoted from the Reddit post mad by the Admins:</p>
 <p><strong>Visit Drugslist at this url</strong>: http://drugslisvdknitqd.onion/</p>
 <p>===Quote===<br/>
     Hi everyone:</p>
@@ -69,7 +69,7 @@ Posted by: DeepDotWeb
 <p>As always, we are available to answer any questions/comments/concerns.</p>
 <p>===Quote===</p>
 <p>We support any market that will use these features to protect their buyers / vendors fund and show honest intents in these confusing times for the Dar knet markets. You can access Drugslist market at this url: http://drugslisvdknitqd.onion/</p>
-<p>Or check out out <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a> &#8211; for other marketplaces and updates.</p>
+<p>Or check out out <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a> &#8211; for other marketplaces and updates.</p>
 
 Updated: 2014-01-25
     

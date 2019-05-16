@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>January 15, 2014</span>
 
-<p>It seems like its the communities week, just yesterday we posted about the new <a href="/2014/01/14/meet-the-vault-43/">Vault43</a> Community based market and darknet info source, And today its time to release another one, although a bit different.</p>
+<p>It seems like its the communities week, just yesterday we posted about the new <a href="https://g-i-r.github.io/deepdotweb/2014/01/14/meet-the-vault-43/">Vault43</a> Community based market and darknet info source, And today its time to release another one, although a bit different.</p>
 <p>We always wanted a place where we can discuss all the Dark net markets affairs at the same place and stay up to date with all the drama and news that&#8217;s going around, without being depended on the forums of specific marketplaces especially with all the recent events of markets going down every week or two, So far the best option for this kind of discussion area was reddit and the loved <a href="http://www.reddit.com/r/DarkNetMarkets" target="_blank">DarknetMarkets</a> Sub, Until now,</p>
 <p>About two weeks ago we became aware of a great initiative and since than i have been holding myself not to publish it as i was asked to do so &#8211; at least until Wednesday, which is today when its planned to be launched, the site is something i would like to call an &#8220;.onion&#8221; based &#8220;Darknetmarkets&#8221;, and its called:  <strong>The Hub Forums. </strong>Basically, a Cross-market discussion forum and news center<strong>.</strong></p>
 <p>And since we already have Darknetmarkets on Reddit, one might ask himself why do we need another one? Well, there are few advantages that we can point out about using the Hub Alongside Reddit<strong>:<br/>
@@ -40,7 +40,7 @@ Posted by: DeepDotWeb
 <p>Screenshot of the forum (yes&#8230; also SMF):</p>
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/hub.png" />
 
-<p>We Will be integrating links to the forum on our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a>, Along with the Reddit links, with the hope that it will be used as a neutral gathering and discussion area for the different markets not related to one single market managements and not bound to get shut down by LE since there will be no illegal activity on the forums.</p>
+<p>We Will be integrating links to the forum on our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a>, Along with the Reddit links, with the hope that it will be used as a neutral gathering and discussion area for the different markets not related to one single market managements and not bound to get shut down by LE since there will be no illegal activity on the forums.</p>
 <p>We wish Alferd and the other team members good luck with this project, it has a lot of potential.</p>
 
 Updated: 2014-01-15

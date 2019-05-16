@@ -11,6 +11,6 @@ Posted by: DeepDotWeb
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/nucleus1.png">
 
-<p>Just few months ago, while it was still active, Agora market which was the largest market at the time also decided <a href="/2015/07/07/agora-market-to-stop-listing-lethal-weapons/">to stop listing lethal weapons</a>.</p>
+<p>Just few months ago, while it was still active, Agora market which was the largest market at the time also decided <a href="https://g-i-r.github.io/deepdotweb/2015/07/07/agora-market-to-stop-listing-lethal-weapons/">to stop listing lethal weapons</a>.</p>
 
 Updated: 2015-11-22

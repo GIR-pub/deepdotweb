@@ -12,7 +12,7 @@ Posted by: Greg Miller
 <span>September 15, 2014</span>
     
     
-<a href="/2014/09/15/5-reasons-favorite-anonymous-crypto-currency-isnt-anonymous/#comments">4 Comments</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/09/15/5-reasons-favorite-anonymous-crypto-currency-isnt-anonymous/#comments">4 Comments</a></span>
 </p>
     
 <p>Here are 5 reasons why your favorite anonymous CryptoCurrency isn&#8217;t so anonymous:</p>

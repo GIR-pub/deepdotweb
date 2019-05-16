@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>June 4, 2014</span>
     
-<a href="/2014/06/04/introducing-crypt-design-darknet-design-services/#comments">11 Comments</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/06/04/introducing-crypt-design-darknet-design-services/#comments">11 Comments</a></span>
 </p>
 <p>This is one interesting service &#8211; while browsing Grams few months ago i saw a banner saying &#8220;Design services for the Dark Net&#8221; and i also saw that this service was used to design the Grams sub reddit, at the time i was looking for someone to redesign DDW so i contacted this service called Crypt &#8211; and as you can probably see we had the whole site redesigned from scratch.</p>
 <p>The concept of this service Crypt is offering can be  <strong>very</strong> useful for DNM owners or deep web site owners in general, as we all know &#8211; in the onion land, user experience and design is a major flaw in most sites, and as this scene is growing larger by the day, it shouldn&#8217;t be like that. Since i had the pleasure of working with Crypt design and i found his service to be super professional and quick, i asked him to give me a short interview to introduce his service with the hope that other site owners will find it useful as i did &#8211;  <strong>Anonymous Design Services For Dark Net Sites</strong>:</p>
@@ -37,7 +37,7 @@ Posted by: DeepDotWeb
 <p>We only know what clients choose to share with us, and normally, that ain&#8217;t much.</p>
 <p>We just need a design brief and we&#8217;re good to go. We take privacy very seriously, we use PGP email, TorChat, Jabber, BitMessage, TOR and i2p.</p>
 <p><strong>Ways to contact you?</strong></p>
-<p>The best way is to ping an email to <a href="/cdn-cgi/l/email-protection#7c1f0e050c083c1019101d1208130f52130e1b"><span class="__cf_email__" data-cfemail="d7b4a5aea7a397bbb2bbb6b9a3b8a4f9b8a5b0">[email&#160;protected]</span></a>. You can find our public key at the bottom of <a href="http://cryptdesign.com">cryptdesign.com</a> / <a href="http://cryptdesign.i2p">cryptdesign.i2p</a> / <a href="http://v6mc3fd2lg5dv6uz.onion">v6mc3fd2lg5dv6uz.onion</a> &#8211; please feel free to send us any questions directly.</p>
+<p>The best way is to ping an email to <a href="https://g-i-r.github.io/deepdotweb/cdn-cgi/l/email-protection#7c1f0e050c083c1019101d1208130f52130e1b"><span class="__cf_email__" data-cfemail="d7b4a5aea7a397bbb2bbb6b9a3b8a4f9b8a5b0">[email&#160;protected]</span></a>. You can find our public key at the bottom of <a href="http://cryptdesign.com">cryptdesign.com</a> / <a href="http://cryptdesign.i2p">cryptdesign.i2p</a> / <a href="http://v6mc3fd2lg5dv6uz.onion">v6mc3fd2lg5dv6uz.onion</a> &#8211; please feel free to send us any questions directly.</p>
 <p>Thanks DDW!</p>
 
 Updated: 2014-06-04

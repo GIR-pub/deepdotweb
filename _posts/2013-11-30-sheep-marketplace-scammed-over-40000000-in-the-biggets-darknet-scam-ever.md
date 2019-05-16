@@ -7,10 +7,10 @@ title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Eve
 
 
 <p><strong>Tl;DR:</strong> Sheep Marketplace disabled withdrawals, but allowed deposits for the past 10 days or so. They have now disabled the forums after deleting posts related to the inability to withdraw and all this just to start moving the bitcoins from the marketplace to another location (<a href="https://blockchain.info/address/1EiVHZnDVjFH6Tic1YmWUSfYmVUnUZdnMU" target="_blank">BlockChain Link</a> &#8211;  Explanation below)</p>
-<p>* <span style="color: #ff6600;"><strong>1/12/13 Update</strong></span>: Sheep Marketpace is now officially Down &#8211; <a href="/2013/12/01/sheep-is-now-officially-down/" target="_blank">See the details here</a><br />
+<p>* <span style="color: #ff6600;"><strong>1/12/13 Update</strong></span>: Sheep Marketpace is now officially Down &#8211; <a href="https://g-i-r.github.io/deepdotweb/2013/12/01/sheep-is-now-officially-down/" target="_blank">See the details here</a><br />
     * Update: apparently one vendor did use bug in marketplace and did steal 5500BTC from sheep pocket &#8211; so the admin run away (see images below the quote)<br />
-    * <a href="/2013/11/30/sheep-owner-just-got-doxxed/" target="_blank">Sheep Marketplace owner / coder exposed</a><br />
-    * <a href="/2013/12/01/sheepmarketplace-owner-planning-a-second-scam/" target="_blank">Is there a Second Scam in Progress?</a><br />
+    * <a href="https://g-i-r.github.io/deepdotweb/2013/11/30/sheep-owner-just-got-doxxed/" target="_blank">Sheep Marketplace owner / coder exposed</a><br />
+    * <a href="https://g-i-r.github.io/deepdotweb/2013/12/01/sheepmarketplace-owner-planning-a-second-scam/" target="_blank">Is there a Second Scam in Progress?</a><br />
     * Screenshots and relevant links below the quote</p>
 <p>As was published here &#8211; http://www.sheepmarketscam.com  {site does not exists and was replaced with some other site}</p>
 <p style="text-align: center;"><span style="color: #ff0000;">==========Start Quote: <strong>BAD ENGLISH &#8211; WE KNOW, working on an official report</strong>===============</span></p>

@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>April 6, 2014</span>
 
-<p>We Are happy to introduce a new service, introduced to us and endorsed by <a href="/2014/03/26/doctorx-ask-drug-expert-physician-thread-now-hub-forums/">DoctorX</a> (Dr. Fernando Caudevilla, a Spanish Physician who has been offering professional advice about Drugs and Health during the last year in Silk Road1 / Silk Road2 &amp; The Hub Forums) Offering International drug testing services in spain directed at DeepWeb users and accepting BTC payments,</p>
+<p>We Are happy to introduce a new service, introduced to us and endorsed by <a href="https://g-i-r.github.io/deepdotweb/2014/03/26/doctorx-ask-drug-expert-physician-thread-now-hub-forums/">DoctorX</a> (Dr. Fernando Caudevilla, a Spanish Physician who has been offering professional advice about Drugs and Health during the last year in Silk Road1 / Silk Road2 &amp; The Hub Forums) Offering International drug testing services in spain directed at DeepWeb users and accepting BTC payments,</p>
 <p><span style="text-decoration: underline;"><strong>This is the information he sent us to publish about this service:</strong></span></p>
 <p>Energy Control (www.energycontrol.org) established in Barcelona in 1997 as a pioneer project in Spain in the area of reducing the risks associated with recreational drug use, having since received recognition from numerous government administrations (European, state, community and local).</p>
 <p>We offer a Drug Checking Service in order to inform the users about the composition of the drugs and thus advise on lower risk consumption.</p>

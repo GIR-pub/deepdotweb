@@ -4,8 +4,8 @@ title: "Silk Road Drug Dealer &#8220;NOD&#8221; Was Flipped By Feds"
 
 <span>Posted by: DeepDotWeb </span>
 <span>October 21, 2013</span>
-<span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="/2013/10/21/silk-road-drug-dealer-nod-was-flipped-by-feds/#comments">6 Comments</a></span>
+<span>in <a href="https://g-i-r.github.io/deepdotweb/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://g-i-r.github.io/deepdotweb/category/news-updates/" rel="category tag">News Updates</a></span>
+<span><a href="https://g-i-r.github.io/deepdotweb/2013/10/21/silk-road-drug-dealer-nod-was-flipped-by-feds/#comments">6 Comments</a></span>
 
 
 <p><em>OCTOBER 21&#8211;One of the top narcotics dealers on Silk Road, the recently shuttered online drug bazaar, secretly began cooperating with federal agents after his Seattle-area home was raided in late-July, The Smoking Gun has learned.</em></p>

@@ -35,10 +35,10 @@ Posted by: DeepDotWeb
 <li class="post-box-title"><a title="Permalink to Reports: Tormarket Scam In Progress?" href="/2013/12/23/reports-tormarket-scam-in-progress/" rel="bookmark">Reports: Tormarket Scam In Progress?</a></li>
 <li>And many more can <a href="#">be found here</a></li>
 </ul>
-<p>Evolution will be taken down from our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet markets list</a> and moved to the scam markets list, Looking for new market? check out:</p>
+<p>Evolution will be taken down from our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">darknet markets list</a> and moved to the scam markets list, Looking for new market? check out:</p>
 <ul>
-<li><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Updated List of Dark Net Markets</a></li>
-<li><a href="/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Updated List of Dark Net Markets</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
 </ul>
 <p>&nbsp;</p>
 

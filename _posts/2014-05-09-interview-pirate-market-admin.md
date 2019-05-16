@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <a href="the-pirate-market-multi-sig-guide/">Multisig Usage guide here</a><a href="multisig-guides/"><br />
     Multisig Guides</a>
 </div></div>
-<p>So basically, we were trying to get an interview and we ended up with presenting a new multisig market to the list &#8211; so all the relevant parts in the article discussing the escrow system had to be re written + the guide added to this interview. We also held this from being published until the Multisig guide is completed to be added to our multisig page. Marketplace will be promoted of course to the <a href="marketplace-directory/categories/multisig-and-trusted">multisig</a> section of <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">our list</a>.</p>
+<p>So basically, we were trying to get an interview and we ended up with presenting a new multisig market to the list &#8211; so all the relevant parts in the article discussing the escrow system had to be re written + the guide added to this interview. We also held this from being published until the Multisig guide is completed to be added to our multisig page. Marketplace will be promoted of course to the <a href="marketplace-directory/categories/multisig-and-trusted">multisig</a> section of <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">our list</a>.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/pirate-market.png"/>
 <p><span style="text-decoration: underline;"><strong>This was the interview conducted couple of weeks ago, we have altered the parts discussing about escrow since there is also multisig available now:</strong></span></p>

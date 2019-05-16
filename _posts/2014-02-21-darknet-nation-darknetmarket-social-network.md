@@ -17,8 +17,8 @@ Posted by: DeepDotWeb
 <p>Our duly elected members (more about that in a later interview) control every aspect of the community, from system administration to Reddit post to website maintenance . We feel a new way of approaching the darknet is in order. A New Darknet Order.</p>
 <p><strong>How is it different from the normal marketplaces we know?</strong></p>
 <p>When it comes to darknet dogma, particularly marketplace dogma. Too long have scammers and scam artistes with knowledge of network infrastructure, the need for privacy and exploiting community ignorance, been ripping off the darknet for literally 10’s of millions of dollars.</p>
-<p>No one seems to be doing anything about it, nor does anybody seem to care. It’s just an “o well, let’s move on to the next centralized, escrow based marketplace and hope we don’t get shafted too hard when the site admins run with the money and claim it was <a href="/2013/12/01/sheep-is-now-officially-down/">hacked by ebook101</a>.”</p>
-<p>I mean just look at what sites like MtGox, <a href="/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep</a>, SR1 and <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">SR2</a>, <a href="/2013/12/23/reports-tormarket-scam-in-progress/">tormarket</a>, not to mention all the mini-Silkroads that popped up and then popped with all the funds. It’s time we started fighting back with some simple common sense steps and protocol.</p>
+<p>No one seems to be doing anything about it, nor does anybody seem to care. It’s just an “o well, let’s move on to the next centralized, escrow based marketplace and hope we don’t get shafted too hard when the site admins run with the money and claim it was <a href="https://g-i-r.github.io/deepdotweb/2013/12/01/sheep-is-now-officially-down/">hacked by ebook101</a>.”</p>
+<p>I mean just look at what sites like MtGox, <a href="https://g-i-r.github.io/deepdotweb/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep</a>, SR1 and <a href="https://g-i-r.github.io/deepdotweb/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">SR2</a>, <a href="https://g-i-r.github.io/deepdotweb/2013/12/23/reports-tormarket-scam-in-progress/">tormarket</a>, not to mention all the mini-Silkroads that popped up and then popped with all the funds. It’s time we started fighting back with some simple common sense steps and protocol.</p>
 <p><strong>What Made You Start this project?</strong></p>
 <p>Some background on how we got started. After falling victim to Sheep, a few months ago a couple of guys got together and decided to come up with a better Darknet community. I mean let’s face it, Silkroad 1 and 2 were communities, Sheep was a community, Pandora, Agora, DeepDotWeb (<span style="color: #ff0000;">Our Note: we are not a community, nor have any intention to be<span style="color: #000000;">)</span></span> , are all communities, why not create our own and put everything WE would want in a community.</p>
 <p><strong>What features do you offer?</strong></p>
@@ -41,7 +41,7 @@ Posted by: DeepDotWeb
     https://github.com/bitcoin/bips/blob/master/bip-0016.mediawiki</p>
 <p>our implementation is based on the open sourced project being developed and maintained by coin bin:</p>
 <p>https://coinb.in/multisig/</p>
-<p><strong>Do you use <a href="/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">Bitrated</a> we recently reported about (just asking since your multisig script seemed similar) ?</strong></p>
+<p><strong>Do you use <a href="https://g-i-r.github.io/deepdotweb/2014/02/17/bitrated-bitcoin-arbitration-marketplace/">Bitrated</a> we recently reported about (just asking since your multisig script seemed similar) ?</strong></p>
 <p>Bitrated.com also uses an implementation of the core software and libraries as outlined here</p>
 <p>http://bitcoinjs.org/</p>
 <p>We are thinking about using Bitrated version but we feel our implementation allows for more flexibility and transparency. Maybe Both!</p>
@@ -69,7 +69,7 @@ Posted by: DeepDotWeb
 <p><strong>We also believe in joining forces with others who have the users benefit as their main goal, And we thank the admin for kindly taking the time to answer our questions!<br />
 </strong></p>
 <p><span style="color: #ff0000;"><strong><span style="text-decoration: underline;">Darknet nation url</span>: http://26a2ueoc3xxrrgs4.onion/</strong></span></p>
-<p>Site will be added to our list of <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplaces</a></p>
+<p>Site will be added to our list of <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplaces</a></p>
 
 Updated: 2014-02-21
     

@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>July 15, 2015</span>
 
 <p>Wicklow man was an administrator of the Silk Road website which offered anonymity to those both selling and buying items including illegal drugs and hacking software.</p>
-<p>Gary Davis (<em>Note:</em> Alleged Silk road admin <a href="/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/">Libertas</a>), aged 27, of Johnstown Court, Kilpedder, Co Wicklow, is wanted for trial by US authorities on charges of conspiracy to distribute narcotics, conspiracy to commit computer hacking and conspiracy to commit money laundering.</p>
+<p>Gary Davis (<em>Note:</em> Alleged Silk road admin <a href="https://g-i-r.github.io/deepdotweb/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/">Libertas</a>), aged 27, of Johnstown Court, Kilpedder, Co Wicklow, is wanted for trial by US authorities on charges of conspiracy to distribute narcotics, conspiracy to commit computer hacking and conspiracy to commit money laundering.</p>
 
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/image1.jpg" rel="lightbox"> 

@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 <p><em>Guest post by <a href="https://privatoria.net/">privatoria.net:</a></em></p>
 <p>Tor is a great solution for people looking for on-line privacy and anonymity. Keeping all the positive sides of Tor in a mind one also has to take its vulnerabilities into account as well. Among those are incompatibility with P2P downloads and variable connection speed (it all depends on the exact Tor node you connect to every time). There is a solution to stay with Tor and forget about all of its weak points. In this article we showcase how to use popular Tor technology with good old VPN technology.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>
 <p><strong>Advantages of using VPN plus Tor:</strong></p>
 <ul>
 <li>Hide the fact of using Tor from your ISP</li>

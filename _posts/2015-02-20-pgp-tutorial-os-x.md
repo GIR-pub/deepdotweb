@@ -14,7 +14,7 @@ Posted by: DeepDotWeb
 <p><strong>Part 0 – Introduction</strong></p>
 <p>Here&#8217;s my basic guide for PGP on OS X. The OS in question is OS X 10.9 Mavericks, but it should still work for other versions. As for the tool itself, we&#8217;ll be using GPG Suite Beta 5. This is my first time using OS X in&#8230; years. If you see anything I&#8217;m doing wrong, or could be done easier, feel free to correct me in the comments.</p>
 <p>If you&#8217;ve done your research, you&#8217;ll see it&#8217;s not recommended to do anything darknet related on OS X, but I&#8217;m not going to go over the details here. You&#8217;ve obviously made your decision.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
 <p><strong>Part 1 – Installing the software</strong></p>
 <p>Like I said above, we&#8217;ll be using GPG Suite Beta 5. If you&#8217;re curious and want to see the source code, you can do so <a href="https://gpgtools.org/opensource.html">here</a>.</p>
 <ol>

@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>February 16, 2014</span>
 
 <p><strong>Update 2</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
-<p><strong>Update</strong>: <span style="color: #000000;"><a href="/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
+<p><strong>Update</strong>: <span style="color: #000000;"><a href="https://g-i-r.github.io/deepdotweb/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
 <p>Defcon, The Current Silk Road 2.0 admin just released a news statement, the first on to come since the site was allegedly hacked, you chose what you want to believe:</p>
 <p>It seems a bit too late to be addressing most of these issues now, but this post offers some explanations for some of the technical aspects users have been wondering about, we shall wait and if this post will clear some of the latest suspicions  about this whole &#8220;hack&#8221; thing being actually one big scam from the admins. this drama is not over by a long shot.</p>
 <p><strong>==Start Quote===</strong></p>

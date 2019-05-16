@@ -6,10 +6,10 @@ title: "Comcast Declares War on Tor?"
 Posted by: Nathan Wold </span>
 <span>September 13, 2014</span>
 
-<a href="/2014/09/13/comcast-declares-war-tor/#comments">105 Comments</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/09/13/comcast-declares-war-tor/#comments">105 Comments</a></span>
 </p>
 <p>If you needed another reason to hate Comcast, the most hated company in America, they’ve just given it to you: they’ve declared war on Tor Browser.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage From your ISP &#8211; Click here For Our Best VPN&#8217;s Chart!&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;Hide Your Tor Usage From your ISP &#8211; Click here For Our Best VPN&#8217;s Chart!&lt;&lt;&lt;</a></p>
 <p>Reports have surfaced (The first one was via <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2g2e44/is_comcast_legally_allowed_to_do_this/" target="_blank">/r/darknetmarkets</a> and another one submitted to us) that Comcast agents have contacted customers using Tor and instructed them to stop using the browser or risk termination of service. A Comcast agent named Jeremy allegedly called Tor an “illegal service.” The Comcast agent told its customer that such activity is against usage policies.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/cc.png"/>
@@ -27,6 +27,6 @@ Posted by: Nathan Wold </span>
 <p><strong>EDIT 14.9.14</strong>: Removed a sentence that was wrong. Added link.</p>
 <p><strong>EDIT2 15.9.14</strong>:  Comcast released a post <a href="http://corporate.comcast.com/comcast-voices/setting-the-record-straight-on-tor" target="_blank">Setting the Record Straight on Tor</a> denying the above and stating: &#8220;The anecdotal chat room evidence described in these reports is not accurate.&#8221;  Without explaining what is the &#8220;accurate&#8221; explanation?</p>
 </div>
-<a href="/tag/comcast/" rel="tag">comcast</a> <a href="/tag/declares/" rel="tag">declares</a>  <a href="/tag/war/" rel="tag">war</a></span> 
+<a href="https://g-i-r.github.io/deepdotweb/tag/comcast/" rel="tag">comcast</a> <a href="https://g-i-r.github.io/deepdotweb/tag/declares/" rel="tag">declares</a>  <a href="https://g-i-r.github.io/deepdotweb/tag/war/" rel="tag">war</a></span> 
 Updated: 2014-09-13Nathan Wold</strong></div>
     

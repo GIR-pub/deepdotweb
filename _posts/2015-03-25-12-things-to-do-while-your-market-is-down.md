@@ -12,13 +12,13 @@ Posted by: DeepDotWeb
 
 <ol>
 <li>Donate to Peter Nash fund, the arrested silk road moderator <a href="#">here</a>)</li>
-<li>Check other markets at our <a href="/dark-net-market-comparison-chart/">Dark Net markets comparison chart</a>.</li>
-<li><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Leave reviews for markets you have tried</a> &#8211; be honest!</li>
+<li>Check other markets at our <a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">Dark Net markets comparison chart</a>.</li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Leave reviews for markets you have tried</a> &#8211; be honest!</li>
 <li>Check out new posts at the <a href="http://www.reddit.com/r/DarkNetMarkets/">/r/darknetmarkets sub</a></li>
-<li>Post something on <a href="/forum/">our forum</a></li>
+<li>Post something on <a href="https://g-i-r.github.io/deepdotweb/forum/">our forum</a></li>
 <li>Visit The Hub Forum &#8211; Cross Marketplace discussion forum: http://thehub7gqe43miyc.onion</li>
 <li>Or The Kingdom forum: http://kingdomazsnvzfuq.onion</li>
-<li>Avoid the next scam! learn multisig at our <a href="/multisig-guides/">multisig tutorials sectio</a>n.</li>
+<li>Avoid the next scam! learn multisig at our <a href="https://g-i-r.github.io/deepdotweb/multisig-guides/">multisig tutorials sectio</a>n.</li>
 <li>Read some article on this site</li>
 <li><a href="https://twitter.com/DeepDotWeb">Follow us on twitter!</a></li>
 <li>Browse <a href="http://www.reddit.com/r/buttcoin">/r/buttcoin subreddit!</a></li>

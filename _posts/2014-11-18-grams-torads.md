@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>November 18, 2014</span>
 
-<p>We are proud to post a Press Release provided by Grams Admin, about another new innovation from Grams &#8211; <a href="/2014/04/08/grams-darknetmarkets-search-engine/">The Dark Net markets search engine</a> &#8211; This time &#8211; Torads:</p>
+<p>We are proud to post a Press Release provided by Grams Admin, about another new innovation from Grams &#8211; <a href="https://g-i-r.github.io/deepdotweb/2014/04/08/grams-darknetmarkets-search-engine/">The Dark Net markets search engine</a> &#8211; This time &#8211; Torads:</p>
 <ul>
 <li>TorAds is an advertising network for both advertisers and publishers dedicated for use on hidden services behind Tor.</li>
 <li>Every TorAds user can be an advertiser and a publisher, allowing you to make money <strong>and</strong> draw visitors to your own site!</li>

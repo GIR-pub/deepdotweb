@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 <p>One of the new Multisig markets that deserves some more love is <a href="#">Acropolis market</a>, the market is a <strong>referral only</strong> market, you can use this referral link to register:</p>
 <p><strong><a href="http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY" target="_blank">http://acropol4ti6ytzeh.onion/auth/register/BCBTNUERXY</a></strong></p>
 <p>And check out reviews on <a href="#">Acropolis listing page</a>.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
 <p>The following guide was originally published on Acropolis market and explains the ordering process on Acropolis market, it is published here with the approval of the market admin:</p>
 <p>1. Login to your account and find a listing that suits your needs. Select the &#8220;Order now&#8221; option to start your purchase.</p>
 <div class="thumbnail">
@@ -50,7 +50,7 @@ Posted by: DeepDotWeb
 <ol>
 <li>Do your research, check reviews for both listings and vendors before placing an order.</li>
 <li>Check that you have enough funds available to make a purchase.</li>
-<li>Use <a href="/?s=PGP" target="_blank">GPG encryption</a> when communicating sensitive information by manually encrypting your message, or you can let market do that for you.</li>
+<li>Use <a href="https://g-i-r.github.io/deepdotweb/?s=PGP" target="_blank">GPG encryption</a> when communicating sensitive information by manually encrypting your message, or you can let market do that for you.</li>
 <li>It is recommended, but not mandatory that you make a copy of &#8220;Redeem script&#8221; and store it securely after you create an order to ensure that you can claim or refund your funds in case market is unavailable. &#8220;Reedem script&#8221; is available under &#8220;Multisig details&#8221; tab. Once order is finalized/cancelled and claimed/refunded, you can delete backup of &#8220;Redeem script&#8221;.</li>
 <li>Make sure that you have your corresponding Bitcoin private key stored securely in case of refund.</li>
 <li>Prior to finalizing an order, make sure that everything is ok with your shipment.</li>
@@ -63,7 +63,7 @@ Posted by: DeepDotWeb
 <ol>
 <li class="list-group"><strong>How do I generate The Bitcoin public keys?</strong></li>
 <li class="list-group"><strong>How do I add Bitcoin public keys to my pool?</strong></li>
-<li class="list-group"><strong><a href="/how-to-use-multisig-on-acropolis-market/" target="_blank">How to use Multisig on Acropolis market?</a> (<span style="color: #ff0000;">Available here</span>)</strong></li>
+<li class="list-group"><strong><a href="https://g-i-r.github.io/deepdotweb/how-to-use-multisig-on-acropolis-market/" target="_blank">How to use Multisig on Acropolis market?</a> (<span style="color: #ff0000;">Available here</span>)</strong></li>
 <li class="list-group"><strong>How do I install Bitcoin-QT wallet on Tails?</strong></li>
 </ol>
 <p>Make sure to register using this link and check out the detailed help section on the market which offers clear tutorials:</p>

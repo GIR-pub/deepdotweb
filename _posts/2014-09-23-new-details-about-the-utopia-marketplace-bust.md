@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 <span>September 23, 2014</span>
     
 
-<p>This article was originally published on <a href="http://www.nrc.nl/next/van/2014/september/22/aangeboden-huurmoordenaar-1421020">this</a> website, and was translated for us by a DNM community member &#8211;  this article brings to light more info about the <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/">Utopia marketplace bust</a> and claims that these people are the same one who run Black Market Reloaded, is one of the arrested people might be Backopy (BMR admin)?</p>
+<p>This article was originally published on <a href="http://www.nrc.nl/next/van/2014/september/22/aangeboden-huurmoordenaar-1421020">this</a> website, and was translated for us by a DNM community member &#8211;  this article brings to light more info about the <a href="https://g-i-r.github.io/deepdotweb/2014/02/11/utopia-marketplace-seized-by-dutch-police/">Utopia marketplace bust</a> and claims that these people are the same one who run Black Market Reloaded, is one of the arrested people might be Backopy (BMR admin)?</p>
 <p><span style="text-decoration: underline;"><strong>[Translation]</strong></span></p>
 <p><strong>&#8220;</strong>For Sale: Assassin<strong>&#8220;</strong></p>
 <p>The trial against a group of Dutchmen who supposedly would have run Black Market Reloaded – an online marketplace for illegal goods – starts today. One of many, because <em>nobody knows exactly how big the deep web is.</em></p>

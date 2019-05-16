@@ -23,7 +23,7 @@ I certainly don't have any problem with the use of the markets, in fact I think 
 
 ## Why Did I Build This Archive?
 
-Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://www.deepdotweb.com/), which begs the question: Why did I build this archive?
+Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://g-i-r.github.io/deepdotweb/), which begs the question: Why did I build this archive?
 
 A few reasons.
 

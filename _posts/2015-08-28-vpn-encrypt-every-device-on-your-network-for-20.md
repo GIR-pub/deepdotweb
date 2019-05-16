@@ -7,7 +7,7 @@ Posted by: c3lt1c
 <span>August 28, 2015</span>
 
 <p>Staying in-line with the VPN theme I decided to build a site-to-site VPN solution &#8211; otherwise known as a &#8216;branch office tunnel&#8217;. First, you will need to make sure that your VPN provider supports this function. I personally use NordVPN, however many of the best popular providers support this option in the form of OpenVPN running on a flashed consumer router. Nord supports DDWRT and Tomato router. If you are not familiar with these custom firmwares I would advise that you do some reading and become comfortable with what they are and what they do. In a nutshell, both DDWRT and Tomato router are custom firmwares for many consumer grade routers, which leverage many additional features not available in the stock Linksys, D-Link, etc. firmware. Features include wireless function like bridges, repeaters, access points, etc. From a LAN/WAN perspective they support VPN, advanced routing, VLAN support, firewalling, etc.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">–&gt; Click here to see the best VPN’s for privacy &lt;–</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">–&gt; Click here to see the best VPN’s for privacy &lt;–</a></p>
 <p>Why would you want this you ask? In most scenarios you will be using clients to authenticate to your VPN provider. This is fine unless you&#8217;re using a device which is not supported or if your devices exceed your VPN license. More and more VPN providers are releasing clients for Android, IOS, Linux and just about any other OS around. Some are still a work in progress and on top of that you&#8217;re usually limited to a certain number of simultaneously connect devices. For example, I am limited to 2 devices &#8211; This is not a problem for me personally as I will rarely, if ever, use more than 2 devices on VPN simultaneously. <strong>Figure 1A</strong> illustrates a negotiation then tunnel establishment via software client to your VPN provider. <strong>Figure 1B</strong> will help you to visualize the difference in a site-to-site setup:</p>
 <p><strong>FIGURE 1A:</strong></p>
 
@@ -90,6 +90,6 @@ Posted by: c3lt1c
 
 Use the archive.org version of this guide, as I'm unable to immediatly replicate the coloring, and it's done very nicely on the original page.
 
-### [**http://web.archive.org/web/20170529203739/https://www.deepdotweb.com/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/**](http://web.archive.org/web/20170529203739/https://www.deepdotweb.com/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/)
+### [**http://web.archive.org/web/20170529203739/https://g-i-r.github.io/deepdotweb/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/**](http://web.archive.org/web/20170529203739/https://g-i-r.github.io/deepdotweb/2015/08/28/vpn-encrypt-every-device-on-your-network-for-20/)
     
 

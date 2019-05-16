@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 
 
-<p>Not long we reported about a new market selling <a href="/2015/04/08/therealdeal-dark-net-market-for-code-0days-exploits/">Zero day exploits</a>, and it seems that exploits are becoming more common than ever on the deepweb. Recently a new site was launched and started offering free creation of <a href="http://www.google.co.il/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCcQFjAA&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRansomware&amp;ei=yqtlVazNCKLm7gbYtYDAAg&amp;usg=AFQjCNFmLFQPv1m8Vvhc2iGmkBPO5Jg5TQ&amp;sig2=OyC1Wplmbq-G3XcGJvGy6g&amp;bvm=bv.93990622,d.d24">ransomware</a> &#8211; in exchange for 30% of the BTC profits made from ransoms. According to the site itself (toxicola7qwv37qj.onion):</p>
+<p>Not long we reported about a new market selling <a href="https://g-i-r.github.io/deepdotweb/2015/04/08/therealdeal-dark-net-market-for-code-0days-exploits/">Zero day exploits</a>, and it seems that exploits are becoming more common than ever on the deepweb. Recently a new site was launched and started offering free creation of <a href="http://www.google.co.il/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCcQFjAA&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRansomware&amp;ei=yqtlVazNCKLm7gbYtYDAAg&amp;usg=AFQjCNFmLFQPv1m8Vvhc2iGmkBPO5Jg5TQ&amp;sig2=OyC1Wplmbq-G3XcGJvGy6g&amp;bvm=bv.93990622,d.d24">ransomware</a> &#8211; in exchange for 30% of the BTC profits made from ransoms. According to the site itself (toxicola7qwv37qj.onion):</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/05/12.png">
 

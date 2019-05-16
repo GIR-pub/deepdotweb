@@ -41,7 +41,7 @@ sudo service tor stop</textarea></div>
 <p>It is also worth noting that I will be going down the list of configuration options out of order, since some of the options are not really needed for this tutorial.</p>
 <p>The picture is just the first few settings in the options for our Tor relay, but don&#8217;t get overwhelmed. It&#8217;s really simple when you take your time and read through it.</p>
 <p>The first setting we will be dealing with is the &#8220;ORPort&#8221;. This is the port that will accept connections from clients so they can use the Tor network. It is a required option, and the default selection of 9001 is the optimal way to run it. Remove the octothorpe(that is the # sign) from the front of it to make it active. The rest of the options under it can be ignored, as they are used for specific configurations.</p>
-<p><a href="httpd://www.deepdotweb.com/wp-content/uploads/2015/02/tJGTxF61.png">
+<p><a href="httpd://g-i-r.github.io/deepdotweb/wp-content/uploads/2015/02/tJGTxF61.png">
 
 <p>The second setting we will be dealing with is the &#8220;Nickname&#8221; setting. This is only a name for the relay you are making for you to keep track of it, and for other people to know who runs it. It can be anything you want.</p>
 

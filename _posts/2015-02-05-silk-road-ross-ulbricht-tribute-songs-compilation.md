@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>February 5, 2015</span>
 
-<p>With the end of Ross Ulbricht trial that ended up with <a href="/2015/02/04/ross-ulbricht-found-guilty-running-silk-road-dread-pirate-roberts/">his conviction</a>, i have gathered here the Silk Road tribute songs that were published during the past year &#8211;  If you know anymore, fee free to share with me and i will add!</p>
+<p>With the end of Ross Ulbricht trial that ended up with <a href="https://g-i-r.github.io/deepdotweb/2015/02/04/ross-ulbricht-found-guilty-running-silk-road-dread-pirate-roberts/">his conviction</a>, i have gathered here the Silk Road tribute songs that were published during the past year &#8211;  If you know anymore, fee free to share with me and i will add!</p>
 <p><span style="text-decoration: underline;"><strong>#1 &#8211; Zhou Tonged &#8211; End of Silk Road (Boyz II Men &#8211; End Of The Road)</strong></span><br />
     This is the first one, was published when Silk Road 1 was taken down:<br />
 

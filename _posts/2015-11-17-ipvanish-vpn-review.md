@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>November 17, 2015</span>
     
 
-<p>In the world of <a href="/vpn-comparison-chart/">VPN</a> protection, IPVanish has stepped up in the last few years. It has become a world-renowned VPN service provider that comes with a complete solution for all devices. This company has over 367 servers across Europe, North America and Asia, offering encrypted Internet connections for many years.</p>
+<p>In the world of <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN</a> protection, IPVanish has stepped up in the last few years. It has become a world-renowned VPN service provider that comes with a complete solution for all devices. This company has over 367 servers across Europe, North America and Asia, offering encrypted Internet connections for many years.</p>
 <p><strong><em><a href="https://www.ipvanish.com/ddw/?a_aid=563749ce0713e&amp;a_bid=48f95966&amp;chan=ipvrvi1" target="_blank" rel="noopener">
 <p><strong>IPVanish in a Nutshell</strong></p>
 <p>With more than 15 years of hard-gained experience in the technology industry, the engineers at IPVanish have managed to design a VPN solution that manages all aspects of a VPN network using in-house software, servers and tools. IPVanish own its own servers, offering high speed at all times. It works on both Windows and Mac.</p>

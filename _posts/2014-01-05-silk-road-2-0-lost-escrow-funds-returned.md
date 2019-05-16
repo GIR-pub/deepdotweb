@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>January 5, 2014</span>
     
 
-<p>Following up our previous report &#8220;<a href="/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/">Silk Road Reopens: Losing Escrow Funds &amp; Releasing New Features</a>&#8220;, it seems that the Silk Road 2.0 Staff are Determined to prove their reliability and so far, are successful at this, just to recap &#8211; after the return of SR from the Christmas break and the disappearance of the DPR2 there was some unexpected technical problem resulting in the loss of their access keys to the Bitcoin wallets holding everyone’s funds currently in escrow (not account balances).</p>
+<p>Following up our previous report &#8220;<a href="https://g-i-r.github.io/deepdotweb/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/">Silk Road Reopens: Losing Escrow Funds &amp; Releasing New Features</a>&#8220;, it seems that the Silk Road 2.0 Staff are Determined to prove their reliability and so far, are successful at this, just to recap &#8211; after the return of SR from the Christmas break and the disappearance of the DPR2 there was some unexpected technical problem resulting in the loss of their access keys to the Bitcoin wallets holding everyone’s funds currently in escrow (not account balances).</p>
 <p>Now, yesterday the new admin Defcon just announced the the problem is solved and they have contacted DPR2 and got the old keys to the escrow.Doesn&#8217;t matter really if this was the case or it was just a move to build further trust in the new administration, the bottom line is everyone getting their money back while other sites are scamming their revenues, so this should not be taken for granted.</p>
 <p>Defcons post:</p>
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/defcon1.png" />
@@ -46,6 +46,6 @@ Posted by: DeepDotWeb
 <p>These messages were obviously accepted with great joy, and it seems that Silk Road is slowly overcoming the hardships it was experiencing the last few weeks, and slowly but surely building the trust that every marketplace should Strive for &#8211; trust that became a rear ingredient since the demise of SR1 and BMR.</p>
 <p>&nbsp;</p>
 </div>
- <a href="/tag/escrow/" rel="tag">escrow</a> <a href="/tag/funds/" rel="tag">funds</a> <a href="/tag/lost/" rel="tag">lost</a> <a href="/tag/returned/" rel="tag">returned</a> </span> 
+ <a href="https://g-i-r.github.io/deepdotweb/tag/escrow/" rel="tag">escrow</a> <a href="https://g-i-r.github.io/deepdotweb/tag/funds/" rel="tag">funds</a> <a href="https://g-i-r.github.io/deepdotweb/tag/lost/" rel="tag">lost</a> <a href="https://g-i-r.github.io/deepdotweb/tag/returned/" rel="tag">returned</a> </span> 
 Updated: 2014-01-05
     

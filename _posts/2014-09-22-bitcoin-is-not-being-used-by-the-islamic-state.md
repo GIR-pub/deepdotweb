@@ -7,7 +7,7 @@ Posted by:
 Zubair Muadh
 <span>September 22, 2014</span>
     
-<a href="/2014/09/22/bitcoin-is-not-being-used-by-the-islamic-state/#respond">Leave a comment</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/09/22/bitcoin-is-not-being-used-by-the-islamic-state/#respond">Leave a comment</a></span>
 </p>
 <p>The BBC recently aired a video <a href="http://www.bbc.co.uk/news/technology-29283124" target="_blank">about Dark Wallet</a> a new wallet application that promises to anonymise your Bitcoin transactions. The BBC video wasn’t without controversy. They attempted to smear Dark Wallet by associating it with the Islamic State and illegal use.</p>
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/btcwrap.jpg" />

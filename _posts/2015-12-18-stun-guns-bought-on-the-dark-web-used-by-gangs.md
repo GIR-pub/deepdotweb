@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/Man-bought-iPhone-stun-gun1.jpg">
 
 <p>These stun guns, some appearing to look like regular Apple iPhone devices are popular amongst teens and gang members, because they cost anywhere between £20 to £200. It is also popular to find these guns in open market stalls throughout Asia selling for £70. Surrey police seized two guns disguised as mobile devices as well as two powerful JSJ 811 Tasers that were all from China.</p>
-<p>When entering the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">dark web markets</a> like the former market Middle Earth, and adding the level of anonymity with the untraceable Bitcoin currency, using these hidden sites allows buyers to acquire a deadly weapon and have it sent directly to their home or a local PO Box address.</p>
+<p>When entering the <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">dark web markets</a> like the former market Middle Earth, and adding the level of anonymity with the untraceable Bitcoin currency, using these hidden sites allows buyers to acquire a deadly weapon and have it sent directly to their home or a local PO Box address.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/Large-haul-of-dangerous-weapons1.jpg">
 

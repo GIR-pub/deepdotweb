@@ -48,7 +48,7 @@ Posted by: ChrisHansen </span>
 <p><strong>Chris: Awesome. Winding down the interview process, I have to ask&#8230; anyone you want to thank or give a shoutout too?</strong><br />
     Cortex: None that I can publicly thank or shutout to.</p>
 <p><strong>Chris: Any final words on your end? Anything at all?</strong><br />
-<b>Cortex</b>: None that I can think of off the top of my head, besides the marketer in me saying &#8220;To purchase or for inquiries, contact me at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b3834292f3e231b3e232b3734322f753236">[email&#160;protected]</a>&#8221;</p>
+<b>Cortex</b>: None that I can think of off the top of my head, besides the marketer in me saying &#8220;To purchase or for inquiries, contact me at <a href="https://g-i-r.github.io/deepdotweb/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b3834292f3e231b3e232b3734322f753236">[email&#160;protected]</a>&#8221;</p>
 <p><strong>Chris: Perfect. Thank you very much for your time! :)</strong><br />
 <b>Cortex</b>: No problem.</p>
 

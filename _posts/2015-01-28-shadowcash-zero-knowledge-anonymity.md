@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 <span>January 28, 2015</span>
 
 
-<p>A few months ago we cataloged a preview of Shadow’s recently released <a href="/2014/10/24/anonymous-shadow-eclipses-privacy-projects-zero-knowledge/" target="_blank">zero knowledge update</a> as well as alternative privacy technologies. However, before we go into the nuts and bolts of what makes Shadow’s new financial privacy update so impressive, let’s take a trip to the casino and see how the process emulates a very common and legal method of changing money.</p>
+<p>A few months ago we cataloged a preview of Shadow’s recently released <a href="https://g-i-r.github.io/deepdotweb/2014/10/24/anonymous-shadow-eclipses-privacy-projects-zero-knowledge/" target="_blank">zero knowledge update</a> as well as alternative privacy technologies. However, before we go into the nuts and bolts of what makes Shadow’s new financial privacy update so impressive, let’s take a trip to the casino and see how the process emulates a very common and legal method of changing money.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/fear.jpg">
 

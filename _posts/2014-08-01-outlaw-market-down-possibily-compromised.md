@@ -31,7 +31,7 @@ Posted by: DeepDotWeb
 <p>Love &#8211; Outlaw</p></blockquote>
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/08/outlaw.png" />
 
-<p>This site does not use online wallets so if money is lost it will be the escrow funds.  Hopefully the market will be back online with no losses.  This is just another chapter in the known competition between markets DDosing and attacking each other that we have seen before quite a few times now, like with <a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tormarket &amp; Silk Road</a> and <a href="/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/">Agora</a>, For quite a few times now, among some others.</p>
+<p>This site does not use online wallets so if money is lost it will be the escrow funds.  Hopefully the market will be back online with no losses.  This is just another chapter in the known competition between markets DDosing and attacking each other that we have seen before quite a few times now, like with <a href="https://g-i-r.github.io/deepdotweb/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/">Tormarket &amp; Silk Road</a> and <a href="https://g-i-r.github.io/deepdotweb/2014/03/10/what-to-do-while-your-favorite-market-is-under-attack-agora/">Agora</a>, For quite a few times now, among some others.</p>
 
 
 Updated: 2014-08-01

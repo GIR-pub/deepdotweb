@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>May 13, 2014</span>
 
-<p>Few weeks ago we have reported about the arrest of Silk Road vendor <a href="/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/"> SuperTrip</a> And his <a href="/2014/05/08/supertrips-pleaded-guilty-for-selling-large-amounts-on-silk-road/">plea</a>,  as part of the plea it was mentioned that he had a partner called Underground syndicate:</p>
+<p>Few weeks ago we have reported about the arrest of Silk Road vendor <a href="https://g-i-r.github.io/deepdotweb/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/"> SuperTrip</a> And his <a href="https://g-i-r.github.io/deepdotweb/2014/05/08/supertrips-pleaded-guilty-for-selling-large-amounts-on-silk-road/">plea</a>,  as part of the plea it was mentioned that he had a partner called Underground syndicate:</p>
 <blockquote><p>n August 2012, Slomp and Individual J in Florida allegedly agreed that Slomp would front wholesale quantities of illegal drugs on credit and they would divide the proceeds in half after Individual J resold the drugs to Silk Road customers under the vendor names “<strong>UnderGroundSyndicate</strong>” and “BTCMaster.”  Slomp allegedly imported a half-kilogram of fronted MDMA every week for a year to Individual J, as well as substantial quantities of other illegal drugs.</p></blockquote>
 <p>Now the identity of  UnderGroundSyndicate Became known &#8211; after SuperTrips gave him away as part of his own plea, published earlier by the <a href="http://www.suntimes.com/27419179-761/partner-of-ex-largest-online-drug-dealer-plans-to-plead-guilty.html#.U3JuoXYXLBZ">Chicago Sun time:</a></p>
 <blockquote>

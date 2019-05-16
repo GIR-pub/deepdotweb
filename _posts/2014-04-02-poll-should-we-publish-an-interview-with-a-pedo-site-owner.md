@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 
 <span>April 2, 2014</span>
     
-<a href="/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/#comments">136 Comments</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/04/02/poll-should-we-publish-an-interview-with-a-pedo-site-owner/#comments">136 Comments</a></span>
 </p>
 <div class="box  warning aligncenter"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
 <strong><span style="text-decoration: underline;">Update 19.6.14</span></strong>: <span style="color: #ff0000;"><strong>This is the BBC article including the interviewed site owner we introduced to them &#8211; here:</strong></span><br />

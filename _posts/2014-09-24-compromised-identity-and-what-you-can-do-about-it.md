@@ -8,7 +8,7 @@ Posted by: Doug Roberts
 <span>September 24, 2014</span>
     
     
-<a href="/2014/09/24/compromised-identity-and-what-you-can-do-about-it/#comments">2 Comments</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/09/24/compromised-identity-and-what-you-can-do-about-it/#comments">2 Comments</a></span>
 </p>
     
 <p>When interacting on the dark net, your anonymity is one of your most prized possessions. Most people go to great lengths to ensure that this anonymity is preserved, and rightfully so. The last thing you want when dealing with potentially illicit substances on the internet is for your identity to be compromised. This can happen in a number of different ways, and this article will discuss a few methods of mitigating a potential blow back from having your identity compromised.</p>

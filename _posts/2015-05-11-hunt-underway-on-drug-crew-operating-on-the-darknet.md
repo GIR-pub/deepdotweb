@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>May 11, 2015</span>
 
 
-<p><strong>Translation of the article is <a href="/2015/05/12/translation-hunt-underway-on-drug-crew-operating-on-the-darknet/">published here</a>.</strong></p>
+<p><strong>Translation of the article is <a href="https://g-i-r.github.io/deepdotweb/2015/05/12/translation-hunt-underway-on-drug-crew-operating-on-the-darknet/">published here</a>.</strong></p>
 <p>Was posted on <a href="http://www.reddit.com/r/DarkNetMarkets/comments/35kwq7/complaintwarning_another_reason_why_not_to_order/">/r/darknetmarkets</a> by <a href="http://www.reddit.com/user/23023203">/u/23023203</a>:</p>
 <blockquote><p>I think we missed this article because it is behind a soft pay wall:</p>
 <p><strong>Hunt underway on Drug crew operating on the Darknet</strong></p>
@@ -29,7 +29,7 @@ http://i.imgur.com/zObBHKL.png</a></p>
 <p>So LE are trying to warn dutch vendors to improve their OPSEC?  this press release seems a bit unusual as no busts were made and the investigation is ongoing.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/05/zObBHKL1.png" rel="lightbox"> 
-<p>* Will try and get a proper translation later. If you are reading this and you can translate from dutch, <a href="/contact-us/">contact</a>.</p>
+<p>* Will try and get a proper translation later. If you are reading this and you can translate from dutch, <a href="https://g-i-r.github.io/deepdotweb/contact-us/">contact</a>.</p>
 
 
 

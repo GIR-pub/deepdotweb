@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>February 16, 2014</span>
 
 <p>We have Just found out that BlackBank Market has implemented the use of Multisig transactions, once every market that does that in the correct way deserve our support, you can find the market at this address:  http://omo6o7akcampiryq.onion</p>
-<p>Or at our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of marketplaces</a></p>
+<p>Or at our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of marketplaces</a></p>
 <p>We have pasted here the fully usage guide of their multisig, from the wiki page at this url: http://u5z75duioy7kpwun.onion/wiki/index.php/Multi-Sig_Escrow</p>
 <p>You can discuss this new feature at their reddit thread here: www.reddit.com/r/DarkNetMarkets/comments/1y1twm/blackbank_market_small_updates_multisig_escrow/</p>
 <h2>Introduction</h2>
@@ -94,7 +94,7 @@ Posted by: DeepDotWeb
 </code></p>
 </div>
 <p>8. The transaction has now been manually finalized. This will provide you with a transaction ID; you can share it with the other party as reference.</p>
-<p>You can find BlackBank Market on our list of <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace</a></p>
+<p>You can find BlackBank Market on our list of <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace</a></p>
 
 Updated: 2014-02-16
     

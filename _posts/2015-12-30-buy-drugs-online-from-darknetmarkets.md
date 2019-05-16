@@ -6,14 +6,14 @@ Posted by: DeepDotWeb
 
 <span>December 30, 2015</span>
 
-<p>Instead of creating all the <a href="/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
-<p><strong>PRIVACY TIP FOR DEEP WEB USERS</strong>: Use a <a href="/vpn-comparison-chart/">VPN</a> with Tor. <a href="/vpn-comparison-chart/">Click here to find the best VPN for privacy on the Deep Web</a>.</p>
+<p>Instead of creating all the <a href="https://g-i-r.github.io/deepdotweb/?s=how+to+buy+from" target="_blank" rel="noopener noreferrer">market specific tutorials</a> which are pretty similar anyway, here is a complete how to Buy Drugs Online From the DarknetMarkets tutorial that should cover most, if not all markets. Please remember that its recommended to use multisig transactions when buying drugs online. Market specific instructions should be available on the markets and on our multisig section. Not sure who to credit for most of the write up, it was just shared with me a few months ago, if you are reading this, please contact with a proof, you know which one. Some info changed to make it more accurate and current.</p>
+<p><strong>PRIVACY TIP FOR DEEP WEB USERS</strong>: Use a <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN</a> with Tor. <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">Click here to find the best VPN for privacy on the Deep Web</a>.</p>
 <p><strong>VPN</strong></p>
-<p>The first step for your journey to buy drugs online from darknet markets is to <a href="/vpn-comparison-chart/">download VPN software</a>. You can find the best VPN’s for use on the darknet <a href="/vpn-comparison-chart/">here</a>.</p>
+<p>The first step for your journey to buy drugs online from darknet markets is to <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">download VPN software</a>. You can find the best VPN’s for use on the darknet <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">here</a>.</p>
 <p>A VPN (Virtual Private Network) can be used via a simple software app on your computer or mobile device to encrypt all of your internet traffic and spoof your location. By using a VPN, no one will know what you are reading, downloading, streaming or doing online.</p>
 <p>One major benefit of this is that it will hide the fact you are using Tor browser (more on Tor below) to access the dark web. Without a VPN, the government and your ISP can tell you are using Tor due to its unique signature. With a VPN it will just look like you are working from home like millions of other people working remotely from home accessing their companies network (VPN’s main use).</p>
 <p>Another major benefit is that by using a VPN you can use a shared IP address with hundreds or thousands of others. An IP address is a number that is transmitted with your internet connection and actually identifies your physical address of where you are. By using a fake and shared IP from a VPN, your address will appear from another location and with multiple other people making it impossible to tell who is doing what. This is especially important in case a Tor relay has been compromised to find users on the darknet (has been done before).</p>
-<p>So <a href="/vpn-comparison-chart/">click here</a>, and find a VPN before you go and buy drugs from any darknetmarket.</p>
+<p>So <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">click here</a>, and find a VPN before you go and buy drugs from any darknetmarket.</p>
 <p>Most VPN’s are simple to install and use, you just download and setup in a 2 or 3 clicks.</p>
 <p>
 <p>Then start it up, connect to a server using “OpenVPN” protocol and continue to the next step.</p>
@@ -43,10 +43,10 @@ Posted by: DeepDotWeb
 <p>The next step is to choose a market to register to. There are many markets you can use yo buy drugs online &#8211; whichever you choose is up to you. Though, not all will be currently open to registration.</p>
 <p><strong>Two lists of markets are:</strong></p>
 <ul>
-<li><a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets</a></li>
-<li><a href="/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart</a></li>
 </ul>
-<p>You can also search these links for markets / vendor reviews. And check their uptime status on <a href="/" target="_blank" rel="noopener noreferrer">DeepDotWeb&#8217;s</a> sidebar.</p>
+<p>You can also search these links for markets / vendor reviews. And check their uptime status on <a href="https://g-i-r.github.io/deepdotweb/" target="_blank" rel="noopener noreferrer">DeepDotWeb&#8217;s</a> sidebar.</p>
 <h3>Register</h3>
 <p>In Tor Browser, go to the market&#8217;s onion link and go to the registration page. Fill out the form as you would on any other website. Except, use a username not linked to your real identity and one that is different to what you use on other websites. Also, use different credentials for each market.</p>
 <p>Note:</p>
@@ -77,7 +77,7 @@ Posted by: DeepDotWeb
 <p>On the market, vendors will have a feedback score and messages from buyers that you can read through. On the market&#8217;s forums and elsewhere on the internet you can find reviews of vendors and their products written by buyers.</p>
 <ul>
 <li>Google your vendor&#8217;s name and also search for reviews on the market&#8217;s forums and on reddit</li>
-<li>Use <a href="/2014/05/31/introducing-grams-infodesk-features-part-1/" target="_blank" rel="noopener noreferrer">Grams infodesk</a>.</li>
+<li>Use <a href="https://g-i-r.github.io/deepdotweb/2014/05/31/introducing-grams-infodesk-features-part-1/" target="_blank" rel="noopener noreferrer">Grams infodesk</a>.</li>
 <li>Decide if you want to risk finalizing early</li>
 <li>If ordering internationally, read the product page and vendor profile page carefully and make sure that the vendor ships to your location and what are their terms for the case of failed shipments and non-arrivals.</li>
 </ul>
@@ -150,11 +150,11 @@ Posted by: DeepDotWeb
 <p>You&#8217;re going to take the vendor&#8217;s public key and encrypt your name and address with it.</p>
 <p>This tutorial won&#8217;t go into installing and using encryption software. Few tutorials:</p>
 <ul>
-<li><a href="/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (GPA &#8211; Gpg4Win)</a></li>
-<li><a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">PGP Tutorial For Newbs (Kleopatra &#8211; Gpg4Win)</a></li>
-<li><a href="/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/">PGP Tutorial For Newbs Gpg4usb</a></li>
-<li><a href="/2015/02/17/basic-guide-pgp-linux/">Basic Guide to PGP On Linux</a></li>
-<li><a href="/2015/02/20/pgp-tutorial-os-x/">PGP Tutorial for OSX</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (GPA &#8211; Gpg4Win)</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">PGP Tutorial For Newbs (Kleopatra &#8211; Gpg4Win)</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/">PGP Tutorial For Newbs Gpg4usb</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/02/17/basic-guide-pgp-linux/">Basic Guide to PGP On Linux</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/02/20/pgp-tutorial-os-x/">PGP Tutorial for OSX</a></li>
 </ul>
 <p>After you&#8217;ve read those, you might want to practice encrypting and decrypting messages. A reddit subreddit is here to help you do this: https://www.reddit.com/r/GPGpractice</p>
 <p>After you have a public and private key and they are both backed up somewhere, like on an encrypted USB drive, you will need to add your public key to your market profile so a vendor can send you messages.</p>
@@ -198,8 +198,8 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong>Things to remember before you decide to buy drugs online:</strong></span></p>
 <ul>
 <li>Get your markets links only from reputable sources, phishing scams are very common.<br />
-<a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets<br />
-</a><a href="/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart<br />
+<a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of Dark Net Markets<br />
+</a><a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">Dark Net Markets Comparison Chart<br />
 </a>Make sure you see the lock and <strong>HTTPS</strong>:<br />
 
 

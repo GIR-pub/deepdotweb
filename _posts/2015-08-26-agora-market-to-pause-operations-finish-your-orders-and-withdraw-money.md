@@ -105,7 +105,7 @@ Posted by: DeepDotWeb
     =IIZh
     --------END PGP SIGNATURE--------
 
-Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
+Once again, agora admins appears to be doing the right things and proving that their users best interest is a top priority for them (although all users are reporting that withdraws are not coming trough), and this should not be taken for granted, and we can be sure that IF (yes, if) they come back (Remember <a href="https://g-i-r.github.io/deepdotweb/2013/12/01/bmr-is-shutting-down/">BMR</a> V5?) they will reutrn to their position as the number 1 market.</p>
 <p><strong>So Where do we go now?</strong></p>
 <p>Well here&#8217;s what we have next in line:</p>
 <ul>
@@ -115,7 +115,7 @@ Once again, agora admins appears to be doing the right things and proving that t
 <li class="ok"><strong><a href="#">Middle Earth Marketplace</a></strong></li>
 <li class="ok"><strong><a href="#"> Outlaw Market</a></strong></li>
 </ul>
-<p>Don&#8217;t forget to visit our <a href="/dark-net-market-comparison-chart/">markets chart</a> &amp; <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list</a>.</p>
+<p>Don&#8217;t forget to visit our <a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">markets chart</a> &amp; <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list</a>.</p>
 <p>&nbsp;</p>
 
 Updated: 2015-08-26

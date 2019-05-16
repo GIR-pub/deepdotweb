@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>February 24, 2014</span>
     
 
-<p><strong>Update</strong>: Followup post with addition test results <a href="/2014/03/09/fake-ketamine-2-chemical-test-results-products-vendors/">can be found here</a></p>
+<p><strong>Update</strong>: Followup post with addition test results <a href="https://g-i-r.github.io/deepdotweb/2014/03/09/fake-ketamine-2-chemical-test-results-products-vendors/">can be found here</a></p>
 <p>An important harm reduction thread was posted yesterday on the hub forums / SR2 forums regarding the analysis of a possibly toxic Ketamine that was found on the marketplace.</p>
 <p>read the original discussion on the hub forums on this link: http://thehub7dnl5nmcz5.onion/index.php?topic=1180.0;topicseen</p>
 <p>Silk Road Forums: http://silkroad5v7dywlc.onion/index.php?topic=1916.msg544155#msg544155</p>

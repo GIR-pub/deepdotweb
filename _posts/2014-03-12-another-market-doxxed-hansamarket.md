@@ -47,7 +47,7 @@ Posted by: DeepDotWeb
 <p>&mdash; Moustache (@lamoustache) <a href="https://twitter.com/lamoustache/statuses/443667227540459520">March 12, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>We really hope that the market owner will see this thread and take the marketplace offline before anyone will report, although it was not online long enough to commit any crime probably.</p>
-<p>Lessons are the same like we saw with the <a href="/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">Cantina Market</a>, <a href="/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">Black Goblin &amp; Cannabisroad Market</a>, and few others who got shut down before causing real security risks for their users and vendors. we should thank the guys who keep exposing those flaws.</p>
+<p>Lessons are the same like we saw with the <a href="https://g-i-r.github.io/deepdotweb/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">Cantina Market</a>, <a href="https://g-i-r.github.io/deepdotweb/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">Black Goblin &amp; Cannabisroad Market</a>, and few others who got shut down before causing real security risks for their users and vendors. we should thank the guys who keep exposing those flaws.</p>
 
 Updated: 2014-03-12
     

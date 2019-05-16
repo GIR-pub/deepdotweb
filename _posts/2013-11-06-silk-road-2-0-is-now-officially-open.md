@@ -3,11 +3,11 @@ title: "Silk Road 2.0 Is now Officially open!"
 ---
 
 <div class="box  warning"><div class="box-inner-block"><i class="tieicon-boxicon"></i>
-<strong>Update: <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/" target="_blank">Silk Road 2 Hacked &#8211; All Bitcoins Stolen</a></strong>
+<strong>Update: <a href="https://g-i-r.github.io/deepdotweb/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/" target="_blank">Silk Road 2 Hacked &#8211; All Bitcoins Stolen</a></strong>
 </div></div>
 <p>As was announced on the forums and on reddit not long ago:</p>
 <p><strong>Silk Road 2.0 URL:  </strong><strong><em>http://silkroad6ownowfk.onion</em></strong></p>
-<p>URL was updated in our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden Marketplaces list</a>.</p>
+<p>URL was updated in our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden Marketplaces list</a>.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/silkroad20logo.jpg"/>
 <p>======The Official Release Notice From the New DPR=======</p>

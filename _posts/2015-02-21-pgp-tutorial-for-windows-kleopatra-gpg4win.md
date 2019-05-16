@@ -11,10 +11,10 @@ Posted by: DeepDotWeb
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
 <p><em>Full credit goes to <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> for writing this tutorial – Thanks for publishing and giving your permission to repost!<br />
-    Tutorial for </em>Gpg4Win using GPA can <a href="/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" target="_blank">be found here</a>.</p>
+    Tutorial for </em>Gpg4Win using GPA can <a href="https://g-i-r.github.io/deepdotweb/2013/11/11/pgp-tutorial-for-newbs-gpg4win/" target="_blank">be found here</a>.</p>
 <h3>Part 0 – Introduction</h3>
 <p>Here&#8217;s the final guide in my PGP basics series, this time focusing on Windows. The OS in question will be Windows 7, but it should work for Win8 and Win8.1 as well. Obviously it&#8217;s not recommended to be using Windows to access the DNM, but I wont go into the reasons here. The tool we&#8217;ll be using is GPG4Win.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
 <h3>Part 1 – Installing the software</h3>
 <p>Just like I said above, we&#8217;ll be using GPG4Win. If you&#8217;re curious, you can view the source code for it <a href="https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=summary">here</a>.</p>
 <ol>

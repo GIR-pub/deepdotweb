@@ -42,7 +42,7 @@ Posted by: DeepDotWeb
 <p>18. For the grand finale &#8211; Drugslist created a username &#8216;drugslist_developer&#8217; and attempting a mea culpa, but at this point, everyone saw through that &#8211; in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1w7syv/from_the_main_drugslist_developer_im_sorry_and_it/" target="_blank">this thread</a>:</p>
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/developer.png" />
 
-<p>19. Than as if it wasnt enough already, the final blow landed &#8211; as magnus0 posted a thread (that was later deleted, but we had it screenshot), in the &#8220;<a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/" target="_blank">we hacked tormarket DPR Style</a>&#8221;  and dumping all the usernames data from Drugslist Database, proving the world that it is in fact, very vulnerable to hacking:</p>
+<p>19. Than as if it wasnt enough already, the final blow landed &#8211; as magnus0 posted a thread (that was later deleted, but we had it screenshot), in the &#8220;<a href="https://g-i-r.github.io/deepdotweb/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/" target="_blank">we hacked tormarket DPR Style</a>&#8221;  and dumping all the usernames data from Drugslist Database, proving the world that it is in fact, very vulnerable to hacking:</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/dumpdata.png"/>
 

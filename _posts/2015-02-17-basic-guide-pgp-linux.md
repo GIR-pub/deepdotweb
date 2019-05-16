@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
 <p><em>Full credit goes to <a href="http://www.reddit.com/user/MLP_is_my_OPSEC">MLP_is_my_OPSEC</a> for writing this tutorial &#8211; Thanks for publishing  and giving us your permission to post it!</em></p>
 <h3>Part 0 &#8211; Introduction</h3>
 <p>I promised it, and here it is! The PGP guide for Linux! Great timing too for Moronic Monday. For this guide we&#8217;ll be using GnuPG with Gnu Privacy Assistant as a graphical front-end. We will be using CLI to install these two pieces of software, and creating the keypair. The example OS in question is Linux Mint, so the commands for install may differ from your current OS. Don&#8217;t fret though! That&#8217;s the only part that may not be relevant to your OS, the rest of the guide will be the same across distros.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
 <h3>Part 1 – Installing the software</h3>
 <p>Like I said in the intro, we&#8217;ll be using GnuPG with Gnu Privacy Assistant. I like GPA as a graphical front-end because its layout is really easy to understand and follow.</p>
 <ol>

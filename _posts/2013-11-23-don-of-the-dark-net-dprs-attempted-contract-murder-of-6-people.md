@@ -5,7 +5,7 @@ title: "Don of the Dark Net: DPR’s Attempted Contract Murder of 6 People"
 <span>Posted by: DeepDotWeb </span>
 <span>November 23, 2013</span>
 
-<p>Even more information has come to light about Ross Ulbricht’s dirty dealings, while running Silk Road.  Already known was one contract-hit attempt against ‘<a href="/2013/11/08/the-silk-road-saga-who-is-the-employee-part-ii/">The Employee’ Curtis Green</a>; however, investigators have uncovered evidence suggesting that Dread Pirate Roberts had attempted to kill 5 others in order to tie off loose ends and silence a blackmailer.</p>
+<p>Even more information has come to light about Ross Ulbricht’s dirty dealings, while running Silk Road.  Already known was one contract-hit attempt against ‘<a href="https://g-i-r.github.io/deepdotweb/2013/11/08/the-silk-road-saga-who-is-the-employee-part-ii/">The Employee’ Curtis Green</a>; however, investigators have uncovered evidence suggesting that Dread Pirate Roberts had attempted to kill 5 others in order to tie off loose ends and silence a blackmailer.</p>
 <p>According to Andy Greenberg of Forbes, it seems as if Ulbricht was willing to murder just about anyone who got in the way of Silk Road operations, even innocent bystanders who were only living with one of the site’s wayward vendors:</p>
 <p>“And when redandwhite had told Ulbricht that tony76 lived with three other people who would have to be killed if they were to obtain the money and possessions in his home, Ulbricht allegedly agreed to have all four killed for $500,000 in bitcoins.”</p>
 <p>This multiple-hit contract was to be carried out by “the angels”.  Investigators believe that this may have been in reference to the Hell’s Angels biker gang, to which ‘redandwhite’ may have been associated.</p>

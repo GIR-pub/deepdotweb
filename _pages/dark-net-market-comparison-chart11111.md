@@ -2,7 +2,7 @@
 title: Dark Net Markets Comparison Chart - 2014
 ---
 
-<p><strong></strong> - This chart integrates marketplace data with our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a> ratings, along with uptime status data provided By <a href="https://dnstats.net/">Dnstats.net</a> and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain all dark net markets. For the full list of dark net markets, visit the <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
+<p><strong></strong> - This chart integrates marketplace data with our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a> ratings, along with uptime status data provided By <a href="https://dnstats.net/">Dnstats.net</a> and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain all dark net markets. For the full list of dark net markets, visit the <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="https://g-i-r.github.io/deepdotweb/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
 <div class="tableCon">
 <table id="example" cellspacing="0" width="100%" class="table">
 <thead>
@@ -57,7 +57,7 @@ title: Dark Net Markets Comparison Chart - 2014
 <tbody>
 <tr>
 <td>
-<div align="left"><div style="display:none;">0</div><a target="_blank" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/abraxas-market">Abraxas</a> </td>
+<div align="left"><div style="display:none;">0</div><a target="_blank" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/abraxas-market">Abraxas</a> </td>
 <td>
 <label class='label label-danger'>95.32%</label> <i class='glyphicon glyphicon-arrow-down' style='color:#428bca;'></i> </td>
 <td>
@@ -89,7 +89,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<div align="left"><div style="display:none;">1</div><a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/alphabay">Alphabay</a> </td>
+<div align="left"><div style="display:none;">1</div><a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/alphabay">Alphabay</a> </td>
 <td>
 <label class='label label-success'>96.64%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -153,7 +153,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<div align="left"><div style="display:none;">3</div><a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/outlaw-market">Outlaw Market</a></div> </td>
+<div align="left"><div style="display:none;">3</div><a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/outlaw-market">Outlaw Market</a></div> </td>
 <td>
 <label class='label label-success'>94.9%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -188,7 +188,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<div align="left"><div style="display:none;">3</div><a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/silkkitie">Valhalla (Silkkitie)</a></div> </td>
+<div align="left"><div style="display:none;">3</div><a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/silkkitie">Valhalla (Silkkitie)</a></div> </td>
 <td>
 <label class='label label-success'>96.55%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -220,7 +220,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<div style="display:none;">4</div><a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/hansa-market/">Hansa Market</a><br> </td>
+<div style="display:none;">4</div><a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/hansa-market/">Hansa Market</a><br> </td>
 <td>
 <label class='label label-success'>99.3%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -252,7 +252,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/amazon-dark">Amazon Dark</a><br> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/amazon-dark">Amazon Dark</a><br> </td>
 <td>
 <label class='label label-danger'>83.83%</label> <i class='glyphicon glyphicon-arrow-down' style='color:#428bca;'></i> </td>
 <td>
@@ -284,7 +284,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/crypto-market">Crypto Market</a> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/crypto-market">Crypto Market</a> </td>
 <td>
 <label class='label label-success'>96.6%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -349,7 +349,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/darknet-heroes-league">Darknet Heroes League</a> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/darknet-heroes-league">Darknet Heroes League</a> </td>
 <td>
 <label class='label label-success'>95.19%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -381,7 +381,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<div align="left"><a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/east-india-company">East India Company</a><br></div> </td>
+<div align="left"><a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/east-india-company">East India Company</a><br></div> </td>
 <td>
 <label class='label label-success'>97.94%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -415,7 +415,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/german-plaza/">German-Plaza</a><br> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/german-plaza/">German-Plaza</a><br> </td>
 <td>
 <label class='label label-success'>86.81%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>
@@ -480,7 +480,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/mr-nice-guy">Mr Nice Guy</a> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/mr-nice-guy">Mr Nice Guy</a> </td>
 <td>
 <label class='label label-danger'>43.54%</label> <i class='glyphicon glyphicon-arrow-down' style='color:#428bca;'></i> </td>
 <td>
@@ -521,7 +521,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/nucleus-market">Nucleus Market</a> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/nucleus-market">Nucleus Market</a> </td>
 <td>
 <label class='label label-danger'>96.27%</label> <i class='glyphicon glyphicon-arrow-down' style='color:#428bca;'></i> </td>
 <td>
@@ -553,7 +553,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/ramp-russian-anonymous-marketplace">Ramp (Russian Forum)</a><br> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/ramp-russian-anonymous-marketplace">Ramp (Russian Forum)</a><br> </td>
 <td>
 <label class='label label-danger'>66.16%</label> <i class='glyphicon glyphicon-arrow-down' style='color:#428bca;'></i> </td>
 <td>
@@ -618,7 +618,7 @@ title: Dark Net Markets Comparison Chart - 2014
 </tr>
 <tr>
 <td>
-<a target="" title="" href="https://www.deepdotweb.com/marketplace-directory/listing/t%E2%80%A2chka-free-market">Tochka</a> </td>
+<a target="" title="" href="https://g-i-r.github.io/deepdotweb/marketplace-directory/listing/t%E2%80%A2chka-free-market">Tochka</a> </td>
 <td>
 <label class='label label-success'>87.31%</label> <i class='glyphicon glyphicon-arrow-up' style='color:#428bca;'></i> </td>
 <td>

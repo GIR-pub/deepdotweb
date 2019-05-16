@@ -5,7 +5,7 @@ title: "A Published Chapter From The Book &#8220;Drugs 2.0&#8221; On Gwern"
 <span>Posted by: DeepDotWeb </span>
 <span>October 20, 2013</span>
 
-<span><a href="/2013/10/20/a-published-chapter-from-the-book-drugs-2-0-on-gwern/#comments">3 Comments</a></span>
+<span><a href="https://g-i-r.github.io/deepdotweb/2013/10/20/a-published-chapter-from-the-book-drugs-2-0-on-gwern/#comments">3 Comments</a></span>
 
 
 <p>And i quote:</p>

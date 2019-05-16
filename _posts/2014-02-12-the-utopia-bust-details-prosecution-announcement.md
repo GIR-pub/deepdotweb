@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>February 12, 2014</span>
 
 
-<p><strong>Following our previous post about the <a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/">Utopia marketplace bust</a> We got the full <a href="http://www.om.nl/actueel/nieuwsberichten/@162281/undercover-onderzoek/">prosecution </a> announcement translated to English now that they have released the details about the marketplace bust: </strong></p>
+<p><strong>Following our previous post about the <a href="https://g-i-r.github.io/deepdotweb/2014/02/11/utopia-marketplace-seized-by-dutch-police/">Utopia marketplace bust</a> We got the full <a href="http://www.om.nl/actueel/nieuwsberichten/@162281/undercover-onderzoek/">prosecution </a> announcement translated to English now that they have released the details about the marketplace bust: </strong></p>
 <p><span style="text-decoration: underline;"><strong>Undercover Investigation into Illegal Marketplaces on the Internet</strong></span></p>
 <p>February 12, 2014 – National Office</p>
 <p>Following an investigation into criminal marketplaces on the Internet, the police arrested five men on Tuesday, including one detainee. On anonymous, deeply hidden websites, drugs and firearms were being sold. With the permission of the Public Ministry, undercover agents purchased said items on several occasions over the past few months, and even received a down payment to commit an assassination.</p>

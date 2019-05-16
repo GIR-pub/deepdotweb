@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>December 10, 2015</span>
 
-<p>We know that you and most of our readers have been trying to look for an affordable <a href="/vpn-comparison-chart/">VPN service provider</a> that can provide a first rate VPN service that satisfies your online security needs and requirements.</p>
+<p>We know that you and most of our readers have been trying to look for an affordable <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN service provider</a> that can provide a first rate VPN service that satisfies your online security needs and requirements.</p>
 <p>Luckily, we have found out that HideIPVPN is offering a promotional $0.99 monthly fee on all their subscription plans and packages. Thus, to be able to help you guys, we took time to take a look at what HideIPVPN has to offer by conducting a comprehensive review of their VPN network services and features, so that you and the rest of our readers will have the necessary information to decide on whether or not HideIPVPN is the right VPN service provider for you.</p>
 <p>
 <p>To begin the review, let us take a look at some of the information and facts that we have gathered about their company.</p>

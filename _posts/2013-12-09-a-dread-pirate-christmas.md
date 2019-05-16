@@ -6,7 +6,7 @@ title: "A Dread Pirate Christmas"
 <span>December 9, 2013</span>
 
 
-<p><strong>A guest post from Raoul Duke &#8211; the future editor of the <a href="/2013/11/16/get-ready-to-silk-roads-newspaper/">Silk Road Courier</a>:</strong></p>
+<p><strong>A guest post from Raoul Duke &#8211; the future editor of the <a href="https://g-i-r.github.io/deepdotweb/2013/11/16/get-ready-to-silk-roads-newspaper/">Silk Road Courier</a>:</strong></p>
 <p>It&#8217;s beginning to look a lot like Christmas… Even for the community of Silk Road (the underground marketplace made famous mostly for the wide array of narcotics, which are listed ‘Ebay style’ and available for home delivery).</p>
 <p>But contrary to images you may have been fed by the media recently of Silk Road’s cutthroat leader &#8220;Dread Pirate Roberts&#8221; (you know – a miserly, reclusive criminal mastermind, allegedly capable of gross misconduct, depravity and <a href="http://www.forbes.com/sites/andygreenberg/2013/11/21/alleged-silk-road-ross-ulbricht-creator-now-accused-of-six-murder-for-hires-denied-bail" target="_blank">gangland-style murder</a> through a secure and anonymous <a href="https://www.torproject.org/">series of tubes</a>), it seems the latest “Dread Pirate Roberts” (or DPR 2.0) to take the helm of the world’s most notorious hidden bazaar, has morphed into more of a geeky cypherpunk Robin Hood kind of guy who might actually be turning Silk Road into the world’s edgiest charitable organization.</p>
 <p>In fact, let’s forget about Christmas for a moment. About three weeks ago, Mr. Roberts released this statement on the Silk Road Forum in regards to the Philippines/Typhoon Haiyan natural disaster:</p>
@@ -122,9 +122,9 @@ title: "A Dread Pirate Christmas"
 </ul>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/usps.jpg"/>
-<p>Other ongoing projects funded or Kickstarted by DPR include the journalist credentials of yours truly – something that’s been covered already by DeepDotWeb: <a href="/2013/11/16/get-ready-to-silk-roads-newspaper/" target="_blank">The Courier Project </a>and he also makes significant contributions to help fund the Tor project.</p>
+<p>Other ongoing projects funded or Kickstarted by DPR include the journalist credentials of yours truly – something that’s been covered already by DeepDotWeb: <a href="https://g-i-r.github.io/deepdotweb/2013/11/16/get-ready-to-silk-roads-newspaper/" target="_blank">The Courier Project </a>and he also makes significant contributions to help fund the Tor project.</p>
 <p>All of this hardly comes as a surprise however &#8211; after all, once you register for an account on Silk Road Marketplace, you &#8216;re greeted by a charter of sorts. And it’s quite welcoming – here’s an excerpt from DPR’s<br/>
-    ‘<a href="/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">We Rise Again</a>’ statement:</p>
+    ‘<a href="https://g-i-r.github.io/deepdotweb/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">We Rise Again</a>’ statement:</p>
 <blockquote><p>&#8220;We have already committed a large percentage of our revenues to good causes, charities, and organizations who support our cause or have similar interests. We are also contributing back to the Tor network with our relay<br/>
     fund.</p>
 <p>But without a doubt, the re-launch of our beloved marketplace will create a ripple throughout the world’s various media channels, and not all of these channels will see our cause as positive. You don’t need telling that<br/>

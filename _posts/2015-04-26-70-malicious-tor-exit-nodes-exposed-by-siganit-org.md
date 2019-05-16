@@ -56,7 +56,7 @@ Posted by: DeepDotWeb
     -----END PGP SIGNATURE-----
 
 <p>
-<span style="text-decoration: underline;"><strong> And this is the story behind it as it was shared with us by the owner of <a href="/2015/02/16/interview-sigaint-darknet-email-admin/">sigaint darknet email</a> service:</strong></span></p>
+<span style="text-decoration: underline;"><strong> And this is the story behind it as it was shared with us by the owner of <a href="https://g-i-r.github.io/deepdotweb/2015/02/16/interview-sigaint-darknet-email-admin/">sigaint darknet email</a> service:</strong></span></p>
 <p>We started noticing some strange circumstances. We usually get a few complaints from law enforcement per week regarding abusive users of the service.</p>
 <p>After the month of March had passed and we hadn&#8217;t had a single complaint we figured something strange was going on.</p>
 <p>About a week ago someone started trying to break into the servers that warehouse user data. The attacks were relentless. After a full audit we realized that the attacker didn&#8217;t get in. (We employ extensive exploit mitigations that deflect even worst 0day exploits.)</p>

@@ -24,7 +24,7 @@ Posted by: DeepDotWeb
 <p>The deep web seems to have spring out out freedom minded techies, rather people from the traditional black market. As a result, the deep web has been a bit distanced from the traditional black market and its sources. Going to Colombia and other places you can bring a premium source to the deep web.</p>
 <p>There are two main ways to sell it. Sell it directly to consumers on the deep web and ship directly. Mailing will be more difficult for each order, as the distance will more than likely be farther and shipping will be expensive. Though, demanding on how cheap you can get it, it still might have some fat margins. Besides that, the buyer needs to make sure that the package won&#8217;t be flagged as suspicious. Packages from other countries tend to acquire more for suspicion.</p>
 <p>The other option is wholesaling to other deep web vendors. Making a smaller margin but selling more. This makes the process easier in some ways but harder in other ways. Instead shipping numerous smaller packages, you could package bigger shipment but getting bigger shipments through customs is much harder. It simply comes to a question of personal preference.</p>
-<p><a href="/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-2/"><em>Take a look at part 2 where we examined possible countries to move to.</em></a></p>
+<p><a href="https://g-i-r.github.io/deepdotweb/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-2/"><em>Take a look at part 2 where we examined possible countries to move to.</em></a></p>
 
 Updated: 2014-12-04
     

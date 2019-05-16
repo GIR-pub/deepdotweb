@@ -82,7 +82,7 @@ Posted by: DeepDotWeb
 <strong>1776 Marketplace url: <span style="color: #ff0000;">http://n6tzonxy7sod7eqt.onion/Register?refid=AGGEHU</span></strong>
 </div></div>
 <p>&#8212;&#8212;</p>
-<p>Marketplace url is also added to our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a></p>
+<p>Marketplace url is also added to our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden marketplace list</a></p>
 <p>And this post is added to the <a href="multisig-guides/">Multisig Guides page</a>.</p>
 
 Updated: 2014-04-19

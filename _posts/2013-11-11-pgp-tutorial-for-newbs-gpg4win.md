@@ -5,12 +5,12 @@ title: "PGP Tutorial For Newbs (Gpg4Win)"
 <span>November 11, 2013</span>
 
 <div>
-<p> <em>Tutorial for </em>Gpg4Win using Kleopatra can <a href="/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">be found here</a>.</p>
+<p> <em>Tutorial for </em>Gpg4Win using Kleopatra can <a href="https://g-i-r.github.io/deepdotweb/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/">be found here</a>.</p>
 <p>We found a great tutorial posted on reddit today about how to stay safe and use PGP.</p>
 <p>The link to the original article is this: <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1qdzl8/guide_pgp_4_n00bz/" target="_blank">http://www.reddit.com/r/DarkNetMarkets/comments/1qdzl8/guide_pgp_4_n00bz/</a></p>
 <p>All the credit for the tutorial goes out to this reddit user:  BenZoThr0w &#8211;  <a href="http://www.reddit.com/user/BenZoThr0w" target="_blank">http://www.reddit.com/user/BenZoThr0w</a></p>
 <p>All we did is to embed the images inside the tutorial for easier access &amp; of course post it here to spread this important information.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Add A Layer Of Encryption: Click For The Best VPN Services&lt;&lt;&lt;</a></p>
 <p>=====</p>
 <p>The goal here today is to try and educate n00bZ on what PGP is, how to install GPA, I&#8217;m making the guide because I educated myself on PGP and it took awhile for me to understand it. So here is a picture guide to installing and creating a PGP key to encrypt and de-crypt messages.</p>
 <p>=== BACKGROUND of PGP ===</p>

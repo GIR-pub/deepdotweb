@@ -27,7 +27,7 @@ Posted by: DeepDotWeb
 <ul>
 <li><strong>Total Impressions</strong>: 458,367</li>
 <li><strong>Number of keywords</strong>: 1000+  (Webmaster tools will not show more than 1000 keywords per query)</li>
-<li><strong>Notes &amp; Trends</strong>:  <span style="color: #ff0000;">Defunct</span> &#8211; Since around the time Agora admins <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">decided to shut down</a>, the decline in interest around this market is clear, although it still seem to generate few thousand searches per day this number is bound to decline as time passes, yet there is no doubt that Agora was the most popular market in recent times.</li>
+<li><strong>Notes &amp; Trends</strong>:  <span style="color: #ff0000;">Defunct</span> &#8211; Since around the time Agora admins <a href="https://g-i-r.github.io/deepdotweb/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">decided to shut down</a>, the decline in interest around this market is clear, although it still seem to generate few thousand searches per day this number is bound to decline as time passes, yet there is no doubt that Agora was the most popular market in recent times.</li>
 </ul>
 <h2>#2 &#8211; <a href="#">Abraxas</a></h2>
 
@@ -36,7 +36,7 @@ Posted by: DeepDotWeb
 <ul>
 <li><strong>Total Impressions</strong>: 407,892</li>
 <li><strong>Number of keywords</strong>: 378</li>
-<li><strong>Notes &amp; Trends</strong>:  <span style="color: #ff0000;">Defunct</span> &#8211; Experienced a meteoric rise from nothing to full-on Agora popularity levels showing the mass migration to this market based only on its similar layout, Not very long after Agora admins <a href="/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">decided to shut down</a>, Abraxas admins exit scammed leaving us with nothing but speculation about their timing,  and the decline in popularity is already starting to show.</li>
+<li><strong>Notes &amp; Trends</strong>:  <span style="color: #ff0000;">Defunct</span> &#8211; Experienced a meteoric rise from nothing to full-on Agora popularity levels showing the mass migration to this market based only on its similar layout, Not very long after Agora admins <a href="https://g-i-r.github.io/deepdotweb/2015/08/26/agora-market-to-pause-operations-finish-your-orders-and-withdraw-money/">decided to shut down</a>, Abraxas admins exit scammed leaving us with nothing but speculation about their timing,  and the decline in popularity is already starting to show.</li>
 </ul>
 <h2>#3 &#8211; <a href="#">Alphabay</a></h2>
 
@@ -108,7 +108,7 @@ Posted by: DeepDotWeb
 <ul>
 <li><strong>Total Impressions</strong>: 43,105</li>
 <li><strong>Number of keywords</strong>: 139</li>
-<li><strong>Notes &amp; Trends</strong>: The <a href="/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">controversial market</a> which was recently re-branded and claimed to have changed ownership, and the only active market showing decline in interest over time (Note: the decline is not related to the rebranding as there is almost no data at all about the new name around 57 impressions total)</li>
+<li><strong>Notes &amp; Trends</strong>: The <a href="https://g-i-r.github.io/deepdotweb/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">controversial market</a> which was recently re-branded and claimed to have changed ownership, and the only active market showing decline in interest over time (Note: the decline is not related to the rebranding as there is almost no data at all about the new name around 57 impressions total)</li>
 </ul>
 <h2>#11 &#8211; <a href="#">Crypto Market</a></h2>
 

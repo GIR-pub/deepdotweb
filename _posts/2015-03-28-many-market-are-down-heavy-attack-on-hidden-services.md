@@ -11,9 +11,9 @@ Posted by: DeepDotWeb
 <p>Just try other markets at this time.</p>
 <p>More:</p>
 <ul>
-<li><a href="/2015/03/26/ddos-attack-to-tor-hidden-services-all-versions-vulnerable/">Previous report about this issue</a></li>
-<li><a href="/2015/03/27/middle-earth-market-admin-updates/">Middle earth admin reporting the attack</a></li>
-<li><a href="/2015/03/25/agora-update-its-up-again/">Agora is up (but under attack)</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/03/26/ddos-attack-to-tor-hidden-services-all-versions-vulnerable/">Previous report about this issue</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/03/27/middle-earth-market-admin-updates/">Middle earth admin reporting the attack</a></li>
+<li><a href="https://g-i-r.github.io/deepdotweb/2015/03/25/agora-update-its-up-again/">Agora is up (but under attack)</a></li>
 </ul>
 
 

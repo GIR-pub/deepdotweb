@@ -56,7 +56,7 @@ Posted by: DeepDotWeb
 <li>Time: Typical transactions take 3-4 hours to complete.</li>
 <li>Fees: The operators charge a 3% fee for using the service.</li>
 <li>Limits: Minimum withdrawal is .02 BTC and Maximum withdrawal is 1 BTC per mix.</li>
-<li>Logging: Logs are kept for 7 days unless manually deleted by the user. <a href="/2014/06/22/introducing-grams-helix-bitcoins-cleaner/" rel="nofollow"><strong>[6]</strong></a></li>
+<li>Logging: Logs are kept for 7 days unless manually deleted by the user. <a href="https://g-i-r.github.io/deepdotweb/2014/06/22/introducing-grams-helix-bitcoins-cleaner/" rel="nofollow"><strong>[6]</strong></a></li>
 </ol>
 <p>In crypto, anything to do with trust is usually a deal breaker. Bitcoin was founded upon the core principle of trustless exchange; moving backwards towards trust-based systems is a devolutionary step. Shadow offers superior privacy guarantees without trust in operators, centralized technology or the drawbacks associated with it.</p>
 <p><strong>BitBlender</strong></p>

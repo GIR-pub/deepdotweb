@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>September 29, 2015</span>
 
 <p>Over the last couple of years, a great number of VPN users have started using OpenVPN. You can find a lot of positive feedback online about this VPN protocol and why it&#8217;s superior to any other VPN implementation. But what is the force behind OpenVPN and do you really need to switch over from your standard L2TP/Ipsec option? In this article the <a href="https://www.privatoria.net/?ref=deepdotweb">Privatoria</a> team will investigate which one is better for specific cases.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&#8211;&gt; Click here to see the best VPN&#8217;s for privacy &lt;&#8211;</a></p>
 <p>OpenVPN has been around for a long time but it has only received prominence in recent years mostly because of multiple surveillance scandals in the US. Most users then started promoting the idea of open source software stressing the fact that surveillance is impossible in the open source world because any attempt to hide a tracking program inside a source code will be easily spotted. Things like Linux-based OS&#8217;s and Chromium Web browser have become a lot more popular. Open Source has unintentionally become a must-have (or a least a must-try) for every security enthusiast.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/11.png">

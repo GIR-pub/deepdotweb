@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <p>He spent countless hours putting this thread together. If you gained some value and want to give back, He is accepting BTC donations.<br/>
     Address: 1PkJ928QWC5BuQAsHoNQzRV5wfnveJSRCp</p>
 <p>The full 45 pages guide can be found on site sidebar and trough here:</p>
-<p style="text-align: center;"><a href="/jolly-rogers-security-guide-for-beginners/" class="shortc-button medium red">Click Here for the Guide</a>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/jolly-rogers-security-guide-for-beginners/" class="shortc-button medium red">Click Here for the Guide</a>
 <p>We thank the Jolly Roger for his contribution!</p>
 </div>
 

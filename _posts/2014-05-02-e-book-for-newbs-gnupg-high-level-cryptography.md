@@ -39,7 +39,7 @@ Posted by: DeepDotWeb
 <strong>Download the Book <a href="https://www.goldenkeys.org/download.html" target="_blank">Here</a> (Don&#8217;t forget to support with a small BTC donation!)
 </div></div></strong></p>
 <p>&nbsp;</p>
-<p><strong>Related</strong>: <a href="/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (Gpg4Win)</a></p>
+<p><strong>Related</strong>: <a href="https://g-i-r.github.io/deepdotweb/2013/11/11/pgp-tutorial-for-newbs-gpg4win/">PGP Tutorial For Newbs (Gpg4Win)</a></p>
 
 Updated: 2014-05-02
     

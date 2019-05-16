@@ -76,7 +76,7 @@ Posted by: DeepDotWeb
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/15.png">
 
 <p>That&#8217;s it! You have now encrypted a USB drive using Veracrypt. All you have to do now is wait for the feds to arrest you and see if it works!</p>
-<p>This tutorial is listed in the <a href="/security-tutorials/">Security Tutorials</a> section.</p>
+<p>This tutorial is listed in the <a href="https://g-i-r.github.io/deepdotweb/security-tutorials/">Security Tutorials</a> section.</p>
 <p>&nbsp;</p>
 
 Updated: 2015-02-09

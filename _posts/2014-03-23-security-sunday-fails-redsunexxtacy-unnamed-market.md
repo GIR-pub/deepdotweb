@@ -12,7 +12,7 @@ title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
 <span style="text-decoration: underline;">Was located at this address</span>: redsun4lvjrxwwuy.onion<br />
 <span style="text-decoration: underline;">How it ended?</span> Was at least decent enough to take his marketplace down quickly after this.<br />
 <span style="text-decoration: underline;">Original Thread</span>: http://www.reddit.com/r/DarkNetMarkets/comments/214y14/i_made_it_all_pretty_and_stuff/<br />
-<span style="text-decoration: underline;">Exposed by:</span> <a href="http://www.reddit.com/user/the_avid">the_avid</a>  (from the epic <a href="/2014/01/27/the-drugslist-lesson-why-marketplace-security-should-not-be-taken-lightly/">drugslist lesson</a> , and the <a href="/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">cantina</a> fiasco)</p>
+<span style="text-decoration: underline;">Exposed by:</span> <a href="http://www.reddit.com/user/the_avid">the_avid</a>  (from the epic <a href="https://g-i-r.github.io/deepdotweb/2014/01/27/the-drugslist-lesson-why-marketplace-security-should-not-be-taken-lightly/">drugslist lesson</a> , and the <a href="https://g-i-r.github.io/deepdotweb/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">cantina</a> fiasco)</p>
 <div>
 <div>
 <blockquote><p><a href="http://prntscr.com/33fiyo">hey adminm, ruh roh<br />
@@ -89,7 +89,7 @@ title: "Security Sunday Fail Trio: Redsun,EXXTACY &#038; Unnamed Market"
     Exposed by: {Hidden at this time}</p>
 <p><strong>{Screenshot Hidden For Privacy reasons}</strong></p>
 <p>We have no idea how this will end up for these markets, but we urge all users to do their research before using any of these markets (or any other market)</p>
-<p>One of them was listed in our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden</a> marketplaces but will be removed now</p>
+<p>One of them was listed in our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">list of hidden</a> marketplaces but will be removed now</p>
 
 Updated: 2014-03-23
     

@@ -32,7 +32,7 @@ Posted by: DeepDotWeb
 <li>English support with Korean also!</li>
 </ul>
 <p>Opening day comes with no commission only!</p>
-<p>The market will be added to our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">marketplace list</a>.</p>
+<p>The market will be added to our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">marketplace list</a>.</p>
     
     
 

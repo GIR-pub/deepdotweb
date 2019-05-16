@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/nucleus.png">
 
 <p>======End of update====</p>
-<p>During the past 24 hours we had multiple reports from vendors being locked out of their accounts on nucleus market, <a href="/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/">which is (or was?) the second largest market currently</a>, there reports were posted on <a href="#">such as this one</a>.  During this time buyer withdrawals seemed to be unaffected. Currently the market seems to be down:</p>
+<p>During the past 24 hours we had multiple reports from vendors being locked out of their accounts on nucleus market, <a href="https://g-i-r.github.io/deepdotweb/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/">which is (or was?) the second largest market currently</a>, there reports were posted on <a href="#">such as this one</a>.  During this time buyer withdrawals seemed to be unaffected. Currently the market seems to be down:</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/nuc.png">
 

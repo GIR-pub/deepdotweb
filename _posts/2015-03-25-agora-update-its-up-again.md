@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>March 25, 2015</span>
 
-<p><strong>Update, Buyers url is up BUT VERY SLOW &#8211; Possibly due to <a href="/2015/03/25/agora-update-its-up-again/">DDOS Attack</a> on Hidden Services:</strong></p>
+<p><strong>Update, Buyers url is up BUT VERY SLOW &#8211; Possibly due to <a href="https://g-i-r.github.io/deepdotweb/2015/03/25/agora-update-its-up-again/">DDOS Attack</a> on Hidden Services:</strong></p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/agora.png">
 

@@ -56,11 +56,11 @@ title: "Buy Bitcoins With Paypal &#038; Credit Cards!"
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/6-convert-to-BTC.png" />
 
 <p style="text-align: left;"><strong>Step 8:</strong> On the next screen, enter the mount of bitcoins you want to buy using your SLL.</p>
-<p style="text-align: left;"><a href="/wp-content/uploads/2013/11/7-convert-to-BTC2.png"/>
+<p style="text-align: left;"><a href="https://g-i-r.github.io/deepdotweb/wp-content/uploads/2013/11/7-convert-to-BTC2.png"/>
 <p><strong>Step 9:</strong> After your transaction has been confirmed, you will be able to withdraw your bitcoins and send them to your wallet; click the “Withdraw” button on the sidebar.</p>
-<p style="text-align: left;"><a href="/wp-content/uploads/2013/11/8-withdraw.png"/>
+<p style="text-align: left;"><a href="https://g-i-r.github.io/deepdotweb/wp-content/uploads/2013/11/8-withdraw.png"/>
 <p style="text-align: left;"><strong>Step 10: </strong>Enter the amount of bitcoins you want to Withdraw, then enter your Bitcoin address and click the “Request Withdraw” button. <strong>Note</strong>: on your first time there, may be a 48 hour delay until your bitcoins are sent to your wallet. This delay is placed to help prevent fraud. After your first transaction, though, the withdrawal will be instant, and it can be traced in the Blockchain.</p>
-<p style="text-align: left;"><a href="/wp-content/uploads/2013/11/9-withdraw-btc.png"/>
+<p style="text-align: left;"><a href="https://g-i-r.github.io/deepdotweb/wp-content/uploads/2013/11/9-withdraw-btc.png"/>
 <p>In conclusion, this method is the easiest way to buy bitcoins using paypal and credit cards; the only disadvantages are the fees (Papal fees, Lower rates for BTC &amp; SLL).</p>
 <h2 style="text-align: center;"><a href="https://www.virwox.com?r=1a6a7" target="_blank"><span style="color: #ff0000;"><span style="color: #ff0000;"><strong>Click Here To Buy Bitcoins with Paypal &amp; Credit Cards using Virwox.com &gt;&gt;</strong></span></span></a></h2>
 

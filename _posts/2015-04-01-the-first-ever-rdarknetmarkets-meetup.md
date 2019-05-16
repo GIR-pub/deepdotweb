@@ -38,7 +38,7 @@ Posted by: DeepDotWeb
 <h2 class="section-heading">Sponsors</h2>
 <ul>
 <li class="lead">This is all possible thanks to our many great sponsors&#8230;</li>
-<li class="lead">DeepDotWeb.com, <a href="http://cryptdesign.com/">CryptDesign</a>, <a href="https://darknetsolutions.com/">Darknet Solutions</a>, <a href="/grams-search-darknet-marketplaces/">Grams Darknet SE</a>, Middle Earth, Best Korea Market, Bailey Jay, Black Bank, Kimble and Verto, and /r/darknetmarkets Mods!</li>
+<li class="lead">DeepDotWeb.com, <a href="http://cryptdesign.com/">CryptDesign</a>, <a href="https://darknetsolutions.com/">Darknet Solutions</a>, <a href="https://g-i-r.github.io/deepdotweb/grams-search-darknet-marketplaces/">Grams Darknet SE</a>, Middle Earth, Best Korea Market, Bailey Jay, Black Bank, Kimble and Verto, and /r/darknetmarkets Mods!</li>
 </ul>
 </div>
 </div>

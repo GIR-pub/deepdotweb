@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 <span>July 8, 2014</span>
 
-<span>in <a href="/category/videos/" rel="category tag">Videos</a></span>
+<span>in <a href="https://g-i-r.github.io/deepdotweb/category/videos/" rel="category tag">Videos</a></span>
 
 <p>Please donate: <a class="yt-uix-redirect-link" dir="ltr" title="http://freeross.org/donate-now-2/" href="http://freeross.org/donate-now-2/" target="_blank" rel="nofollow">http://freeross.org/donate-now-2/</a><br />
     And more importantly, please share this video. This is your freedom. This effects us all. Do not be a spectator.</p>

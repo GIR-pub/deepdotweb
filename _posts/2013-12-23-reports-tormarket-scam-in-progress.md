@@ -5,8 +5,8 @@ title: "Reports: Tormarket Scam In Progress?"
 
 <span>Posted by: DeepDotWeb </span>
 <span>December 23, 2013</span>
-<span>in <a href="/category/deepdot-news/" rel="category tag">Featured</a>, <a href="/category/news-updates/" rel="category tag">News Updates</a></span>
-<span><a href="/2013/12/23/reports-tormarket-scam-in-progress/#comments">4 Comments</a></span>
+<span>in <a href="https://g-i-r.github.io/deepdotweb/category/deepdot-news/" rel="category tag">Featured</a>, <a href="https://g-i-r.github.io/deepdotweb/category/news-updates/" rel="category tag">News Updates</a></span>
+<span><a href="https://g-i-r.github.io/deepdotweb/2013/12/23/reports-tormarket-scam-in-progress/#comments">4 Comments</a></span>
 
 
 <p>As if the the Silk Road Drama wasn&#8217;t enough for today,  we can confirm that from about 8 hours ago Tormarket forum and the Tormarket site went down,</p>
@@ -41,6 +41,6 @@ title: "Reports: Tormarket Scam In Progress?"
 
     This sure doesn&#8217;t look very encouraging for the Tormarket Situation,  as usual,  we will try to follow this as well and report once (anf if) we will have any solid information, so far it looks like the Sheep Sequel.</p>
 </div>
-<a href="/tag/progress/" rel="tag">progress</a> <a href="/tag/reports/" rel="tag">reports</a> <a href="/tag/scam/" rel="tag">scam</a> <a href="/tag/tormarket/" rel="tag">tormarket</a>
+<a href="https://g-i-r.github.io/deepdotweb/tag/progress/" rel="tag">progress</a> <a href="https://g-i-r.github.io/deepdotweb/tag/reports/" rel="tag">reports</a> <a href="https://g-i-r.github.io/deepdotweb/tag/scam/" rel="tag">scam</a> <a href="https://g-i-r.github.io/deepdotweb/tag/tormarket/" rel="tag">tormarket</a>
 
 Updated: 2013-12-23

@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
        
 <p><a href="#">TheRealDeal Market</a> has recently updated it entire UI to look similar to the past Evolution market, the admin have provided us with a market buying tutorial &#8211; this tutorial addresses escrow transactions, Multisig tutorial will be added later.</p>
 <p>According to the main admin, the evolution code (or at least a large portion of it) was purchased from a hacking forum quite recently, but lacked some major parts of code (wallet functionality was messed up, feedback system was broken, legacy-sales system was broken (and fixed today), and the search function was completely missing &#8211; but at this point all the cool evolution listing filters are working and the main search tab on top will be fully functional today) &#8211; He also mentioned that he will be providing free vendor account for next 24 &#8211; 48 hours.</p>
-<p style="text-align: center;"><a href="/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
 <p>He would also like to thank his co-admin &#8216;peace&#8217; for writing up this how-to and also for working on the wiki that will be hosted on a different host later today.</p>
 <p>You can use this link to register to <a href="#">http://trdealmgn4uvm42g.onion/users/create?ref=gggjjjt555</a></strong></p>
 <p><span style="text-decoration: underline;"><strong>The tutorial:</strong></span></p>

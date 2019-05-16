@@ -16,7 +16,7 @@ Posted by: DeepDotWeb
 <p>From Energy Control we earnestly recommend not consuming pills with these characteristics and send them for analysis to a drug checking program.</p>
 <p><b>We offer a free qualitative (not quantitative) test for these pills with Superman logo, contact EC for more info:  <span style="text-decoration: underline;"><a href="#">
 </a></span>(<a href="http://energycontrol.org/noticias/528-international.html" target="_blank">link to the international info page</a>)</b></p>
-<p>Generally it&#8217;s not recommended for recreational drug users to consume substances without first knowing its composition. More information about testing of other substances can be found <a href="/2014/04/06/energy-control-drug-testing-service-for-deepweb-users" target="_blank">at this link</a>.</p>
+<p>Generally it&#8217;s not recommended for recreational drug users to consume substances without first knowing its composition. More information about testing of other substances can be found <a href="https://g-i-r.github.io/deepdotweb/2014/04/06/energy-control-drug-testing-service-for-deepweb-users" target="_blank">at this link</a>.</p>
 <p><em>Energy Control is a project from an NGO that emerged in 1997 as a pioneer project in Spain in the area of reducing the risks associated with recreational drug use, having since received recognition from numerous government administrations (European, state, community and local), health professionals and, most of all, users.</em></p>
 <p>Images of the pills:</p>
 

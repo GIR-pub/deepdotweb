@@ -6,7 +6,7 @@ Posted by: Archer
 
 <span>December 28, 2015</span>
 
-<p><em>**This is part two of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom. <a href="/2015/12/23/cashing-out-what-is-your-strategy/">Read the first post here</a>.</em></p>
+<p><em>**This is part two of a six part series on how to cash out &#8211; and keep &#8211; your money and your freedom. <a href="https://g-i-r.github.io/deepdotweb/2015/12/23/cashing-out-what-is-your-strategy/">Read the first post here</a>.</em></p>
 <h2>Why Everyone Needs a Second (or Third) Passport</h2>
 <p>We are living in a strange time. Hypocritical perverts are not arrested for child molestation and sexual abuse, instead they are indicted for<a href="http://www.wsj.com/articles/former-house-speaker-dennis-hastert-indicted-1432849134" target="_blank"> &#8216;structuring&#8217; withdrawals to pay blackmail to the victim</a>. And &#8216;lying to the government&#8217;.. about withdrawing his own money.</p>
 <p>Simply possessing any large amount of cash <a href="http://www.peoplespunditdaily.com/public-policy/2015/04/28/policing-for-profit-legal-stealing-government-civil-asset-forfeiture/" target="_blank">allows the government to confiscate it</a>. even if the owner is never charged with a crime. Essentially, carrying cash is illegal.</p>

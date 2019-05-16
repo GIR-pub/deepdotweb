@@ -6,7 +6,7 @@ title: "The Silk Road 2.0 Rises: Defying the FBI"
 <span>November 7, 2013</span>
 
 
-<p>And so it goes, the Dread Pirate Roberts has returned <a href="/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">As we have already reported</a>.  Perhaps, not in the form of Ross Ulbricht who currently resides behind prison bars, but in a new mysterious character who claims to be ‘DPR’.</p>
+<p>And so it goes, the Dread Pirate Roberts has returned <a href="https://g-i-r.github.io/deepdotweb/2013/11/06/silk-road-2-0-is-now-officially-open/" target="_blank">As we have already reported</a>.  Perhaps, not in the form of Ross Ulbricht who currently resides behind prison bars, but in a new mysterious character who claims to be ‘DPR’.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/silkroad20logo.jpg"/>
 <p>Since Silk Road was taken down by the FBI for their illicit dealings at the end of October, much speculation has circulated the dark net about who will step in to fill its shoes.  There was a similar drug bazaar that began operating shortly after the first Silk Road met its doom, called Project Black Flag.  However, this operation ran aground within three weeks, and its captain jumped ship, fleeing with all of its bitcoins.  Controversy surrounds the original nature of Project Black Flag, concerning whether or not the site was intended to be a scam in the first place; however, its closing assuredly reopened the gaping hole in supply for the demand of drugs on the deep web.</p>

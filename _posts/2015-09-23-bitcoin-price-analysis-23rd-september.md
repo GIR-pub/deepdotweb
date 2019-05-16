@@ -47,7 +47,7 @@ Posted by: pesa_mic
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/71.jpg">
 
-<p>My outlook for the mid term is still bearish, irrespective of any upside we might see in the next 3 weeks. I explained my thoughts in an article early this week, <a href="/2015/09/21/bitcoin-medium-term-price-outlook/">Bitcoin Medium Term Price Outlook</a>.</p>
+<p>My outlook for the mid term is still bearish, irrespective of any upside we might see in the next 3 weeks. I explained my thoughts in an article early this week, <a href="https://g-i-r.github.io/deepdotweb/2015/09/21/bitcoin-medium-term-price-outlook/">Bitcoin Medium Term Price Outlook</a>.</p>
 
 <img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/8.jpg">
 

@@ -7,7 +7,7 @@ Posted by: Greg Miller
 
 <span>September 11, 2014</span>
     
-<a href="/2014/09/11/bitcoins-black-market-promise-argentina/#respond">Leave a comment</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/09/11/bitcoins-black-market-promise-argentina/#respond">Leave a comment</a></span>
 </p>
 <p>Argentina, is a South American country, with a very troubled financial past. The country defaults about every 10 years and their currency is constantly printed into oblivion. Argentinians have coped with its countries difficulties by looking to the black market for solutions. Argentina&#8217;s Central Bank has capital controls on the US dollar, among other currencies but that doesn&#8217;t stop a thriving financial black market from existing. These capital controls, keep dollars at an artificially low price but in the free black market Bitcoins, dollars, and euros are all bought at a premium. Argentinians buy these currencies at such a high price because they are desperate for something that can hold value against the Argentina peso. This financial black market that has become commonplace and necessary for economy to continue to run. As a result, officials turn a blind eye to such activities and let them flourish.</p>
 <p>Bitcoin has taken off at pace in Argentina, not seen else in the world. It dubbed the most likely to adopt Bitcoin by Bitcoin Market Potential Index (BMPI). Bitcoin&#8217;s digital nature allows them to move money through international boarders with ease. This allows family to send money to members aboard or to do business with people in China or the USA. These simple things, are horribly difficult for a people who&#8217;s money is next to worthless. Nobody wants to be stuck with the financial time bomb when it goes off.</p>
@@ -27,6 +27,6 @@ Posted by: Greg Miller
 <p><strong>Bonus</strong></p>
 <p>In northern South America, Colombia has seen a big decrease in drug related violence as drug gangs have decided boarders and respected them. It is unclear how long this last but this also a great opportunity for them to expand their business without any violence. Instead of lunching urban assaults on neighboring gangs to get a bigger market share, they could instead become a deep web dealer. As with all drugs on the deep web, cocaine sells for more on the deep web, than the street. Colombia, being at the source of most of the worlds cocaine, could get it for cheap and sell it for a great mark up online.</p>
 </div>
-<a href="/tag/argentina/" rel="tag">argentina</a> <a href="/tag/black/" rel="tag">black</a> <a href="/tag/promise/" rel="tag">promise</a></span> 
+<a href="https://g-i-r.github.io/deepdotweb/tag/argentina/" rel="tag">argentina</a> <a href="https://g-i-r.github.io/deepdotweb/tag/black/" rel="tag">black</a> <a href="https://g-i-r.github.io/deepdotweb/tag/promise/" rel="tag">promise</a></span> 
 Updated: 2014-09-11
     

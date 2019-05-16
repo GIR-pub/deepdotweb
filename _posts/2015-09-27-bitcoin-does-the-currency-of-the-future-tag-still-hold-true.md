@@ -6,7 +6,7 @@ Posted by: Macavity
 
 <span>September 27, 2015</span>
 
-<span><a href="/2015/09/27/bitcoin-does-the-currency-of-the-future-
+<span><a href="https://g-i-r.github.io/deepdotweb/2015/09/27/bitcoin-does-the-currency-of-the-future-
 
 
 <p><em>“The next step in the evolution of money”</em></p>

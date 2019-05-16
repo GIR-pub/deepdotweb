@@ -6,9 +6,9 @@ Posted by: DeepDotWeb
 
 <span>February 11, 2014</span>
 
-<a href="/2014/02/11/utopia-marketplace-seized-by-dutch-police/#comments">12 Comments</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/02/11/utopia-marketplace-seized-by-dutch-police/#comments">12 Comments</a></span>
 </p>
-<p><span style="text-decoration: underline;"><strong>Update 2</strong></span>: 5 People Arrested for running utopia and the sale of Drugs, Weapon and ammunition: Police also seized 900 bitcoins, worth about £363,000 or $610,900.  The Dutch authorities said their operation &#8211; codenamed Commodore &#8211; sent out a message that no-one was &#8220;untouchable&#8221; on Tor.Two Dutch men, aged 30 and 31, alleged to have run the service had also been involved in, Black Market Reloaded, which had closed towards the end of 2013, said prosecutors. the full public prosecution is <a href="http://www.om.nl/actueel/nieuwsberichten/@162281/undercover-onderzoek/">here</a>. <a href="/2014/02/12/the-utopia-bust-details-prosecution-announcement/"><strong>Translated version here</strong></a></p>
+<p><span style="text-decoration: underline;"><strong>Update 2</strong></span>: 5 People Arrested for running utopia and the sale of Drugs, Weapon and ammunition: Police also seized 900 bitcoins, worth about £363,000 or $610,900.  The Dutch authorities said their operation &#8211; codenamed Commodore &#8211; sent out a message that no-one was &#8220;untouchable&#8221; on Tor.Two Dutch men, aged 30 and 31, alleged to have run the service had also been involved in, Black Market Reloaded, which had closed towards the end of 2013, said prosecutors. the full public prosecution is <a href="http://www.om.nl/actueel/nieuwsberichten/@162281/undercover-onderzoek/">here</a>. <a href="https://g-i-r.github.io/deepdotweb/2014/02/12/the-utopia-bust-details-prosecution-announcement/"><strong>Translated version here</strong></a></p>
 <p>The other suspects arrested on Friday are:</p>
 <ul>
 <li>a 29-year-old from Utrecht, who the prosecutors said they believed had been involved in several other unnamed black market marketplaces in addition to Utopia</li>

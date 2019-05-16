@@ -471,7 +471,7 @@ cd tordirectory
 <a href="https://autistici.org">autistici.org</a></p>
 <p><strong>Paid VPNs</strong></p>
 <p>Recommended resource:<br/>
-<a href="/vpn-comparison-chart/">Our Best VPN&#8217;s Chart</a> and &#8220;<a href="/2014/07/08/is-your-vpn-legit-or-shit/">Is your VPN legit or shit?</a>&#8221; post (remember their claims, are not a promise and even their systems could be vulnerable)</p>
+<a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">Our Best VPN&#8217;s Chart</a> and &#8220;<a href="https://g-i-r.github.io/deepdotweb/2014/07/08/is-your-vpn-legit-or-shit/">Is your VPN legit or shit?</a>&#8221; post (remember their claims, are not a promise and even their systems could be vulnerable)</p>
 <h3>Free VPNs</h3>
 <p>I don’t recommend these at all but will list one that has been reliable. You’ll have to search for more.</p>
 <p>Unfortunately you should have no expectation of privacy on a free <span class="caps">VPN</span> but for one time use if you have no other choice it may be helpful.</p>

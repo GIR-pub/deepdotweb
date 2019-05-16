@@ -7,7 +7,7 @@ Posted by: Greg Miller
 
 <span>October 25, 2014</span>
     
-<a href="/2014/10/25/anonymous-crypto-currency-arms-race-part-2/#comments">1 Comment</a></span>
+<a href="https://g-i-r.github.io/deepdotweb/2014/10/25/anonymous-crypto-currency-arms-race-part-2/#comments">1 Comment</a></span>
 </p>
     
 <p><em>All the parts are available in the <a href="tag/ArmsRace/">Armsrace Tag</a>  – Once published</em></p>
@@ -30,6 +30,6 @@ Posted by: Greg Miller
 <p><strong>Other Coin’s Anonymity Schemes</strong></p>
 <p>These two protocols are used by several coins, but beyond these two protocols there are numerous anonymity schemes made up by individual coin developers and used solely by that coin. In part 2, I will be looking at the leading anonymity focused crypto-currencies. While describing each coin, if the coin has unique anonymity scheme, not based on these, then I will explain it. Stay tune for part 3 and see the actual coins competing to win the arms race.</p>
 </div>
-<a href="/tag/anonymous/" rel="tag">anonymous</a> <a href="/tag/arms/" rel="tag">arms</a> <a href="/tag/armsrace/" rel="tag">ArmsRace</a> <a href="/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="/tag/race/" rel="tag">race</a></span> 
+<a href="https://g-i-r.github.io/deepdotweb/tag/anonymous/" rel="tag">anonymous</a> <a href="https://g-i-r.github.io/deepdotweb/tag/arms/" rel="tag">arms</a> <a href="https://g-i-r.github.io/deepdotweb/tag/armsrace/" rel="tag">ArmsRace</a> <a href="https://g-i-r.github.io/deepdotweb/tag/cryptocurrency/" rel="tag">cryptocurrency</a> <a href="https://g-i-r.github.io/deepdotweb/tag/race/" rel="tag">race</a></span> 
 Updated: 2014-10-25
     
