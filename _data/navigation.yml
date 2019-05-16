@@ -3,7 +3,7 @@ main:
   - title: "About DeepDotWeb"
     url: "/about-deepdotweb/"
   - title: "Blog Archive"
-    url: /year-archive/
+    url: "/year-archive/"
   - title: "Security Tutorials"
     url: "/security-tutorials/"
   - title: "Jolly Rogers Security Guide"
