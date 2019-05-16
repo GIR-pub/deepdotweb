@@ -22,13 +22,13 @@ Posted by: DeepDotWeb
 <strong>Utopia marketplace forums url</strong>: http://ysas7uv4drg7rlwv.onion</p>
 <p>Links are already update in our <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a>, So far everything seems to be going smoothly, we will keep following and updating if we will have any news.</p>
 <p>We have taken a few screenshots from the new marketplace, within the first hours of opening the marketplace is already offering over 1200 product listing, which might hint on the fast growth that this marketplace is about to have:</p>
-<img src="/imgs/2014/02/1u.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/1u.png" />
 
 <p>Product page:</p>
-<img src="/imgs/2014/02/2u.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/2u.png" />
 
 <p>Category page:</p>
-<img src="/imgs/2014/02/3u.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/3u.png" />
 
 </div>
 

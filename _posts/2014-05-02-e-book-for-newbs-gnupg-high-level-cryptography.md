@@ -11,7 +11,7 @@ Posted by: DeepDotWeb
     Visit the Golden Keys Site <a href="https://www.goldenkeys.org/" target="_blank">Here</a></strong><br/>
 <strong>Download the Book <a href="https://www.goldenkeys.org/download.html" target="_blank">Here</a> (Don&#8217;t forget to support with a small BTC donation!)
 </div></div></strong></p>
-<img src="/imgs/2014/05/Cover50.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/Cover50.png" />
 
 <p><span style="text-decoration: underline;">Description of the book and content:</span></p>
 <p>Written by <strong>The Golden Keys Team</strong> who decided to write a guide on how to use e-mail with cryptography because internet privacy is very important and most digital communications these days are insecure.</p>

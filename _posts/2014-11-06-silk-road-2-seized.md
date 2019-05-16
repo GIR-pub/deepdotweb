@@ -17,7 +17,7 @@ Posted by: DeepDotWeb
 <p>&mdash; FBI New York (@NewYorkFBI) <a href="https://twitter.com/NewYorkFBI/status/530386208099426304">November 6, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>If you try to access the Silk Road 2 dark net site (http://silkroad6ownowfk.onion/), and the Silk Road 2 forums (<a href="http://silkroad5v7dywlc.onion/">http://silkroad5v7dywlc.onion/</a><a href="http://silkroad5v7dywlc.onion/)--s">)</a>, which replaced the original silk road just last year after it was seized by the FBI, you will now get a seized notice signed by “a joint operation by the FBI, ICE,  Europol and Eurojust.”:</p>
-<img src="/imgs/2014/11/seized2.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/seized2.png" />
 
 <p>This dark net site closure comes just a few minutes after we reported on drug related busts in Ireland, as well as a statement released by Gardaí mentioning that the Ireland bust was part of an ongoing operation called “<a href="/2014/11/06/major-darknet-related-bust-ireland/">Onymous</a>,” which involved the United States Federal Bureau of Investigation and Europol. Operation Onymous should conclude within the next 24 hours and is expected to take down several dark net markets and forums.</p>
 <blockquote><p>An international day of action to disrupt global activity on the Darknet and remove certain websites and forums is to conclude within the next 24 hours under the FBI/Europol operation codenamed “Onymous”.</p></blockquote>
@@ -31,10 +31,10 @@ Posted by: DeepDotWeb
 <li>Alpaca 15:18</li>
 <li><span style="color: #339966;">TheHub forums 16:14 &#8211; Ok</span></li>
 </ul>
-<img src="/imgs/2014/11/down.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/down.png" />
 
 <p>Silk Road 2 Forums seized notice:</p>
-<img src="/imgs/2014/11/seized-forums.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/seized-forums.png" />
 
 <p><strong>Keep checking the other posts in this chain of event at: <a href="tag/silkroad2bust/">Silk Road 2 Bust Tag</a>—they are being updated constantly.</strong></p>
 <p>&nbsp;</p>

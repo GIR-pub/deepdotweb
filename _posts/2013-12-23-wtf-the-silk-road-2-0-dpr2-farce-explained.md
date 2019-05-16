@@ -10,12 +10,12 @@ title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 <p>(This is a continue from our <a href="/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">previous report</a> about a possible security breach in SR2) So, lets go from the end-to the beginning, DPR is most likely NOT compromised but lurking on the forums  most likely due to hes real identity is known both to Ross Ulbricht (the previous DPR) and to the arrested mods. its being assumed he is Stexo from SR1 &#8211; and due to the well known fact that hes real identity was known to Ross and the 3 arrested moderators (along with some others) &#8211; he was warned multiple times not to start Silk Road 2.0 by at least one user (Oracle), yet he still did, putting himself and everyone else in danger. The forum mods were fully aware of this situation and played along with the &#8220;Silk Road is compromised thread&#8221; which was later deleted.</p>
 <p>Sometime later post from an Administrator called &#8220;Defcon&#8221; was posted telling about a &#8220;Contingency Plan&#8221;, and this is where my<strong> Facepalm made a very loud noise</strong>:</p>
 
-<img src="/imgs/2013/12/defcon.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/defcon.png"/>
 
 <p style="text-align: left;">I Will not even quote this post again. so the thread from yesterday announcing that DPR was compromised got deleted &#8211; the scale of the farce became clear, When a user under the name Oracle started posting that he has all the information about whats going on and requested an approval from the moderators Cirrus and Chemcat to post what he knows with a promise that hes account wont be deleted.</p>
 <p style="text-align: left;">Luckily as always, we have screenshots of the discussion before it got deleted and the information that was published was truly interesting, he started by posting a few scenarios describing the possibilities of the current situation, which did not really impress anyone:</p>
 
-<img src="/imgs/2013/12/oracle.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle.png"/>
 
 <p style="text-align: left;">Than posting some more information revealing the truth behind the scenes (the screenshots below), later on a username called Ditzbitch, posted a great summary of the situation, and here it is, we have edited the text to make it a bit more clear for those who did not follow everything so its not marked as a quote,  screenshot of the original post is below:</p>
 <blockquote>
@@ -35,29 +35,29 @@ title: "WTF? The Silk Road 2.0 / DPR2 Farce Explained"
 <li>As a by-the-by, subjecting that screengrab to an online photo forensic ELA test doesn&#8217;t reveal any photoshopping, but I think the image is too low quality to tell from what I understand..</li>
 </ol>
 
-<img src="/imgs/2013/12/ditzbitch.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/ditzbitch.png"/>
     This has left us speechless.  this information was later confirmed by Oracle stating: &#8220;And bingo was his name-o.&#8221; and anyway you look at this, things not looking to bright for DPR2 / Stexo / DPR3 / Defcon or whatever alias that is planned for him:</p>
 
-<img src="/imgs/2013/12/oooo.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oooo.png"/>
 <p style="text-align: left;">1) Ross Ulbricht is talking/pleading out<br/>
     2) Libertas/Inigo/SSBD have all been busted unfortunately, and they know who was behind SR2. (and will probably talk as well)<br/>
     3) Defcon / DPR3 Putting this entire community in danger.</p>
 <p style="text-align: left;">Some confirmation was also added by Ozfreenacer, the owner of allthingsvice.com when she posted this:</p>
 
-<img src="/imgs/2013/12/oz.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oz.png"/>
 <p style="text-align: left;">At this point, we think that the situation is clear and that every person should make their own decision whether this is a healthy situation or not, <strong>we will NOT be following up on this too much</strong>, unless there will be some major event popping up. the safety concerns are out there (both for your BTC and personal security). Everyone keep safe.</p>
 <p style="text-align: left;">See Oracle&#8217;s previous posts that were in the deleted thread, if you really want to.</p>
 
-<img src="/imgs/2013/12/oracle3.png"/>
-<img src="/imgs/2013/12/oracle4.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle3.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle4.png" />
 
-<img src="/imgs/2013/12/oracle5.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle5.png" />
 
-<img src="/imgs/2013/12/oracle6.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle6.png" />
 
-<img src="/imgs/2013/12/oracle7.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle7.png" />
 
-<img src="/imgs/2013/12/oracle8.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/oracle8.png" />
 
 
 

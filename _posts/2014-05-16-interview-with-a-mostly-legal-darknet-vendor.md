@@ -7,10 +7,10 @@ Posted by: DeepDotWeb
 <span>May 16, 2014</span>
 
 <p>As the end of our &#8220;interviews season&#8221; is approaching &#8211; meaning, i am going to stop doing them soon, its too much time consuming and i think we have heard almost everything by now, We can sum up that So far we had the chance to talk with the illegal side of the DNM scene &#8211;  <a href="?s=interview">Vendors, Market admins, Money launderers and others&#8230;</a> But there is also Other type of vendors that is selling normal and <strong>mostly </strong>(yes, except the carding part&#8230;) legal stuff on the deep web and i was always wondering why they would do that and no go and sell those items on the clearnet where there is much more traffic? So we had a chat with one of the top &#8220;digital products&#8221; sellers on Agora &#8211; a vendor named &#8220;Fake&#8221; a former top seller on <a href="marketplace-directory/listing/black-market-reloaded-bmr">BMR</a> with a history on <a href="marketplace-directory/listing/agora-market">Agora</a> of 300~500 sales and feedback score of  <span class="gen-user-ratings">4.75/5</span></p>
-<img src="/imgs/2014/05/fake.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/fake.png" />
 
 
-<img src="/imgs/2014/05/p-id.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/p-id.png"/>
 <p>We wanted to see what she has to say:</p>
 <p><strong>Who are you and what do you do? (as in DNM&#8217;s)</strong><br />
     Hi, i am the top seller &#8220;fake&#8221; (yes this is my ID:) , i was the largest seller on BMR, and i am the largest on Evo , i am on Agora too. I have a very large number of listings, many are carding and hacking tutorials, but i also deal anonymous visas, fresh verified paypal accounts, electronics, and much more. I am one of the rare women selling on deep web (I think).</p>

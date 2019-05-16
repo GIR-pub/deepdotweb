@@ -12,7 +12,7 @@ title: "Silk Road Vendor &#8220;Hammertime&#8221; Busted"
 <blockquote><p>The group is identified as the seller &#8220;<a href="https://dl.dropboxusercontent.com/u/243666993/silkroad-hammertime.htm" target="_blank">hammertime</a>&#8221; in the federal indictment; the indictment (3:13-cr-00596b-J0) is not yet available through PACER (likely tomorrow), but the <a href="https://dl.dropboxusercontent.com/u/243666993/2013-12-17-kgw-silkroad-hammertime.mp4" target="_blank">news video segment</a> featured a <a href="http://i.imgur.com/ZlcbTZt.png" target="_blank">screenshot of the first page</a> identifying hammertime.</p></blockquote>
 <p>Image of Hammertime Vendor page from StExo Silk road pages backup: 
 
-<img src="/imgs/2013/12/hammertime.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/hammertime.jpg"/>
 <ul>
 <li>complaint/indictment: <a href="https://dl.dropboxusercontent.com/u/243666993/2013-12-10-hammertime-indictment.pdf">https://dl.dropboxusercontent.com/u/243666993/2013-12-10-hammertime-indictment.pdf</a></li>
 <li>the PACER docket &amp; general info: <a href="https://dl.dropboxusercontent.com/u/243666993/2013-12-19-pacer-hammertime.maff">https://dl.dropboxusercontent.com/u/243666993/2013-12-19-pacer-hammertime.maff</a></li>

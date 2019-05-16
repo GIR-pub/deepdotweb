@@ -36,23 +36,23 @@ Posted by: DeepDotWeb
 <p>Energy Control:<br />
 
 
-<img src="/imgs/2014/04/energy_control.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/energy_control.jpg"/>
     Drug Testing Results Page:<br />
 
 
-<img src="/imgs/2014/04/Sin-título.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/Sin-título.jpg"/>
     Drugs testing Process:<br />
 
 
-<img src="/imgs/2014/04/resultados_analisis.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/resultados_analisis.jpg"/>
     Drugs testing Process:<br />
 
 
-<img src="/imgs/2014/04/presentacion_analisis.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/presentacion_analisis.jpg"/>
     Drugs testing Process:<br />
 
 
-<img src="/imgs/2014/04/matraces.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/04/matraces.png"/>
 
 Updated: 2014-04-06
     

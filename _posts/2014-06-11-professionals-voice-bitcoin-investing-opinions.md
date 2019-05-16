@@ -43,7 +43,7 @@ Posted by: DeepDotWeb
 <li>Next, However, Mr. Andreessen brings in technical talk to combat the point made by Buffet concerning Bitcoin&#8217;s seemingly Arbitrary value: “A value of a BTC is not arbitrary, in fact it’s the opposite of arbitrary,” he says. “It equals the value of a single slot in a finite sized public cryptographic ledger through which value can move. The total Bitcoin ledger has value corresponding to the volume and velocity of transactions that will run through it in the future; by extension, each slot in the ledger has fractional value determined by the total number of slots (which, in Bitcoin’s case, are limited to 11 million today and 21 million ever).”</li>
 <li>In any case, Marc disagrees heartily with the majority of critiques on Bitcoin. On the subject of safety, he sides with the aforementioned masses in the belief that safety is in the hands of the buyer, not the servers. On the question of true Bitcoin value, he believes that the value is in the technical support and in the innovative ideology that Bitcoin provides. (He also doesn&#8217;t seem to be a big fan of mr. Warren&#8230;)</li>
 </ul>
-<img src="/imgs/2014/06/graph.jpg" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/06/graph.jpg" />
 
 <p>The opinions on Bitcoin vary greatly. Some, like FINRA and Warren buffet, oppose it for various reasons (lack of safety/value. Others, like professionals workers and Marc Andreessen, hail Bitcoin as an opportunistic technological innovation (due to intrinsic value and usability). Although the opinions vary from person to person, the general consensus is the same: Bitcoin is a BIG DEAL!</p>
 

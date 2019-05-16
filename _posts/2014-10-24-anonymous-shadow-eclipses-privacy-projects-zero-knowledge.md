@@ -154,7 +154,7 @@ Posted by: DeepDotWeb
 <li>ShadowCore: The first HTML cryptobrowser</li>
 </ol>
 <p>A detailed roadmap is available <a href="http://i.imgur.com/7SiEQCZ.png" target="_blank">here</a>:</p>
-<img src="/imgs/2014/10/roadmap.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/10/roadmap.png" />
 
 <p>Shadow has already announced plans to support ShadowCore with a Shadow Development Kit, which will give developers some useful tools to create future applications – even games &#8212; that make use of Shadow’s anonymizing technology and potentially could lead to more innovations from the greater development community. This opens up a new channel for entrepreneurs looking to earn SDC through in-app purchases.</p>
 <p>We spent some time in Shadow’s IRC channel and the team hinted that they are building an asset exchange that will utilize their zero knowledge privacy technology. This is important for a couple of reasons- we could see a green asset listed on the exchange to represent the marijuana industry. There are plenty of coins in the marijuana altcoin vertical, but none offer any form of privacy greater than Bitcoin. While some states in the USA have legalized marijuana, it is still illegal on the Federal level which makes privacy even more important. There have been numerous cases where the Federal government has raided lawfully run medical marijuana dispensaries seizing their assets, bank accounts, customer ledgers and income. <a href="http://www.hightimes.com/read/dea-raids-four-la-dispensaries" target="_blank" rel="nofollow"><strong>[18]</strong></a> ShadowCash offers the Cannabis industry an alternative private banking and currency solution that protects the businesses’ income from seizure and customer data leakage.</p>

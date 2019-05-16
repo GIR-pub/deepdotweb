@@ -29,7 +29,7 @@ Posted by: DeepDotWeb
 <p>Thank You</p>
 <p>DNS</p></blockquote>
 <p>And i must admit that their TOS was pretty funny:</p>
-<img src="/imgs/2014/05/terms.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/terms.png" />
 
 <p>We will be following and updating if needed. For now <a href="/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">its listed in our list &#8211; at the &#8220;new marketplaces&#8221; section</a></p>
 

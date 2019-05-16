@@ -47,7 +47,7 @@ Posted by: DeepDotWeb
 <p><a href="marketplace-directory/listing/pandora-market">Pandora</a> &amp; <a href="marketplace-directory/listing/silk-road-2-0">Silk Road</a> &#8211; Did not crash after being &#8220;hacked&#8221; but kept growing. &#8211; <a href="/2014/03/20/pandora-hacked-losing-50-btc/">Pandora Hack</a>  &#8211; <a href="/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">Silk Road 2 Hacked</a></p>
 <p><a href="marketplace-directory/listing/hydra-marketplace">Hydra</a> &#8211; Being popular as its the newest market out of the 7 largest markets. (there is also <a href="marketplace-directory/listing/andromeda-market">Andromeda</a> but it was <a href="/2014/05/01/marketplace-merge-darkbay-andromeda/">merged</a> with Darkbay &#8211; what probably counts in the listing count)</p>
 <p><a href="marketplace-directory/listing/the-marketplace-i2p">The Marketplace</a> &#8211; Still growing slow and has a policy of one listing per product per vendor &#8211; which means that it had higher count if he was operating in the same policy as the other markets.</p>
-<img src="/imgs/2014/05/count.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/count.png" />
 
 
 Updated: 2014-05-12

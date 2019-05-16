@@ -15,10 +15,10 @@ Posted by: DeepDotWeb
 <ul>
 <li>They will be using scraped fake pages with similar look to pages on this site, to gain credibility before their planned launch:
 
-<img src="/imgs/2014/08/screengrab.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/08/screengrab.png"/>
 <li>They will post fake reviews:
 
-<img src="/imgs/2014/08/fakerev.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/08/fakerev.png"/>
 <li>I am posting this here as a warning so you could know in advance and avoid this attempt.</li>
 <li>Hopefully this will also help him reconsider his actions in case he is planning on fixing his broken reputation at some point.</li>
 </ul>

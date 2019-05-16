@@ -12,17 +12,17 @@ Posted by: DeepDotWeb
 <p>So this is how it began&#8230;</p>
 <p>1. <a href="http://www.reddit.com/user/gwern">Gwern </a> and TMPSchultz (Themarketplace.i2p admin) take issue with Drugslist&#8217;s implementation of multi-sig (which we have reported before on this site) which really isn&#8217;t multi-sig (was referred as multisig lite by drugslist. This was posted in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1vtn44/tmps_multisig_vs_drugslists_multisig/">this thread</a></p>
 <p>2. The user <a href="http://www.reddit.com/user/Magnus0">magnus0 </a>finds a simple sql injection in the registration form that allows him to signup without an invite code. That might sound benine, but the implication of an SQL Injection is that you have complete control of the database, he just chose to use it to register to prove his point. This is all done in private messages, since he just wanted to get the issue fixed. Drugslist pay him $14 and minimize the impact of the bug (it is very common in these circles to be paid for bugs, it isn&#8217;t out of the ordinary to ask for a bounty and most vendors would pay a bounty, since it is good practice). This private conversation leads mangus0 to post <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1w3z17/thanks_for_the_beer_drugslist/">this thread</a>, This is the Pm exchange between them:</p>
-<img src="/imgs/2014/01/durgslist.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/durgslist.png" />
 
 <p>3. At this point, some of the Darknet markets mods  and drugslist admin are beating up magnus0 in his thread &#8211; as are a lot of other users who join in, not realizing the issue is serious. Magnus0 throws in the towel and leaves.</p>
 <p>4. 6-8 hours later another user &#8211; <a href="http://www.reddit.com/user/the_avid">the_avid</a> is coming on the Darknetmarkets sub and find the thread where drugslist announce their API, which he finds little interest in. At this point (as he told us) he knew little about drugslist &#8211; and had done not much more than sign up and click a few links perhaps 2 weeks earlier.</p>
 <p>5. The same user &#8211; <a href="http://www.reddit.com/user/the_avid">the_avid</a>, reading the post from Drugslist about their <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1w2rq9/drugslist_launching_optional_new_full_api/" target="_blank">full multisig api </a> noticing on 2nd paragraph &#8216;client-side PGP&#8217; and can&#8217;t believe what hes reading, he than continue to check their site and see they are doing PGP in web forms &#8211; a big no-no, so he posts <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1w2rq9/drugslist_launching_optional_new_full_api/ceyi9zp" target="_blank">this comment</a>:
 
-<img src="/imgs/2014/01/avid.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/avid.png"/>
 <p>6. Then, he started getting into a ridiculous back and forward with drugslist. In 99% of cases you&#8217;d report something like this, you would expect the admin to fix it and would move on, but drugslist persisted.  then the_avid noticed the API implementation.<br/>
 <strong><span style="text-decoration: underline;">Note</span></strong>: A bit of background on that. The API implementation they are using is called jsonRPC and is used in bitcoin. But when used with bitcoin it only accesses a local server on the same computer, it isn&#8217;t meant to be used over the internet &#8211; not even over tor, since it isn&#8217;t a secure design. the_avid points out the poor API design as well, and again this is denied by drugslst.</p>
 <p>7.  Now It is pretty clear at this point that drugslist doesn&#8217;t even <em>understand</em> the issues  that&#8217;s being reported to him, so as it was explained to us by the_avid he is being puzzled as to why Drugslist admin defending them so vigorously. He eventually concedes that implementing PGP in the browser can be unsafe (although he concedes this point for the wrong reason), but by this point he became more curious as to who this drugslist guy is and why he was behaving in that way. than, by looking through his comment history and  only need to scroll down half a page to see this comment from him on an earlier <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1vtn44/tmps_multisig_vs_drugslists_multisig/cevpmbd" target="_blank">thread</a>:</p>
-<img src="/imgs/2014/01/avid2.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/avid2.png" />
 
 <blockquote><p>It&#8217;s also safe guard, and one of the many we have to reduce our members risk (others include: auto-withdrawal, <strong>client side PGP</strong>,shipping methods with concrete time frames and selected membership).</p></blockquote>
 <p>As its was explained to us: &#8220;In that thread he was pitching what is a security vulnerability as a security feature, which was just amazing.&#8221;</p>
@@ -37,16 +37,16 @@ Posted by: DeepDotWeb
 <p>15. At that point because of his LE post and that constant harassment and negative comments and denials from both Gabralkhan (who the_avid consider to be a part of Drugslist) and Drugslist the_avid decide that he is no longer going to work with them privately to fix bugs, but that he is going to do a complete writeup and let everyone know about all the bugs All posted in this <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1w6ju4/warning_drugslist_is_extremely_insecure/" target="_blank">thread</a> (too long to quote, just see there).</p>
 <p>16.  He than went on and left a ton of details and bugs out of that description because he was trying to keep it brief (!). He believed that Gabralkhan&#8217;s first comment in that thread was insulting him because he wanted to chat to drugslist over jabber:
 
-<img src="/imgs/2014/01/insult.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/insult.png"/>
 <p>17. at that point drugslist steps in, and he attempted the same but despite floating all sorts of conspiracy theories (that the_avid work for TMP, that magnus and the_avid are the same person, etc.) and a lot of weird stuff none of what he was saying was taking hold much with readers apparently.</p>
 <p>18. For the grand finale &#8211; Drugslist created a username &#8216;drugslist_developer&#8217; and attempting a mea culpa, but at this point, everyone saw through that &#8211; in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1w7syv/from_the_main_drugslist_developer_im_sorry_and_it/" target="_blank">this thread</a>:</p>
-<img src="/imgs/2014/01/developer.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/developer.png" />
 
 <p>19. Than as if it wasnt enough already, the final blow landed &#8211; as magnus0 posted a thread (that was later deleted, but we had it screenshot), in the &#8220;<a href="/2013/12/14/tormarket-hacked-database-leaked-by-dread-pirate-roberts/" target="_blank">we hacked tormarket DPR Style</a>&#8221;  and dumping all the usernames data from Drugslist Database, proving the world that it is in fact, very vulnerable to hacking:</p>
 
-<img src="/imgs/2014/01/dumpdata.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/dumpdata.png"/>
 
-<img src="/imgs/2014/01/dump2.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/dump2.png"/>
 <p>20. Later, when we thought this could not get any worse in any way &#8211; it has brought to our attention that the hacker himself (Magnus0) was doxxed (probably by someone from drugslist staff?), and we received a copy of the full details, obviously we blacked them out:</p>
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>{We have remove the Blacked Out Doxx &#8211; since it was too much revealing anyway, and by now the point was made}</strong></span></p>
 <p>The reason that we post this is it could stop a bunch of innocent users&#8217; information from being released or held hostage for money from the owners of DrugsList. it makes it less likely it is that Magnus0 will release the information he has on DrugsList users.</p>

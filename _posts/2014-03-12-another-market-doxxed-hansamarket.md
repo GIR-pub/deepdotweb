@@ -36,10 +36,10 @@ Posted by: DeepDotWeb
     
 <p>
     Try to access the market using this ip address with your normal chrome browser and behold, the so familiar bitwasp login page:</p>
-<img src="/imgs/2014/03/hansalogin.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/hansalogin.png" />
 
 <p>Just in case you are not yet shocked enough, you can register, login and browse the site in complete clearnet browsing:</p>
-<img src="/imgs/2014/03/hansamarket.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/03/hansamarket.png" />
 
 <p>As you can see in the homepage the Innovative Security is indeed still in &#8220;[BETA]&#8221;. We don&#8217;t know for sure what was the specific weak point that leaked the server details, but it seems bad enough not to matter much as it was also reported that he was running a bitcoin node at the same server (as you can see above with the ip address on blockchain):</p>
 <blockquote class="twitter-tweet" width="550">

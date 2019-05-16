@@ -7,7 +7,7 @@ Posted by: Greg Miller
 <span>September 28, 2014</span>
 
 <p>Europe has been a hub of deep web activity, only second to the United States, but has seen a higher rate of arrests among dealers and buyers of darknet markets. It seems the pressure from European law enforcement is only going to rise. Recently, a document published by Netherland’s leading newspaper, <a href="http://www.volkskrant.nl/">Volkskrant</a>, reveals a plan by the many European countries, and the US to crack down on the online drug trade in Europe. The Dutch Public Prosecution Service are working a plan called “Illegal Trade on Online Marketplaces” (ITOM). The DPPS plans to work in conjunction with many police agencies across Europe, and the US. The plan has funding from the EU, and will work with European police agencies, Europol and Eurojust.The document isn’t an official release, but an unofficial statement briefly covering their 3 point plan, given to one of Volkskrant’s journalist. There is much more to this plan that is not been revealed, and it wouldn’t be surprising if the US are working on a similar operation.</p>
-<img src="/imgs/2014/09/itommodel.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/09/itommodel.png" />
 
 <p><strong>The Document Focuses on Three Things &#8211; Tracking, Shipping, and Bitcoin.</strong></p>
 <ol>

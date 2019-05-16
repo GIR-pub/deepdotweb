@@ -10,7 +10,7 @@ Posted by: DeepDotWeb
 <p><strong>Update</strong>: <span style="color: #ff0000;">This site was taken down.</span></p>
 <p>So recently we came across a new service that was published on the Hub forums, the concept based on seemed interesting so we contacted the admin to ask him some questions in order to make a nice introduction post about this new Darknet community / social network. it is called Darknet Nation, and can be accessed at this url: <strong>http://26a2ueoc3xxrrgs4.onion/</strong></p>
 <p>At this point im not sure if its 100% developed and operational, but it might be interesting thing to follow up on, the site is based on the Joomla Comsocial plugin, something we rarely see on the Deepweb.</p>
-<img src="/imgs/2014/02/dnmnation.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/02/dnmnation.png" />
 
 <p><strong>So what is Darknet Nation Exactly and how does it work?</strong></p>
 <p>Darknet Nation is an ambitious, semi-exclusive, member supported, community project.</p>

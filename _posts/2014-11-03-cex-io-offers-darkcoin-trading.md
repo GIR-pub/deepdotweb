@@ -11,7 +11,7 @@ Posted by: DeepDotWeb
 <p>CEX.IO is a London-based Bitcoin Crypto Exchange and the first cloud mining service. As an exchange, CEX.IO has a wide variety of trading pairs, including fiat money (USD and EUR), cryptocurrencies and a commodity (GHS or Bitcoin cloud mining power). CEX.IO works in conjunction with the largest Bitcoin mining pool — GHash.IO, and is trusted by over 300,000 users from all over the world.<br />
 
 
-<img src="/imgs/2014/11/cex.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/cex.jpg"/>
 
 
 Updated: 2014-11-03

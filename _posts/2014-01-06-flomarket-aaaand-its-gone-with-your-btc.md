@@ -7,10 +7,10 @@ Posted by: DeepDotWeb
 <span>January 6, 2014</span>
 
 
-<img src="/imgs/2013/12/gone.jpg"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2013/12/gone.jpg"/>
 <p>Well, cant say we didnt warn you, just a few days ago we reported that Flomarket has <a href="/2014/01/02/warning-reports-of-flomarket-possible-scam-hack/">disabled all withdrawals</a> , and the comment from the admin that they are &#8220;hoping&#8221; to fix this issue,</p>
 <p>The market probably got hacked like the few previous markets &#8211; or the situation now is that &#8220;i got hacked&#8221; is the best excuse for scamming. this way or another, if you will try to access the site you will get this message:</p>
-<img src="/imgs/2014/01/floscam11.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/01/floscam11.png" />
 
 <p>&#8220;Website has been shutted down</p>
 <p>We got hacked! A vendor managed to withdraw all BTC&#8217;s from this site. If you want to contact me, do so via TorChat (ID: flolellhwzjcle6d).<br/>

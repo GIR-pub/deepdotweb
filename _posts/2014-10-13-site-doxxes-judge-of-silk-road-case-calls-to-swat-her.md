@@ -17,7 +17,7 @@ Posted by: DeepDotWeb
 <p><span style="text-decoration: underline;"><strong>Screenshot of the page (details removed obviously):</strong></span></p>
 <p><span style="text-decoration: underline;"><strong>
 
-<img src="/imgs/2014/10/judge1.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/10/judge1.png"/>
 <blockquote>
 <p id="firstHeading" class="firstHeading" lang="en"><strong><span dir="auto">Dox &#8211; Katherine Bolan Forrest (Silk Road Judge)</span></strong></p>
 </blockquote>

@@ -10,7 +10,7 @@ Posted by: DeepDotWeb
 <p>After the recent <a href="tag/silkroad2bust/">Operation Onymous</a> and the take down of many markets, we were wondering how the remaining markets are doing, and what are their plans for the future, luckily we had a chance to conduct an interview with the admin of one of the newer markets &#8211; Middle Earth marketplace and get some comments:</p>
 <p><strong>Market listing and url:  <a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="Middle Earth Marketplace" href="marketplace-directory/listing/middle-earth-marketplace">Middle Earth Marketplace</a></strong></p>
 
-<img src="/imgs/2014/11/interview.png"/>
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/11/interview.png"/>
 <p><strong>Proof Of ID2</strong>: <a href="http://pastebin.com/WmZ360eq" target="_blank">Signed message</a></p>
 <p><strong>So how does it feel to be one of the survivors of operation onymous?</strong><br/>
     TH- Firstly, thank you DeepDotWeb for this interview. I appreciate you taking the time to do this.<br/>

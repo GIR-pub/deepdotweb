@@ -8,13 +8,13 @@ Posted by: DeepDotWeb
 <span>May 8, 2014</span>
 
 <p>We have no idea what caused the massive surge in the amount of vendors / market admins asking to be interviewed in the past couple of weeks (probably over 20+), but we are more than happy to conduct them as much as our time lets us! This time we had an interesting chat with a vendor we know for quite a while from previous communications we had, this particular vendor is providing services related to money laundering, or if to be more accurate &#8211; cashing out services for vendors, buyers and market admins,  although <strong>her</strong> operation is pretty small  (15~25 transactions on Agora with rating of  5.00/5 + Unknown amount on Evolution)  she provided an interesting glimpse to the process of cashing out &#8220;dirty&#8221; Bitcoins by Vendors or buyers, from obvious reason we did not try to get into to much details of the process.</p>
-<img src="/imgs/2014/05/keno.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/keno.png" />
 
 <p><strong>DeepDotWeb: I seen you around many times, And I am still not sure what you do exactly &#8211; i know its something in the money laundering area.</strong></p>
 <p>Keno13: lol yeah for the most part. Well Im getting a bit of a fan base at the moment&#8230; Ever since users found out i was a female, they have been developing crushes on me&#8230; Ive been called the &#8220;Agora angel&#8221;</p>
-<img src="/imgs/2014/05/agoraangel.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/agoraangel.png" />
 
-<img src="/imgs/2014/05/keno-crush.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/keno-crush.png" />
 
 <p><strong>DeepDotWeb: Of course we can never tell if you really are a female or just saying that as part of your OPSEC / Marketing &#8211; but i am sure it works well, it always does.</strong></p>
 <p>Keno13: Haha. well Ive been thinking of a way to anonymously post cleavage but its still in the works lol</p>
@@ -22,7 +22,7 @@ Posted by: DeepDotWeb
 <p>Keno13: Haha.. Ive been asked to send my underwear&#8230; so I request like that is a little less shady&#8230;</p>
 <p><strong>DeepDotWeb: So what do you do exactly? what can you tell us about your services?</strong></p>
 <p>Keno13: Sure, so pretty much I open up bank accounts with stolen identities, these people don&#8217;t know about it and thus vendors (or high frequent buyers) can use them to cash in and out Bitcoin as they wish. I also offer burn phones, and in the process of opening my own stolen Credit Cards/PayPal cash out operation.</p>
-<img src="/imgs/2014/05/products.png" />
+<img src="https://info-gir.github.io/deepdotweb/imgs/2014/05/products.png" />
 
 <p><strong>DeepDotWeb: How much do you charge for those services?</strong></p>
 <p>Keno13: The DIY kits for bank accounts are $999. However I do offer to complete the service for them for $1500. It seems a little pricey to most, but people are willing to pay for the anonymity of cashing out their funds :)</p>
