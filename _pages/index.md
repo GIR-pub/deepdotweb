@@ -5,6 +5,7 @@ description: "The world needs user-friendly access to the educational materials 
 header:
   image: "/free_ross.jpg"
   caption: "[freeross.org](https://freeross.org/)"
+classes: wide
 toc: true
 permalink: /
 share: true
@@ -15,7 +16,6 @@ sidebar:
     nav: "jolly"
   - title: "Blog Archive"
     nav: "blognav"
-
 ---
 
 
