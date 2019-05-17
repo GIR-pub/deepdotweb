@@ -8,12 +8,30 @@ main:
     url: "/jolly-rogers-security-guide-for-beginners/"
   - title: "Security Tutorials"
     url: /security-tutorials/
-  - title: "Dark Net Markets Comparison Chart - 2014"
-    url: /dark-net-market-comparison-chart11111/
-  - title: "Dark Net Markets Comparison Chart - 2015"
-    url: /dark-net-market-comparison-chart/
   - title: "How to Access Onion Sites"
     url: /how-to-access-onion-sites/
+  - title: "Buy Bitcoins With Paypal &#038; Credit Cards!"
+    url: "/buying-bitcoins-with-paypal-credit-cards/"
+  - title: "Rules for Market Vendor Shops Listing"
+    url: "/rules-for-market-vendor-shops-listing/"
+  - title: "Rules for Posting Market Reviews"
+    url: "/rules-for-posting-market-reviews/"
+  - title: "Dark Net Markets Comparison Chart - 2014"
+    url: "/dark-net-market-comparison-chart11111/"
+  - title: "Dark Net Markets Comparison Chart - 2015"
+  - title: "DeepDotWeb PGP Key"
+    url: /deepdotweb-pgp-key/
+  - title: "VPN Comparison Guide"
+    url: "/vpn-comparison-guide/"
+    url: "/dark-net-market-comparison-chart/"
+  - title: "Want to know what&#8217;s going on? Here&#8217;s what we know. Facts and Theories."
+    url: "/want-to-know-whats-going-on-here/"
+  - title: "DeepDotWeb PGP Key"
+    url: "deepdotweb-pgp-key/"
+  - title: "Contact DeepDotWeb"
+    url: "/contact-us/"
+  - title: "Seized"
+    url: "/seized/"
 
 secnav:
   - title: "Security Tutorials"
