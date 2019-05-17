@@ -21,4 +21,4 @@ Jabber: deepdotweb@jabbim.com
 
 This is an unofficial archive.
 
-If you wish to contact the archivist: infodotweb@protonmail.com
+If you wish to contact the archivist: gir.mongoose@protonmail.com
