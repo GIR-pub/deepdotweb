@@ -22,7 +22,7 @@ name                     : "GIR"
 description              : "Deep Dot Web -UNOFFICIAL-Blog Archive - and Privacy Guide"
 url                      : https://gir.pub
 baseurl                  : /deepdotweb
-repository               : "g-i-r/g-i-r.github.io"
+repository               : "GIR-pub/GIR-pub.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : Deep Dot Web -UNOFFICIAL- Archive
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/G-I-R"
+      url: "https://github.com/GIR-pub/deepdotweb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/G-I-R/deepdotweb"
+      url: "https://github.com/GIR-pub/deepdotweb"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
