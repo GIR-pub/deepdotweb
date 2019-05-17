@@ -299,12 +299,8 @@ defaults:
       sidebar:
         - title: "Blog Archive"
           nav: "blognav"
-        - title: "DeepDotWeb"
-          nav: pages
-        - title: "Security Tutorials"
-          nav: "security"
-        - title: "Jolly Rogers Security Guide"
-          nav: "jolly"
+        - title: "DeepDotArchive"
+          nav: pagenav
   # _pages
   - scope:
       path: ""
@@ -319,10 +315,4 @@ defaults:
       related: true
       sidebar:
         - title: "DeepDotWeb"
-          nav: pages
-        - title: "Security Tutorials"
-          nav: "security"
-        - title: "Jolly Rogers Security Guide"
-          nav: "jolly"
-        - title: "Blog Archive"
-          nav: "blognav"
+          nav: pagenav
