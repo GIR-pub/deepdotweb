@@ -2,12 +2,7 @@
 layout: single
 title: "Word of Warning &#8212; All versions of PGP are NOT created equally!"
 sidebar:
-  - title: "Security Tutorials"
-    nav: "security"
-  - title: "Jolly Rogers Security Guide"
-    nav: "jolly"
-  - title: "Blog Archive"
-    nav: "blognav"
+  nav: "secnav"
 permalink: "security-tutorials/warning-versions-pgp-not-created-equally/"
 redirect_from: 
   - "security-tutorials/word-warning-versions-pgp-created-equally"

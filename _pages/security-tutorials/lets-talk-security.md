@@ -2,12 +2,7 @@
 layout: single
 title: "Let&#8217;s talk about security"
 sidebar:
-  - title: "Security Tutorials"
-    nav: "security"
-  - title: "Jolly Rogers Security Guide"
-    nav: "jolly"
-  - title: "Blog Archive"
-    nav: "blognav"
+  nav: "secnav"
 permalink: "security-tutorials/lets-talk-security/"
 ---
 

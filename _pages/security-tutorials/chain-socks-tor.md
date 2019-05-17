@@ -2,12 +2,7 @@
 layout: single
 title: "How to chain socks with Tor"
 sidebar:
-  - title: "Security Tutorials"
-    nav: "security"
-  - title: "Jolly Rogers Security Guide"
-    nav: "jolly"
-  - title: "Blog Archive"
-    nav: "blognav"
+  nav: "secnav"
 permalink: "security-tutorials/chain-socks-tor/"
 ---
 

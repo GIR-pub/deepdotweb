@@ -3,12 +3,7 @@ layout: single
 title: "Jolly Roger&#039;s Security Guide for Beginners - Deep Dot Web"
 permalink: "/jolly-rogers-security-guide-for-beginners/"
 sidebar:
-  - title: "Jolly Rogers Security Guide"
-    nav: "jolly"
-  - title: "Security Tutorials"
-    nav: "security"
-  - title: "Blog Archive"
-    nav: "blognav"
+  nav: "jolly"
 ---
 
 <h1 class="name post-title entry-title" itemprop="name">Jolly Roger&#8217;s Security Guide for Beginners</h1>
