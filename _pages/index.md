@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Deep Dot Web -UNOFFICIAL- Blog Archive and Privacy Guides"
-description: "The world needs user-friendly access to the educational materials that were previously available on deepdotweb.com."
+description: "The world needs user-friendly access to the educational materials previously made available at deepdotweb.com."
 header:
   image: "/free_ross.jpg"
   caption: "[freeross.org](https://freeross.org/)"
@@ -11,6 +11,7 @@ permalink: /
 share: true
 sidebar:
   nav: "pagenav"
+
 ---
 
 
