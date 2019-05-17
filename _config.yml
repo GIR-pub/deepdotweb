@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "info-GIR"
+  name             : "GIR"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Gir-Issued Information Retrieval"
+  bio              : "GIR Information Retrieval"
   location         : "GIR"
   email            :
   links:
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/info-GIR"
+      url: "https://github.com/G-I-R"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/info-GIR/deepdotweb"
+      url: "https://github.com/G-I-R/deepdotweb"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
