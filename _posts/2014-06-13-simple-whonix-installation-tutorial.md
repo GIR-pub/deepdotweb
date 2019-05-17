@@ -7,7 +7,7 @@ Posted by: Chris </span>
 
 <p>Whonix is an operating system focused on anonymity, privacy and security. It&#8217;s based on the Tor anonymity network and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user&#8217;s real IP. This makes it a safer way to access the Deep Web opposed to just using Tor on your current operating system. It is especially discouraged to be using Tor with a Windows operating system because of the direct access that the NSA has to Microsoft’s systems and the information that Microsoft is willing to hand over to them.</p>
 <p>(Read more about the <a href="http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data" target="_blank">NSA and Microsoft</a>)</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/whonix.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/06/whonix.png" />
 
 <p>(Diagram above showing how Whonix Works.)</p>
 <p>Before using Whonix, it is helpful to understand how exactly it works. Whonix is made up of two parts. There is one that solely runs Tor and acts as a gateway, aptly called Whonix-Gateway. The second part which the user actually uses is called the Whonix-Workstation. It is on a completely isolated network that only allows connections through Tor. Both of these parts are run in their own virtual machines on your computer and this keeps what you docontained within Whonix.</p>

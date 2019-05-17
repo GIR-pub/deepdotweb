@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 
 <p>The Senate was busy <span class="aBn" tabindex="0" data-term="goog_1895992815"><span class="aQJ">on Friday</span></span> in a session that ran late into the night ultimately failing to come up with a solution to the <span class="aBn" tabindex="0" data-term="goog_1895992816"><span class="aQJ">June 1st</span></span> expatriation date of section 215 of the Patriot Act. The session ran into the early morning where all attempts to extend fell short.</p>
-<p>The USA Freedom act, <a href="https://g-i-r.github.io/deepdotweb/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/" target="_blank">which we covered here</a>, narrowly failed to earn the 60 necessary votes it needed to gather to pass in the Senate. The Act failed with a 57 – 42 vote.</p>
+<p>The USA Freedom act, <a href="https://gir.pub/deepdotweb/2015/05/22/patriot-act-extension-dies-senate-ready-to-vote-on-usa-freedom-act/" target="_blank">which we covered here</a>, narrowly failed to earn the 60 necessary votes it needed to gather to pass in the Senate. The Act failed with a 57 – 42 vote.</p>
 <p><strong>Rand Paul and his Filibuster</strong></p>
 <p>Kentucky Senator Rand Paul, a steady critic of the NSA, performed a filibuster of sorts. Paul purposely used up critical time on the floor to delay much needed debate. After the session Paul took twitter to congratulate himself and remind his followers his fight isn&#8217;t over.</p>
 <blockquote class="twitter-tweet" lang="en">

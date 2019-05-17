@@ -37,7 +37,7 @@ Posted by: DeepDotWeb
 <p>Again, we welcome your feedback on this approach to moving forward, and will continue to refine it throughout the year based on sales data.</p>
 <p>I don&#8217;t care how long it takes or how expensive it is, we will fight to get this community repaid.</p>
 <p><strong>===End Quote===</strong></p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/defcon4.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/defcon4.png" />
 
 <p>We are not here to judge, just provide the information and let everyone make their own mind about this situation, keep safe.</p>
 </div>

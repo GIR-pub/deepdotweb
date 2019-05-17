@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
 <p>Cloakcoin is a new coin ecosystem designed to replace deep web marketplaces and CoinJoin applications. Cloakcoin is superior to previous attempts at anonymity because it offers comprehensive, trustless decentralized anonymity to cryptocurrency users. The three-pronged Cloakcoin ecosystem includes anonymous transactions using Proof of Stake Anonymity (CloakSend 2.0), a secure wallet with a built-in currency exchange, and a decentralized marketplace.</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/CloakSend.jpg" alt="CloakSend" width="690" height="475" srcset="/imgs/2014/07/CloakSend.jpg 690w, /imgs/2014/07/CloakSend-300x207.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/07/CloakSend.jpg" alt="CloakSend" width="690" height="475" srcset="/imgs/2014/07/CloakSend.jpg 690w, /imgs/2014/07/CloakSend-300x207.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" />
 
 <p><strong>Anonymous Transactions</strong></p>
 <p>To avoid CoinJoin’s security holes, Cloakcoin created CloakSend, a transaction system that uses <a href="https://mega.co.nz/#!1c9UnKBI!BdEaoBuYDAr5F4nwltpYjYNOrZt7Jretk07eGc-oPDc">Proof of Stake Anonymity (PoSA)</a> to enable trustless anonymous transactions. CloakSend uses a two-phase anonymization process. As the whitepaper explains it:</p>
@@ -34,18 +34,18 @@ Posted by: DeepDotWeb
 <p>To increase user convenience, Cloakcoin also offers a secure wallet with a built-in currency exchange. Using the CloakTrade tab in the official Cloakcoin wallet, users can easily buy and sell Cloakcoins through the Bittrex exchange via an API code. This greatly simplifies the trading process for both new and experienced users.</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/cloaktrade.png" alt="cloaktrade" width="558" height="384" srcset="/imgs/2014/07/cloaktrade.png 863w, /imgs/2014/07/cloaktrade-300x206.png 300w" sizes="(max-width: 558px) 100vw, 558px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/07/cloaktrade.png" alt="cloaktrade" width="558" height="384" srcset="/imgs/2014/07/cloaktrade.png 863w, /imgs/2014/07/cloaktrade-300x206.png 300w" sizes="(max-width: 558px) 100vw, 558px" />
 
 <p>However, storing coins on centralized exchanges is risky, so the CloakTrade developers are actively working on updates that will greatly increase CloakTrade security. These updates will integrate a multi-currency wallet into CloakTrade (beginning with Cloakcoin and Bitcoin) and establish a decentralized trustless exchange where you can buy and sell Cloakcoins from within your wallet. This update will enhance the security of your investment because your Cloakcoins will never remain on a centralized exchange, where they would be vulnerable to attacks from nefarious individuals.</p>
 <p><strong>Decentralized Marketplace</strong></p>
 <p>CloakTrade and CloakSend already give Cloakcoin a leg up over competing cryptocurrencies; however, Cloakcoin is about to release a feature that will settle the anonymity debate forever once the beta opens in about two weeks. Cloakcoin’s anonymous ecosystem will soon culminate in <a href="http://www.cloakcoin.com/onemarket.pdf">OneMarket</a>, a self-regulated, trustless decentralized marketplace where users can buy and sell goods anonymously using Cloakcoins.</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/Onemarket.png" alt="Onemarket" width="275" height="320" srcset="/imgs/2014/07/Onemarket.png 275w, /imgs/2014/07/Onemarket-258x300.png 258w" sizes="(max-width: 275px) 100vw, 275px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/07/Onemarket.png" alt="Onemarket" width="275" height="320" srcset="/imgs/2014/07/Onemarket.png 275w, /imgs/2014/07/Onemarket-258x300.png 258w" sizes="(max-width: 275px) 100vw, 275px" />
 
 <p>OneMarket offers a decentralized alternative to popular online shopping websites like eBay and Amazon, as well as deep web marketplaces such as Silk Road and Agora. Like eBay and Amazon, you will be able to open your own storefront on OneMarket and sell your products to other OneMarket users. And as on deep web marketplaces, you will be able to buy and sell with complete anonymity.</p>
 <p>However, OneMarket offers the added benefit of decentralization. OneMarket will not be stored on a third-party company server; it will utilize the Cloakcoin blockchain to host all the information necessary to operate the marketplace. Storing OneMarket on the blockchain makes it virtually unhackable because there is no single server for an attacker (including a government agency) to target. If the government managed to seize a computer running a node, it would not matter since every other computer with an open Cloakcoin wallet node would still be transmitting the OneMarket data through the Cloakcoin network. Moreover, payments will process through a trustless escrow system, ensuring that no third-party payment processor ever has full control of your coins.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/OneMarket2.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/07/OneMarket2.png" />
 
 <p>You might be thinking OneMarket sounds a lot like <a href="http://openbazaar.org/">OpenBazaar</a>, the Bitcoin-based decentralized marketplace. Indeed, Cloakcoin’s OneMarket will operate quite similarly to OpenBazaar. OpenBazaar has the initial advantage of catering to the large Bitcoin community. However, OneMarket has the long-term advantage of existing in the Cloakcoin anonymous ecosystem. While OpenBazaar can offer a decentralized, anonymous marketplace, it cannot compensate for the lack of anonymity elsewhere in the Bitcoin ecosystem. People truly concerned about their privacy will gravitate to OneMarket.</p>
 <p><strong>Get Started With Cloakcoin</strong></p>

@@ -33,7 +33,7 @@ Posted by: Timothy Jones
 <p><script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script></p>
 <p>We&#8217;ll be posting more about this story as it unfolds.</p>
 <p><em>The Candidate is a weekly columnist at DeepDotWeb</em><br />
-<em>Reach him by email at <a href="https://g-i-r.github.io/deepdotweb/cdn-cgi/l/email-protection#91e5f9f4f2f0fff5f8f5f0e5f4d1fee1f4fffcf0f8fdf3fee9bffee3f6" target="_blank"><span class="__cf_email__" data-cfemail="8bffe3eee8eae5efe2efeaffeecbe4fbeee5e6eae2e7e9e4f3a5e4f9ec">[email&#160;protected]</span></a></em></p>
+<em>Reach him by email at <a href="https://gir.pub/deepdotweb/cdn-cgi/l/email-protection#91e5f9f4f2f0fff5f8f5f0e5f4d1fee1f4fffcf0f8fdf3fee9bffee3f6" target="_blank"><span class="__cf_email__" data-cfemail="8bffe3eee8eae5efe2efeaffeecbe4fbeee5e6eae2e7e9e4f3a5e4f9ec">[email&#160;protected]</span></a></em></p>
 
 Updated: 2015-05-22
 

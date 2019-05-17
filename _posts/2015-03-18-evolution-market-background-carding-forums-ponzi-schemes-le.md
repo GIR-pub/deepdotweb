@@ -73,7 +73,7 @@ Posted by: DeepDotWeb
 <p>What happens next takes this story from a crazy ironic incidents where amateur scammers got scammed to something that is borderline sheer lunacy. There was a semi-known user on the forums called &#8216;Gold&#8217;. He was the type of user who would reply to almost any thread, just to get noticed and build up his post count. In 3 months he went from a nobody to being known on the forum, he sold stolen card data in the markets.</p>
 <p>This is what he posted on the 31st of January, about <strong><em>a week</em></strong> after the last ponzi scheme collapsed:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/28t9l6c1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/28t9l6c1.png">
 
 <p>The <em>sheer audacity</em> of this guy &#8211; a week after the last ponzi scheme and another user who was obviously waiting his turn tries his hand at a similar scam.</p>
 <p>You&#8217;d think these users would be wary by now, but here are the first 3 replies &#8211; reproduced verbatim:</p>

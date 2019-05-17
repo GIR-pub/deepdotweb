@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
 <p>The do-gooder himself would have been mostly forgotten, if not for his menacing tagline, “Who knows what evil lurks in the heart of man? Only The Shadow knows” which refers not only to his ability to fight crime with fists and wits, but also to his psychic ability to know where and when evil deeds are going down – and get there first. So sort of like “Minority Report” meets “The Dark Knight” but without so many flying cars, touch screens, or other cool toys.</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/1.jpg" alt="1" width="500" height="200" srcset="/imgs/2014/10/1.jpg 500w, /imgs/2014/10/1-300x120.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/1.jpg" alt="1" width="500" height="200" srcset="/imgs/2014/10/1.jpg 500w, /imgs/2014/10/1-300x120.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 <p>The underlying cryptocurrency, ShadowCash (SDC), is proof-of-stake based and can be quickly and easily be traded among other Shadow users or spent with participating merchants as a private transaction. Users also earn an annual 2% income on their SDC holdings.</p>
 <p>So unlike the old radio hero, this particular Shadow doesn’t know and really doesn’t want to know anything at all about what is lurking in the hearts of men or women – and neither should anyone else, be it hackers, law enforcement, governments or other users.</p>
@@ -56,7 +56,7 @@ Posted by: DeepDotWeb
 <li>Time: Typical transactions take 3-4 hours to complete.</li>
 <li>Fees: The operators charge a 3% fee for using the service.</li>
 <li>Limits: Minimum withdrawal is .02 BTC and Maximum withdrawal is 1 BTC per mix.</li>
-<li>Logging: Logs are kept for 7 days unless manually deleted by the user. <a href="https://g-i-r.github.io/deepdotweb/2014/06/22/introducing-grams-helix-bitcoins-cleaner/" rel="nofollow"><strong>[6]</strong></a></li>
+<li>Logging: Logs are kept for 7 days unless manually deleted by the user. <a href="https://gir.pub/deepdotweb/2014/06/22/introducing-grams-helix-bitcoins-cleaner/" rel="nofollow"><strong>[6]</strong></a></li>
 </ol>
 <p>In crypto, anything to do with trust is usually a deal breaker. Bitcoin was founded upon the core principle of trustless exchange; moving backwards towards trust-based systems is a devolutionary step. Shadow offers superior privacy guarantees without trust in operators, centralized technology or the drawbacks associated with it.</p>
 <p><strong>BitBlender</strong></p>
@@ -71,7 +71,7 @@ Posted by: DeepDotWeb
 <p>Shadow liked the DarkWallet concept, but wanted to make it better. Instead of building their wallet into a browser framework, they built a browser framework into their wallet. This is the first time that this type of framework has been layered client-side in a cryptocurrency. It gives the team more flexibility to build custom solutions like a digital distribution platform, something the team is already working on.</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/2.png" alt="Shadowcoin" width="623" height="415" srcset="/imgs/2014/10/2.png 1500w, /imgs/2014/10/2-300x200.png 300w, /imgs/2014/10/2-1024x683.png 1024w" sizes="(max-width: 623px) 100vw, 623px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/2.png" alt="Shadowcoin" width="623" height="415" srcset="/imgs/2014/10/2.png 1500w, /imgs/2014/10/2-300x200.png 300w, /imgs/2014/10/2-1024x683.png 1024w" sizes="(max-width: 623px) 100vw, 623px" />
 
 <p>Their open source stealth address implementation has been adopted by several other projects including Boomcoin, Stealthcoin, Gnosis, XCash and many more.</p>
 <p><strong>Presenting Zero Knowledge</strong></p>
@@ -124,12 +124,12 @@ Posted by: DeepDotWeb
 <p>All these features create a scenario of blissful financial ignorance of everyone’s transactions. A detailed diagram is available here (full image <a href="http://i.imgur.com/2XTQhYF.jpg" target="_blank" rel="nofollow">here</a>):</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/shadowops.jpg" alt="shadowops" width="575" height="619" srcset="/imgs/2014/10/shadowops.jpg 1500w, /imgs/2014/10/shadowops-279x300.jpg 279w, /imgs/2014/10/shadowops-951x1024.jpg 951w" sizes="(max-width: 575px) 100vw, 575px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/shadowops.jpg" alt="shadowops" width="575" height="619" srcset="/imgs/2014/10/shadowops.jpg 1500w, /imgs/2014/10/shadowops-279x300.jpg 279w, /imgs/2014/10/shadowops-951x1024.jpg 951w" sizes="(max-width: 575px) 100vw, 575px" />
 
 <p>We’ve included a good deal of background material to let people know what privacy attempts have sounded good initially, but haven’t worked as promised, and what Shadow can do better.</p>
 <p>Still we haven’t looked at the bigger picture of Shadow 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/shadowproject.jpg" alt="shadow project" width="824" height="650" srcset="/imgs/2014/10/shadowproject.jpg 1300w, /imgs/2014/10/shadowproject-300x237.jpg 300w, /imgs/2014/10/shadowproject-1024x808.jpg 1024w" sizes="(max-width: 824px) 100vw, 824px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/shadowproject.jpg" alt="shadow project" width="824" height="650" srcset="/imgs/2014/10/shadowproject.jpg 1300w, /imgs/2014/10/shadowproject-300x237.jpg 300w, /imgs/2014/10/shadowproject-1024x808.jpg 1024w" sizes="(max-width: 824px) 100vw, 824px" />
 
 <p>Despite having a secure or anonymous financial transaction; any leak in the details can compromise the entire deal. For example: a buyer might send funds to a seller and while the actual transaction might be hard to trace the details of the deal might be exposed in a compromised communication system such as e-mail, sms or even a phone call.</p>
 <p>Shadow’s developers realized that the system is only as good as its weakest link; without proper and secure communication conducting business successfully can be a liability. They’ve engineered a highly secure peer-to-peer encrypted messaging system that facilitates anonymous communication without relying on any centralized servers.</p>
@@ -141,7 +141,7 @@ Posted by: DeepDotWeb
 <p>Shadow developers have stated they will be updating ShadowChat in the near future to support voice, video and file sharing capabilities. At that point we could see a real anonymous replacement for Skype, WhatsApp and more traditional communication protocols such as e-mail, SMS and cellular calls. All you’ll need is a data plan from your mobile provider to conduct private commerce and communication.</p>
 <p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/shadow2.jpg" alt="shadow2" width="680" height="487" srcset="/imgs/2014/10/shadow2.jpg 1000w, /imgs/2014/10/shadow2-300x215.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/shadow2.jpg" alt="shadow2" width="680" height="487" srcset="/imgs/2014/10/shadow2.jpg 1000w, /imgs/2014/10/shadow2-300x215.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" />
 
 <p>Though project members will likely cringe at the comparison, Shadow essentially can be compared to a Facebook of sorts for the more privacy-minded &#8212; not necessarily in terms of the current ad-heavy, publicly-traded behemoth that Facebook has become, but more how FB initially began by integrating so many separate existing web features and services into its architecture – chat, mail, photo storage, newsfeeds, third-party apps, profiles and more.</p>
 <p>The Shadow team plans to continue their efforts to allow users to create a comprehensive anonymous presence and appeal to clearnet and darknet users alike.</p>
@@ -154,7 +154,7 @@ Posted by: DeepDotWeb
 <li>ShadowCore: The first HTML cryptobrowser</li>
 </ol>
 <p>A detailed roadmap is available <a href="http://i.imgur.com/7SiEQCZ.png" target="_blank">here</a>:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/roadmap.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/roadmap.png" />
 
 <p>Shadow has already announced plans to support ShadowCore with a Shadow Development Kit, which will give developers some useful tools to create future applications – even games &#8212; that make use of Shadow’s anonymizing technology and potentially could lead to more innovations from the greater development community. This opens up a new channel for entrepreneurs looking to earn SDC through in-app purchases.</p>
 <p>We spent some time in Shadow’s IRC channel and the team hinted that they are building an asset exchange that will utilize their zero knowledge privacy technology. This is important for a couple of reasons- we could see a green asset listed on the exchange to represent the marijuana industry. There are plenty of coins in the marijuana altcoin vertical, but none offer any form of privacy greater than Bitcoin. While some states in the USA have legalized marijuana, it is still illegal on the Federal level which makes privacy even more important. There have been numerous cases where the Federal government has raided lawfully run medical marijuana dispensaries seizing their assets, bank accounts, customer ledgers and income. <a href="http://www.hightimes.com/read/dea-raids-four-la-dispensaries" target="_blank" rel="nofollow"><strong>[18]</strong></a> ShadowCash offers the Cannabis industry an alternative private banking and currency solution that protects the businesses’ income from seizure and customer data leakage.</p>

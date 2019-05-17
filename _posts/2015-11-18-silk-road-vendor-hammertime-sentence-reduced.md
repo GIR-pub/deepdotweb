@@ -7,7 +7,7 @@ Posted by: Benjamin Vitáris
 <span>November 18, 2015</span>
 
 <p><a href="http://www.oregonlive.com/pacific-northwest-news/index.ssf/2015/11/global_silk_road_meth_dealer_f.html#incart_story_package">Jason Weld Hagen from Vancouver, AKA. Hammertime, said to be the biggest meth vendor on the most infamous ex-dark net market, has been sentenced to a much lighter time, 37 months, followed by five years of court supervision, instead of a life sentence.</a> According to law enforcement authorities, Hagen and his gang sold drugs on the dark web worth the total sum of $607,000.</p>
-<p>We wrote some articles regarding this case, if you are interested then kindly visit <a href="https://g-i-r.github.io/deepdotweb/?s=hammertime">this link</a>.</p>
+<p>We wrote some articles regarding this case, if you are interested then kindly visit <a href="https://gir.pub/deepdotweb/?s=hammertime">this link</a>.</p>
 <p>A sentencing memo describing Hagen’s activities goes by:</p>
 <p>&#8220;During this time, Hagen, as Hammertime, engaged in approximately 3,169 transactions on Silk Road, selling roughly 17.6 pounds of methamphetamine. He and his coconspirators sold the drug in small increments, typically a half-gram at a time, often hiding them inside DVD cases labeled, ’South Beach Workout’.&#8221;</p>
 <p>&#8220;A wide variety of goods, mostly illegal, were sold on the site, including false and stolen identities, hacking tools, counterfeit goods, pirated media, criminal guidebooks, money laundering services, and murder for hire contracts.&#8221;</p>

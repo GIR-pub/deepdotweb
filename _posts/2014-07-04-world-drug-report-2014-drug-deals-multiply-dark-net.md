@@ -6,16 +6,16 @@ Posted by: DeepDotWeb
 
 <span>July 4, 2014</span>
 
-<p><span class="meta_origin">Some more bullshit information  &#8211; on the good side, <a href="https://g-i-r.github.io/deepdotweb/2014/05/12/darknetmarkets-listing-count-is-booming-53917/">DarknetMarkets are booming</a> as we know:</span></p>
+<p><span class="meta_origin">Some more bullshit information  &#8211; on the good side, <a href="https://gir.pub/deepdotweb/2014/05/12/darknetmarkets-listing-count-is-booming-53917/">DarknetMarkets are booming</a> as we know:</span></p>
 <p><span class="meta_origin"><strong>Published in <a href="http://www.ipsnews.net/2014/07/illicit-drug-deals-multiply-on-the-dark-net/">IPS:</a></strong><br />
 </span></p>
 <p><span class="meta_origin">UNITED NATIONS, Jul 3 2014 (IPS) </span>&#8211; In its two years of operation, the online marketplace Silk Road raked in 1.2 billion dollars in revenue and amassed an estimated 200,000 registered users – a success story that would be any start-up’s dream.<span id="more-135364"></span></p>
 <p>But the site was shut down by the FBI last October amid charges that it was essentially the Amazon.com of illegal drugs, shedding light on the increasing sophistication of a cyber drug trade that offers both buyers and dealers high-tech anonymity.</p>
 <blockquote>
-<div class="simplePullQuote3">“<a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">The new markets</a> that have replaced Silk Road can now encrypt all communications and use advanced techniques to launder the bitcoins used in transactions.&#8221; &#8212; Prof. David Hetu</div>
+<div class="simplePullQuote3">“<a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">The new markets</a> that have replaced Silk Road can now encrypt all communications and use advanced techniques to launder the bitcoins used in transactions.&#8221; &#8212; Prof. David Hetu</div>
 </blockquote>
 <p>In its <a href="http://www.unodc.org/documents/wdr2014/World_Drug_Report_2014_web.pdf">World Drug Report 2014</a> released last week, the United Nations Office on Drug and Crime (UNODC) warns that illicit online drug sales will pose unique challenges for law enforcement.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/un.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/07/un.png" />
 
 <blockquote><p>“The online marketplace for illicit drugs is becoming larger and more brazen,” it said. “If the past trend continues, it has the potential to become a popular mode of trafficking in controlled substances in years to come.”</p></blockquote>
 <p>The growth of online drug dealing has gone hand in hand with advancements in technology. The UNODC’s review of global drug seizure data shows that cannabis seizures obtained through the postal service rose 300 percent in the decade from 2000 to 2011.</p>
@@ -40,7 +40,7 @@ Posted by: DeepDotWeb
 <p><strong>International cooperation </strong></p>
 <p>There is no reliable data on how many people are buying drugs online, but the types of drugs being sold are multiplying, according to the UNODC.</p>
 <p>Before its shutdown, Silk Road was the marketplace for a vast majority of illegal drugs, with nearly 13,000 listings of controlled drugs, the FBI said. Despite the anonymity of transactions, the FBI said dealers might be located in more than 10 countries, stretching from North America to Europe.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/07/drug-war1.jpg" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/07/drug-war1.jpg" />
 
 <p>Cyberspace drug dealing is particularly challenging, as offenders can easily and quickly adapt their practices to avoid risks posed by law enforcement, Thomas Holt, an assistant professor at Michigan State University’s School of Criminal Justice, told IPS.</p>
 <p>Holt, whose research focuses on cybercrime and identity theft, said that law enforcement agencies need to engage in undercover operations to understand the practices of buyers and sellers within the market.</p>

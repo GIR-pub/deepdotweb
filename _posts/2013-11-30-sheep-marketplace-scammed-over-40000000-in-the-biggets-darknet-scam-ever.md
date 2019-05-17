@@ -7,10 +7,10 @@ title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Eve
 
 
 <p><strong>Tl;DR:</strong> Sheep Marketplace disabled withdrawals, but allowed deposits for the past 10 days or so. They have now disabled the forums after deleting posts related to the inability to withdraw and all this just to start moving the bitcoins from the marketplace to another location (<a href="https://blockchain.info/address/1EiVHZnDVjFH6Tic1YmWUSfYmVUnUZdnMU" target="_blank">BlockChain Link</a> &#8211;  Explanation below)</p>
-<p>* <span style="color: #ff6600;"><strong>1/12/13 Update</strong></span>: Sheep Marketpace is now officially Down &#8211; <a href="https://g-i-r.github.io/deepdotweb/2013/12/01/sheep-is-now-officially-down/" target="_blank">See the details here</a><br />
+<p>* <span style="color: #ff6600;"><strong>1/12/13 Update</strong></span>: Sheep Marketpace is now officially Down &#8211; <a href="https://gir.pub/deepdotweb/2013/12/01/sheep-is-now-officially-down/" target="_blank">See the details here</a><br />
     * Update: apparently one vendor did use bug in marketplace and did steal 5500BTC from sheep pocket &#8211; so the admin run away (see images below the quote)<br />
-    * <a href="https://g-i-r.github.io/deepdotweb/2013/11/30/sheep-owner-just-got-doxxed/" target="_blank">Sheep Marketplace owner / coder exposed</a><br />
-    * <a href="https://g-i-r.github.io/deepdotweb/2013/12/01/sheepmarketplace-owner-planning-a-second-scam/" target="_blank">Is there a Second Scam in Progress?</a><br />
+    * <a href="https://gir.pub/deepdotweb/2013/11/30/sheep-owner-just-got-doxxed/" target="_blank">Sheep Marketplace owner / coder exposed</a><br />
+    * <a href="https://gir.pub/deepdotweb/2013/12/01/sheepmarketplace-owner-planning-a-second-scam/" target="_blank">Is there a Second Scam in Progress?</a><br />
     * Screenshots and relevant links below the quote</p>
 <p>As was published here &#8211; http://www.sheepmarketscam.com  {site does not exists and was replaced with some other site}</p>
 <p style="text-align: center;"><span style="color: #ff0000;">==========Start Quote: <strong>BAD ENGLISH &#8211; WE KNOW, working on an official report</strong>===============</span></p>
@@ -57,22 +57,22 @@ title: "Sheep Marketplace Scam: Over 40,000,000$ in the Biggest Darknet Scam Eve
 <p>&nbsp;</p>
 <p>A Screenshot showing the account page on the sheep marketplace with the fake counter and the withdraw button disabled:
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/sheep-scam1.jpg"/>
+<img src="https://gir.pub/deepdotweb/imgs/2013/11/sheep-scam1.jpg"/>
 <p>Picture of the forum that is down at this moment:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/sheep-forum.jpg" />
+<img src="https://gir.pub/deepdotweb/imgs/2013/11/sheep-forum.jpg" />
 
 <blockquote><p>MESSAGE FROM MOD , DEVICE:</p>
 <p>I have no idea man. The fucking admin has disappeared. All people thinking us fucking mods in on it and we had no idea. We have no access to anything at all. All we can do is ban users and delete forum posts. We also lost everything. Invested so fucking much. No job, no security, now in fucking huge debt all because of &#8220;honest&#8221; promise of pay. I stil have some kind of hope, but it&#8217;s running out fast. I really really fucking hope this is just life problems for the admin team, but I have no idea. Thanks man for your support. This is a total fucking disaster though by the looks of it.</p>
 <p>I&#8217;m so fucking sorry for everything I&#8217;ve said in the past. I got scammed just like every other fucking person. Scared for my fucking life now people trying to fucking dox us because they think we&#8217;re in on it. Fucked up man fucked up.</p></blockquote>
 <p>This was copied from the Sheep Marketplace Forum before it went down &#8211; the formatting seems legit like the forum:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/Post.jpg" />
+<img src="https://gir.pub/deepdotweb/imgs/2013/11/Post.jpg" />
 
 <p>Taken from Sheep Mod/vendor ctrlaltweed&#8217;s seller page:</p>
 <p>I am a moderator that means i can edit/move/delete posts on forums and ban users, thats all moderator can do!</p>
 <p>! ! ! ! ! WARNING ! ! ! ! !</p>
 <p>Folks, leave sheep asap, admin took all money and did leave market. The reason is probably that one vendor did use bug in marketplace and did steal 5500BTC from sheep pocket.  Then the problems with withdrawals happened, there were no tumbler, we were all fooled :/ we, the mods realized all facts just right now, we do hope that some of you can save btc after reading this.</p>
 <p>PLEASE DO NOT DEPOSIT, YOU WONT BE ABLE WITHDRAW, NEVER EVER!</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/mod2.jpg" />
+<img src="https://gir.pub/deepdotweb/imgs/2013/11/mod2.jpg" />
 
 <p>&nbsp;</p>
 <p>We have also had some unconfirmed reports about vendor offering money to anyone who could provide information about the real world identity of the sheep marketplace admins.</p>

@@ -13,19 +13,19 @@ Posted by: DeepDotWeb
 <p>It&#8217;s about time that we present to you a tutorial on how to buy stuff from Abraxas. Ensure that you&#8217;ve read this whole tutorial before starting – it is important you understand every step. This guide is a lesson in buying, not vending; vending is wholly another task which requires bigger consideration.</p>
 <p>The <a href="#">Abraxas Market listing and URL can be found</a> here.</p>
 <p><strong>Part 1 – Preparing</strong></p>
-<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market<a href="http://silkroaddrugs.org/bestproxy">.</a> Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider.<a href="http://silkroaddrugs.org/bestproxy"> </a>This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
-<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
-<p>The first step in buying from any marketplace, is to set up your environment properly. Following this here, is the bare minimum for staying safe when buying personal amounts. Afterwards, be sure to look at the <a href="https://g-i-r.github.io/deepdotweb/security-tutorials">Security Tutorials section</a> for some extra security tips.</p>
+<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market<a href="http://silkroaddrugs.org/bestproxy">.</a> Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider.<a href="http://silkroaddrugs.org/bestproxy"> </a>This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
+<p style="text-align: center;"><a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p>The first step in buying from any marketplace, is to set up your environment properly. Following this here, is the bare minimum for staying safe when buying personal amounts. Afterwards, be sure to look at the <a href="https://gir.pub/deepdotweb/security-tutorials">Security Tutorials section</a> for some extra security tips.</p>
 <p><strong>Tor Browser Bundle</strong></p>
 <p>
 <p>You will want to go to <a href="https://www.torproject.org/projects/torbrowser.html">https://www.torproject.org/projects/torbrowser.html</a> to download the Tor Browser Bundle for your OS. There are plenty of instructions for installation on the download page, for OS X, Windows, and Debian.</p>
 <p><strong>PGP</strong></p>
 <p>
-<p>PGP is a secure method of encrypting and decrypting messages. It is not a very good idea to send your address to a vendor, unencrypted because if the hidden service gets seized, LE will then have hard evidence of the crime you&#8217;ve committed. One thought to keep in mind is that <a href="https://g-i-r.github.io/deepdotweb/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using online GPG methods such as iGolder and those utilizing BouncyCastle libraries.</p>
-<p>This site has basic guides covering GPG for each main OS. <a href="https://g-i-r.github.io/deepdotweb/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="https://g-i-r.github.io/deepdotweb/2015/02/20/pgp-tutorial-os-x">OS X</a>, and <a href="https://g-i-r.github.io/deepdotweb/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the better choice, obviously; however, you will be fine ordering personal goods on both OS X and Windows.</p>
+<p>PGP is a secure method of encrypting and decrypting messages. It is not a very good idea to send your address to a vendor, unencrypted because if the hidden service gets seized, LE will then have hard evidence of the crime you&#8217;ve committed. One thought to keep in mind is that <a href="https://gir.pub/deepdotweb/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using online GPG methods such as iGolder and those utilizing BouncyCastle libraries.</p>
+<p>This site has basic guides covering GPG for each main OS. <a href="https://gir.pub/deepdotweb/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="https://gir.pub/deepdotweb/2015/02/20/pgp-tutorial-os-x">OS X</a>, and <a href="https://gir.pub/deepdotweb/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the better choice, obviously; however, you will be fine ordering personal goods on both OS X and Windows.</p>
 <p><strong>Bitcoin</strong></p>
 <p>
-<p>One cannot buy items without having money first, now can we? You will need to buy some Bitcoin(s), which you can do with <a href="https://g-i-r.github.io/deepdotweb/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or even simply buy with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you choose to buy the Bitcoin(s) is completely up to you. However, <a href="https://localbitcoins.com/?ch=4v6y" target="_blank">LocalBitcoin</a> is the most popular for one reason: it can be done anonymously. There have been reports of Coinbase banning accounts which have deposited into the darknet markets, so try to avoid that. Secondly, do not be connected to the Tor network when purchasing your Bitcoin(s), as it is completely legal and using Tor to buy it will often prove a hindrance.</p>
+<p>One cannot buy items without having money first, now can we? You will need to buy some Bitcoin(s), which you can do with <a href="https://gir.pub/deepdotweb/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or even simply buy with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you choose to buy the Bitcoin(s) is completely up to you. However, <a href="https://localbitcoins.com/?ch=4v6y" target="_blank">LocalBitcoin</a> is the most popular for one reason: it can be done anonymously. There have been reports of Coinbase banning accounts which have deposited into the darknet markets, so try to avoid that. Secondly, do not be connected to the Tor network when purchasing your Bitcoin(s), as it is completely legal and using Tor to buy it will often prove a hindrance.</p>
 <p><strong>Wallet</strong></p>
 <p>
 <p>Now that you have some Bitcoin(s), you need a place to store them. One excellent choice is Electrum. It is open-source, cross-platform, and even has an Android version. You can go ahead and download it from <a href="https://electrum.org/download.html">here</a>. Using it is pretty simple and straightforward.</p>
@@ -58,16 +58,16 @@ Posted by: DeepDotWeb
 <p>Hopefully, you have installed the proper tools, and have read over our basic tips. In order to buy from Abraxas Market, you will need an account. You can register at Abraxas using this link: <a href="http://abraxasdegupusel.onion/register/JIYi9utdux" target="_blank"><strong>http://abraxasdegupusel.onion/register/JIYi9utdux</strong></a></p>
 <p>Upon clicking the referral url, you should see this page:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/reg1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/reg1.png">
 
 <p>It&#8217;s time to start filling out the required information. In the &#8216;Username&#8217; field, choose something which you haven&#8217;t used elsewhere in the past, but which is easy to memorize. This same thing goes for the password and PIN which protect your account and attached wallet from attacks. <a href="https://xkcd.com/936">XKCD has a great comic on creating secure, easy to remember passwords</a>. Creating a custom &#8216;Greeting,&#8217; only you will recognize, is purely preference, but it is good practice to make sure you are not being phished in the future. Once you have filled out all of the proper information, captcha included, and then clicked “Create new account,” keep your password and PIN in a safe place. You will be automatically signed into the market, upon this submission.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/tochoose1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/tochoose1.png">
 
 <p><strong>Part 5 – Setting up your account</strong></p>
 <p>Now that your account has been successfully created, we&#8217;ll need to completely set it up. Click the button labeled &#8216;Profile,&#8217; in the top-left corner of the website.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/profileset1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/profileset1.png">
 
 <p>Optimally, you will want to input your GPG public-key. However, there is no option to enable two-factor authentication at this time. Setting your GPG public-key will be solely for communications.</p>
 <p><strong>Part 6 – Choosing what to buy</strong></p>
@@ -75,7 +75,7 @@ Posted by: DeepDotWeb
 <p><strong>Searching</strong></p>
 <p>Searching on Abraxas Market is really straightforward, yet it does not offer an option to filter out the FE-enabled listings on the search-results page, save for ordering them last.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/Abraxas_htm_201509071504021.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/Abraxas_htm_201509071504021.png">
 
 <p><strong>FE vs No-FE</strong></p>
 <p>FE (finalize-early) is a procedure by which the vendor can retrieve the funds from a sale without going through regular or even multisig escrow which is designed to ensure you receive your product. It is discouraged in the darkweb community abroad, due to the risks one takes with this. Should you have been scammed by a vendor through a FE-enabled listing, there is absolutely no doubt that your funds are irretrievable. You can&#8217;t filter out the FE-enabled results through the Web UI, but you can make them show up last.</p>
@@ -85,7 +85,7 @@ Posted by: DeepDotWeb
 <p><strong><br />
 </strong> 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/vendor1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/vendor1.png">
 
 <p>By clicking on the vendor&#8217;s name in any listing or any search result, you are brought to their profile page, as displayed in the above. Each vendor has his or her GPG public-key listed here, as well as their received feedback. Be wary though, a vendor who might have positive reviews doesn&#8217;t make them bulletproof.</p>
 <p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the forums (abraxasgacelesox.onion) (you will need to use your forum token in the &#8216;Profile&#8217; page which was explained earlier). this site&#8217;s <a href="#">Grams</a>, which are conveniently linked on each Abraxas vendor&#8217;s profile-page.</p>
@@ -93,37 +93,37 @@ Posted by: DeepDotWeb
 <p>Once you&#8217;ve discovered a good listing from a reputable vendor, and are ready to make an order, let&#8217;s go ahead and start!</p>
 <p><strong>Adding funds to your wallet</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/unt1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/unt1.png">
 
 <p>At the very top of the website, you can see how much bitcoin you have in your balance. Unfortunately, however, the relative current exchange rate is not displayed. In order to buy anything, one must add funds to one&#8217;s own market wallet. Click on the link labeled “Wallet,” as seen in the image, at the top-right corner of the site.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/wallet1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/wallet1.png">
 
 <p>You need to generate a new wallet address after each deposit. Since this is your first time, it does not need to yet be initially generated. Be sure to deposit a little more than you plan to spend initially, due to the Bitcoin price&#8217;s common fluctuation. Once you have deposited your bitcoin, it takes a few confirmations on the blockcchain to show up in your balance. Be patient, and if it takes unusually too long, contact the staff at this page (abraxasdegupusel.onion/system/Abraxas).</p>
 <p>The staff&#8217;s GPG Public-key is shown here:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/InfoAbraxa_9740772_187151111.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/InfoAbraxa_9740772_187151111.png">
 
 <p><strong>Ordering</strong></p>
 <p>Now that you have finally deposited some funds, it is time to buy that item you&#8217;ve always wanted.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/listing1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/listing1.png">
 
 <p>In the box labeled as “Amount,” fill out the quantity of said item you are ordering. After you&#8217;ve click “Buy,” you should enter your shipping address or other appropriate data in its place (encrypted). Ensure you have filled out everything correctly, and confirm your purchase.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/after1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/after1.png">
 
 <p><strong>Statuses Explained</strong></p>
 <p>To check on the status of your order, click “Orders,” at the top left-hand corner of the site. It should bring you to this page:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/Untitled20_4293427_187150731.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/Untitled20_4293427_187150731.png">
 
 <p>Once the vendor marks the order as having been shipped, the item entry will no longer display &#8216;Pending&#8217; status. You can still cancel your order after 3 days have passed since you have placed the order. Auto-finalize is still a long while away.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/shipped1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/shipped1.png">
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/final.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/final.png">
 
 <p>If your order is not delivered in the listing&#8217;s stated time, all circumstances considered, you can dispute the order while it is still inside of Escrow.</p>
 <p>If you need marketplace support at any time, contact the staff through this page: abraxasdegupusel.onion/system/Abraxas , as outlined earlier. Their GPG key is linked on that page (abraxasdegupusel.onion/abraxas-pgp). This is the primary way of getting assistance. Please note that no staff member will ever, at all, request your sensitive details of your account.</p>

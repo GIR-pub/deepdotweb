@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>June 3, 2015</span>
     
 
-<p>Just a few days ago, Mr Nice Guy admin was exposed while <a href="https://g-i-r.github.io/deepdotweb/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">conspiring to ddos other markets</a>, After the story started to spread, he requested to conduct an interview where he could tell his side of the story, and i was happy to provide him with the stage to do so, i just asked question and let him answer freely, and you can be the judges:</p>
+<p>Just a few days ago, Mr Nice Guy admin was exposed while <a href="https://gir.pub/deepdotweb/2015/05/31/meet-the-market-admin-who-was-responsible-for-the-ddos-attacks/">conspiring to ddos other markets</a>, After the story started to spread, he requested to conduct an interview where he could tell his side of the story, and i was happy to provide him with the stage to do so, i just asked question and let him answer freely, and you can be the judges:</p>
 <p><strong>So whats your side of the story for:</strong><br/>
 <strong>Conspiring with the extortion ddoser to ddos other markets?</strong></p>
 <p>Competition has grown tremendously over the last years, at first (you will notice the dates in the conversation) I held out like other markets and refused to pay. I actually did make gains on building up the protection. But I needed more time as I am a single programmer dealing with issues on the site, with individual vendor sand other technical issues. The DDOS guys pushed that work load over the edge, I needed a break.</p>

@@ -36,10 +36,10 @@ Posted by: DeepDotWeb
     
 <p>
     Try to access the market using this ip address with your normal chrome browser and behold, the so familiar bitwasp login page:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/hansalogin.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/03/hansalogin.png" />
 
 <p>Just in case you are not yet shocked enough, you can register, login and browse the site in complete clearnet browsing:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/03/hansamarket.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/03/hansamarket.png" />
 
 <p>As you can see in the homepage the Innovative Security is indeed still in &#8220;[BETA]&#8221;. We don&#8217;t know for sure what was the specific weak point that leaked the server details, but it seems bad enough not to matter much as it was also reported that he was running a bitcoin node at the same server (as you can see above with the ip address on blockchain):</p>
 <blockquote class="twitter-tweet" width="550">
@@ -47,7 +47,7 @@ Posted by: DeepDotWeb
 <p>&mdash; Moustache (@lamoustache) <a href="https://twitter.com/lamoustache/statuses/443667227540459520">March 12, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>We really hope that the market owner will see this thread and take the marketplace offline before anyone will report, although it was not online long enough to commit any crime probably.</p>
-<p>Lessons are the same like we saw with the <a href="https://g-i-r.github.io/deepdotweb/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">Cantina Market</a>, <a href="https://g-i-r.github.io/deepdotweb/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">Black Goblin &amp; Cannabisroad Market</a>, and few others who got shut down before causing real security risks for their users and vendors. we should thank the guys who keep exposing those flaws.</p>
+<p>Lessons are the same like we saw with the <a href="https://gir.pub/deepdotweb/2014/01/29/cantina-marketplace-pwnd-admin-password-was-password1/">Cantina Market</a>, <a href="https://gir.pub/deepdotweb/2014/02/09/another-two-bites-the-dust-black-goblin-marketplace-cannabisroad/">Black Goblin &amp; Cannabisroad Market</a>, and few others who got shut down before causing real security risks for their users and vendors. we should thank the guys who keep exposing those flaws.</p>
 
 Updated: 2014-03-12
     

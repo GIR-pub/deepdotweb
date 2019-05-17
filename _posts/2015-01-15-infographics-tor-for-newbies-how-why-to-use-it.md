@@ -19,7 +19,7 @@ Posted by: DeepDotWeb
 <p>(right click and view image for full size)<br />
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/torfornewbiesDeepDotWeb.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/01/torfornewbiesDeepDotWeb.jpg">
 
 
 Updated: 2015-01-15

@@ -13,7 +13,7 @@ Posted by: DeepDotWeb
 <p>Large changes are in store for this community. This year will be remembered. Your loyalty is enabling a historic repayment.</p>
 <p>Post questions here. We will answer for two hours beginning in one hour from now.</p>
 <p>And, hello.</p></blockquote>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/khufu.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/06/khufu.png" />
 
 <p>And these are the published questions and answers that were posted on this thread (will update if he answers more questions):<br/>
 <strong>Why is the conversion rate that SR uses incorrect? &#8211; SensiJackSilver</strong></p>
@@ -77,7 +77,7 @@ Posted by: DeepDotWeb
 <p>Designing and maintaining a stealth Bitcoin implementation has proven to be very difficult at the scale of transactions we see per minute. There is a known withdrawal delay occurring please reference our other thread. These delayed withdrawals are being retransmitted very carefully to the Bitcoin infrastructure so as to minimize risk of causing patterns which can reveal your BTC addresses and our server locations. Our security constraints make the simplest of tasks extremely difficult and nerve-wracking.</p>
 <p>We will keep you safe even if it hurts your perception of us in the short term.</p>
 <p><strong>&#8212;&#8211;</strong></p>
-<p>Sure there are many more questions that could have been asked and the more harder questions are not present here (about some hack topics and why there is not escrow / multisig yet when it can be implemented in few hours as other <a href="https://g-i-r.github.io/deepdotweb/2014/05/09/interview-pirate-market-admin/">Admins demonstrated</a> before) and sure that some of the answers are directed more at the PR side rather than the real info side, but still any information sharing should not be taken for granted on the the deep web, and this is without a doubt a nice way to introduce a new admin.</p>
+<p>Sure there are many more questions that could have been asked and the more harder questions are not present here (about some hack topics and why there is not escrow / multisig yet when it can be implemented in few hours as other <a href="https://gir.pub/deepdotweb/2014/05/09/interview-pirate-market-admin/">Admins demonstrated</a> before) and sure that some of the answers are directed more at the PR side rather than the real info side, but still any information sharing should not be taken for granted on the the deep web, and this is without a doubt a nice way to introduce a new admin.</p>
 </div>
 
 Updated: 2014-06-06

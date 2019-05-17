@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>May 6, 2014</span>
 
-<p>We have another market joining the Munmltisig Family, Now evolution, as always, we try to support those market offering multisig transaction so we bring you here the multisig usage guide as its listed on their wiki, this will also be listed on out <a href="multisig-guides/">multisig guides</a> page and the market will be promoted to the multisig category <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on our list</a>:</p>
+<p>We have another market joining the Munmltisig Family, Now evolution, as always, we try to support those market offering multisig transaction so we bring you here the multisig usage guide as its listed on their wiki, this will also be listed on out <a href="multisig-guides/">multisig guides</a> page and the market will be promoted to the multisig category <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">on our list</a>:</p>
 <p><a class="sabai-entity-type-content sabai-entity-bundle-name-directory-listing sabai-entity-bundle-type-directory-listing" title="Evolution Marketplace" href="marketplace-directory/listing/evolution-marketplace">Evolution Marketplace</a> &#8211;  http://k5zq47j6wd3wdvjq.onion</p>
 <h2><span id="Introduction" class="mw-headline">Introduction</span></h2>
 <p>Using and accepting multi-signature (multisig) transactions on Evolution is pretty straight-forward. The following sections will explain how to obtain bitcoin public-private keypairs (section 1), how to configure your account for multisig (section 2), how to order using multisig (section 3), and finally how to claim funds (section 4).</p>

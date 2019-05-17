@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
 <p><strong>dnmfekemzvbdcis4.onion</strong></p>
 <p>Here is the official flyer! It&#8217;s time to get hype:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/04/6UJtiJg1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/04/6UJtiJg1.png">
 
 <h2 class="section-heading">Meet your favorite mods &amp; vendors</h2>
 <p class="lead">Market mods and admins, as well as some of your<br/>
@@ -38,7 +38,7 @@ Posted by: DeepDotWeb
 <h2 class="section-heading">Sponsors</h2>
 <ul>
 <li class="lead">This is all possible thanks to our many great sponsors&#8230;</li>
-<li class="lead">DeepDotWeb.com, <a href="http://cryptdesign.com/">CryptDesign</a>, <a href="https://darknetsolutions.com/">Darknet Solutions</a>, <a href="https://g-i-r.github.io/deepdotweb/grams-search-darknet-marketplaces/">Grams Darknet SE</a>, Middle Earth, Best Korea Market, Bailey Jay, Black Bank, Kimble and Verto, and /r/darknetmarkets Mods!</li>
+<li class="lead">DeepDotWeb.com, <a href="http://cryptdesign.com/">CryptDesign</a>, <a href="https://darknetsolutions.com/">Darknet Solutions</a>, <a href="https://gir.pub/deepdotweb/grams-search-darknet-marketplaces/">Grams Darknet SE</a>, Middle Earth, Best Korea Market, Bailey Jay, Black Bank, Kimble and Verto, and /r/darknetmarkets Mods!</li>
 </ul>
 </div>
 </div>

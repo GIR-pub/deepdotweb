@@ -9,19 +9,19 @@ Posted by: DeepDotWeb
 <p>It&#8217;s time to present you a guide outlining how to purchase things from Dream Market. Make extra sure that you have entirely read this whole tutorial before diving in – it&#8217;s very, very important you fully comprehend each and every step. The following guide is to assist you to purchase, not to sell items. Vending is a wholly other animal which requires much heavier time, effort, and consideration.</p>
 <p><a href="#">The Listing for Dream Market as well as its official onion link are placed here.</a></p>
 <p><strong>Part 1 – Preparing</strong></p>
-<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market. Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider. This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
-<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
-<p>Your first-ever step in buying something via any marketplace whatsoever, is properly setting-up your digital environment. Following below is a bare standard minimum in order to stay safe when buying personal items. After you are done, make sure you glance at the <a href="https://g-i-r.github.io/deepdotweb/security-tutorials">Security Tutorials section</a> for several additional tips in security.</p>
+<p><strong>USE A VPN SERVICE</strong>. You can find one <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">here</a> to best suit you, we review the best VPN Services for privacy on the market. Every time you use your computer your IP address is shown which reveals your actual physical address which means you can be traced very easily. A VPN must be used along with Tor (Tor is the free browser explained below) to make your online activity anonymous. When using a <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">VPN Service</a> it will hide your identity and location while also encrypting all of you internet traffic from everyone including your internet service provider. This technology will also protect you from identity theft and hacking when using free wifi because everything is encrypted. Any time you are searching for music, movies to download, pirated content, drugs or anything illegal then you should be using a VPN to fly under the radar. The law is trying to monitor everything we do now so don’t make it easy for them, don’t end up like the original mastermind of Silk Road and get busted. This is a must have in your anonymous arsenal.</p>
+<p style="text-align: center;"><a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">===&gt; Read about the best VPN Services for privacy here &lt;===</a></p>
+<p>Your first-ever step in buying something via any marketplace whatsoever, is properly setting-up your digital environment. Following below is a bare standard minimum in order to stay safe when buying personal items. After you are done, make sure you glance at the <a href="https://gir.pub/deepdotweb/security-tutorials">Security Tutorials section</a> for several additional tips in security.</p>
 <p><strong>Tor Browser Bundle</strong></p>
 <p>
 <p>To visit the darkweb, you will need to visit <a href="https://www.torproject.org/projects/torbrowser.html">https://www.torproject.org/projects/torbrowser.html</a> and download what is known as the Tor Browser Bundle, for your current OS. There are plenty of detailed instructions for installing it on its download webpage, for OS X, Windows, even Debian, too.</p>
 <p><strong>PGP</strong></p>
 <p>
-<p>PGP is an especially useful method of encrypting/decrypting sensitive messages. It&#8217;s not very good of an idea to tell a vendor, your home address without first encrypting it, because should the hidden service get seized, LE will have clearly-cut evidence of the crime you have committed. One thought to bear in mind is that <a href="https://g-i-r.github.io/deepdotweb/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using GPG methods such as iGolder or those utilizing the BouncyCastle libraries.</p>
-<p>This site has long had essential, fundamental guides covering GPG for each and every mainstream OS, <a href="https://g-i-r.github.io/deepdotweb/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="https://g-i-r.github.io/deepdotweb/2015/02/20/pgp-tutorial-os-x">OS X</a>, and then <a href="https://g-i-r.github.io/deepdotweb/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the best choice, obviously; however, you will be fine ordering personal goods on either OS X and Windows.</p>
+<p>PGP is an especially useful method of encrypting/decrypting sensitive messages. It&#8217;s not very good of an idea to tell a vendor, your home address without first encrypting it, because should the hidden service get seized, LE will have clearly-cut evidence of the crime you have committed. One thought to bear in mind is that <a href="https://gir.pub/deepdotweb/security-tutorials/word-warning-versions-pgp-created-equally">not all versions of GPG are created equally</a>, so avoid using GPG methods such as iGolder or those utilizing the BouncyCastle libraries.</p>
+<p>This site has long had essential, fundamental guides covering GPG for each and every mainstream OS, <a href="https://gir.pub/deepdotweb/2015/02/17/basic-guide-pgp-linux">Linux</a>, <a href="https://gir.pub/deepdotweb/2015/02/20/pgp-tutorial-os-x">OS X</a>, and then <a href="https://gir.pub/deepdotweb/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win">Windows</a>. Linux is the best choice, obviously; however, you will be fine ordering personal goods on either OS X and Windows.</p>
 <p><strong>Bitcoin</strong></p>
 <p>
-<p>You can&#8217;t really buy anything at all, without first owning money, can we now? You&#8217;ll need to buy Bitcoin(s), something you can do with <a href="https://g-i-r.github.io/deepdotweb/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or order with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you buy Bitcoin is completely up to your own preference. Regardless, <a href="https://localbitcoins.com/?ch=4v6y" target="_blank" rel="noopener">LocalBitcoin</a> is one of the most widely-popular options for a reason: it can be done anonymously. There&#8217;ve also been reports of Coinbase taking ban action against accounts involved in Darkweb Market deposits, so avoid that if you&#8217;re able. Secondly, don&#8217;t stay connected Tor while purchasing Bitcoin(s), because it is totally legal and buying through Tor often becomes a cumbersome ordeal.</p>
+<p>You can&#8217;t really buy anything at all, without first owning money, can we now? You&#8217;ll need to buy Bitcoin(s), something you can do with <a href="https://gir.pub/deepdotweb/buy-bitcoins-with-paypal-credit-cards">paypal or credit cards</a>, find a local <a href="https://www.coindesk.com/bitcoin-atm-map">Bitcoin ATM machine</a>, or order with <a href="https://localbitcoins.com/">fiat cash</a>. Whichever way you buy Bitcoin is completely up to your own preference. Regardless, <a href="https://localbitcoins.com/?ch=4v6y" target="_blank" rel="noopener">LocalBitcoin</a> is one of the most widely-popular options for a reason: it can be done anonymously. There&#8217;ve also been reports of Coinbase taking ban action against accounts involved in Darkweb Market deposits, so avoid that if you&#8217;re able. Secondly, don&#8217;t stay connected Tor while purchasing Bitcoin(s), because it is totally legal and buying through Tor often becomes a cumbersome ordeal.</p>
 <p><strong>Wallet</strong></p>
 <p>
 <p>Now that you&#8217;ve purchased some Bitcoins, you need to store them somewhere. A particularly great choice is the open-source Electrum Wallet. This is also cross-platform and has a downloadable version for Android phones. Go ahead, download it <a href="https://electrum.org/download.html">here</a>. Using the Electrum Wallet is quite easily accomplished.</p>
@@ -52,16 +52,16 @@ Posted by: DeepDotWeb
 <p>By now, it is hopeful that you&#8217;ve setup the digital tools of the trade, and&#8217;ve read through our elementary security tips. To purchase from a vendor on Dream Market, you must have an account. In order to register at Dream Market, use this link: <a href="http://lchudifyeqm4ldjj.onion/?ai=1675" target="_blank" rel="noopener"><strong>http://lchudifyeqm4ldjj.onion/?ai=1675</strong></a></p>
 <p>After you have clicked that referral, you&#8217;ll be landed onto the page in the image underneath:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/dream_signup1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/dream_signup1.png">
 
 <p>It&#8217;s time to start filling out the required info in the registration form &#8211; note that the captcha is case sensitive. In the &#8216;Username&#8217; field, opt for anything you haven&#8217;t used elsewhere. This is an equally applicable theory to your password and PIN, designed to protect your account as well as its bitcoin wallet from bad guys. Once you&#8217;ve input all of the required info, then submitted, write your password and PIN down in an extraordinarily safe location. Now you can visit the marketplace.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/homepage1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/homepage1.png">
 
 <p><strong>Part 5 – Setting up your account</strong></p>
 <p>Now that your account has been successfully registered, you should completely set the GPG key up. Click the button labeled your registered username, at the top-right reach of the site.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/profile1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/profile1.png">
 
 <p>Optimally, you will want to input your GPG public-key. This will be for communicating.</p>
 <p><strong>Part 6 – Choosing what to buy</strong></p>
@@ -69,7 +69,7 @@ Posted by: DeepDotWeb
 <p><strong>Searching</strong></p>
 <p>Searching on Dream Market is really straightforward, and it offers the ability to, quite similar to other markets, filter out FE-enabled listings and narrow down the specified category, etc.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/search3.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/search3.png">
 
 <p><strong>FE vs No-FE</strong></p>
 <p>FE (finalize-early) is a procedure by which the vendor can retrieve the payment from any sale without waiting for the escrow, which is designed to make sure you do receive your product, to release funds. It&#8217;s quite discouraged in this industry, due to the obvious risks involved. Will you encounter a scam on an FE listing, your funds are undoubtedly not recoverable</p>
@@ -77,7 +77,7 @@ Posted by: DeepDotWeb
 <p>Depending on how much risk you are willing to undergo, and how long you are willing to wait to truly receive your shipped order, you can choose a specific “Shipping From” location during the search process. Ordering from “hot” nations, for instance, such as Pakistan, the Netherlands, and even Columbia are much riskier due to known trade practices in those places.</p>
 <p><strong>Judging the Vendor</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/vendor3.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/vendor3.png">
 
 <p>By clicking on the vendor&#8217;s name in any listing or while hovering above any search result, you will be brought directly to that vendor&#8217;s profile, as displayed above. Each vendor has his or her GPG key listed as well as the feedback they have received thus far. Just remember, a vendor having mostly positive reviews doesn&#8217;t make them bulletproof.</p>
 <p>Another great way to get a general feel of a vendor&#8217;s reliability is to read reviews of them on the <a href="http://tmskhzavkycdupbr.onion/">marketplace boards</a>. this site&#8217;s <a href="#">Grams</a>.</p>
@@ -85,30 +85,30 @@ Posted by: DeepDotWeb
 <p>After you have finally discovered a nicely-looking listing from a vendor of reputation, and are finally ready to start ordering, let&#8217;s cover that right now!</p>
 <p><strong>Adding funds to your wallet</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/zero1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/zero1.png">
 
 <p>At the very top of the website, you can see how much bitcoin you have in your balance. The current exchange rates of bitcoin to several fiat currencies are on the side of the website. In order to buy anything, you must of course deposit bticoins into your on-site wallet. Click on the link labeled “Account,” with your zeroed-balance next to it, as seen in the image, at the top-right area of the website.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/wallet11.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/wallet11.png">
 
 <p>Be sure to deposit a little more than you plan to spend initially, due to the Bitcoin price&#8217;s common fluctuation. Once you have deposited your bitcoin, it takes a few confirmations on the blockcchain to show up in your balance. Be patient, and if it takes unusually too long, contact the staff at this <a href="http://lchudifyeqm4ldjj.onion/support">page</a>, as seen below:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/supportcontact1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/supportcontact1.png">
 
 <p><strong>Ordering</strong></p>
 <p>Now that you&#8217;ve finally deposited some funds, it is time to buy that item you truly want.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/listing3.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/listing3.png">
 
 <p>In the box labeled as “Amount,” fill out the quantity of said item you are ordering. After you&#8217;ve click “Buy,” you should enter your shipping address or other appropriate data in its place (encrypted). Ensure you have filled out everything correctly, and confirm your purchase.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/confirm1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/confirm1.png">
 
 <p><strong>Statuses Explained</strong></p>
 <p>To check on the status of your order, click the shopping-cart clip-art at the right-hand side of the site.</p>
 <p>Once the vendor marks the order as having been shipped, the item needs to be finalized from this screen:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/nowfinalize1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/nowfinalize1.png">
 
 <p>If your order is not delivered in the appropriate time as mentioned in the listing, circumstances considered, you may dispute the order while it is still inside of Escrow.</p>
 <p>If you need marketplace support at any time, contact the staff through this <a href="http://lchudifyeqm4ldjj.onion/support">page</a>, as outlined earlier. This is the primary way of getting assistance. Please note that no staff member will ever, at all, request your sensitive details of your account.</p>

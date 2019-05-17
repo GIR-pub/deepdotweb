@@ -6,8 +6,8 @@ redirect_from: "dark-net-market-comparison-chart"
 
 ---
 
-&#8211; This chart integrates marketplace data with our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Dark Net Markets List</a> ratings, along with uptime status data provided by our monitoring system and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain <strong>all</strong> dark net markets, only the established dark web markets. For the full list of dark net markets, visit the <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="https://g-i-r.github.io/deepdotweb/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>ATTENTION</strong></span>: For maximum privacy while on the DarkWeb be sure to use a <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN</a> with Tor. This simple software app can save your ass big time. <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">Click here to see the best VPN’s</a>.</p>
+&#8211; This chart integrates marketplace data with our <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Dark Net Markets List</a> ratings, along with uptime status data provided by our monitoring system and creation dates from <a href="http://www.gwern.net/Black-market%20survival">Gwern.net</a>. <strong>Please Note</strong>: This chart is not comprehensive, it does not contain <strong>all</strong> dark net markets, only the established dark web markets. For the full list of dark net markets, visit the <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">hidden Marketplace List</a>. Found an error in the chart? outdated data? Please <a href="https://gir.pub/deepdotweb/contact-us/">contact us</a> so we can make corrections and updates! When contacting us, please include links to sources when needed.</p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>ATTENTION</strong></span>: For maximum privacy while on the DarkWeb be sure to use a <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">VPN</a> with Tor. This simple software app can save your ass big time. <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">Click here to see the best VPN’s</a>.</p>
 <div class="tableCon"><style>
 @media ( max-width: 400px ) {
 .hideMobile {
@@ -337,13 +337,13 @@ http://cgmcoopwhempo6a5.onion/
 <td class="    chart-col-27">
 <p style="text-align: center;">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/yes.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/yes.png" />
 
 </td>
 <td class="    chart-col-28">
 <div align="center">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/no-warning.png" width="22" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/no-warning.png" width="22" />
 
 </td>
 <td class="    chart-col-29">
@@ -358,13 +358,13 @@ http://cgmcoopwhempo6a5.onion/
 <td class="    chart-col-32">
 <p style="text-align: center;">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/yes.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/yes.png" />
 
 </td>
 <td class="    chart-col-33">
 <p style="text-align: center;">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/yes.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/yes.png" />
 
 </td>
 <td class="    chart-col-34">
@@ -494,7 +494,7 @@ http://cannazonceujdye3.onion
 </tr>
 </tbody>
 </table>
-<img src="https://G-I-R.github.io/deepdotweb/chart/show/2" width="1" height="1" />
+<img src="https://gir.pub/deepdotweb/chart/show/2" width="1" height="1" />
 
 <script>try{wpCookies.set( 'b83ce7cb9612e869d7da403e2551a77fe0b651b3', '2', 0, '/' );} catch (e) {}</script>
 

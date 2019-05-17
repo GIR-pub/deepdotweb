@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 
 <p>Since we know that as always, many people are looking for non-existent answers regarding this latest downtime, here are the only resource that you need to keep yourself updated with in order to know whats the current status of Agora, by order of importance:</p>
 <ol>
-<li>Our sidebar, <a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/" target="_blank">chart</a> or <a href="https://dnstats.net/" target="_blank">dnstats.net</a> for the uptime status</li>
+<li>Our sidebar, <a href="https://gir.pub/deepdotweb/dark-net-market-comparison-chart/" target="_blank">chart</a> or <a href="https://dnstats.net/" target="_blank">dnstats.net</a> for the uptime status</li>
 <li>The latest posts from &#8220;Agora&#8221; on the forums at this link: <strong>http://lacbzxobeprssrfx.onion/index.php?action=profile;area=showposts;u=1</strong></li>
 <li>If the forums are down &#8211; this is the official Agora admins Reddit account:  <a href="https://www.reddit.com/user/agora_voice">/u/agora_voice</a></li>
 <li>Comments in our <a href="#">Agora listing</a></li>

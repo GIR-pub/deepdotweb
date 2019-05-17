@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
 <li>If you have writing experience</li>
 <li>Few suggestions for article topics / titles that you could write</li>
 </ul>
-<p><strong>If this ad is relevant for you &#8211; <a href="https://g-i-r.github.io/deepdotweb/contact-us/">Contact us Here</a></strong></p>
+<p><strong>If this ad is relevant for you &#8211; <a href="https://gir.pub/deepdotweb/contact-us/">Contact us Here</a></strong></p>
 
 Updated: 2014-05-19
     

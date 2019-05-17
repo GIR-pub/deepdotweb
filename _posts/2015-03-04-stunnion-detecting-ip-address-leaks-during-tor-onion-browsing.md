@@ -19,11 +19,11 @@ Posted by: DeepDotWeb
 <p>(╭☞ ͡° ᴥ ͡°)╭☞ &#8230;heere&#8217;s STUNnion!</p>
 <p><b><a href="http://stunmbj4vvnuv5pr.onion/">stunmbj4vvnuv5pr.onion</a></b> (native .onion)</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/stun1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/stun1.png">
 
 <b><a href="https://stunmbj4vvnuv5pr.torstorm.org/">stunmbj4vvnuv5pr.torstorm.org</a></b> (torstorm.org gateway)</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/stun2.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/stun2.png">
 
 <p>Unfortunately, it still leaves (a rough estimate of) 10% of folks visiting .onion sites via non-TBB browsers who are potentially vulnerable. There&#8217;s discussions &amp; resources of this issue in another <a href="https://cryptostorm.org/webrtc">series of forum threads</a> that may prove useful for those seeking additional protection strategies. Plus there&#8217;s a bunch more out there; too many to list in one place, really. tl;dr protect yourself if you&#8217;re not using TBB to access .onion resources!</p>
 <p>We&#8217;d be remiss if we didn&#8217;t mention that the webRTC blocking heuristics in our <a href="https://cryptostorm.org/widget">client-side &#8216;widget&#8217;</a> have proved successful thus far in protecting against in-the-wild examples of these disclosure events. Further, we&#8217;ve implemented across-the-board denial of <b>all</b> STUN-based queries for .onion-directed sessions accessing Tor via our <a href="https://torstorm.org">torstorm.org</a> ,onion gateway service. Since torstorm operates as a true http/onion proxy, it&#8217;s able to do this kind of thing particularly effectively (source code <a href="https://github.com/cryptostorm/cstorm_torstorm">published here</a>). Torstorm&#8217;s about to be opened up to everyone, rather than only cryptostorm members, since we&#8217;ve recently implemented native .onion access across our entire network, via our <a href="http://deepdns.net">deepDNS</a> system of layered-security DNS resolver resources. Of course, there&#8217;s other ways to block webRTC than the methods we&#8217;ve implemented for our members &#8211; we generally recommended layering of such defences, to ensure maximum protection even in corner-state scenarios.<br/>

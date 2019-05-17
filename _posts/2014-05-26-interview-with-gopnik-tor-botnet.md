@@ -9,15 +9,15 @@ Posted by: ChrisHansen </span>
 <p>Tor is full of people who wish to sell things. Some things good and some things bad. Usually these things tend to be related to drugs, but there are the few people who wish to sell a different set of items. Cortex is one of these few people. He programs, owns, and sells his own custom HTTP botnet software along with his team of anonymous members.A botnet is software installed on either a webserver or a persons personal computer, which holds zombie computers. People obtain these zombie computers, or what they are commonly called &#8220;bots&#8221;, through many different means such as an infected webserver with a virus embedded into it, spreading via fake programs on YouTube to generate codes for iTunes or Minecraft, or sending traffic to websites that automatically download an run the virus on the persons computer.</p>
 <div id="attachment_5743" style="width: 780px" class="wp-caption aligncenter">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/1b.png" alt="1b" width="770" height="286" srcset="/imgs/2014/05/1b.png 1640w, /imgs/2014/05/1b-300x111.png 300w, /imgs/2014/05/1b-1024x380.png 1024w" sizes="(max-width: 770px) 100vw, 770px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/1b.png" alt="1b" width="770" height="286" srcset="/imgs/2014/05/1b.png 1640w, /imgs/2014/05/1b-300x111.png 300w, /imgs/2014/05/1b-1024x380.png 1024w" sizes="(max-width: 770px) 100vw, 770px" />
 
 <div id="attachment_5744" style="width: 799px" class="wp-caption aligncenter">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/2b.png" alt="2b" width="789" height="533" srcset="/imgs/2014/05/2b.png 1644w, /imgs/2014/05/2b-300x203.png 300w, /imgs/2014/05/2b-1024x691.png 1024w, /imgs/2014/05/2b-290x195.png 290w" sizes="(max-width: 789px) 100vw, 789px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/2b.png" alt="2b" width="789" height="533" srcset="/imgs/2014/05/2b.png 1644w, /imgs/2014/05/2b-300x203.png 300w, /imgs/2014/05/2b-1024x691.png 1024w, /imgs/2014/05/2b-290x195.png 290w" sizes="(max-width: 789px) 100vw, 789px" />
 
 <div id="attachment_5745" style="width: 977px" class="wp-caption aligncenter">
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/3b.png" alt="3b" width="967" height="153" srcset="/imgs/2014/05/3b.png 1738w, /imgs/2014/05/3b-300x47.png 300w, /imgs/2014/05/3b-1024x162.png 1024w" sizes="(max-width: 967px) 100vw, 967px" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/3b.png" alt="3b" width="967" height="153" srcset="/imgs/2014/05/3b.png 1738w, /imgs/2014/05/3b-300x47.png 300w, /imgs/2014/05/3b-1024x162.png 1024w" sizes="(max-width: 967px) 100vw, 967px" />
 
 <p>Once the computer is infected with the virus, the computer is at the mercy of the person who controls the botnet from there website or PC. They are able to do things such as force you to visit a website without your knowledge or permission, download your files directly to there computer from your computer, shutdown/log out/hibernate your computer, and even completely wipe your entire hard drive. And you wouldn&#8217;t even know that you have it on your computer until it is too late.</p>
 <p>But what is it that makes Cortex&#8217;s botnet so unique and robust? It runs entirely through the Tor network. At first, this may sound like a large disadvantage, but really&#8230; it might just be the biggest advantage you could have. Hundreds of PC&#8217;s and websites running this botnet software get taken offline each day by law enforcement by using simple tools to locate the server and the owner of the server. But with this software, the network traffic is fully encrypted via Tor from end to end with no interruptions, strongly limiting the botnet owners risk of being found and taken offline.</p>
@@ -48,7 +48,7 @@ Posted by: ChrisHansen </span>
 <p><strong>Chris: Awesome. Winding down the interview process, I have to ask&#8230; anyone you want to thank or give a shoutout too?</strong><br />
     Cortex: None that I can publicly thank or shutout to.</p>
 <p><strong>Chris: Any final words on your end? Anything at all?</strong><br />
-<b>Cortex</b>: None that I can think of off the top of my head, besides the marketer in me saying &#8220;To purchase or for inquiries, contact me at <a href="https://g-i-r.github.io/deepdotweb/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b3834292f3e231b3e232b3734322f753236">[email&#160;protected]</a>&#8221;</p>
+<b>Cortex</b>: None that I can think of off the top of my head, besides the marketer in me saying &#8220;To purchase or for inquiries, contact me at <a href="https://gir.pub/deepdotweb/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b3834292f3e231b3e232b3734322f753236">[email&#160;protected]</a>&#8221;</p>
 <p><strong>Chris: Perfect. Thank you very much for your time! :)</strong><br />
 <b>Cortex</b>: No problem.</p>
 

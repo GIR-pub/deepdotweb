@@ -13,7 +13,7 @@ Posted by: DeepDotWeb
 <p>(This was primarily researched by <a href="http://www.reddit.com/u/impost_r">/u/impost_r</a>, and written by <a href="http://www.reddit.com/u/gwern">/u/gwern</a> .)</p>
 <p>Silk Road 1 launched in January 2011. During 2011, the exchange rate for Bitcoin experienced extreme volatility, moving by orders of magnitude, which made it difficult to transact using Bitcoin because payment for an order could easily become less than the order cost. In response to this, Dread Pirate Roberts 1 introduced in <a href="https://www.dropbox.com/s/58v7x0nh794tr0b/index.php%3Ftopic%3D819.0">9 July 2011 a “hedging” system</a>:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/hedge.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/01/hedge.png">
 
 <p>vendors could ‘lock in’ the USD value of any purchase and receive, when the transaction settled, the USD value in Bitcoins back. The obvious way to implement a hedging system is to maintain an account on a large exchange (the largest then being Mtgox) and transfer bitcoins in and buy/sell to match each purchase; but this would incur fees for trading, counterparty risk (not just the exchange collapsing/being hacked but also the account being seized), complexity, and risking de-anonymization (Mtgox and other exchanges do not look kindly on Tor connections due to abuse). It was not clear how DPR had implemented hedging; he could have self-insured, betting on Bitcoin’s long-term upwards trend to profit on average.</p>
 <p>The hedging system was a success, and was used from July 2011 to October 2013 when SR1 was raided, with perhaps occasional hiccups.</p>
@@ -65,7 +65,7 @@ Posted by: DeepDotWeb
 <p>
     Isolating all trade entries associated with the account, <a href="https://www.dropbox.com/s/j3bboteyufiudbo/mtgox_uuid_6534.csv">17,049 unique entries were found</a>. (Note that interpreting Mtgox trade records can be challenging; for example, the data is occasionally corrupt, and not all of these are separate orders since the exchange splits them into multiple orders in order to match them with various counter parties.) Looking at the entries, the easiest way to identify multiple trades as belonging to a single buy or sell order is to group them based on timestamps. Individual trades are visualized in this graph:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/graph.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/01/graph.png">
 
 <p><a href="https://i.imgur.com/9SkDN5V.png">
 aggregated by day</a>, <a href="https://i.imgur.com/mqxcI80.png">

@@ -6,7 +6,7 @@ title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 <span>December 24, 2013</span>
 
 
-<p>Just when we thought that this drama could not get any worse, Oracle came along AGAIN announcing he would release the true story about the recent events in 12 hours &#8211; at the beginning we thought &#8220;meh&#8230;&#8221;, but after reading the post, We figured out that This latest SR drama is so hilarious / pathetic / sad / funny / dangerous (cant decide?!) that we are not sure if we should laugh or cry, everyone (at least those of you who are not bored to death yet) should read the previous posts &#8211; <a href="https://g-i-r.github.io/deepdotweb/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">here</a> &amp; <a href="https://g-i-r.github.io/deepdotweb/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/">here</a> and this one, and judge for themselves.  Anyway we look at it, this story is just&#8230;. well&#8230;. good story, kinda like watching a retard version of breaking bad,  so we just had to post it anyway, you decide if you should believe it or not:</p>
+<p>Just when we thought that this drama could not get any worse, Oracle came along AGAIN announcing he would release the true story about the recent events in 12 hours &#8211; at the beginning we thought &#8220;meh&#8230;&#8221;, but after reading the post, We figured out that This latest SR drama is so hilarious / pathetic / sad / funny / dangerous (cant decide?!) that we are not sure if we should laugh or cry, everyone (at least those of you who are not bored to death yet) should read the previous posts &#8211; <a href="https://gir.pub/deepdotweb/2013/12/22/warning-silk-road-2-0-and-dpr-account-might-be-compromised/">here</a> &amp; <a href="https://gir.pub/deepdotweb/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/">here</a> and this one, and judge for themselves.  Anyway we look at it, this story is just&#8230;. well&#8230;. good story, kinda like watching a retard version of breaking bad,  so we just had to post it anyway, you decide if you should believe it or not:</p>
 <p>Read the OP and comments here:<span style="text-decoration: underline;"> http://silkroad5v7dywlc.onion/index.php?topic=11089.0</span></p>
 <p>So ladies and gentleman, we present you with the best Christmas drama story of 2013 &#8211; &#8220;The Silk Road 2.0 Tales &amp; Psy-Ops!&#8221;:</p>
 <p style="text-align: center;"><span style="text-decoration: underline;">&#8212; Starting quote &#8212;</span></p>
@@ -70,11 +70,11 @@ title: "The Silk Road 2.0 Tales &#038; Psy-Ops!"
 <div style="text-align: center;">&#8212; End quote &#8212;</div>
 <p>The comments from reddit reflects how many people are feeling about this ongoing drama, this sure doesnt help building back the trust on the darknet markets, some even suggested it was faked by paying Oracle off to shut up about the true problems.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/redditcomment.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2013/12/redditcomment.png"/>
 <p>On Silk Road forums the reaction were a mix confusion, distrust,relief and joy. See you on the sequel.  Somehow we get the feeling that this is not the last we are going to hear about it, probably around the time that the market will be back from the Christmas shutdown.  Marry Christmas!</p>
 <p>&gt;We made screenshots of this post for future generations:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/psy1.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2013/12/psy1.png"/>
 </div>
 
 Updated: 2013-12-24

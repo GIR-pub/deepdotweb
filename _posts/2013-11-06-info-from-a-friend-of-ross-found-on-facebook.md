@@ -2,14 +2,14 @@
 title: "info from a friend of Ross found on Facebook"
 ---
 
-<span><a href="https://g-i-r.github.io/deepdotweb/2013/11/06/info-from-a-friend-of-ross-found-on-facebook/#comments">1 Comment</a></span>
+<span><a href="https://gir.pub/deepdotweb/2013/11/06/info-from-a-friend-of-ross-found-on-facebook/#comments">1 Comment</a></span>
 
 
 <p>Today someone posted on Reddit some images from a facebook profile that belongs to a friend of Ross Ulbrich, revealing some information about the legal battle behind the scenes and promising that there is much more that we don&#8217;t know yet&#8230; i am sure it will be interesting.</p>
 <p>Thread on Reddit: http://www.reddit.com/r/SilkRoad/comments/1q04af/some_info_from_a_friend_of_ross_found_through/</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/11/WA4EeSX.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2013/11/WA4EeSX.png" />
 
 </div>
-<a href="https://g-i-r.github.io/deepdotweb/tag/facebook/" rel="tag">facebook</a> <a href="https://g-i-r.github.io/deepdotweb/tag/friend/" rel="tag">friend</a> <a href="https://g-i-r.github.io/deepdotweb/tag/info/" rel="tag">info</a> <a href="https://g-i-r.github.io/deepdotweb/tag/ross/" rel="tag">ross</a>
+<a href="https://gir.pub/deepdotweb/tag/facebook/" rel="tag">facebook</a> <a href="https://gir.pub/deepdotweb/tag/friend/" rel="tag">friend</a> <a href="https://gir.pub/deepdotweb/tag/info/" rel="tag">info</a> <a href="https://gir.pub/deepdotweb/tag/ross/" rel="tag">ross</a>
 
 Updated: 2013-11-06

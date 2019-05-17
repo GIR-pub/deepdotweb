@@ -15,7 +15,7 @@ title: "Posted by: DeepDotWeb
 <p>There is no identity, no central operator and no interaction between leaker and buyers. We encourage everyone to download Darkleaks now and start building. The code can be <a class="markup--anchor markup--p-anchor" href="https://github.com/darkwallet/darkwallet" target="_blank" rel="nofollow" data-href="https://github.com/darkwallet/darkwallet">found here</a>.</p>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/1_kz2LBycqsV2PRLwCLFUCUQ1.jpeg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/02/1_kz2LBycqsV2PRLwCLFUCUQ1.jpeg">
 <p id="d866" class="graf--h3"><strong>Unstoppable Leaks</strong></p>
 <p>We give the world a new scheme for selling information of any type, form or kind. This is a gift for you to stop corruption and challenge power.</p>
 <figure id="aebe" class="graf--figure postField--insetLeftImage">
@@ -57,7 +57,7 @@ title: "Posted by: DeepDotWeb
 <p>When the leaker selects a document, it is broken up into segments. Each of the segments is hashed, and a Bitcoin address is generated using the hash as the secret key. From this public key, a new key is generated to encrypt the segments. The encrypted segments are released for public download with the list of Bitcoin addresses.</p>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/1_RTZrHcRj7a_RnfCSWaVlrQ1.jpeg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/02/1_RTZrHcRj7a_RnfCSWaVlrQ1.jpeg">
 <p>To prove the authenticity of the document, the system uses a trustless provably fair mechanism. When announcing the leak, the leaker chooses a date and number of the chunks to be released. Based on the Bitcoin block hash at that time, some provably fair random numbers are chosen to select segments to be unlocked. This allows the community to verify the veracity of the file and decide whether they want to pay for the remaining encrypted segments.</p>
 <p>The buyers then send Bitcoins to these addresses. When the leaker decides to claim the Bitcoins from the private key, due to how Bitcoin is designed he must release the public key which allows the buyers to decrypt the document.</p>
 <p>Because the leaker cannot pre-choose which segments are released, the buyers can verify the addresses are correct, and the segments can be decrypted. This makes for an authenticatable and trustless mechanism for selling information on the decentralised black market.</p>

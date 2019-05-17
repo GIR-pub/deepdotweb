@@ -8,17 +8,17 @@ Posted by: DeepDotWeb
 
 <p>After the <a href="#">Evo Scam</a>, and while looking at the uptime status widget who looks like that (at least when this post was published):</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/uptime.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/uptime.png">
 
 <ol>
 <li>Donate to Peter Nash fund, the arrested silk road moderator <a href="#">here</a>)</li>
-<li>Check other markets at our <a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">Dark Net markets comparison chart</a>.</li>
-<li><a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Leave reviews for markets you have tried</a> &#8211; be honest!</li>
+<li>Check other markets at our <a href="https://gir.pub/deepdotweb/dark-net-market-comparison-chart/">Dark Net markets comparison chart</a>.</li>
+<li><a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Leave reviews for markets you have tried</a> &#8211; be honest!</li>
 <li>Check out new posts at the <a href="http://www.reddit.com/r/DarkNetMarkets/">/r/darknetmarkets sub</a></li>
-<li>Post something on <a href="https://g-i-r.github.io/deepdotweb/forum/">our forum</a></li>
+<li>Post something on <a href="https://gir.pub/deepdotweb/forum/">our forum</a></li>
 <li>Visit The Hub Forum &#8211; Cross Marketplace discussion forum: http://thehub7gqe43miyc.onion</li>
 <li>Or The Kingdom forum: http://kingdomazsnvzfuq.onion</li>
-<li>Avoid the next scam! learn multisig at our <a href="https://g-i-r.github.io/deepdotweb/multisig-guides/">multisig tutorials sectio</a>n.</li>
+<li>Avoid the next scam! learn multisig at our <a href="https://gir.pub/deepdotweb/multisig-guides/">multisig tutorials sectio</a>n.</li>
 <li>Read some article on this site</li>
 <li><a href="https://twitter.com/DeepDotWeb">Follow us on twitter!</a></li>
 <li>Browse <a href="http://www.reddit.com/r/buttcoin">/r/buttcoin subreddit!</a></li>

@@ -111,7 +111,7 @@ Posted by: DeepDotWeb
     will get a fast response back. Every time.</p>
 <p>-drugslist</p>
 <p>==============</p>
-<p>Find More information and marketplaces at our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">list of hidden marketplaces</a>.</p>
+<p>Find More information and marketplaces at our <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">list of hidden marketplaces</a>.</p>
 
 Updated: 2014-01-19
     

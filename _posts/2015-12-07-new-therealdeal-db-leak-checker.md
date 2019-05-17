@@ -15,7 +15,7 @@ Posted by: DeepDotWeb
 <p>At the current stage (beta) &#8211; Anyone can sign up for free and get full results limited to the 20 first matches found, showing all the information related to their query and the name of the database it was found in.</p>
 <p>In the near future we will allow &#8216;guests&#8217; to only see if we found a match and the in which database it was found, while offering premium memberships which will allow a user to view more results or all the matching results found from all the databases, depending on their membership package. We are also planning on selling the databases directly for a fairly cheap price and in automated manner.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/checker.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/checker.png">
 
 <p>At the time of writing there are currently over 300,000,000 entries (and counting), mostly login information from 1000s of different databases, we plan on adding another 200,000,000 later on today, and of course more as time goes by and databases are leaked, offered for sale, and crawled/dumped.</p>
 <p>I would like to personally thank our co-admin “peace” for setting this up and gathering all the databases one could possibly think of, and even not think of :)<br/>

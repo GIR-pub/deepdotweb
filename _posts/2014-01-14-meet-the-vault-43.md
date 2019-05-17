@@ -30,9 +30,9 @@ Posted by: DeepDotWeb
     Craigslist for the Darknet. This service offers no guarantee of delivery, resolution, or support; but it&#8217;s free to trade and post items.<br/>
     ====End Quote====</p>
 <p>At this time it seems that the only thing live it the forums, but we like and support this idea so we decided to post about it. Here is a screenshot of the main page. you guessed it, SMF again:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/vault43.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/01/vault43.png" />
 
-<p>Vault43 Is listed on our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a>, as we understand its undergoing developments so its now listed under the new markets / being developed &#8211; and will change its status once we will see some more features being released.</p>
+<p>Vault43 Is listed on our <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a>, as we understand its undergoing developments so its now listed under the new markets / being developed &#8211; and will change its status once we will see some more features being released.</p>
 </div>
 
 Updated: 2014-01-14

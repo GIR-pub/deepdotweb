@@ -52,8 +52,8 @@ Posted by: DeepDotWeb
     Service Name:  <strong>Bitrated </strong><br />
     Service Url: <a href="https://www.bitrated.com/" target="_blank">https://www.bitrated.com/</a>
 </div></div>
-<p>Feel free to try it out and contact the service admin directly at <a href="https://g-i-r.github.io/deepdotweb/cdn-cgi/l/email-protection#630d0207021523010a1711021706074d000c0e" target="_blank"><span class="__cf_email__" data-cfemail="81efe0e5e0f7c1e3e8f5f3e0f5e4e5afe2eeec">[email&#160;protected]</span></a> if you have any issues, questions or suggestions for improvements.</p>
-<p>We have also added this solution to the <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a> as a related service</p>
+<p>Feel free to try it out and contact the service admin directly at <a href="https://gir.pub/deepdotweb/cdn-cgi/l/email-protection#630d0207021523010a1711021706074d000c0e" target="_blank"><span class="__cf_email__" data-cfemail="81efe0e5e0f7c1e3e8f5f3e0f5e4e5afe2eeec">[email&#160;protected]</span></a> if you have any issues, questions or suggestions for improvements.</p>
+<p>We have also added this solution to the <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">List of hidden marketplaces</a> as a related service</p>
 
 
 Updated: 2014-02-17

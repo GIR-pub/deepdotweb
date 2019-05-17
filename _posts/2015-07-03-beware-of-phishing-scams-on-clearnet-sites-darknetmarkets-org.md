@@ -12,13 +12,13 @@ Posted by: DeepDotWeb
 <ul>
 <li><em>darknetmarkets.o r g/mark ets</em> (added spaces in the url)</li>
 </ul>
-<p>Do not visit that site or use any of the links on that list as they are redirecting to phishing urls that will steal your market login credentials and quite possibly your session in case you are <a href="https://g-i-r.github.io/deepdotweb/2015/04/22/reminder-onion-cloner-phishing-scams/">logged into the market</a> &#8211; with the goal of stealing your BTC. this was first reported <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/">on Reddit</a> and confirmed by multiple users:</p>
+<p>Do not visit that site or use any of the links on that list as they are redirecting to phishing urls that will steal your market login credentials and quite possibly your session in case you are <a href="https://gir.pub/deepdotweb/2015/04/22/reminder-onion-cloner-phishing-scams/">logged into the market</a> &#8211; with the goal of stealing your BTC. this was first reported <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/">on Reddit</a> and confirmed by multiple users:</p>
 <div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="true" data-embed-created="2015-07-02T20:55:11.618Z"><a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/csq5ic8">Comment</a> from discussion <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/">https://darknetmarkets.org/markets &lt;&lt; Scammer link</a>.</div>
 <div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="false" data-embed-live="true" data-embed-created="2015-07-02T20:55:40.646Z"><a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/csq5ntk">Comment</a> from discussion <a href="https://www.reddit.com/r/DarkNetMarkets/comments/3bwgfo/httpsdarknetmarketsorgmarkets_scammer_link/">https://darknetmarkets.org/markets &lt;&lt; Scammer link</a>.</div>
 <p><script src="https://www.redditstatic.com/comment-embed.js" async=""></script></p>
 <p><strong>Screenshot of the phishing links:</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/Scam.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/07/Scam.png">
 
 <p>Clicking one of the shortlinks on that list:</p>
 GET /Agora HTTP/1.1
@@ -49,7 +49,7 @@ HTTP/1.1·307·Temporary·Redirect(CR)(LF)
 <p>
     Generally its better to have your links saved in an encrypted text file if you use them on a regular basis, but if you must &#8211; get your links <strong>ONLY</strong> from:</p>
 <ul>
-<li><a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Our list</a> (Can use our Onion address: http://deepdot35wvmeyd5.onion)</li>
+<li><a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Our list</a> (Can use our Onion address: http://deepdot35wvmeyd5.onion)</li>
 <li><a href="https://dnstats.net/">Dnstats</a></li>
 <li><a href="https://www.reddit.com/r/darknetmarkets/wiki/superlist">DarkNetmarkets Superlist</a></li>
 </ul>

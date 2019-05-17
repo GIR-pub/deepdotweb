@@ -18,7 +18,7 @@ title: "Hidden Marketplaces List Updates: 12-12-13"
 <p>&#8211; added FloMarket</p>
 <p>&#8211; added Blue Sky Marketplace</p>
 <p>&#8211; Added Agora marketplace</p>
-<p><span style="color: #ff0000;"><strong>You Can Check out the list here: <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank"><span style="color: #ff0000;">https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/</span></a></strong></span></p>
+<p><span style="color: #ff0000;"><strong>You Can Check out the list here: <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank"><span style="color: #ff0000;">https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/</span></a></strong></span></p>
 
 
 Updated: 2013-12-12

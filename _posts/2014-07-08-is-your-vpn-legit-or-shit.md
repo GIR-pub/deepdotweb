@@ -8,7 +8,7 @@ Posted by: iBurnEZ </a></span>
 
 <p>Those of you who frequent the darkweb should be familiar with VPN (Virtual Private Network) services and have done some research to find a trustworthy provider. For readers who are just starting to explore the darker catacombs of the Internet a VPN is a mandatory tool for online anonymity.</p>
 <p>But not all VPN services are created equal.</p>
-<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a></p>
+<p style="text-align: center;"><a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a></p>
 <p><strong>For n00bs</strong></p>
 <p>A VPN provides a secure connection between your computer and the VPN servers. All communications between your computer and the VPN are encrypted and sent through a secure tunnel over the Internet, preventing outsiders from spying on your web activity. You can securely connect to a VPN service and surf the web from their servers, using their IP addresses.</p>
 <p>There are lots of reasons to use a VPN service such as establishing a secure connection over an insecure network, accessing censored or region specific web content, or hiding p2p sharing activity that is often frowned upon in the US. But if you’ve made it to DDW you’re probably starting to understand that there are parts of the web where more nefarious things happen (which DDW acknowledges but does not condone) and anonymity is of the utmost importance.</p>
@@ -27,7 +27,7 @@ Posted by: iBurnEZ </a></span>
 <p>An honorable mention must go out to VPN provider MULLVAD who do not even require an email address. Visitors to the website click “create account” and they are given an account number without entering any information at all.</p>
 <p><strong>VPN Providers to Avoid</strong></p>
 <p>If you intend to use a VPN to hide your p2p activity on the web or go to the other side of the great virtual divide we recommend that you steer clear of these VPN providers. We want to be fair, VPNs who make this list are not “bad” VPN providers but they do participate in logging activities that put their users at risk. These VPNs do not provide true privacy on the web.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/badvpn.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/06/badvpn.png" />
 
 <p><strong>Privacy Focused VPN Providers</strong></p>
 <p>The following is a list of ten VPN providers who openly state that they do not log any information that may be used to identify anyone using their VPN service. To be considered as a privacy focused VPN provider the service must have the following qualifications:</p>
@@ -38,9 +38,9 @@ Posted by: iBurnEZ </a></span>
 </ol>
 <p>You will note that there are VPN providers based in the USA on this list. It is a common misconception that US VPN services are legally required to log activity on their network. This simply isn’t true, but they are still required to cooperate with US law enforcement while other countries are not. Required cooperation is partly the reason they dutifully do not log activity on their networks. These companies cannot be held liable for withholding information they do not have. Choosing a VPN service, and which country it is based in, is up to you, but we do not want to discourage people from supporting small businesses in the US based on hearsay</p>
 <p>Anyone concerned with their privacy for any reason should consider one of the following VPN services. As a DDW Disclaimer: You shouldn’t rely on a VPN provider to protect you from the authorities. It’s really best if the authorities don’t have a reason to be looking for you at all.</p>
-<p style="text-align: center;"><a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a><br />
+<p style="text-align: center;"><a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">&gt;&gt;&gt;Click for DeepDotWeb&#8217;s Chart of Best VPN services&lt;&lt;&lt;</a><br />
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/06/bestvpn.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/06/bestvpn.png"/>
 
 Updated: 2014-07-08

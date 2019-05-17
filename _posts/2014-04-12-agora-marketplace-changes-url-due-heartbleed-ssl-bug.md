@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>April 12, 2014</span>
 
-<a href="https://g-i-r.github.io/deepdotweb/2014/04/12/agora-marketplace-changes-url-due-heartbleed-ssl-bug/#comments">20 Comments</a></span>
+<a href="https://gir.pub/deepdotweb/2014/04/12/agora-marketplace-changes-url-due-heartbleed-ssl-bug/#comments">20 Comments</a></span>
 </p>
 <p><strong><span style="text-decoration: underline;">Update</span>: Market is back up and running at the new url:  <span style="color: #ff0000;">http://agorahooawayyfoe.onion/register/Gc2h4eoFAE</span></strong></p>
 <p>Agora Marketplace was taken down by its admins due to the Heartbleed bug &#8211; to move it servers and change the sites url, if you try to browse the old site you will now get the below message, listing the new urls &#8211; they say that the site will be back till the end of the week (but you know how it is &#8211; can easily take longer than expected) we have received some info stating that once the site will be back up &#8211; change of passwords and pins will be needed and most likely even enforced once the site goes live again.</p>

@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 
 <p><a href="http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20William%20Sentencing%20News%20Release.html" target="_blank">A Florida man was sentenced yesterday</a> to 110 months in prison for producing and selling potentially deadly toxins ricin and abrin for use as weapons and conspiring to kill a woman in the United Kingdom, U.S. Attorney Paul J. Fishman announced.</p>
-<p><a href="https://g-i-r.github.io/deepdotweb/2014/01/22/bmr-vendor-busted-for-selling-deadly-toxin/">Jesse William Korff</a>, 20, of Labelle, Florida, pleaded guilty before U.S. District Judge Peter G. Sheridan on Aug. 12, 2014, to an information charging him with five counts of developing, producing, transferring and possessing toxins, five counts of smuggling toxins and one count of conspiring to kill a person in a foreign country.</p>
+<p><a href="https://gir.pub/deepdotweb/2014/01/22/bmr-vendor-busted-for-selling-deadly-toxin/">Jesse William Korff</a>, 20, of Labelle, Florida, pleaded guilty before U.S. District Judge Peter G. Sheridan on Aug. 12, 2014, to an information charging him with five counts of developing, producing, transferring and possessing toxins, five counts of smuggling toxins and one count of conspiring to kill a person in a foreign country.</p>
 <p>Korff was arrested in Florida on Jan. 18, 2014, following a joint investigation by U.S. Immigration and Customs Enforcement, Homeland Security Investigations (HSI) and the FBI of Korff’s sales of toxins through an underground, Internet-based marketplace known as “Black Market Reloaded” (BMR).</p>
 <blockquote><p>Jesse Korff peddled his poison in a shadowy, online network favored by cybercriminals</p></blockquote>
 <p>U.S. Attorney Fishman said:</p>
@@ -17,7 +17,7 @@ Posted by: DeepDotWeb
 <p>John P. Woods, acting special agent in charge of HSI Newark, said. “HSI will maintain its unrelenting commitment to protecting our land borders as well as virtual borders from individuals like Korff. Anyone who mistakenly thinks that they can get away with these types of crimes by hiding in the endless depths of the internet must know that HSI will seek them out and bring them to justice.”</p>
 <p>“Jesse Korff acquired abrin and ricin, potentially lethal toxins, through an underground internet-based marketplace, so they could be used for deadly purposes,” Richard M. Frankel, FBI Special Agent in Charge, Newark, said. “Thankfully, with the coordinated efforts of our law enforcement partners, and the tactical and technical expertise of the FBI’s Joint Terrorism Task Force, he was intercepted and his potentially deadly threats did not become a reality.”</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/02/JesseWilliamKorff1.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/02/JesseWilliamKorff1.jpg">
 
 <p><strong>According to documents filed in this case and statements made in court:</strong></p>
 <p>Beginning in April 2013, HSI special agents in Newark launched an investigation of illicit sales activity on BMR. The website provided a platform for vendors and buyers to conduct anonymous online transactions involving the sale of a variety of illegal goods, including biological agents, toxins, firearms, ammunition, explosives, narcotics and counterfeit items.</p>

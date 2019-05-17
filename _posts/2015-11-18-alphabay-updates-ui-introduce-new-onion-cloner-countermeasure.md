@@ -11,13 +11,13 @@ Posted by: DeepDotWeb
 <p><a href="#">onion cloner phishing scams</a> (common phishing scam sites which proxy markets on the fly while replacing deposit addresses to their own addresses in order to scam users into sending their BTC to the phishers instead of the market).</p>
 <p>New users are advised to verify the PGP signature of their deposit address against the market pgp key located in its &#8220;contact&#8221; page.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/deposit.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/11/deposit.png">
 
 <p>This is how it looks:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/pgpsigned.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/11/pgpsigned.png">
 
-<p>You can learn more about PGP signatures <a href="https://g-i-r.github.io/deepdotweb/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/">here</a>.</p>
+<p>You can learn more about PGP signatures <a href="https://gir.pub/deepdotweb/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/">here</a>.</p>
 <p>This is the original update posted by the market admins:</p>
 
     -----BEGIN PGP SIGNED MESSAGE-----
@@ -67,7 +67,7 @@ Posted by: DeepDotWeb
     -----END PGP SIGNATURE-----
 
 <p>
-    Reminder: Use market links obtained from <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">trusted</a> <a href="https://g-i-r.github.io/deepdotweb/dark-net-market-comparison-chart/">sources</a> only and encourage the use of <a href="https://g-i-r.github.io/deepdotweb/2015/11/12/reminder-reduce-exit-scams-by-supporting-multisig-markets/">multisg transactions</a>.</p>
+    Reminder: Use market links obtained from <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">trusted</a> <a href="https://gir.pub/deepdotweb/dark-net-market-comparison-chart/">sources</a> only and encourage the use of <a href="https://gir.pub/deepdotweb/2015/11/12/reminder-reduce-exit-scams-by-supporting-multisig-markets/">multisg transactions</a>.</p>
 
 Updated: 2015-11-18
 

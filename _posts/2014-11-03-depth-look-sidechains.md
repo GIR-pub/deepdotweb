@@ -6,10 +6,10 @@ Posted by:  Zubair Muadh
 <span>November 3, 2014</span>
     
 
-<p>Following the proposal for having Bitcoin Sidechains that was <a href="https://g-i-r.github.io/deepdotweb/2014/06/26/sidechains-blockchain-2-0/">discussed earlier in 2014</a> Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille released the first white paper on sidechains titled ‘Enabling Blockchain Innovations with Pegged Sidechains’</p>
+<p>Following the proposal for having Bitcoin Sidechains that was <a href="https://gir.pub/deepdotweb/2014/06/26/sidechains-blockchain-2-0/">discussed earlier in 2014</a> Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille released the first white paper on sidechains titled ‘Enabling Blockchain Innovations with Pegged Sidechains’</p>
 <p>A detailed 22 page whitepaper which discuses design rationale, the applications of sidechains, drawbacks and explains two-way pegging.</p>
 <p><strong>Symmetric two way pegging</strong></p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/10/sidechains.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/10/sidechains.png" />
 
 <p>We’re introduced to the details of symmetric two-way pegging</p>
 <p>SPV is a simplified payment verification proof.</p>

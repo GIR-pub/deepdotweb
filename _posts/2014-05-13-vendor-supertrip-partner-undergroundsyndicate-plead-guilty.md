@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>May 13, 2014</span>
 
-<p>Few weeks ago we have reported about the arrest of Silk Road vendor <a href="https://g-i-r.github.io/deepdotweb/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/"> SuperTrip</a> And his <a href="https://g-i-r.github.io/deepdotweb/2014/05/08/supertrips-pleaded-guilty-for-selling-large-amounts-on-silk-road/">plea</a>,  as part of the plea it was mentioned that he had a partner called Underground syndicate:</p>
+<p>Few weeks ago we have reported about the arrest of Silk Road vendor <a href="https://gir.pub/deepdotweb/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/"> SuperTrip</a> And his <a href="https://gir.pub/deepdotweb/2014/05/08/supertrips-pleaded-guilty-for-selling-large-amounts-on-silk-road/">plea</a>,  as part of the plea it was mentioned that he had a partner called Underground syndicate:</p>
 <blockquote><p>n August 2012, Slomp and Individual J in Florida allegedly agreed that Slomp would front wholesale quantities of illegal drugs on credit and they would divide the proceeds in half after Individual J resold the drugs to Silk Road customers under the vendor names “<strong>UnderGroundSyndicate</strong>” and “BTCMaster.”  Slomp allegedly imported a half-kilogram of fronted MDMA every week for a year to Individual J, as well as substantial quantities of other illegal drugs.</p></blockquote>
 <p>Now the identity of  UnderGroundSyndicate Became known &#8211; after SuperTrips gave him away as part of his own plea, published earlier by the <a href="http://www.suntimes.com/27419179-761/partner-of-ex-largest-online-drug-dealer-plans-to-plead-guilty.html#.U3JuoXYXLBZ">Chicago Sun time:</a></p>
 <blockquote>
@@ -22,7 +22,7 @@ Posted by: DeepDotWeb
 <p><a href="https://twitter.com/search?q=%23SilkRoad&amp;src=hash">#SilkRoad</a> vendor UnderGroundSyndicate, (<a href="http://t.co/bq1ui97Gus">http://t.co/bq1ui97Gus</a> …) Plea Agreement <a href="http://t.co/ixxBTb9awG">http://t.co/ixxBTb9awG</a> (h/t <a href="https://twitter.com/kimjnews">@kimjnews</a>)</p>
 <p>&mdash; Moustache (@lamoustache) <a href="https://twitter.com/lamoustache/statuses/466293358030487552">May 13, 2014</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/antilop.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/antilop.png" />
 
 <p>This is the plea of UndergroundSyndicate, uploaded to Scribd for our convenience :<br/>
 <iframe id="doc_16269" class="scribd_iframe_embed" src="//www.scribd.com/embeds/223837739/content?start_page=1&amp;view_mode=scroll&amp;show_recommendations=true" width="100%" height="600" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe></p>

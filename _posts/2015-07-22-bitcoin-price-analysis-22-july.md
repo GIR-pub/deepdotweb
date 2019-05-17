@@ -6,13 +6,13 @@ Posted by: DeepDotWeb
 
 <span>July 22, 2015</span>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/13.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/07/13.jpg">
 
 <p>This week, bitcoin continued in a correction; a pullback from a strong upswing that broke out of a 6 month long flat resistance at $316, 2 weeks ago.</p>
 <p><em>“A market correction refers to a price decline of at least 10% of any security or market index following a temporary upswing in market prices” </em> (around $ 284)</p>
 <p>Thrusting above this significant level, exceeded market expectations, and escalating dumping and consolidation followed. As well as profit takers from long positions from lows. In essence, a correction at this level is a fair expectation. And, just as with most of them, volumes diminish with declining prices, suggesting exhausting supply.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/22.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/07/22.jpg">
 
 <p>Two important questions at this point are:</p>
 <ul>
@@ -21,20 +21,20 @@ Posted by: DeepDotWeb
 </ul>
 <p>Corrections are more telling on the back of higher level time frame moves offers better magnitudes of corrective targets. Right now, they are all the consecutive lows supporting this move as far back as January.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/32.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/07/32.jpg">
 
 <p>On the 1 week chart, the fibonacci retracement of the whole range from $166 to $ 316, current support is at $ 280, reinforced at $ 276 by a 30 day EMA cutting across. The immediate step above is a resistance fib level at $ 316, and a pair of average line 50 and 100 day EMA. Breaking down would result in lower targets before heading up; any further rise above $ 300 has to overcome upper resistance and retrace the preceding 1 week red candle.</p>
 <p>At the time of writing this analysis;</p>
 <p><em>“The upside rally feels weak, market couldn&#8217;t even push above previous high before pulling back lower. People are selling the tops on tape. I will wait for an actual breakout to buy on the long side.”</em></p>
 <p>Moving averages on lower the frames 3 day, 12h, 6h, 4h &#8211; are lined up consecutively down to $ 250; a reasonable target for this corrective move down if it continues, interestingly a target in an identified <a href="http://stockcharts.com/school/doku.php?id=chart_school:chart_analysis:chart_patterns:cup_with_handle_continuation">cup with handle pattern</a>.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/43.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/07/43.png">
 
 <p>A 4 month old pattern dating back to $ 304 peak in March, curves round in a cup shape to $316. The handle is the 2 week decline from peak and represents a final pullback before the big breakout; anywhere up to 50% of the cup.</p>
 <p><em>“Question is if we already sow the bottom of the handle. I think we did and that we just need to get some serious buying volume in next few days.”</em></p>
 <p>With this move, expect a reversal from a bottom within a ranges up to $260. Recommended entry point for C&amp;H is just above the cup &#8211; price breakouts past $310 accompanied by large volume. Buy on the upswing if you can handle the ride up.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/07/52.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/07/52.jpg">
 
 <p>Even the EWrs are expecting a move up to at least low target $320s for the final push 5th wave. In this method the handle of the cup is a corrective wave fourth wave preceding a rising fifth of a 5 wave move up (i, ii, iii, iv, v).</p>
 <p>This week I am neutral to bullish with modest targets anywhere from $320 &#8211; $335.</p>

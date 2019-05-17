@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 <span>December 4, 2014</span>
 
     
-<p><em><a href="https://g-i-r.github.io/deepdotweb/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-1/">Take a look at part 1</a><br />
+<p><em><a href="https://gir.pub/deepdotweb/2014/12/04/opportunities-aboard-deep-web-entrepreneurs-part-1/">Take a look at part 1</a><br />
 </em></p>
 <p>Picking a country to live in is very personal matter and there can&#8217;t be a exact guide for that but below are a few possible options. These countries have been evaluated on the countries ties to the USA and West, economy, legal and enforcement systems, and business or laundering opportunities.</p>
 <p><strong>Cambodia</strong></p>

@@ -36,7 +36,7 @@ I certainly don't have any problem with the use of the markets, in fact I think 
 
 ![](https://imgur.com/T7QpFTM.png)
 
-## Why am I Building This Archive?
+## Why Build This Archive?
 
 Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://www.deepdotweb.com/), which begs the question: Why did I build this archive?
 
@@ -52,7 +52,7 @@ Though I'm grateful for the internet archive, I thought I could do something nic
 * [WiReD: FEDS DISMANTLED THE DARK-WEB DRUG TRADE—BUT IT'S ALREADY REBUILDING](https://www.wired.com/story/dark-web-drug-takedowns-deepdotweb-rebound/)
 * [DeepDotWeb Dark web resource dies with FBI seizure](https://www.zdnet.com/article/deepdotweb-dies-with-fbi-seizure/)
 
-![](https://g-i-r.github.io/deepdotweb/deepdotweb-seized.png)
+![](https://gir.pub/deepdotweb/deepdotweb-seized.png)
 
 ## How am I building this Archive?
 
@@ -103,4 +103,4 @@ However, once everything it set up, changing themes can be relatively trival.
 This was another reason I was concerned that I shouldn't leave it up to the Internet Archive to protect our ability to learn best practicees for privacy online.
 
 
-![](https://G-I-R.github.io/deepdotweb/free_ross.jpg)
+![](https://gir.pub/deepdotweb/free_ross.jpg)

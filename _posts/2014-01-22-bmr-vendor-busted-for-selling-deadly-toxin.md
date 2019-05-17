@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
 <p>Watch the news report here:</p>
 <p><script type="text/javascript" src="http://WZVN.images.worldnow.com/interface/js/WNVideo.js?rnd=977671;hostDomain=www.abc-7.com;playerWidth=630;playerHeight=355;isShowIcon=true;clipId=9754929;flvUri=;partnerclipid=;adTag=News;advertisingZone=;enableAds=true;landingPage=;islandingPageoverride=false;playerType=STANDARD_EMBEDDEDscript;controlsType=overlay;galleryType=wnstory;galleryId=24506383"></script><a title="ABC-7.com WZVN News for Fort Myers, Cape Coral " href="http://www.abc-7.com">ABC-7.com WZVN News for Fort Myers, Cape Coral </a></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/JesseWilliamKorff.jpg"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/01/JesseWilliamKorff.jpg"/>
 <p><span style="text-decoration: underline;">This is the full press release from <a href="http://www.justice.gov/usao/nj/Press/files/Korff,%20Jesse%20Arrest,%20Complaint%20PR.html" target="_blank">Justice.gov</a>:</span></p>
 <p>NEWARK, N.J. &#8211; A Florida man is expected in court today after federal agents arrested him on Jan. 18, 2014, in LaBelle, Fla., on New Jersey federal charges alleging he sold the potentially deadly toxin abrin through an underground, Internet-based marketplace, New Jersey U.S. Attorney Paul J. Fishman announced.</p>
 <p>Jesse William Korff, 19, of LaBelle, was arrested as a result of an investigation by U.S. Immigration and Customs Enforcement, Homeland Security Investigations (HSI) and the FBI. The criminal complaint charges Korff with one count of possession and transfer of a toxin for use as a weapon and one count of smuggling goods from the United States. Korff, who had posted a listing for the sale of the toxin on a website known as “Black Market Reloaded” (BMR), was unaware the customer who responded was an undercover HSI agent.</p>
@@ -31,7 +31,7 @@ Posted by: DeepDotWeb
 <p>====</p>
 <p>The only thing we could say is&#8230;. <a href="http://www.reddit.com/user/darknetsolutions" target="_blank">Darknetsolutions</a>, you nailed it:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/darknetsolutions.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/01/darknetsolutions.png"/>
 
 
 Updated: 2014-01-22

@@ -9,7 +9,7 @@ Posted by: DeepDotWeb
 <p>So it seems that as more people are posting threads agaist the interviewers, more people are seeking to do them, this time we had the REAL pleasure of interviewing Boogie &#8211; The PR representative of the <a href="marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution marketplace</a>.  Beside the fact that he was a fun person to interview he helped to clear out some common misconceptions about Evolution (refereed to as Evo in the interview), Which is important as its the fourth largest market today in the DarknetMarkets Scene.</p>
 <p><strong><a href="marketplace-directory/listing/evolution-marketplace" target="_blank">Evolution Marketplace</a>:  http://k5zq47j6wd3wdvjq.onion</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/admin.jpg"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/admin.jpg"/>
 <p>Evo = Evolution Market<br />
     TCF = Tor Carding forum</p>
 <p><strong>DeepDotWeb: So you are the next one that want to put himself in the line of fire with doing interviews? I see many are complaining about them on the forums.</strong><br />
@@ -24,7 +24,7 @@ Posted by: DeepDotWeb
 </strong>Boogie: Yes. Verto is also the owner of TCF but keep in mind that Evo wasnt the solution to TCF being hijacked its been in the making long before that. TCF is its own site with its dealing, we try to keep evolution and tcf separate, as they have their own focuses</p>
 <p><strong>DeepDotWeb: Good thing that you say this cause its a common belief.</strong><br />
     Boogie: I know, and we try to explain but you know how people are. &#8220;they want to believe in that&#8221;.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/evolution.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/evolution.png" />
 
 <p><strong> DeepDotWeb: What distinct Evolution from the so many other markets?</strong><br />
     Boogie: Evo wasn&#8217;t a fly-by-night operation. The one big thing that evo has I believe is a very strong community, if you check out the forums they are very very active.</p>

@@ -37,11 +37,11 @@ Posted by: DeepDotWeb
 </ol>
 <p>With this additional data, we can fill out our picture of the lifecycle of blackmarkets with a more precise survival curve drawing on the full dataset:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/01/1.png">
 
 <p>Blackmarkets thus far seem to have a steady mortality rate for the first year, but then it looks like risks shoot up steeply: very few blackmarkets thus far have passed the first-year mark, but it&#8217;s hard to be sure why, it may be that most of them died too young or not enough time has elapse for them to reach that mark. It may be better to break down the deaths by cause as above, to get a &#8216;competing risks&#8217; survival curve:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/01/2.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/01/2.png">
 
 <p>(This would benefit from a confidence interval like the survival curve graph, but I haven&#8217;t figured out how to add those yet.) I draw a few lessons from eyeballing the graph:</p>
 <ul>
@@ -52,9 +52,9 @@ Posted by: DeepDotWeb
 </ul>
 <p>So what markets <em>are</em> still operating?</p>
 <ul>
-<li><a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">Abraxas / Agora / AlphaBay / Area51 / BlackBank Market / Diabolus / Dream Market / evolution / Middle Earth Marketplace / Nucleus Marketplace / Outlaw Market / Panacea</a></li>
+<li><a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">Abraxas / Agora / AlphaBay / Area51 / BlackBank Market / Diabolus / Dream Market / evolution / Middle Earth Marketplace / Nucleus Marketplace / Outlaw Market / Panacea</a></li>
 </ul>
-<p>(This is just English-speaking marketplaces. For forums, vendor shops, and foreign-language marketplaces like RAMP or Silkittie, see <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">DeepDotWeb</a>.) As you can guess, most opened up in 2014:</p>
+<p>(This is just English-speaking marketplaces. For forums, vendor shops, and foreign-language marketplaces like RAMP or Silkittie, see <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">DeepDotWeb</a>.) As you can guess, most opened up in 2014:</p>
 <ul>
 <li>Abraxas / AlphaBay / Area51 / BlackBank Market / Diabolus / evolution / Middle Earth Marketplace / Nucleus Marketplace / Panacea</li>
 </ul>
@@ -142,7 +142,7 @@ Posted by: DeepDotWeb
 <ul>
 <li>Brian Korff: <a href="http://www.reddit.com/r/DarkNetMarkets/comments/1vurn0/vendor_busted_for_selling_deadly_toxin/" target="_blank">[1]</a> &#8211;  <a href="http://www.tampabay.com/news/courts/criminal/labelle-man-accused-of-selling-toxin-in-death-plot/2162117" target="_blank">[2]</a> &#8211; <a href="http://www.nbc-2.com/story/24506383/muse-poison-black-market-reloaded-online-jesse-korff-labelle-abrin" target="_blank">[3]</a> &#8211; <a href="http://www.nbc-2.com/story/24509658/online-messages-detail-online-poison-sale customer busted? http://www.bbc.com/news/uk-england-london-29331457" target="_blank">[4]</a>
 <ul>
-<li>Ryan Chamberlain: <a href="https://g-i-r.github.io/deepdotweb/2014/06/11/fbi-bomb-suspect-ryan-chamberlain-sought-toxins-via-deep-web-bmr/" target="_blank">[1]</a> &#8211; <a href="http://www.sacbee.com/2014/05/05/6380750/undercover-operation-ends-carmichael.html" target="_blank">related?</a>  &#8211; <a href="http://www.sfgate.com/file/822/822-Redact%20Amend%20Compl.pdf">[3]</a></li>
+<li>Ryan Chamberlain: <a href="https://gir.pub/deepdotweb/2014/06/11/fbi-bomb-suspect-ryan-chamberlain-sought-toxins-via-deep-web-bmr/" target="_blank">[1]</a> &#8211; <a href="http://www.sacbee.com/2014/05/05/6380750/undercover-operation-ends-carmichael.html" target="_blank">related?</a>  &#8211; <a href="http://www.sfgate.com/file/822/822-Redact%20Amend%20Compl.pdf">[3]</a></li>
 <li><a href="http://www.nydailynews.com/new-york/nyc-crime/nypd-reach-fbi-interpol-cyanide-carrying-swede-article-1.1637056" target="_blank">Jonathan Norling</a></li>
 <li><a href="http://www.reddit.com/r/DarkNetMarkets/comments/27id98/fbi_chamberlain_sought_toxins_on_the_deep_web/ci1agqx" target="_blank">James Christopher Malcolm?</a></li>
 </ul>
@@ -151,7 +151,7 @@ Posted by: DeepDotWeb
 </li>
 <li>the prosecution of Ross Ulbricht continued its labyrinthine convolutions as the lawyers duke it out with Bharara in pre-trial motions; some of the investigation looks quite dubious and it&#8217;s interesting that Tarbell has left the FBI for the dollar-lined pastures of private-sector computer security, but the judge doesn&#8217;t seem to be giving the defense an inch. Things look bad for him.</li>
 <li>the rest of the SR1 staff continue working out their separate fates: SSBD is being extradite, Libertas I&#8217;m not sure (last I heard he hadn&#8217;t appeared in Ireland), Chronicpain has his plea-bargain, and Cirrus seems to have continue being flipped and helped bring down SR2</li>
-<li>Digitalink, the first SR1 seller to be flipped, was <a href="https://g-i-r.github.io/deepdotweb/2014/09/08/silk-road-vendor-digitalink-sentenced-6-years-prison/" target="_blank">sentenced</a>.
+<li>Digitalink, the first SR1 seller to be flipped, was <a href="https://gir.pub/deepdotweb/2014/09/08/silk-road-vendor-digitalink-sentenced-6-years-prison/" target="_blank">sentenced</a>.
 <ul>
 <li>Digitalink probably helped bust &#8220;edgarnumbers&#8221;, whose sentencing was also in 2014 as part of the unsealing of that case</li>
 </ul>
@@ -167,15 +167,15 @@ Posted by: DeepDotWeb
 <li>A Launceston Tasmania man <a href="http://www.examiner.com.au/story/2185778/hidden-drug-site-use-increasing/" target="_blank">was busted</a>.</li>
 <li>unusually, a Japanese buyer was <a href="http://www.nationmultimedia.com/breakingnews/Japan-makes-Bitcoin-linked-drug-arrest-police-medi-30233259.html" target="_blank">arrested</a>.</li>
 <li>the &#8220;XTCExpress&#8221; members <a href="http://www.nrc.nl/nieuws/2014/05/08/rechter-geeft-online-drugsdealers-tot-vijf-jaar-cel/" target="_blank">were sentenced</a>.</li>
-<li>SuperTrip&#8217;s bust <a href="https://g-i-r.github.io/deepdotweb/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/" target="_blank">became public</a> knowledge, as well as that of his associate &#8220;<a href="https://g-i-r.github.io/deepdotweb/2014/05/13/vendor-supertrip-partner-undergroundsyndicate-plead-guilty/" target="_blank">UnderGroundSyndicat</a>e&#8221;/&#8221;BTCMaster&#8221;
+<li>SuperTrip&#8217;s bust <a href="https://gir.pub/deepdotweb/2014/04/25/dutch-man-vendor-supertrips-plead-guilty-selling-illegal-drugs-millions-shuttered-silk-road/" target="_blank">became public</a> knowledge, as well as that of his associate &#8220;<a href="https://gir.pub/deepdotweb/2014/05/13/vendor-supertrip-partner-undergroundsyndicate-plead-guilty/" target="_blank">UnderGroundSyndicat</a>e&#8221;/&#8221;BTCMaster&#8221;
 <ul>
 <li>despite a great deal of speculation, thus far it seems the Bungee54 team has <em>not</em> been arrested; they can&#8217;t be sleeping too easy though, after what happened to SuperTrips</li>
 </ul>
 </li>
 <li>Charlie Shrem and BTCKing were arrested</li>
-<li>and who can forget the entire &#8220;<a href="https://g-i-r.github.io/deepdotweb/2014/07/29/vendor-xanaxking-anti-bail-letter/" target="_blank">XanaxKing&#8221; operation</a> being rolled up and CDs down to his customers (almost 60 of them, the police claimed), and one of them being arrested thanks to Facebook?</li>
-<li><a href="https://g-i-r.github.io/deepdotweb/2014/12/19/vendor-caligirl-prison/">&#8220;CALIGIRL&#8221;</a> should still be in recent memory</li>
-<li>the late, not too lamented <a href="https://g-i-r.github.io/deepdotweb/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/">Willy.Clock</a>.</li>
+<li>and who can forget the entire &#8220;<a href="https://gir.pub/deepdotweb/2014/07/29/vendor-xanaxking-anti-bail-letter/" target="_blank">XanaxKing&#8221; operation</a> being rolled up and CDs down to his customers (almost 60 of them, the police claimed), and one of them being arrested thanks to Facebook?</li>
+<li><a href="https://gir.pub/deepdotweb/2014/12/19/vendor-caligirl-prison/">&#8220;CALIGIRL&#8221;</a> should still be in recent memory</li>
+<li>the late, not too lamented <a href="https://gir.pub/deepdotweb/2014/12/20/known-dark-net-fake-money-vendor-arrested-uganda/">Willy.Clock</a>.</li>
 <li>Markets:
 <ul>
 <li>5 arrested for Utopia</li>
@@ -187,7 +187,7 @@ Posted by: DeepDotWeb
 <p>I think this is <em>mostly</em> comprehensive: I&#8217;ve omitted cases I haven&#8217;t looked into enough, cases which sound like blackmarkets but where there was no clear confirmation, and ones reported solely by Redditors and forumites. But please post if I missed anyone.</p>
 <p><strong>Conclusion</strong></p>
 <hr />
-<p>So. We saw a flood of new markets; we saw a flood of closures, with a hefty number of scams. Market volume seems to be up compared to 2013, with Evolution+Agora+SR2 having many more listings than SR1+BMR did. Law enforcement action was nontrivial, but for the most part irrelevant. The main risks to buyers and sellers seems to be getting profiled &amp; traced back, or getting CDs, respectively. Technologically, the DNM scene remains unchanged: people continue to use Tor hidden services + centralized markets + Bitcoin, despite some attempts to use <a title="Full guide: How to access I2p sites &amp; Use TheMarketplace.i2p" href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/" target="_blank">I2P</a>, <a href="https://g-i-r.github.io/deepdotweb/multisig-guides/" target="_blank">multisig</a>, and <a title="Darkcoin Now Accepted on Minor Dark Net Markets" href="/2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" target="_blank">Darkcoin</a> /Litecoin / Dogecoin; the structural flaws of centralized markets &amp; hidden services remains, but it seems people like the convenience and are aggregatively uninterested in more complicated setups. (This makes for the easiest prediction ever about <a title="OpenBazaar: A Decentralized Alternative" href="/2014/06/23/openbazaar-a-decentralized-alternative/" target="_blank">OpenBazaar</a> or Syscoin or P2Pox: they&#8217;re not going to take off.)</p>
+<p>So. We saw a flood of new markets; we saw a flood of closures, with a hefty number of scams. Market volume seems to be up compared to 2013, with Evolution+Agora+SR2 having many more listings than SR1+BMR did. Law enforcement action was nontrivial, but for the most part irrelevant. The main risks to buyers and sellers seems to be getting profiled &amp; traced back, or getting CDs, respectively. Technologically, the DNM scene remains unchanged: people continue to use Tor hidden services + centralized markets + Bitcoin, despite some attempts to use <a title="Full guide: How to access I2p sites &amp; Use TheMarketplace.i2p" href="/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/" target="_blank">I2P</a>, <a href="https://gir.pub/deepdotweb/multisig-guides/" target="_blank">multisig</a>, and <a title="Darkcoin Now Accepted on Minor Dark Net Markets" href="/2014/10/21/darkcoin-bow-accepted-minor-dark-net-marketplaces/" target="_blank">Darkcoin</a> /Litecoin / Dogecoin; the structural flaws of centralized markets &amp; hidden services remains, but it seems people like the convenience and are aggregatively uninterested in more complicated setups. (This makes for the easiest prediction ever about <a title="OpenBazaar: A Decentralized Alternative" href="/2014/06/23/openbazaar-a-decentralized-alternative/" target="_blank">OpenBazaar</a> or Syscoin or P2Pox: they&#8217;re not going to take off.)</p>
 <p><strong>To sum up 2014: &#8220;sturm und drang, little change&#8221;!</strong></p>
 
  

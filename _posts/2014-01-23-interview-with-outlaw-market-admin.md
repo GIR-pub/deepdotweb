@@ -14,7 +14,7 @@ Posted by: DeepDotWeb
 <strong>Forum:</strong> http://outforumbpapnpqr.onion
 </div></div>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/outlawadmin.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/01/outlawadmin.png"/>
 <p><span style="text-decoration: underline;"><strong>Can you tell us a bit about Outlaw market and what distinguishes it from the other markets?</strong></span></p>
 <p>Outlaw Market was created and launched while SR 1.0 was still up. Outlaw focused on developing their own software keeping their project away from open source platforms such as bitwasp, which is the currently being used by all dark net markets and has proven to be insecure and easy to exploit.</p>
 <p>Our software prides itself for having improved security features aimed at protecting both customers as well as suppliers.</p>
@@ -44,7 +44,7 @@ Posted by: DeepDotWeb
 <p>We are open to any approach that makes escrow better and safer..!</p>
 <p>P2P sound nice, but how does it work? There must be moderation in some cases, both sides are anonymous&#8230; any escrow in Tor/Bitcoin offers trouble. P2P/Multisig sounds like a nice idea, but is it working? Nice terms, words, thought, but reality is different&#8230;</p>
 <p>The first thing: BOTH parties must agree on escrow. 90% of BIG vendors do not want any problems with not coming funds. We offer FE decision by ADMINS, not customers. When we check vendor and prove he is serious, he get&#8217;s FE and the customers can trust us, that we checked the vendors. Reputation is necessary and SR was so big, as it had a GOOD reputation. We want to get the BEST reputation on the market&#8230;.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/01/outlaw.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/01/outlaw.png" />
 
 <p><strong>Any other upcoming features?</strong></p>
 <p>Besides the mentioned above features we have many other interesting features that we hope will please the community.</p>
@@ -75,7 +75,7 @@ Posted by: DeepDotWeb
     http://outfor6jwcztwbpd.onion/index.php<br />
 <strong>Forum:</strong> http://outforumbpapnpqr.onion
 </div></div>
-<p>You can also find the site with some details at our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a></p>
+<p>You can also find the site with some details at our <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">hidden marketplace list</a></p>
 </div>
 
 Updated: 2014-01-23

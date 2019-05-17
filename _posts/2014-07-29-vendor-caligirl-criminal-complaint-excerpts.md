@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>July 29, 2014</span>
 
 <p>As it was posted in another great summary brought to you by <a href="http://www.reddit.com/user/gwern" target="_blank">Gwern</a> in <a href="http://www.reddit.com/r/DarkNetMarkets/comments/2c2i3f/caligirl_criminal_complaint_excerpts/" target="_blank">this</a> Reddit thread (you can join the discussion on reddit):</p>
-<p>To follow up on CALIGIRL, who was <a href="https://g-i-r.github.io/deepdotweb/2014/05/31/vendor-caligirl-busted-charged-illegally-selling-controlled-substances-silk-road-bitmessage/">arrested back in May</a>:</p>
+<p>To follow up on CALIGIRL, who was <a href="https://gir.pub/deepdotweb/2014/05/31/vendor-caligirl-busted-charged-illegally-selling-controlled-substances-silk-road-bitmessage/">arrested back in May</a>:</p>
 <ul>
 <li>complaint: <a href="http://www.justice.gov/usao/flm/press/2014/May/20140530_Jones_Complaint.pdf">http://www.justice.gov/usao/flm/press/2014/May/20140530_Jones_Complaint.pdf</a> (mirrors: <a href="https://pdf.yt/d/tcsNRAqsBiI6f-Yc">https://pdf.yt/d/tcsNRAqsBiI6f-Yc</a> / <a href="https://www.dropbox.com/s/76cd2ut2vmw85fj/20140530_Jones_Complaint.pdf">https://www.dropbox.com/s/76cd2ut2vmw85fj/20140530_Jones_Complaint.pdf</a> )</li>
 <li>PACER docs: <a href="https://www.dropbox.com/s/8gsxrkzuj1p3jx3/2014-07-29-pacer-caligirl.maff">https://www.dropbox.com/s/8gsxrkzuj1p3jx3/2014-07-29-pacer-caligirl.maff</a></li>

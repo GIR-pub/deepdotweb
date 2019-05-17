@@ -10,7 +10,7 @@ Posted by: DeepDotWeb
 
 <p>The Silk road saga came to an end when Ross Ulbricht, the convicted founder of Silk Road, has been sentenced to life in prison for running the underground online drug bazaar Silk Road (1), signaling the government’s seriousness in combating Dark net markets.</p>
 <p>Before the sentencing the parents of the victims of drug overdoses addressed the court. Ulbricht broke down in tears. “I never wanted that to happen,” he said. “I wish I could go back and convince myself to take a different path.”</p>
-<p><em>The Judge about <a href="https://g-i-r.github.io/deepdotweb/2015/05/30/doctorx-despicable-me/">DoctorX &amp; harm reduction</a>:</em></p>
+<p><em>The Judge about <a href="https://gir.pub/deepdotweb/2015/05/30/doctorx-despicable-me/">DoctorX &amp; harm reduction</a>:</em></p>
 <blockquote class="twitter-tweet" width="550">
 <p lang="en" dir="ltr">Judge called the harm reduction argument nonsense, called Dr. X &quot;particularly despicable&quot; and &quot;irresponsible&quot;</p>
 <p>&mdash; Patrick O&#39;Neill (@HowellONeill) <a href="https://twitter.com/HowellONeill/status/604377479332139008">May 29, 2015</a></p></blockquote>

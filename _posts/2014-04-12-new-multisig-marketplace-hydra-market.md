@@ -4,7 +4,7 @@ title: "New Multisig Marketplace: Hydra market"
 
 <span>April 12, 2014</span>
     
-<a href="https://g-i-r.github.io/deepdotweb/2014/04/12/new-multisig-marketplace-hydra-market/#comments">13 Comments</a></span>
+<a href="https://gir.pub/deepdotweb/2014/04/12/new-multisig-marketplace-hydra-market/#comments">13 Comments</a></span>
 </p>
 <p style="text-align: center;"><span style="color: #ff0000;"><strong>&gt;&gt; <a style="color: #ff0000;" href="tag/silkroad2bust/">HYDRA Market Was Seized During Operation Onymous &#8211; Learn More about Operation Onymous Here</a> &lt;&lt;</strong></span></p>
 <p>As part of our efforts to support marketplaces that are offering multisig transactions, like we did before with TMP, Blackbank market &amp; Drugslist (before the other issues) we are happy to post about this new market offering multisig transactions, and by this lowering the risk for both users and vendors, this is the instructions for using their multisig transaction system as it appears on their site, with the images included.</p>
@@ -36,7 +36,7 @@ title: "New Multisig Marketplace: Hydra market"
 </div>
 </div>
 <p><span style="text-decoration: underline;"><strong>Guide in screenshots:</strong></span></p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/04/msguide_page_001.jpg" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/04/msguide_page_001.jpg" />
 
 
 Updated: 2014-04-12

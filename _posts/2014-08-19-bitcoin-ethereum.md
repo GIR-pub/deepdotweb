@@ -4,7 +4,7 @@ title: "Bitcoin-Ethereum (Part 2)"
 
 <span>August 19, 2014</span>
 
-<p>First Part: <a href="https://g-i-r.github.io/deepdotweb/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)</a></p>
+<p>First Part: <a href="https://gir.pub/deepdotweb/2014/08/18/ethereum-making-entire-world-trustless/">Ethereum: Making the Entire World Trustless (Part 1 &#8211; Introduction)</a></p>
 <p><strong>What is Ethereum?</strong></p>
 <p>Conducting transactions through a third party means we need to assume that the third party conducts the transactions in a secure manner, however these assumptions have been proven to be false, or inconsistent, exemplified by examples such as the Mt.Gox incident.</p>
 <p>Ethereum, a “Crypto 2.0” system, is a cross between a programming language and a platform. As it’s completely open protocol, it allows developers to develop in languages that they’re familiar with.</p>

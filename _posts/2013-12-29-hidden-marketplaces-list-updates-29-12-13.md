@@ -21,7 +21,7 @@ title: "Hidden Marketplaces List updates 29.12.13"
 <li>Moved Tormarket to the Dead / Scam Markets section</li>
 </ol>
 <p>You can access our ever updating list of hidden marketplaces using the sidebar link &#8211; or this button:</p>
-<p style="text-align: center;"><a href=" https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank" class="shortc-button medium red">List of hidden Marketplaces</a>
+<p style="text-align: center;"><a href=" https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank" class="shortc-button medium red">List of hidden Marketplaces</a>
 <p><strong>Got any info you think we should add / remove or update? please let us know in the comments or using the contact us page.</strong></p>
 <p>We wish everyone a safe and happy new year!</p>
 <p>&nbsp;</p>

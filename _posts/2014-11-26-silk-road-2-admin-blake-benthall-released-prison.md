@@ -8,11 +8,11 @@ Posted by: DeepDotWeb
 
 <p><strong>Update</strong>:  According to the documents on Pacer his status is &#8220;“Detention on consent without prejudice.” (agrees to stay in jail) &amp; According to <a href="https://www.vinelink.com">Vinelink</a>,  he was transferred to an &#8220;Unknown location&#8221;, which explains the &#8220;released&#8221; part fom the BOP site:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/transffered.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/transffered.png"/>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/vine2.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/vine2.png"/>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/pacer.jpg"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/pacer.jpg"/>
 <p>So he was not released, and being held in an &#8220;Unknown location&#8221;. Thanks to Reddit user <a href="http://www.reddit.com/user/World177">World177</a> For confirming the info!</p>
 <p>========Update End============</p>
 <p><strong>**This story is not yet clear and is <span style="color: #ff0000;">not yet </span>verified or explained &#8211; we are trying to figure out what happened here &#8211; if you have any further info please <a title="Contact Us" href="contact-us/">contact us</a>**</strong></p>
@@ -23,7 +23,7 @@ Posted by: DeepDotWeb
     Race: White<br/>
     Sex: Male<br/>
     Released On: 11/21/2014</p></blockquote>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/11/blake.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/11/blake.png" />
 
 <p>According to the <a href="http://www.bop.gov/inmateloc/about_records.jsp">BOP website</a> , Released status means:</p>
 <blockquote><p>&#8220;RELEASED&#8221; means the inmate is no longer in BOP custody.</p></blockquote>

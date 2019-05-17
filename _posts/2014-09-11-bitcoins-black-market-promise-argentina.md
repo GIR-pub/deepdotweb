@@ -7,7 +7,7 @@ Posted by: Greg Miller
 
 <span>September 11, 2014</span>
     
-<a href="https://g-i-r.github.io/deepdotweb/2014/09/11/bitcoins-black-market-promise-argentina/#respond">Leave a comment</a></span>
+<a href="https://gir.pub/deepdotweb/2014/09/11/bitcoins-black-market-promise-argentina/#respond">Leave a comment</a></span>
 </p>
 <p>Argentina, is a South American country, with a very troubled financial past. The country defaults about every 10 years and their currency is constantly printed into oblivion. Argentinians have coped with its countries difficulties by looking to the black market for solutions. Argentina&#8217;s Central Bank has capital controls on the US dollar, among other currencies but that doesn&#8217;t stop a thriving financial black market from existing. These capital controls, keep dollars at an artificially low price but in the free black market Bitcoins, dollars, and euros are all bought at a premium. Argentinians buy these currencies at such a high price because they are desperate for something that can hold value against the Argentina peso. This financial black market that has become commonplace and necessary for economy to continue to run. As a result, officials turn a blind eye to such activities and let them flourish.</p>
 <p>Bitcoin has taken off at pace in Argentina, not seen else in the world. It dubbed the most likely to adopt Bitcoin by Bitcoin Market Potential Index (BMPI). Bitcoin&#8217;s digital nature allows them to move money through international boarders with ease. This allows family to send money to members aboard or to do business with people in China or the USA. These simple things, are horribly difficult for a people who&#8217;s money is next to worthless. Nobody wants to be stuck with the financial time bomb when it goes off.</p>
@@ -18,7 +18,7 @@ Posted by: Greg Miller
 <p>Traditional drug cartels have been slow to catch on to the digital ways of the deep web. The deep web, solves their problems with peaceful negotiation, unlike the drug cartels which kill their problems. Drug cartels are give themselves a monopoly, over a certain geographical area, of selling drugs in that area. You can&#8217;t do that on the deep web since it is a global marketplace, without a geographical boundaries. One of the biggest reasons, why drug cartels aren&#8217;t jumping on the deep web trend is because street dealing works and the deep web is unproven and new. The drug trade has been working more or less the same for decades, and works. They developed specialized skills and knowledge sets that allow them to be experts at that way of doing business. It would require them to learn all new kinds of skills and technology, in order to use the deep web.</p>
 <p><strong>Advantages Of Virtual Dealing</strong></p>
 <p>Virtual drug dealing is taking the drug trade into the modern age. The cost of doing business is much lower, selling online. A lot of the physical infrastructure, such as street dealers, with 1s and 0s. The biggest reason why the cost of doing business online is cheaper, is because there much less violence. Violence is very expensive. The guns, ammo, bribes, getting people who are willing to kill and people who have jobs that have a high risk of being. With the high levels of anonymity, people from all over the world – users and dealers have a much higher level of protection than in the physical drug trade. You also, have a smaller chance of getting killed yourself.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/09/bmarket2.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/09/bmarket2.png" />
 
 <p>The extra protection, service and the global nature of the marketplace makes the same drug demand a higher price when sold online, allowing for larger margins. The global marketplace opens you up to new larger costumer base than you would other wise have.</p>
 <p><strong>Argentina&#8217;s Gangs</strong></p>
@@ -27,6 +27,6 @@ Posted by: Greg Miller
 <p><strong>Bonus</strong></p>
 <p>In northern South America, Colombia has seen a big decrease in drug related violence as drug gangs have decided boarders and respected them. It is unclear how long this last but this also a great opportunity for them to expand their business without any violence. Instead of lunching urban assaults on neighboring gangs to get a bigger market share, they could instead become a deep web dealer. As with all drugs on the deep web, cocaine sells for more on the deep web, than the street. Colombia, being at the source of most of the worlds cocaine, could get it for cheap and sell it for a great mark up online.</p>
 </div>
-<a href="https://g-i-r.github.io/deepdotweb/tag/argentina/" rel="tag">argentina</a> <a href="https://g-i-r.github.io/deepdotweb/tag/black/" rel="tag">black</a> <a href="https://g-i-r.github.io/deepdotweb/tag/promise/" rel="tag">promise</a></span> 
+<a href="https://gir.pub/deepdotweb/tag/argentina/" rel="tag">argentina</a> <a href="https://gir.pub/deepdotweb/tag/black/" rel="tag">black</a> <a href="https://gir.pub/deepdotweb/tag/promise/" rel="tag">promise</a></span> 
 Updated: 2014-09-11
     

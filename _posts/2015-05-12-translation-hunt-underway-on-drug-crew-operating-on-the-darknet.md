@@ -8,7 +8,7 @@ Posted by: DeepDotWeb
 
 
 
-<p><strong>Following <a href="https://g-i-r.github.io/deepdotweb/2015/05/11/hunt-underway-on-drug-crew-operating-on-the-darknet/">this post</a> &#8211; Translation of the article by Mick van Wely (<a href="http://www.telegraaf.nl/digitaal/23950163/__Jacht_op_drugsbende_met_online_verkoop__.html">Originally published here</a>) &#8211; Sorry for any errors and thank Benjamin for the translation:</strong></p>
+<p><strong>Following <a href="https://gir.pub/deepdotweb/2015/05/11/hunt-underway-on-drug-crew-operating-on-the-darknet/">this post</a> &#8211; Translation of the article by Mick van Wely (<a href="http://www.telegraaf.nl/digitaal/23950163/__Jacht_op_drugsbende_met_online_verkoop__.html">Originally published here</a>) &#8211; Sorry for any errors and thank Benjamin for the translation:</strong></p>
 <p><b>DRACHTEN &#8211; A group of criminals which sends drugs worldwide through selling online, are chased by police after a discovery by a distribution center in Drachten (NL).</b></p>
 <p>The discovery was made last month. The police confirms that a big research is going on, but refuses to say anything else. &#8220;There is still running forensic research, amongst other investigations. We are awaiting results.&#8221;, says spokesman Marleen Hanenberg.</p>
 <p>The police came across the drug deal when ketamine and weed were intercepted in the distribution centre USP in Drachten. The anesthetic ketamine is popular as party drug.</p>

@@ -7,8 +7,8 @@ Posted by: DeepDotWeb
 <span>June 4, 2015</span>
     
 
-<p><strong>Update</strong>: At the 10th of June 2015 &#8211; <a href="https://g-i-r.github.io/deepdotweb/2015/06/10/utopia-market-developer-sentence-by-higher-courtroom-in-arnhem/">Steven was sentenced</a> to a lengthy Jail term along with 15K Euro fine, if you want to help feel free to donate to him via this address: <strong>12CogZNo4CFLZ6ViMZL5NcrwBA5svX<wbr/>i12V</strong></p>
-<p><a href="https://g-i-r.github.io/deepdotweb/?s=UTOPIA">Utopia</a> was one of the markets with <a href="https://g-i-r.github.io/deepdotweb/2014/02/11/utopia-marketplace-seized-by-dutch-police/">the shortest lifespan</a>, only one week before its founders, former staff member of BlackMarketReloaded were raided, arrested and sentenced to lengthy jail terms. Today for the first time, we are happy to publish an interview with one of the mods of BMR who was also the developer of Utopia &#8211;  Steven Ruijter AKA &#8220;CosaNostra&#8221; who was recently released after spending 1 year in prison, along with some more info from the legal documents of this case, presented here publicly for the first time.</p>
+<p><strong>Update</strong>: At the 10th of June 2015 &#8211; <a href="https://gir.pub/deepdotweb/2015/06/10/utopia-market-developer-sentence-by-higher-courtroom-in-arnhem/">Steven was sentenced</a> to a lengthy Jail term along with 15K Euro fine, if you want to help feel free to donate to him via this address: <strong>12CogZNo4CFLZ6ViMZL5NcrwBA5svX<wbr/>i12V</strong></p>
+<p><a href="https://gir.pub/deepdotweb/?s=UTOPIA">Utopia</a> was one of the markets with <a href="https://gir.pub/deepdotweb/2014/02/11/utopia-marketplace-seized-by-dutch-police/">the shortest lifespan</a>, only one week before its founders, former staff member of BlackMarketReloaded were raided, arrested and sentenced to lengthy jail terms. Today for the first time, we are happy to publish an interview with one of the mods of BMR who was also the developer of Utopia &#8211;  Steven Ruijter AKA &#8220;CosaNostra&#8221; who was recently released after spending 1 year in prison, along with some more info from the legal documents of this case, presented here publicly for the first time.</p>
 <p><span style="text-decoration: underline;">Spoiler</span>: Nobody got something even remotely close to life without parole.</p>
 <p><strong>Who are you and whats your relation to BMR / Utopia?</strong></p>
 <p>My real name is Steven Ruijter, I was a user under the nickname CosaNostra.</p>
@@ -17,13 +17,13 @@ Posted by: DeepDotWeb
     BMR was kinda smart designed on the background, to be honest there were no roles defined. A moderator is a moderator.</p>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/utopiagun.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/06/utopiagun.png">
 
-<p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="https://g-i-r.github.io/deepdotweb/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
+<p><strong>Do you have any idea what happened with Backopy (BlackMarketReloaded Admin)? Can we safely assume that the whole <a href="https://gir.pub/deepdotweb/2014/02/13/black-market-reloaded-forum-seized/">seized in Iran</a> part was fake? </strong></p>
 <p>I don&#8217;t know how backopy is doing at this moment. The judges asked me the same question, I told them he is doing fine&#8230; That&#8217;s kinda based on no thing , but i think he is really doing fine preparing for the next steps. Hope to hear from him in the future. I was jailed so didn&#8217;t notice the takedown of the BMR forum.. Why should anyone take down an discussion forum nothing going on there, but some east European country are retarded so its plausible.</p>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/mods.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/06/mods.png">
 
 <p><strong>Can you give us the full background of Utopia creation? (Why? By who, which mods? etc&#8230;) Did Backopy had any role there?</strong></p>
 <p>I and another PHP programmer were the developers of Utopia. Backopy was an admin on the utopia forum because we defined him as admin he had no role whatsoever.</p>
@@ -35,7 +35,7 @@ Posted by: DeepDotWeb
 <p>This is a very big case in the Netherlands. I was sentenced for 3 year but in higher courtroom they gave a RuudNL mod on BMR has 5 years LeContog is in the Netherlands he has 6 years. In the Netherlands they will be free in 2 years. RuudNL is almost free. So don&#8217;t be shocked by the jail times they are fictif to shock others.</p>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/rundnl.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/06/rundnl.png">
 
 <p><strong>What are you doing today?</strong></p>
 <p>I&#8217;m running a Cannabis apotheca . Only medicinal Cannabis which is high in Cannabidiol (CDD). Helping people to get rid of their symptoms were the regular medication failed.</p>
@@ -46,14 +46,14 @@ Posted by: DeepDotWeb
 <p><strong>As it shows in the document you were planning on launching a DarkNet Market called Agora&#8230;?</strong></p>
 <p>LeContog came up with that name but it was already an upcomin market.. So he decided else.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/agora12.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/06/agora12.png">
 
 <p><strong>How did they find the server?</strong></p>
 <p>There were 3 servers , they found them by Jeroen Teeninga, another programmer.  It took them 10 days to find the servers we kept our mouth shut LeContog talked to the German Recherche.</p>
 <p><strong>What was you sentenced for?</strong></p>
 <p>Me; Producing Dimethyltraptamine (*DMT), selling weapons and selling drug. Drug for own use is legal in the Netherlands.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/06/CosanostraDMT.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/06/CosanostraDMT.png">
 
 <p><strong>How did they learn about your real identity?</strong></p>
 <p>They found me by RuudNL telephone taps. They infiltrated Utopia which was not my site i just got paid for building it , i did i for the money. Only the programmers knew the server locations.</p>

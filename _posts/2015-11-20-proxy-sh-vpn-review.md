@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>November 20, 2015</span>
 
-<p>For some time now, we have been looking into performance and services of Proxy.sh VPN. Most of our readers are in need of a comprehensive review to find out whether or not this <a href="https://g-i-r.github.io/deepdotweb/vpn-comparison-chart/">VPN service provider</a> can really live up to its promises.</p>
+<p>For some time now, we have been looking into performance and services of Proxy.sh VPN. Most of our readers are in need of a comprehensive review to find out whether or not this <a href="https://gir.pub/deepdotweb/vpn-comparison-chart/">VPN service provider</a> can really live up to its promises.</p>
 <p>For this reason, we have decided to conduct a detailed review of Proxy.sh VPN services, so that you and the rest of our readers will finally have the necessary data and information that you require, in order to evaluate if their VPN services can truly fulfill your online security and privacy needs.</p>
 <p>To start the review, here are some useful details and information about their company.</p>
 <p><a href="https://proxy.sh/panel/aff.php?aff=995" target="_blank">

@@ -43,19 +43,19 @@ Posted by: DeepDotWeb
     avg. feedback: 4.9854</p>
 <p><strong>===End Quote===</strong></p>
 <p>This chart Showing the most rated vendors on Silk Road (the ones who had the most sales):</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/rated1.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/rated1.png" />
 
 <p>Top Rated Vendors (Vendors with best feedback):</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/toprated1.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/toprated1.png" />
 
 <p>Most rated items on Silk Road (best sellers):</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/best-sellers1.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/best-sellers1.png" />
 
 <p>Top Rated Items On Silk Road (Items with best feedback):</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/TopRateditems1.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/TopRateditems1.png" />
 
 <p>Oldest Vendors:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/oldestvendors1.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/oldestvendors1.png" />
 
 <p>There are pages and pages of data on this onion domain, its a very interesting insight to the most popular drugs being sold online.</p>
 

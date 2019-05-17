@@ -6,13 +6,13 @@ Posted by: DeepDotWeb
 
 <span>May 7, 2014</span>
     
-<a href="https://g-i-r.github.io/deepdotweb/2014/05/07/interview-the-life-of-an-online-drug-vendor/#comments">8 Comments</a></span>
+<a href="https://gir.pub/deepdotweb/2014/05/07/interview-the-life-of-an-online-drug-vendor/#comments">8 Comments</a></span>
 </p>
 <p>I was intrigued when i was contacted by a vendor on <a href="marketplace-directory/listing/agora-market">Agora</a> (among some others) that asked to be interviewed, although he is active on several markets, i checked his vendor page on agora which showed that he has done 200~300 sales and have rating of <span class="gen-user-ratings">4.97/5</span> in the time he is active there, as you can see here there is also a proof that he is in fact the vendor we were talking to:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/interview.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/interview.png" />
 
-<p>The products he is selling are small amounts of &#8220;Famous Classic Cocaine&#8221; And Bulk amounts of Ecstasy pills and Bulk high quality cannabis Although he claims to change the products from time to time because of availability considerations, he is what you call a <a href="https://g-i-r.github.io/deepdotweb/2014/03/02/deepdotwebs-darknet-dictionary/" target="_blank">domestic vendor</a> &#8211; not selling internationally, but only within his own country.</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/product.png" />
+<p>The products he is selling are small amounts of &#8220;Famous Classic Cocaine&#8221; And Bulk amounts of Ecstasy pills and Bulk high quality cannabis Although he claims to change the products from time to time because of availability considerations, he is what you call a <a href="https://gir.pub/deepdotweb/2014/03/02/deepdotwebs-darknet-dictionary/" target="_blank">domestic vendor</a> &#8211; not selling internationally, but only within his own country.</p>
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/product.png" />
 
 <p>So we had a long conversation which we heard some interesting insights about the life of a vendor and also quite a few tips for buyers and vendors on the various Darknetmarkets:</p>
 <p><strong>Can you tell me abit about yourself as a vendor? I just saw you are selling cocaine, weed and E on Agora And have some good ratings</strong><br />

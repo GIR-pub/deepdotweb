@@ -60,7 +60,7 @@ Posted by: DeepDotWeb
 <p><strong>Bitcoinica</strong> -Help catch whoever is responsible for the theft of tens of thousands of BTC from Bitcoinica and Zhou Tong. <b>Bounty Reward</b> Ƀ2.0000 (~$912)</p>
 <p><strong>Satoshi &amp; Roger Ver Hacker</strong> &#8211; Help catch the hacker that hacked into Satoshi Nakamoto’s and Roger Ver&#8217;s email accounts.  <b>Bounty Reward </b>Ƀ37.6000 (~$17,145)</p>
 <p><strong>Mtgox</strong> &#8211; Help catch whoever is responsible for the missing 600K BTC from Mtgox. <b>Bounty Reward </b>Ƀ2.0010 (~$912)</p>
-<p>I wonder if its possible to add all the <strong>Dark Net market scammers</strong> to this list like all the &#8220;hacked&#8221; market admins since <a href="https://g-i-r.github.io/deepdotweb/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Marketplace</a> until today?</p>
+<p>I wonder if its possible to add all the <strong>Dark Net market scammers</strong> to this list like all the &#8220;hacked&#8221; market admins since <a href="https://gir.pub/deepdotweb/2013/11/30/sheep-marketplace-scammed-over-40000000-in-the-biggets-darknet-scam-ever/">Sheep Marketplace</a> until today?</p>
 </div>
 </div>
 </div>

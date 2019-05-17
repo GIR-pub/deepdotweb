@@ -57,7 +57,7 @@ Posted by: DeepDotWeb
     -----END PGP SIGNATURE-----
 
 <p>
-    A tutorial of how to access I2P sites <a href="https://g-i-r.github.io/deepdotweb/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">can be found here.</a></p>
+    A tutorial of how to access I2P sites <a href="https://gir.pub/deepdotweb/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">can be found here.</a></p>
 
 Updated: 2015-11-01
 

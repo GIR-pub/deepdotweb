@@ -6,11 +6,11 @@ title: "Warning: Silk Road 2.0 And DPR account might be compromised!"
 <span>December 22, 2013</span>
 
 
-<p><strong><span style="text-decoration: underline;">Update 3#</span>:</strong> <span style="color: #ff0000;">Must Read &#8211; <a href="https://g-i-r.github.io/deepdotweb/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank"><span style="color: #ff0000;">The Silk Road Tales And Psy-Ops!</span></a></span></p>
-<p><span style="text-decoration: underline;"><strong>Update #2</strong>:</span> <span style="color: #000000;">Read This:  <a href="https://g-i-r.github.io/deepdotweb/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/" target="_blank"><span style="color: #000000;">WTF? The Silk Road 2.0 / DPR2 Farce Explained</span></a></span></p>
+<p><strong><span style="text-decoration: underline;">Update 3#</span>:</strong> <span style="color: #ff0000;">Must Read &#8211; <a href="https://gir.pub/deepdotweb/2013/12/24/the-silk-road-2-0-tales-psy-ops/" target="_blank"><span style="color: #ff0000;">The Silk Road Tales And Psy-Ops!</span></a></span></p>
+<p><span style="text-decoration: underline;"><strong>Update #2</strong>:</span> <span style="color: #000000;">Read This:  <a href="https://gir.pub/deepdotweb/2013/12/23/wtf-the-silk-road-2-0-dpr2-farce-explained/" target="_blank"><span style="color: #000000;">WTF? The Silk Road 2.0 / DPR2 Farce Explained</span></a></span></p>
 <p><span style="text-decoration: underline;"><strong>Update #1</strong></span>:  Its becoming more clear now, that DPR is most likely NOT compromised but either hiding or running or waiting since hes real identity is known both to Ross Ulbricht (the previous DPR) and to the arrested mods. its being assumed he is Stexo from SR1 &#8211; and due to the well known fact that hes real identity was known to Ross and the 3 arrested moderators (along with some others) &#8211; he was warned multiple times not to start Silk Road 2.0, yet he still did, putting himself on danger. we have the full details by now, we will publish them when we will have the final conclusions and after some editing as the amount of the gathered information is huge. other updated may follow.</p>
-<p><strong>Please spread this post as much as you can to inform people &amp; help them keep safe</strong> &#8211; As we have reported before about <a href="https://g-i-r.github.io/deepdotweb/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/">possible security breach in Silk road 2</a> (quoting a vendor post saying that he was presented with private communication and data from SR2.0 while he was being interrogated by LE), its starting to look like the beginning of the end of Silk road 2.0 is,  As Cirrus,  The last active forum moderator that was left after the recent arrest Of Inigo &amp; Libertas &amp; SSBD, Posted a clear warning from the site administrator Dread Pirate Robers saying that in case he will not log in for 24 hours, the marketplace should be considered compromised, DPR has not logged in for over 36 hours at the time of writing this:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/Dpr.png" />
+<p><strong>Please spread this post as much as you can to inform people &amp; help them keep safe</strong> &#8211; As we have reported before about <a href="https://gir.pub/deepdotweb/2013/12/21/silk-road-adminsmods-ssbd-libertas-inigo-arrested/">possible security breach in Silk road 2</a> (quoting a vendor post saying that he was presented with private communication and data from SR2.0 while he was being interrogated by LE), its starting to look like the beginning of the end of Silk road 2.0 is,  As Cirrus,  The last active forum moderator that was left after the recent arrest Of Inigo &amp; Libertas &amp; SSBD, Posted a clear warning from the site administrator Dread Pirate Robers saying that in case he will not log in for 24 hours, the marketplace should be considered compromised, DPR has not logged in for over 36 hours at the time of writing this:</p>
+<img src="https://gir.pub/deepdotweb/imgs/2013/12/Dpr.png" />
 
 <p>&nbsp;</p>
 <blockquote><p>All,</p>
@@ -51,16 +51,16 @@ title: "Warning: Silk Road 2.0 And DPR account might be compromised!"
 <p>Please spread this message everywhere and share with as many people as possible. I don&#8217;t know how long it will remain up.</p>
 <p>Cirrus</p></blockquote>
 <p>Cirrus also Urged everyone to log into the site and remove and Bitcoins:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/comp.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2013/12/comp.png" />
 
 <blockquote><p>Access the site here if you still have coins in the market:</p>
 <p>http://vx3w763ohd256iyh.onion/login</p></blockquote>
-<p>In Addition to this,  some reports on the forum are saying that they tried to verify DPR&#8217;s PGP key and failed to do so, we have reported before about this suspicious changed of keys in the post about <a href="https://g-i-r.github.io/deepdotweb/2013/12/20/silk-road-administrator-inigo-busted/">Inigo&#8217;s arrest</a>  &#8211;  we believe that this is a mistake originated from people trying to verify hes <strong>OLD Key</strong> rather than hes new one.</p>
+<p>In Addition to this,  some reports on the forum are saying that they tried to verify DPR&#8217;s PGP key and failed to do so, we have reported before about this suspicious changed of keys in the post about <a href="https://gir.pub/deepdotweb/2013/12/20/silk-road-administrator-inigo-busted/">Inigo&#8217;s arrest</a>  &#8211;  we believe that this is a mistake originated from people trying to verify hes <strong>OLD Key</strong> rather than hes new one.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/verify.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2013/12/verify.png"/>
 <p>It was assumed already that one of the arrested mods was actually the new Dread pirate roberts, and it was also hinted by the FBI themselves that  they believe that at least one of them was &#8220;more than just a mod&#8221; <a href="http://www.forbes.com/sites/andygreenberg/2013/12/20/feds-indict-three-more-alleged-employees-of-the-silk-roads-dread-pirate-roberts/">according to the forbes article that was published </a> By Andy Greenberg.</p>
 <p>Once again evevn before the notice from Cirrus,  the same person who posted about the arrests few days ago, posted again on Tormarket warning the users that some of the wallets are being empties (address remove) and stating some names that were also removed (this info is not verifies in any way &#8211; but the timing was suspiciously close to the post from Cirrus, so we thought we should mention it):</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2013/12/swisher.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2013/12/swisher.png" />
 
 <p>At this point we would like to urge everyone to be safe, and we will be updating this as we will have more info about new developments.</p>
 </div>

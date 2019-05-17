@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>April 30, 2014</span>
 
-<p style="text-align: center;"><span style="color: #ff0000;"><strong><a href="https://g-i-r.github.io/deepdotweb/2014/05/04/market-currently-check-sidebar/"><span style="color: #ff0000;">Check Out Our Sidebar To Know the Marketplace Uptime Status &gt;&gt;&gt;&gt;<br/>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong><a href="https://gir.pub/deepdotweb/2014/05/04/market-currently-check-sidebar/"><span style="color: #ff0000;">Check Out Our Sidebar To Know the Marketplace Uptime Status &gt;&gt;&gt;&gt;<br/>
     (Scroll Down a bit&#8230;)</span></a></strong></span></p>
 <p>We all know that one of the most annoying things about DNM&#8217;s are the unexpected downtime&#8217;s, no matter what the reason is &#8211; DDOS, Technical issue, TOR network issue, too much traffic or other unknown reasons that are not very common in the clearnet world, but are part of the DeepWeb reality.</p>
 <p>So we were happy to learn last week about a nice initiative to provide a quick overview of the marketplaces uptime status, its called DNSTATS and was introduced on this Reddit <a href="http://www.reddit.com/r/DarkNetMarkets/comments/23r08l/i_made_this/" target="_blank">thread</a>. The service provides some details about the uptime status of the various marketplaces including:</p>
@@ -21,7 +21,7 @@ Posted by: DeepDotWeb
 <p>1. Is market &#8220;x&#8221; back up yet?</p>
 <p>2. Is it down for everyone or just me?</p>
 <p>3. Which marketplaces tend to be down more than others?  (being attacked? busy?)</p>
-<p>4. For us &#8211; its a n easy way to check and clean dead markets from <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">our marketplace list</a>.</p>
+<p>4. For us &#8211; its a n easy way to check and clean dead markets from <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/" target="_blank">our marketplace list</a>.</p>
 <p>And so on&#8230; so:</p>
 <p><strong>You can find the service here:  <a href="http://dnstats.net/index.php" target="_blank">http://dnstats.net/index.php</a></strong></p>
 <p><strong>If you found it useful, consider supporting the developer by sending a donation to: <span style="color: #ff0000;">1N98rwJjwh9uyRdraYMkdgTYrSn83Hp82R </span></strong><br/>
@@ -47,12 +47,12 @@ Posted by: DeepDotWeb
 <li><del>Get some better formatting and CSS etc.</del></li>
 </ul>
 </blockquote>
-<p>Along with the previous service we were reported about &#8211; <a href="https://g-i-r.github.io/deepdotweb/2014/04/08/grams-darknetmarkets-search-engine/" target="_blank">Grams</a>, the DNM search engine, this is another service that we were expecting to and we really hope to see this one develops into a widget that we will be able to embed here fully on the site.</p>
+<p>Along with the previous service we were reported about &#8211; <a href="https://gir.pub/deepdotweb/2014/04/08/grams-darknetmarkets-search-engine/" target="_blank">Grams</a>, the DNM search engine, this is another service that we were expecting to and we really hope to see this one develops into a widget that we will be able to embed here fully on the site.</p>
 <p>Screenshots from the service:<br/>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/04/dnstat.png"/>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/04/btcfog.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/04/dnstat.png"/>
+<img src="https://gir.pub/deepdotweb/imgs/2014/04/btcfog.png" />
 
 <p>To the developer &#8211; Thanks you! great contribution.</p>
 

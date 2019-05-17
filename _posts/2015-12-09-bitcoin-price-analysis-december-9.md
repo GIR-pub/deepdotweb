@@ -6,25 +6,25 @@ Posted by: pesa_mic
 
 <span>December 9, 2015</span>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/11.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/11.jpg">
 
 <p>At the time of writing this, the price of bitcoin just broke out of the $380 &#8211; $ 390 resistance zone that has been pushing back on it this week. At $ 420 now, it is not a foregone conclusion that it has convincingly broken this level. From recent events, spike to $ 504 some weeks ago, it is not unusual for price breakouts to retract forming long wicks. So, it is wise to observe the formation of a complete candle on the 3 day and the 1 week chart for good measure.</p>
 <p>This chart shows the significance of price action now, where, the 200 EMA is currently supporting price, after the run up in November broke above it. Significant because the last time price was above it was in September 2014. As a long term moving average line, it is unlikely to break overnight, so price movement here might gradual and drag out.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/21.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/21.jpg">
 
 <p>This week (1) was mostly sideways consolidation, limited to a low of $ 358, before moving up towards $ 400 and breaking above it. The market is making higher lows and now seems intent on $ 470 &#8211; ideally the next target. At $ 470, an uptrend reversal pattern from November 5 marks a resistance level; here too i expect sideways consolidation and possibly a pull back.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/31.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/31.jpg">
 
 <p><em>“Bitcoin appears very bullish, even staying below this line the trend is up, however we could easily see if break up again and charge towards next resistance line at $460. It looks very much like bitcoin is bullish again.”</em></p>
 <p>Bullish fork extensions show where to expect resistance and support levels going up, such as $ 465 (pointed arrow). Sentiment has turned bullish again, with technical reasons to support this expectation. I will admit, the price level here is decisive, but I remain skeptical until at least $ 500.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/4.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/4.jpg">
 
 <p>My caution is informed by the first chart above I posted last month, that forecasted a drop from $ 500, a correction to find a bottom and a retrace back up to retest highs.Similarly, chart 2 also compares the pattern now to a pattern in May/July 2014. The takeaway is an expected retrace after a second top. I am keenly looking out for this, but remain open to the possibility of an invalidation and resulting higher prices.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/6.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/6.png">
 
 <p>The upside potential is exciting, as it could go up as high as $ 640, a high from May 2014. It will be exciting to watch it unfold</p>
 <p><strong>BITCOIN FUNDAMENTAL NEWS</strong></p>

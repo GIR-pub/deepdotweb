@@ -16,10 +16,10 @@ Posted by: DeepDotWeb
 <ul>
 <li>Posting on the various forums</li>
 <li>Posting on Reddit</li>
-<li>&#8220;<a href="https://g-i-r.github.io/deepdotweb/2014/03/02/deepdotwebs-darknet-dictionary/">Shill</a>&#8221; advertising</li>
-<li>Leaving positive or negative reviews on our <a href="https://g-i-r.github.io/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Markets list</a></li>
+<li>&#8220;<a href="https://gir.pub/deepdotweb/2014/03/02/deepdotwebs-darknet-dictionary/">Shill</a>&#8221; advertising</li>
+<li>Leaving positive or negative reviews on our <a href="https://gir.pub/deepdotweb/2013/10/28/updated-llist-of-hidden-marketplaces-tor-i2p/">Markets list</a></li>
 </ul>
-<p>And i am almost sure that the next thing we are about to see is SEO services (Search Engine Optimization &#8211; a service that its purpose is to make a specific listing rank higher on a search engine for a desired search query, usually on Google) on <a href="https://g-i-r.github.io/deepdotweb/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/">Grams search engine</a>.  And that&#8217;s even before Gram admin finished his much anticipated &#8220;Gramwords&#8221; advertising system that should work like Google Adwords (although different in some ways) that will allow advertisers purchase ads space automatically and set up campaigns.</p>
+<p>And i am almost sure that the next thing we are about to see is SEO services (Search Engine Optimization &#8211; a service that its purpose is to make a specific listing rank higher on a search engine for a desired search query, usually on Google) on <a href="https://gir.pub/deepdotweb/2014/05/03/interview-with-grams-search-engine-admin-exciting-features-ahead/">Grams search engine</a>.  And that&#8217;s even before Gram admin finished his much anticipated &#8220;Gramwords&#8221; advertising system that should work like Google Adwords (although different in some ways) that will allow advertisers purchase ads space automatically and set up campaigns.</p>
 <p>In addition to the above, today we have come across a new and interesting offer on the silk road forums &#8211; in this thread (http://silkroad5v7dywlc.onion/index.php?topic=40446.0;topicseen), offering promotion services for vendors, starting on the forums, and later to expand to the market itself, offering the following services that&#8217;s seems like it marks the next stage of this marketing evolution in the form of direct marketing and reviewing service in exchange for samples or fees:</p>
 <blockquote><p>Hi my name is Mr420 and we started out and still are a small group of college public relations majors. We would be interested in <strong>keeping your product, thread, or listing at the top of the forums?</strong>  We are offering our help for free, although a sample or a tip is never turned away, after all we are a small group of college girls.  Our plan is to offer <strong>free round the clock management of your thread/product</strong>. Right now this would only apply to the forum, but as we get rolling we plan to branch out and offer other services to busy vendors. Please contact me via PM, we prefer encrypted but as of now we do not require it.</p>
 <p>We have been around since the early days of The Original Silk Road.  We have been customers since then, and decided to see if we could get some vendors that would like to try our services</p>
@@ -33,7 +33,7 @@ Posted by: DeepDotWeb
 <p>Mr420<br/>
     Tips/Donations  1BSW4QD7gjfdSqh8tLJTHGkxaHbZcRfPDH</p>
 <p>Please feel free to contact me about any and all questions.</p></blockquote>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/marketing.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/marketing.png" />
 
     Obviously we cant tell if this is real or serious at all, but still its another fine example for the growing availability of marketing services in the Dark Net Markets scene, this is without a doubt an interesting insight about how &#8220;mainstream&#8221; and widespread its becoming slowely, we will of course keep following curiously, to see how this develops over time. If you have any interesting insights about this, feel free to share them with us.</p>
 

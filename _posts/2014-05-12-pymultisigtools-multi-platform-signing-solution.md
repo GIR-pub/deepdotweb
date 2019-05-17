@@ -6,11 +6,11 @@ Posted by: DeepDotWeb
 
 <span>May 12, 2014</span>
 
-<a href="https://g-i-r.github.io/deepdotweb/2014/05/12/pymultisigtools-multi-platform-signing-solution/#respond">Leave a comment</a></span>
+<a href="https://gir.pub/deepdotweb/2014/05/12/pymultisigtools-multi-platform-signing-solution/#respond">Leave a comment</a></span>
 </p>
 <div class="usertext-body may-blank-within">
 <div class="md">
-<p>In interesting development by <a class="author may-blank id-t2_e8ae2" href="http://www.reddit.com/user/owockEznan">owockEznan</a> one of the talented developers that made the <a href="https://g-i-r.github.io/deepdotweb/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">TMP plugin:</a></p>
+<p>In interesting development by <a class="author may-blank id-t2_e8ae2" href="http://www.reddit.com/user/owockEznan">owockEznan</a> one of the talented developers that made the <a href="https://gir.pub/deepdotweb/2013/12/30/full-guide-how-to-access-i2p-sites-use-themarketplace-i2p/">TMP plugin:</a></p>
 <p>Original discussion <a href="http://www.reddit.com/r/DarkNetMarkets/comments/25caoq/introducing_pymultisigtools/">here</a>.</p>
 <p><span style="text-decoration: underline;"><strong>Quote</strong></span>:</p>
 <p>For those who want to sign transactions, but don&#8217;t have bitcoin-core or the TMP Electrum plugin, I have a new, multi-platform signing solution. Right now it&#8217;s a very rough first draft, but it is capable of signing tx that are well formed, so I figured I should released it now, and deal with the nice stuff I&#8217;d like to have later.</p>

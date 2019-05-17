@@ -6,7 +6,7 @@ Posted by: pesa_mic
 
 <span>October 12, 2015</span>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/10/11.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/10/11.jpg">
 
 <p>Bitcoin was the first decentralized peer-to-peer payment network. A pandora&#8217;s box was opened and now the Bitcoin Blockchain, has inspired similar innovation in this space.</p>
 <p>Multinational banks have expressed avid interest in blockchain technology, evident from press releases, start ups, incubators and accelerators funded by them. What they want is</p>
@@ -15,7 +15,7 @@ Posted by: pesa_mic
 <p><em>“cryptographic signatures and public keys can be chain-linked to form an unforgeable record of transactions for, say, digital cash (or any ledger record for that matter). Crypto proof replaces the notary.”</em></p>
 <p><strong>Permissionless Ledgers</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/10/21.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/10/21.jpg">
 
 <p>Permissionless ledgers are all about open source and access for all. Like the internet, no consent is required from any central authority or group to on board. This feature is inbuilt as a fundamental concept in their design and is arguably their value proposition. At the heart of Bitcoin is the blockchain, a public record of every transaction that has occurred since the beginning.</p>
 <p>The public ledger, is replicated across multiple nodes (just over 6,000) in a peer- to- peer fashion across a network spanning the globe. Because it is decentralized and no single entity controls it, the integrity of of this ledger is maintained by a computationally &#8211; heavy process termed ‘proof of work’. This energy consuming process, serves a security purpose and updating the shared ledger.</p>
@@ -31,7 +31,7 @@ Posted by: pesa_mic
 <p>This has led to banks and Wall Street firms to look into permissioned ledgers &#8211; alternative distributed ledgers that check off their minimum requirements.</p>
 <p><strong>Permissioned Ledgers</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/10/31.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/10/31.jpg">
 
 <p>Permissioned ledgers take a different approach at achieving consensus and irreversibility. Security is implemented via legally binding contracts with identifiable validators who have real world identities and reputations. Validators, are contractually responsible for fulfilling a terms of services, a fundamental feature of its design.</p>
 <p>This clear governance structure, solves the perceived problems banks view of permissionless ledgers</p>

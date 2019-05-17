@@ -7,15 +7,15 @@ Posted by: pesa_mic
 <span>September 2, 2015</span>
 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/1.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/1.jpg">
 
 <p>This was price action this week &#8211; an uninspiring sideways trend with a bit of bullish intent that failed at $239. The rest of it was Meh. Since turning from bottom at $196.6, volume is visibly thin after a V-channel retracement going up till $230. The dragon-fly doji pattern at $296 vindicates the move that followed, but looks suspect after this week’s dreary sideways action. After peaking at $239, market seems to be at a major decision point and is stuck in limbo; whether to break up or down. A big move looks certain, question is where?</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/2.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/2.jpg">
 
 <p>On the 4h charts, price is attempting to change trend, but, for that to happen, it has to break moving average lines &#8211; great indicators for observing change in short, mid and long term trend. Here, $239 was a resistance by 100 day EMA line pushing back on momentum to break. It fell to find support at 30 day EMA, but failed to convincingly break above both 50d and 30d. The 2nd attempt today, also looks to have failed and price has broken below both average lines. It speaks to the strength of the market, more is required to break above, like, a sudden increase in buy volumes.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/3.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/3.jpg">
 
 <p>Simple moving averages on 12h confirm a crucial decision point coming up this week. THe 30 day SMA (blue) is supporting the price currently. It resisted a break up at $ 239 and has now turned into temporary support. Right under, there is double support at $225 (give or take). Depending on how strong this is, I wouldn’t be surprised if this moved up to $ 245.</p>
 <p><strong>BITCOIN FUNDAMENTALS</strong></p>
@@ -33,11 +33,11 @@ Posted by: pesa_mic
 <p>Traditionally, during financial market turmoil, investors flee towards assets that are perceived to be safer &#8211; gold, silver, cash and treasury bills. I expect Bitcoin to increasingly become an option as a safe asset. Despite its short term challenges &#8211; stable value, volatility swings and mainstream recognition, it has all the qualities of a safe haven asset. All it needs now, is a crisis to propel it into the limelight. The threat of capital controls, negative interest rates, loose monetary policy and a direct effort to obsolete cash by Central banks, makes a strong case for the role of Bitcoin. Tuur Demeester speaks concisely on this in this video &#8211; <a href="https://www.youtube.com/watch?v=K7LQu-eIOO0">Why You should invest in Bitcoin</a></p>
 <p><strong>BITCOIN PRICE FORECAST</strong></p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/4.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/4.jpg">
 
 <p>This week I am neutral to bullish. I expect this to be a key decision point, and a sideways trend might persist a while longer, testing low range supports up to $220, to shake off weak hands. Therefore, $213 is as far as I will consider a bullish move still play &#8211; a stop loss. Breaking below $ 213 and this forecast is invalidated. The upside target for a successful move up is $255 (Target 2). A break up from this tight range will be a buy signal for many, resulting in a thrust up.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/09/5.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/09/5.jpg">
 
 <p>The overall bearish expectations still loom, as per this chart from whaleclub.co with market currently trading in the red rectangle zone. Thus, while higher prices in the short term are probable, the larger price pattern is tending to testing sub $ 200 prices. I will discuss this real possibility in a dedicated post later this week.</p>
 

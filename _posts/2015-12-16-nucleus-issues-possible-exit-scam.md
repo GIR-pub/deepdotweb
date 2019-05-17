@@ -12,12 +12,12 @@ Posted by: DeepDotWeb
 <p><strong>#2nd Update on <strong>Nucleus</strong></strong>: &#8220;We are still investigating the problem. Server should be back online yesterday.&#8221;</p>
 <p><strong>Update on Nucleus</strong> <strong>homepage</strong>&#8211; Please hold until everything is confirmed as fixed (if at all):</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/nucleus.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/nucleus.png">
 
 <p>======End of update====</p>
-<p>During the past 24 hours we had multiple reports from vendors being locked out of their accounts on nucleus market, <a href="https://g-i-r.github.io/deepdotweb/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/">which is (or was?) the second largest market currently</a>, there reports were posted on <a href="#">such as this one</a>.  During this time buyer withdrawals seemed to be unaffected. Currently the market seems to be down:</p>
+<p>During the past 24 hours we had multiple reports from vendors being locked out of their accounts on nucleus market, <a href="https://gir.pub/deepdotweb/2015/11/16/solved-these-are-the-most-popular-dark-net-markets/">which is (or was?) the second largest market currently</a>, there reports were posted on <a href="#">such as this one</a>.  During this time buyer withdrawals seemed to be unaffected. Currently the market seems to be down:</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/12/nuc.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/12/nuc.png">
 
 <p>It is not yet clear if this is yet another (totally unsurprising) exit scam in our even growing list of exit scammers or some technical issue. We&#8217;ll be following and updating when / if we will have any new info. So far there were no reported updates from the admins.</p>
 <p>Either way, if it goes back up &#8211; you should avoid any deposits to the market until the issues with the locked out vendors are cleared.</p>

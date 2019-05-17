@@ -6,7 +6,7 @@ Posted by: Greg Miller
 
 <span>December 3, 2014</span>
     
-<a href="https://g-i-r.github.io/deepdotweb/2014/12/03/deep-web-will-continue-grow-part-2/#respond">Leave a comment</a></span>
+<a href="https://gir.pub/deepdotweb/2014/12/03/deep-web-will-continue-grow-part-2/#respond">Leave a comment</a></span>
 </p>
 <p><strong>All the parts: <a href="tag/DeepWebGrow/">#DeepWebGrow</a></strong></p>
 <p>The deep web success can&#8217;t be solely attributed to the deep web itself. The mainstream press, as well as former clearnet entrepreneurs, have been a big reason why it grew and why it will continue to grow. The combination of this, as well as what I mention in part 1 (put a link to part 1 here), has result in a positive feedback loop that will not be slowing down anytime soon.</p>

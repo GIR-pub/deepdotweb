@@ -7,7 +7,7 @@ Posted by: DeepDotWeb
 <span>February 16, 2014</span>
 
 <p><strong>Update 2</strong>: <span style="color: #ff0000;"><a title="Permalink to Alleged Silk Road 2.0 Hacker Doxxed!?" href="2014/02/18/alleged-silk-road-2-0-hacker-doxxed/" rel="bookmark"><span style="color: #ff0000;">Alleged Silk Road 2.0 Hacker Doxxed!?</span></a></span></p>
-<p><strong>Update</strong>: <span style="color: #000000;"><a href="https://g-i-r.github.io/deepdotweb/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
+<p><strong>Update</strong>: <span style="color: #000000;"><a href="https://gir.pub/deepdotweb/2014/02/16/defcons-latest-post-we-will-repay-the-stolen-funds/"><span style="color: #000000;">Defcon&#8217;s Latest post: We Will Repay The Stolen Funds</span></a></span></p>
 <p>Defcon, The Current Silk Road 2.0 admin just released a news statement, the first on to come since the site was allegedly hacked, you chose what you want to believe:</p>
 <p>It seems a bit too late to be addressing most of these issues now, but this post offers some explanations for some of the technical aspects users have been wondering about, we shall wait and if this post will clear some of the latest suspicions  about this whole &#8220;hack&#8221; thing being actually one big scam from the admins. this drama is not over by a long shot.</p>
 <p><strong>==Start Quote===</strong></p>
@@ -56,10 +56,10 @@ Posted by: DeepDotWeb
 <p><strong>===End Quote===</strong></p>
 <p>The community seems to a bit hesitant to believe what he says, for a good reason, but at the same time would like to hold any shred of hope that things will get better for silk road 2.0, as far as i see it now, there is no real need to comment about it until the admins will show some real progress with creating a stable market using multi-sig escrow system (at least)</p>
 <p>When he was asked some more questions he offered further explanations:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/defcon2.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/defcon2.png" />
 
 <p>He even went con claiming the marketplace should be operational again in the next few days:</p>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/02/defcon3.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/02/defcon3.png" />
 
 <p>Needless to say that most users are not convinced at this point.</p>
 <p>We Wish all parties involved good luck, and future safe conduct.</p>

@@ -6,7 +6,7 @@ Posted by: DeepDotWeb
 
 <span>May 28, 2014</span>
 
-<p>The latest announcement from Defcon, the silk road admin, letting the world know that following the hack that happened few months ago, and the bitcoins that were stolen in the amount of around <a href="https://g-i-r.github.io/deepdotweb/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">2.7$ million</a>, the have now repaid 82% out of all the stolen funds, and will pay the rest in about 30 days, this is the announcement from Defcon as it appeared on the forums (http://silkroad5v7dywlc.onion/index.php?topic=41683.0;topicseen):</p>
+<p>The latest announcement from Defcon, the silk road admin, letting the world know that following the hack that happened few months ago, and the bitcoins that were stolen in the amount of around <a href="https://gir.pub/deepdotweb/2014/02/13/silk-road-2-hacked-bitcoins-stolen-unknown-amount/">2.7$ million</a>, the have now repaid 82% out of all the stolen funds, and will pay the rest in about 30 days, this is the announcement from Defcon as it appeared on the forums (http://silkroad5v7dywlc.onion/index.php?topic=41683.0;topicseen):</p>
 <blockquote><p>Community,</p>
 <p>We are almost there.</p>
 <p>In less than thirty days I will be drafting an unprecedented announcement that your resilience made possible: the announcement that Silk Road has repaid all victims of our February hack.</p>
@@ -44,7 +44,7 @@ Posted by: DeepDotWeb
 <p>On behalf of all users who lost funds in the attack: Thank you, recent buyers. Thank you, active vendors. Your good karma will surely bring you fortune in the months to come.</p>
 <p>Silk Road will always rise again due to your resilience. It is an honor to serve you.</p>
 <p>Defcon</p></blockquote>
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2014/05/defc.png" />
+<img src="https://gir.pub/deepdotweb/imgs/2014/05/defc.png" />
 
 <p>This announcement followed few previous announcements from Defcon about repaying 13% &#8211; 50% of the stolen funds.</p>
 <p>Although we were looking hard, we never had a single solid testimony from a large vendor, or a known buyer who lost substantial amounts of money in the so called hack telling us he was repaid, most of the testimonies were from unknown users telling about small amount of BTC repaid to them, so this information is pretty hard to confirm. We do hope that everyone will get their money back of course.</p>

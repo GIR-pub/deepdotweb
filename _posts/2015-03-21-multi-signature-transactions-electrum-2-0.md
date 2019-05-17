@@ -16,41 +16,41 @@ Posted by: DeepDotWeb
 <li>Run Electrum.</li>
 <li>Select Create New Wallet and multi-signature wallet, then proceed. If you already have a default wallet, File&gt;New/Restore. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/rY1ld7W1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/rY1ld7W1.png">
 
 <li>Select 2 of 3 on next screen, then proceed. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/07fuv1S1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/07fuv1S1.png">
 
 <li>You will find your seed generated. Copy it to your clipboard and a text file then #fuckingwriteitdown. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/JBtMEuC1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/JBtMEuC1.png">
 
 <li>click next, then paste that same seed onto the next screen. Hit next. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/P4vtfDy1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/P4vtfDy1.png">
 
 <li>Create a password. Don&#8217;t skip this step, the password is required to keep your end secure and release funds. Click next. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/uagOa7k1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/uagOa7k1.png">
 
 <li>Copy your master public key, and share it with the market and vendor. <strong>Take care not to share your seed or password.</strong></li>
 <li>Gather the two master public keys, one from the market, one from the vendor. Paste them each, order doesn&#8217;t matter. Next. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/9.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/9.png">
 
 <li>&#8220;Select Server Manually&#8221;, then config to route through Tor. Tor Browser Bundle must be running for this to work. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/LLlq6l31.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/LLlq6l31.png">
 
 <li>SSL, SOCKS5, localhost, port 9050</li>
 <li>Light in bottom right corner will turn from red to green when connected. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/icGh48S1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/icGh48S1.png">
 
 <li>On the receive tab, note that all the addresses start with 3, instead of one. This signifies they are indeed multisig addresses. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/XSi87T61.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/XSi87T61.png">
 
 <li>You are responsible for funding the correct amount of bitcoins to an address on this wallet. <strong>Remember, any funds transfered there can&#8217;t be transfered back without without 2 of 3 consensus.</strong> Be careful to send the correct amount. After this is done, your work is done until it&#8217;s time to finalize the transaction (which you will do in a timely manner, as you are not a little bitch).</li>
 </ol>
@@ -78,19 +78,19 @@ Posted by: DeepDotWeb
 <li>Click the send tab</li>
 <li>enter correct address, and amount, then click send. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tF6Q5UU1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/tF6Q5UU1.png">
 
 <li>Agree to the fee. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/SYpij6f1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/SYpij6f1.png">
 
 <li>Provide your password. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/ThOmmBj1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/ThOmmBj1.png">
 
 <li>save the file. repeat for each transaction, ideally the markets small share first. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tly8Pn31.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/tly8Pn31.png">
 
 <li>Open the files in a text editor, and share on the markets message system.</li>
 <li>Wait to get paid once the buyer receives their package.</li>
@@ -100,15 +100,15 @@ Posted by: DeepDotWeb
 <li>Open the correct multisig wallet. Nothing will work unless you are in the right wallet.</li>
 <li>Tools&gt;Load Transaction&gt;From Text 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/tCisnTX1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/tCisnTX1.png">
 
 <li>Copy paste each transaction (one at a time), starting with paying the market first. 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/ev3g9ml1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/ev3g9ml1.png">
 
 <li>It should load up a small window, giving signing as an option. <strong>Make sure all the details look correct before you sign!!!!!!!!</strong> 
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/03/DnbCZLN1.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/03/DnbCZLN1.png">
 
 <li>Repeat for vendors transaction.</li>
 <li>Congratulations! The transaction is complete!</li>

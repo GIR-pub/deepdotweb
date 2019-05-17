@@ -12,7 +12,7 @@ Posted by: DeepDotWeb
 <p><strong>Full article</strong>: <a href="http://www.reuters.com/article/2015/03/13/us-usa-bitcoin-silkroad-idUSKBN0M92G820150313">http://www.reuters.com/article/2015/03/13/us-usa-bitcoin-silkroad-idUSKBN0M92G820150313</a></p>
 <div class="usertext-body may-blank-within md-container">
 <div class="md">
-<p><a href="https://g-i-r.github.io/deepdotweb/?s=Gary+Davis">Gary Davis</a> (&#8220;Libertas&#8221; &#8211; The other Silk Road Mod who was arrested in Ireland) posted a comment from his Facebook in another article posted on USAtoday article regarding the SSBD trial hearing:</p>
+<p><a href="https://gir.pub/deepdotweb/?s=Gary+Davis">Gary Davis</a> (&#8220;Libertas&#8221; &#8211; The other Silk Road Mod who was arrested in Ireland) posted a comment from his Facebook in another article posted on USAtoday article regarding the SSBD trial hearing:</p>
 <p><strong>SOURCE</strong>: <a href="http://www.usatoday.com/story/money/2015/03/13/silk-road-suspect-pleads-guilty/70273074/">http://www.usatoday.com/story/money/2015/03/13/silk-road-suspect-pleads-guilty/70273074/</a></p>
 <p><em>Comments:</em></p>
 <blockquote><p>Gary Davis Please advise Mr. Serrin Turner that I am not &#8220;in custody in Ireland, awaiting extradition to the U.S. for prosecution&#8221;.</p>

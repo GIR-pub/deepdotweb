@@ -12,7 +12,7 @@ Or: deepdot@protonmail.ch
 
 Jabber: deepdotweb@jabbim.com
 
-* [DeepDotWeb PGP Key](g-i-r.github.io/deepdotweb/deepdotweb-pgp-key/)
+* [DeepDotWeb PGP Key](gir.pub/deepdotweb/deepdotweb-pgp-key/)
 * [web.archive.org - DeepDotWeb PGP Key](https://web.archive.org/web/20190212015104/https://www.deepdotweb.com/our-pgp-key/)
 
 ---

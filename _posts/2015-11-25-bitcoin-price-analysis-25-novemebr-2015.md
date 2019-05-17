@@ -10,16 +10,16 @@ Posted by: pesa_mic
 
     
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/12.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/11/12.jpg">
 
 <p>Since the 1 year high at $504 on November 4, price has been on a decline, surprising many who expecting an aggressive bull run, however. Corrections are part of market cycles, and necessary, like the current price action.</p>
 <p>The past 3 weeks have been a correction of the parabolic move up from $ 240. (3)(4) was a flat sideways level after a breakdown, moving sideways for some days before breaking down again to (1) at $ 300 &#8211; a significant support level. Testing this level and holding, forced price sideways, in a triangular fashion while still respecting this level. It closely resembles the triangle at (3) (4), only differing in its magnitude. Price is now at $ 321, as it converges towards a tipping point. Will this triangle break up or down?</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/21.png">
+<img src="https://gir.pub/deepdotweb/imgs/2015/11/21.png">
 
 <p>This support level is solid, telling from multiple attempts to break it over the whole of 2015. Bitcoin charts have plenty of triangle patterns that are known to be terminal &#8211; including this one, it only is a matter of time before a decisive direction. $300 as a firm base may force price to rebound back up. Perhaps,another attempt at reinvigorating bullish sentiment.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/32.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/11/32.jpg">
 
 <p>Highlighted is how significant this zone is &#8211; flanked by 23% fib level (from $1173 peak and $ 152 low) and support at $ 300.</p>
 <p><strong>IMF’s Special Drawing Rights on Blockchain?</strong></p>
@@ -38,7 +38,7 @@ Posted by: pesa_mic
 <p><strong>Bitcoin Weekly Price Forecast</strong></p>
 <p>This week I am neutral to bullish. I am expecting a rebound to have another go at $400. Going up, $ 350 is a resistance level to be broken if indeed higher prices are expected. Therefore, watch $ 350 on a move up.</p>
 
-<img src="https://G-I-R.github.io/deepdotweb/imgs/2015/11/42.jpg">
+<img src="https://gir.pub/deepdotweb/imgs/2015/11/42.jpg">
 
 <p>A dip to $ 300 is probable first, to shake off weak hands, and find a strong firm level for a bounce. It could go down to $280. This is the make or break level, if $ 280 fails to hold, then a massive sell off will send the market down to low 200s.</p>
 <p><em>“I maintain my earlier speculation that trading above 300 will be relatively easy, My forecast calls for more volatile, a wider spread, and tones of confusion. I think the trading range is pretty clearly spelled out, 300 is bottom 500 is top.”</em></p>

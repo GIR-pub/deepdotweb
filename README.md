@@ -6,8 +6,8 @@
 ![](/free_ross.jpg)
 
 
-**Archive: Privacy Guides, and History from DeepDotWeb.**
 
+**Archive: Privacy Guides, and History from DeepDotWeb.**
 
 
 I was broken-hearted when I found out that deepdotweb got seized.
@@ -20,10 +20,11 @@ However, its clear that governments use the drug war to suppress their populous 
 
 I certainly don't have any problem with the use of the markets, in fact I think they are great, when successful. I simply don't have any personal use for them, and am not trying to get caught up in all of that.
 
+![](https://imgur.com/T7QpFTM.png)
 
-## Why Did I Build This Archive?
+## Why am I Building This Archive?
 
-Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://g-i-r.github.io/deepdotweb/), which begs the question: Why did I build this archive?
+Of course you can still visit [DeepDotWeb at the Internet Archive](https://web.archive.org/web/20190228074725/https://www.deepdotweb.com/), which begs the question: Why build this archive?
 
 A few reasons.
 
@@ -34,10 +35,12 @@ A few reasons.
 
 Though I'm grateful for the internet archive, I thought I could do something nice with [Jekyll and Github Pages](https://infominer.id/web-work/github-pages-starter-pack/). 
 
-![](/deepdotweb-seized.png)
+* [WiReD: FEDS DISMANTLED THE DARK-WEB DRUG TRADE—BUT IT'S ALREADY REBUILDING](https://www.wired.com/story/dark-web-drug-takedowns-deepdotweb-rebound/)
+* [DeepDotWeb Dark web resource dies with FBI seizure](https://www.zdnet.com/article/deepdotweb-dies-with-fbi-seizure/)
 
+![](https://gir.pub/deepdotweb/deepdotweb-seized.png)
 
-## How I Created this Archive
+## How am I building this Archive?
 
 [Download a Website from the Archive.org Wayback Machine](https://superuser.com/questions/828907/how-to-download-a-website-from-the-archive-org-wayback-machine)
 
@@ -86,4 +89,4 @@ However, once everything it set up, changing themes can be relatively trival.
 This was another reason I was concerned that I shouldn't leave it up to the Internet Archive to protect our ability to learn best practicees for privacy online.
 
 
-![](https://imgur.com/T7QpFTM.png)
+![](https://gir.pub/deepdotweb/free_ross.jpg)
