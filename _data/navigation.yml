@@ -16,7 +16,7 @@ main:
     url: /how-to-access-onion-sites/
 
 pagenav:
-  - title: DeepDotArchive
+  - title: Pages
     children:
       - title: "• How to Access Onion Sites"
         url: "/how-to-access-onion-sites/"
