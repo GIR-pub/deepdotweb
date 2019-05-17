@@ -315,7 +315,6 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      toc: true
       classes: wide
       related: true
       sidebar:
