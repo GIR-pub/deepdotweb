@@ -16,7 +16,7 @@ main:
     url: /how-to-access-onion-sites/
 
 pagenav:
-  - title: Pages
+  - title: "DeepDot-Archive"
     children:
       - title: "• How to Access Onion Sites"
         url: "/how-to-access-onion-sites/"
@@ -48,6 +48,8 @@ pagenav:
         url: "/contact-us/"
       - title: "• Seized"
         url: "/seized/"
+  - title: "Year Archive"
+    nav: blognav
 
 secnav:
   - title: "Security Tutorials"
